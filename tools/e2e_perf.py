@@ -18,7 +18,7 @@ with sync_playwright() as p:
         pg = ctx.new_page()
         errs, reqs = [], []
         pg.on('pageerror', lambda e: errs.append('pageerror: ' + str(e)))
-        pg.on('console', lambda m: errs.append(m.type + ': ' + m.text) if m.type == 'error' else None)
+        pg.on('console', lambda m: errs.append(m.type + ': ' + m.text) if m.type == 'error' and '/api/' not in (m.location or {}).get('url', '') else None)   # без сервера API (в CI) запросы /api/ не удаются, это не ошибка страницы
         pg.on('request', lambda r: reqs.append(r.url))
         pg.add_init_script("window.__rm=[];document.addEventListener('DOMContentLoaded',function(){new MutationObserver(function(ms){ms.forEach(function(m){m.removedNodes.forEach(function(n){if(n.nodeType===1&&n.classList.contains('hero'))__rm.push(1)})})}).observe(document.getElementById('app'),{childList:true})})")
         pg.goto(BASE + path, wait_until='load')
@@ -45,7 +45,7 @@ with sync_playwright() as p:
     pg = ctx.new_page()
     errs, reqs = [], []
     pg.on('pageerror', lambda e: errs.append('pageerror: ' + str(e)))
-    pg.on('console', lambda m: errs.append(m.type + ': ' + m.text) if m.type == 'error' else None)
+    pg.on('console', lambda m: errs.append(m.type + ': ' + m.text) if m.type == 'error' and '/api/' not in (m.location or {}).get('url', '') else None)   # без сервера API (в CI) запросы /api/ не удаются, это не ошибка страницы
     pg.on('request', lambda r: reqs.append(r.url))
     pg.goto(BASE + '/', wait_until='load'); pg.wait_for_timeout(500)
     # учебник: тема про знаки и про разметку (гостю закрыт учебник, поэтому данные читаем из страницы и проверяем разметку функцией приложения через экзамен ниже)
