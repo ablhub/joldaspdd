@@ -35,6 +35,7 @@ jobs:
           KEY: ${{ secrets.RELEASE_SIGNING_KEY }}
         run: |
           test -n "$KEY" || { echo "::error::Нет секрета RELEASE_SIGNING_KEY, инструкция в docs/DEPLOY.md"; exit 1; }
+          node tools/release_key.js --check
       - name: Зависимости
         run: |
           npm ci --prefix server

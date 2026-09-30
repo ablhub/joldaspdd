@@ -12,6 +12,7 @@ const path = require('path');
 const crypto = require('crypto');
 const os = require('os');
 const zlib = require('zlib');
+const { loadPrivateKey } = require('./release_key');
 const { execFileSync } = require('child_process');
 
 const ROOT = path.join(__dirname, '..');
@@ -22,7 +23,7 @@ const TMP = path.join(os.tmpdir(), 'joldas-release-build');
 // 1. ключ подписи релизов (секретная часть хранится только у владельца: в секретах GitHub или в защищенном каталоге)
 let priv = null, pubPem = null;
 if (process.env.RELEASE_KEY_PEM) {
-  priv = crypto.createPrivateKey(process.env.RELEASE_KEY_PEM);
+  priv = loadPrivateKey(process.env.RELEASE_KEY_PEM);
   pubPem = crypto.createPublicKey(priv).export({ type: 'spki', format: 'pem' });
 } else {
   const keyFile = path.join(KEYDIR, 'release.key'), pubFile = path.join(KEYDIR, 'release.pub');
