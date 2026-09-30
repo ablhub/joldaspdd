@@ -1,18 +1,29 @@
 name: Release
-# Выпуск релиза: git tag v2026.10.01 && git push origin v2026.10.01
-# Сборка подписывается ключом из секрета RELEASE_SIGNING_KEY (см. docs/DEPLOY.md). Файл joldas-release.signed прикрепляется к релизу GitHub,
-# а в админке сайта кнопка «Обновить с GitHub» скачивает его и устанавливает (сервер проверяет подпись).
+# Автоматический выпуск: после зеленого CI на ветке main собирается подписанный релиз и публикуется на GitHub
+# с тегом v<версия сборки>. Сервер сам раз в 10 минут проверяет последний релиз и ставит его, если версия новее
+# (админка, Настройки, Автообновление; репозиторий должен быть публичным). Подпись ставится ключом из секрета RELEASE_SIGNING_KEY, см. docs/DEPLOY.md.
+# Ручной запуск (Actions, Release, Run workflow) собирает релиз с выбранной ветки без ожидания CI.
 on:
-  push:
-    tags: ['v*']
+  workflow_run:
+    workflows: [CI]
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: release
+  cancel-in-progress: false
 jobs:
   release:
+    # только результаты push в main: запуски из форков и pull request релиз не выпускают
+    if: github.event_name == 'workflow_dispatch' || (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.event == 'push')
     runs-on: ubuntu-24.04
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
       - uses: actions/setup-node@v4
         with:
           node-version: 22
@@ -36,7 +47,11 @@ jobs:
       - name: Публикация релиза
         env:
           GH_TOKEN: ${{ github.token }}
+          SHA: ${{ github.event.workflow_run.head_sha || github.sha }}
         run: |
-          gh release create "$GITHUB_REF_NAME" release-out/joldas-release.signed \
-            --title "$GITHUB_REF_NAME" \
-            --notes "Подписанный релиз сайта. Установка: админка, Настройки, Обновление сайта, кнопка «Обновить с GitHub»."
+          VERSION=$(cat release-out/VERSION)
+          TAG="v$VERSION"
+          gh release create "$TAG" release-out/joldas-release.signed \
+            --target "$SHA" --latest \
+            --title "$VERSION" \
+            --notes "Подписанный релиз сайта $VERSION. Сервер установит его сам при очередной проверке (раз в 10 минут). Вручную: админка, Настройки, Обновление сайта."

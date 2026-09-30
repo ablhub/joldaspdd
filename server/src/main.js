@@ -97,6 +97,7 @@ async function start() {
   if (process.env.MIGRATE_ON_START !== '0') await migrate();
   server.listen(PORT, HOST, () => console.log('joldas-api ' + VERSION + ' listening on ' + HOST + ':' + PORT));
   setInterval(cleanup, 6 * 3600e3).unref();
+  adminApi.startAutoUpdate();
 }
 function stop() { server.close(() => pool.end().then(() => process.exit(0))); setTimeout(() => process.exit(0), 5000).unref(); }
 process.on('SIGTERM', stop);

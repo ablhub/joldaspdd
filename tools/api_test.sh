@@ -9,6 +9,7 @@ rm -rf /tmp/jtest && mkdir -p /tmp/jtest/var/incoming /tmp/jtest/backups /tmp/jt
 for l in ru kk en; do d=/tmp/jtest/public; [ $l = ru ] || d=$d/$l; printf '<!doctype html>\n<html lang="%s"><title>%s</title></html>\n' $l $l > $d/index.html; done
 export DATABASE_URL="postgres://postgres@localhost/$DB?host=/tmp&port=55432"
 export GITHUB_BASE=http://127.0.0.1:3199 GITHUB_PORT=3199
+export JOLDAS_VERSION=2026.09.30-1807-67b52af AUTO_UPDATE=0   # версия для проверки автообновления; фоновая проверка выключена, проверяем кнопкой
 export PORT=3100 JOLDAS_VAR=/tmp/jtest/var BACKUP_DIR=/tmp/jtest/backups PUBLIC_IP=203.0.113.7 SKIP_DNS_CHECK=1 NODE_ENV=development PUBLIC_DIR=/tmp/jtest/public
 node src/main.js > /tmp/jtest/api.log 2>&1 &
 PID=$!

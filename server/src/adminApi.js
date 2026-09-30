@@ -19,6 +19,7 @@ const PUBLIC_IP = process.env.PUBLIC_IP || '';
 const DEV = process.env.NODE_ENV !== 'production';
 let VERSION = 'dev';
 try { VERSION = fs.readFileSync(path.join(__dirname, '..', '..', 'VERSION'), 'utf8').trim(); } catch (_) { /* dev */ }
+if (process.env.JOLDAS_VERSION) VERSION = process.env.JOLDAS_VERSION;   // только для тестов
 
 async function getKv(key) { const { rows } = await pool.query('select value from admin_kv where key = $1', [key]); return rows.length ? rows[0].value : null; }
 async function setKv(key, value) { await pool.query('insert into admin_kv (key, value) values ($1, $2) on conflict (key) do update set value = excluded.value, updated_at = now()', [key, value]); }
@@ -440,12 +441,103 @@ function ghFetch(url, hops) {
 async function deployGithub(req, res) {
   await mutate(req);
   const b = await readJson(req);
-  const repo = String((b && b.repo) || GH_REPO).trim();
+  const repo = String((b && b.repo) || autoRead().repo).trim();
   if (!/^[A-Za-z0-9][A-Za-z0-9_.-]{0,99}\/[A-Za-z0-9][A-Za-z0-9_.-]{0,99}$/.test(repo)) throw new HttpError(400, 'Репозиторий укажите в виде владелец/название, например ablhub/joldaspdd');
   const buf = await ghFetch(GH_BASE + '/' + repo + '/releases/latest/download/joldas-release.signed', 0);
   checkSigned(buf);
   const q = await queueRelease(buf, { source: 'github', repo });
   return json(res, 202, { ok: true, queued: q.name, sha256: q.digest, repo });
+}
+/* автообновление: сервер сам раз в AUTO_UPDATE_MINUTES минут смотрит, какой релиз на GitHub последний (адрес /releases/latest перенаправляет на тег),
+   и ставит его, если версия новее установленной. Тег релиза = v<версия сборки> (его создает workflow «Release» после зеленого CI).
+   Новее считаем по дате и времени сборки в версии, поэтому старый релиз не откатит сайт назад. Подпись, как и везде, проверяет root перед установкой. */
+const AUTO_FILE = path.join(VAR, 'auto-update.json');
+const AUTO_MIN = Math.max(1, Number(process.env.AUTO_UPDATE_MINUTES) || 10);
+const TAG_RE = /^v(\d{4}\.\d{2}\.\d{2}-\d{4}-[0-9a-f]{7})$/;
+const REPO_RE = /^[A-Za-z0-9][A-Za-z0-9_.-]{0,99}\/[A-Za-z0-9][A-Za-z0-9_.-]{0,99}$/;
+let autoBusy = false;
+function autoRead() {
+  let s = {};
+  try { s = JSON.parse(fs.readFileSync(AUTO_FILE, 'utf8')); } catch (_) { /* файла еще нет */ }
+  const custom = REPO_RE.test(s.repo || '') ? s.repo : '';   // репозиторий, выбранный вручную; иначе берется GITHUB_REPO из окружения сервера
+  return { enabled: s.enabled === undefined ? process.env.AUTO_UPDATE !== '0' : !!s.enabled, repo: custom || GH_REPO, custom,
+    lastCheck: s.lastCheck || 0, lastResult: s.lastResult || '', lastError: s.lastError || '', lastTag: s.lastTag || '', lastQueuedTag: s.lastQueuedTag || '' };
+}
+function autoWrite(s) {
+  try { fs.mkdirSync(VAR, { recursive: true }); fs.writeFileSync(AUTO_FILE + '.tmp', JSON.stringify(Object.assign({}, s, { repo: s.custom || undefined, custom: undefined }))); fs.renameSync(AUTO_FILE + '.tmp', AUTO_FILE); } catch (e) { console.error('auto-update:', e.message); }
+}
+/* последний релиз репозитория: читаем адрес перенаправления со страницы /releases/latest, сам файл при этом не качаем */
+function ghLatestTag(repo) {
+  return new Promise((resolve, reject) => {
+    const u = new URL(GH_BASE + '/' + repo + '/releases/latest');
+    const custom = !!process.env.GITHUB_BASE;
+    if (!custom && (u.protocol !== 'https:' || u.hostname !== 'github.com')) return reject(new Error('разрешен только github.com'));
+    const lib = u.protocol === 'http:' ? require('http') : require('https');
+    const rq = lib.get(u, { headers: { 'User-Agent': 'joldas-updater' }, timeout: 30000 }, (r) => {
+      r.resume();
+      if (r.statusCode === 404) return resolve({ tag: '', note: 'Релизов не видно: репозиторий приватный или релиз еще не опубликован' });
+      if (![301, 302, 303, 307, 308].includes(r.statusCode) || !r.headers.location) return reject(new Error('GitHub ответил кодом ' + r.statusCode));
+      const m = /\/releases\/tag\/([^/?#]+)$/.exec(String(r.headers.location).split('?')[0]);
+      let t = '';
+      try { t = m ? decodeURIComponent(m[1]) : ''; } catch (_) { /* битый тег: считаем, что релиза нет */ }
+      resolve(t ? { tag: t } : { tag: '', note: 'В репозитории нет опубликованных релизов' });
+    });
+    rq.on('timeout', () => { rq.destroy(); reject(new Error('GitHub не ответил за 30 секунд')); });
+    rq.on('error', (e) => reject(e));
+  });
+}
+const buildStamp = (v) => String(v).slice(0, 15);   // ГГГГ.ММ.ДД-ЧЧММ
+function installerBusy() {
+  try { if (fs.readdirSync(path.join(VAR, 'incoming')).some((f) => /\.signed$/.test(f))) return true; } catch (_) { /* нет очереди */ }
+  try { const x = JSON.parse(fs.readFileSync(DEPLOY_STATUS, 'utf8')); if (x.state === 'running' && Date.now() - (x.at || 0) < 15 * 60e3) return true; } catch (_) { /* нет файла */ }
+  return false;
+}
+async function autoCheck(force) {
+  const st = autoRead();
+  if (!force && !st.enabled) return st;
+  if (autoBusy) return st;
+  autoBusy = true;
+  try {
+    st.lastCheck = Date.now(); st.lastError = '';
+    if (installerBusy()) { st.lastResult = 'busy'; return st; }
+    const { tag, note } = await ghLatestTag(st.repo);
+    st.lastTag = tag;
+    const m = TAG_RE.exec(tag);
+    if (!tag) { st.lastResult = 'no-release'; st.lastError = note || ''; }
+    else if (!m) { st.lastResult = 'skip'; st.lastError = 'Тег ' + tag + ' не в формате версии сборки (vГГГГ.ММ.ДД-ЧЧММ-хеш), пропускаю'; }
+    else if (VERSION !== 'dev' && buildStamp(m[1]) <= buildStamp(VERSION)) st.lastResult = 'up-to-date';
+    else if (!force && tag === st.lastQueuedTag) { st.lastResult = 'failed-before'; st.lastError = 'Версия ' + m[1] + ' уже отправлялась на установку, но не встала. Жду новый релиз'; }
+    else {
+      const buf = await ghFetch(GH_BASE + '/' + st.repo + '/releases/download/' + encodeURIComponent(tag) + '/joldas-release.signed', 0);
+      checkSigned(buf);
+      await queueRelease(buf, { source: 'github-auto', repo: st.repo, tag });
+      st.lastQueuedTag = tag; st.lastResult = 'queued';
+    }
+  } catch (e) { st.lastResult = 'error'; st.lastError = (e && e.message) || String(e); }
+  finally { autoBusy = false; autoWrite(st); }
+  return st;
+}
+function startAutoUpdate() {
+  const first = setTimeout(() => autoCheck(false).catch(() => {}), Number(process.env.AUTO_UPDATE_FIRST_MS) || 90000);
+  first.unref();
+  setInterval(() => autoCheck(false).catch(() => {}), AUTO_MIN * 60e3).unref();
+}
+const autoView = (s) => ({ enabled: s.enabled, repo: s.repo, everyMinutes: AUTO_MIN, lastCheck: s.lastCheck, lastResult: s.lastResult, lastError: s.lastError, lastTag: s.lastTag, version: VERSION });
+async function autoGet(req, res) { await authAdmin(req); return json(res, 200, autoView(autoRead())); }
+async function autoSet(req, res) {
+  await mutate(req);
+  const b = (await readJson(req)) || {};
+  const st = autoRead();
+  let changed = false;
+  if (typeof b.enabled === 'boolean' && b.enabled !== st.enabled) { st.enabled = b.enabled; changed = true; }
+  if (b.repo !== undefined) {
+    const repo = String(b.repo).trim();
+    if (!REPO_RE.test(repo)) throw new HttpError(400, 'Репозиторий укажите в виде владелец/название, например ablhub/joldaspdd');
+    if (repo !== st.repo) { st.repo = repo; st.custom = repo; st.lastQueuedTag = ''; changed = true; }
+  }
+  if (changed) { autoWrite(st); await audit('auto_update', null, { enabled: st.enabled, repo: st.repo }); }
+  const out = b.check === true ? await autoCheck(true) : autoRead();
+  return json(res, 200, autoView(out));
 }
 async function deployStatus(req, res) {
   await authAdmin(req);
@@ -453,7 +545,7 @@ async function deployStatus(req, res) {
   for (const f of [path.join(VAR, 'deploy-status.json'), DEPLOY_STATUS]) {
     try { const x = JSON.parse(fs.readFileSync(f, 'utf8')); if (!st.at || (x.at || 0) >= st.at) st = x; } catch (_) { /* нет */ }
   }
-  return json(res, 200, Object.assign({ version: VERSION, githubRepo: GH_REPO }, st));
+  return json(res, 200, Object.assign({ version: VERSION, githubRepo: autoRead().repo }, st));
 }
 function hostsForIp() {
   if (!PUBLIC_IP) return [];
@@ -499,6 +591,8 @@ module.exports = {
     'GET /admin/backup/latest': backupLatest,
     'POST /admin/api/deploy': deploy,
     'POST /admin/api/deploy-github': deployGithub,
+    'GET /admin/api/auto-update': autoGet,
+    'POST /admin/api/auto-update': autoSet,
     'GET /admin/api/deploy-status': deployStatus,
     'GET /admin/api/domain': domainGet,
     'POST /admin/api/domain': domainSet,
@@ -513,4 +607,6 @@ module.exports = {
     'POST logout-all': userLogoutAll,
   },
   VERSION,
+  startAutoUpdate,
+  autoCheck,
 };

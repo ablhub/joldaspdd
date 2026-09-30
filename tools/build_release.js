@@ -81,8 +81,11 @@ for (const f of PAGES) pagesHash.update(fs.readFileSync(path.join(REL, 'public',
 for (const n of fs.readdirSync(adir).filter((x) => /^(app|scene|data)\.[a-z]+\.[0-9a-f]{8}\.(js|json)$/.test(x)).sort()) pagesHash.update(n);
 const d = new Date();
 const p2 = (n) => String(n).padStart(2, '0');
-const version = d.getFullYear() + '.' + p2(d.getMonth() + 1) + '.' + p2(d.getDate()) + '-' + p2(d.getHours()) + p2(d.getMinutes()) + '-' + pagesHash.digest('hex').slice(0, 7);
+// время в UTC: сборки на компьютере и в GitHub Actions должны сравниваться между собой (автообновление ставит только более новую версию)
+const version = d.getUTCFullYear() + '.' + p2(d.getUTCMonth() + 1) + '.' + p2(d.getUTCDate()) + '-' + p2(d.getUTCHours()) + p2(d.getUTCMinutes()) + '-' + pagesHash.digest('hex').slice(0, 7);
 fs.writeFileSync(path.join(REL, 'VERSION'), version + '\n');
+fs.mkdirSync(OUT, { recursive: true });
+fs.writeFileSync(path.join(OUT, 'VERSION'), version + '\n');   // для workflow Release: тег v<версия>
 
 // 4. архивы
 fs.mkdirSync(OUT, { recursive: true });

@@ -48,7 +48,15 @@ with sync_playwright() as p:
     check(pg.locator('#ov-langs h2').inner_text() == 'Языки' and got == want, 'overview: languages block %s' % got)
     # settings
     pg.click('#tabs button[data-tab="settings"]'); pg.wait_for_timeout(800)
+    pg.get_by_text('Проверка раз в').wait_for(timeout=5000)
     check(pg.locator('button:has-text("Обновить с GitHub")').count() == 1 and pg.locator('input[placeholder="владелец/репозиторий"]').input_value() == 'ablhub/joldaspdd', 'settings: обновление с GitHub (репозиторий подставлен)')
+    check(pg.locator('#autoUp').count() == 1 and pg.locator('button:has-text("Проверить сейчас")').count() == 1, 'settings: карточка автообновления со статусом')
+    rin = pg.locator('input[placeholder="владелец/репозиторий"]')
+    rin.fill('own/repo'); pg.locator('button:has-text("Сохранить репозиторий")').click()
+    pg.get_by_text('Репозиторий сохранен: own/repo').wait_for(timeout=5000)
+    rin.fill('ablhub/joldaspdd'); pg.locator('button:has-text("Сохранить репозиторий")').click()
+    pg.get_by_text('Репозиторий сохранен: ablhub/joldaspdd').wait_for(timeout=5000)
+    check(True, 'settings: репозиторий автообновления сохраняется из админки')
     card = pg.locator('#page section.card').first
     vals = {'Как связаться с поддержкой': 'WhatsApp +7 700 111 22 33', 'Ссылка для связи': 'https://wa.me/77001112233',
             'Текст поддержки на казахском': 'WhatsApp +7 700 111 22 33 (қазақша)', 'Текст поддержки на английском': 'WhatsApp +7 700 111 22 33 (in English)',

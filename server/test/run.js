@@ -293,6 +293,12 @@ const reg = (o) => Object.assign({ firstName: 'айдар', lastName: 'ТЕСТ�
   const signed = Buffer.concat([Buffer.from('JSIG', 'latin1'), Buffer.alloc(64, 7), Buffer.from([0x1f, 0x8b]), Buffer.alloc(2000, 1)]);
   const gh = http.createServer((q, s) => {
     if (q.url === '/own/repo/releases/latest/download/joldas-release.signed') { s.writeHead(302, { Location: '/dl/rel.bin' }); return s.end(); }
+    const TAG = 'v2099.01.01-0000-abcdef0';
+    if (q.url === '/own/repo/releases/latest') { s.writeHead(302, { Location: '/own/repo/releases/tag/' + TAG }); return s.end(); }
+    if (q.url === '/own/repo/releases/download/' + TAG + '/joldas-release.signed') { s.writeHead(302, { Location: '/dl/rel.bin' }); return s.end(); }
+    if (q.url === '/old/repo/releases/latest') { s.writeHead(302, { Location: '/old/repo/releases/tag/v2000.01.01-0000-abcdef0' }); return s.end(); }
+    if (q.url === '/odd/repo/releases/latest') { s.writeHead(302, { Location: '/odd/repo/releases/tag/beta-1' }); return s.end(); }
+    if (q.url === '/none/repo/releases/latest') { s.writeHead(302, { Location: '/none/repo/releases' }); return s.end(); }
     if (q.url === '/dl/rel.bin') { s.writeHead(200, { 'Content-Type': 'application/octet-stream' }); return s.end(signed); }
     if (q.url === '/bad/html/releases/latest/download/joldas-release.signed') { s.writeHead(200); return s.end('<html>not a release</html>'); }
     s.writeHead(404); s.end('no');
@@ -319,6 +325,35 @@ const reg = (o) => Object.assign({ firstName: 'айдар', lastName: 'ТЕСТ�
     assert.ok(r.status >= 400, 'github: без заголовка защиты запрос отклонен');
     r = await call('GET', '/admin/api/deploy-status'); assert.strictEqual(r.body.githubRepo, 'ablhub/joldaspdd');
     r = await call('GET', '/admin/api/audit'); assert.ok(r.body.audit.some((a) => a.action === 'deploy' && a.data && a.data.source === 'github' && a.data.repo === 'own/repo'), 'github: запись в журнале');
+    // --- автообновление: сервер сам проверяет последний релиз ---
+    const inDir = path.join(VAR, 'incoming');
+    const clearQueue = () => { for (const n of fs.readdirSync(inDir)) if (n.endsWith('.signed')) fs.unlinkSync(path.join(inDir, n)); };
+    clearQueue();
+    r = await call('GET', '/admin/api/auto-update');
+    assert.strictEqual(r.status, 200); assert.strictEqual(r.body.enabled, false, 'auto: по умолчанию выключено из-за AUTO_UPDATE=0'); assert.strictEqual(r.body.version, '2026.09.30-1807-67b52af');
+    r = await call('POST', '/admin/api/auto-update', { enabled: true });
+    assert.ok(r.status >= 400, 'auto: без заголовка защиты отклонено');
+    r = await call('POST', '/admin/api/auto-update', { repo: '../etc' }, null, X); assert.strictEqual(r.status, 400, 'auto: плохое имя репозитория');
+    r = await call('POST', '/admin/api/auto-update', { enabled: true, repo: 'own/repo' }, null, X);
+    assert.strictEqual(r.status, 200); assert.strictEqual(r.body.enabled, true); assert.strictEqual(r.body.repo, 'own/repo');
+    r = await call('POST', '/admin/api/auto-update', { check: true }, null, X);
+    assert.strictEqual(r.body.lastResult, 'queued', 'auto: новая версия поставлена в очередь: ' + JSON.stringify(r.body)); assert.strictEqual(r.body.lastTag, 'v2099.01.01-0000-abcdef0');
+    let q = fs.readdirSync(inDir).filter((n) => n.endsWith('.signed'));
+    assert.strictEqual(q.length, 1, 'auto: один файл в очереди'); assert.ok(fs.readFileSync(path.join(inDir, q[0])).equals(signed), 'auto: файл совпадает с релизом');
+    r = await call('POST', '/admin/api/auto-update', { check: true }, null, X);
+    assert.strictEqual(r.body.lastResult, 'busy', 'auto: пока идет установка, второй раз не ставим');
+    assert.strictEqual(fs.readdirSync(inDir).filter((n) => n.endsWith('.signed')).length, 1);
+    clearQueue();
+    for (const [repo, want] of [['old/repo', 'up-to-date'], ['odd/repo', 'skip'], ['none/repo', 'no-release'], ['nobody/none', 'no-release']]) {
+      r = await call('POST', '/admin/api/auto-update', { repo, check: true }, null, X);
+      assert.strictEqual(r.body.lastResult, want, 'auto: ' + repo + ' -> ' + JSON.stringify(r.body));
+      assert.strictEqual(fs.readdirSync(inDir).filter((n) => n.endsWith('.signed')).length, 0, 'auto: ' + repo + ' ничего не ставит');
+    }
+    r = await call('POST', '/admin/api/auto-update', { repo: 'own/repo', enabled: false }, null, X); assert.strictEqual(r.body.enabled, false);
+    r = await call('GET', '/admin/api/audit');
+    assert.ok(r.body.audit.some((a) => a.action === 'auto_update'), 'auto: настройка в журнале');
+    assert.ok(r.body.audit.some((a) => a.action === 'deploy' && a.data && a.data.source === 'github-auto' && a.data.tag === 'v2099.01.01-0000-abcdef0'), 'auto: установка в журнале');
+    clearQueue();
   } finally { gh.close(); }
   console.log('API TESTS OK');
 })().catch((e) => { console.error('FAIL', e.stack || e.message); process.exit(1); });
