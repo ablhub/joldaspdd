@@ -47,9 +47,9 @@ body() {
 		header @meta Cache-Control "public, max-age=3600"
 		@manifest path /manifest.webmanifest
 		header @manifest Content-Type "application/manifest+json"
-		# сжатые копии (.br, .gz) готовит сборка релиза: отдаем их без сжатия на лету
+		# сжатые копии .br готовит сборка релиза: отдаем их без сжатия на лету (клиентам без brotli Caddy сжимает gzip сам)
 		file_server {
-			precompressed br gzip
+			precompressed br
 		}
 	}
 	handle_errors {

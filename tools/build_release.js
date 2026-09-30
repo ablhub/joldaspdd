@@ -59,7 +59,7 @@ for (const f of PAGES) {
   if (!/<!--pre:app-->[^]*class="hero[^]*<!--\/pre:app-->/.test(h) || !/<!--pre:nav-->[^]*data-go=[^]*<!--\/pre:nav-->/.test(h)) throw new Error('в ' + f + ' нет готового первого экрана (tools/prerender.py)');
 }
 for (const f of ['qindex.json', 'fonts/golos-text-latin-wght-normal.woff2', 'fonts/golos-text-cyrillic-wght-normal.woff2']) if (!fs.existsSync(path.join(adir, f))) throw new Error('в релизе нет public/assets/' + f);
-// 3b. сжатые копии .br и .gz для текстовых файлов: сервер отдает их без сжатия на лету (быстрее первый байт, меньше трафика)
+// 3b. сжатые копии .br для текстовых файлов: сервер отдает их без сжатия на лету (быстрее первый байт, меньше трафика). Клиентам без brotli Caddy сжимает gzip на лету
 let nz = 0, zin = 0, zbr = 0;
 (function walk(dir) {
   for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
@@ -69,9 +69,7 @@ let nz = 0, zin = 0, zbr = 0;
     const buf = fs.readFileSync(f);
     if (buf.length < 600) continue;
     const br = zlib.brotliCompressSync(buf, { params: { [zlib.constants.BROTLI_PARAM_QUALITY]: 11, [zlib.constants.BROTLI_PARAM_MODE]: zlib.constants.BROTLI_MODE_TEXT, [zlib.constants.BROTLI_PARAM_SIZE_HINT]: buf.length } });
-    const gz = zlib.gzipSync(buf, { level: 9 });
     if (br.length < buf.length * 0.95) { fs.writeFileSync(f + '.br', br); zin += buf.length; zbr += br.length; nz++; }
-    if (gz.length < buf.length * 0.95) fs.writeFileSync(f + '.gz', gz);
   }
 })(path.join(REL, 'public'));
 console.log('сжатые копии: ' + nz + ' файлов, ' + Math.round(zin / 1024) + ' КБ -> ' + Math.round(zbr / 1024) + ' КБ (brotli)');
