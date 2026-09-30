@@ -1,0 +1,212 @@
+{
+ "signs": [
+  {
+   "code": "1.1",
+   "meaning": "Warns that a level crossing equipped with a barrier lies ahead.",
+   "note": "Outside built-up areas the sign is repeated: the second sign is placed no closer than 50 m to the level crossing. Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.2",
+   "meaning": "Warns that a level crossing without a barrier lies ahead: you must look and listen for a train yourself.",
+   "note": "Outside built-up areas the sign is repeated: the second sign is placed no closer than 50 m to the level crossing. Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.3.1",
+   "meaning": "Marks a level crossing without a barrier over a single-track railway.",
+   "note": "Placed immediately before the crossing. For two or more tracks, sign 1.3.2 is used."
+  },
+  {
+   "code": "1.5",
+   "meaning": "Warns that a tram line crosses the road ahead.",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.6",
+   "meaning": "Warns of an intersection of roads of equal status, where the “priority to the right” rule applies.",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.7",
+   "meaning": "Warns of an approach to an intersection with a roundabout.",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.8",
+   "meaning": "Ahead is an intersection, a pedestrian crossing or a section of road where traffic is controlled by traffic lights.",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.11.1",
+   "meaning": "Warns of a bend in the road with a small radius or a restricted view, turning to the right."
+  },
+  {
+   "code": "1.12.1",
+   "meaning": "A section with several dangerous bends in a row, the first of them to the right."
+  },
+  {
+   "code": "1.13",
+   "meaning": "Warns of a steep descent; the number on the sign shows the gradient as a percentage.",
+   "note": "May be placed immediately before the descent without plate 7.1.1 if descents and ascents follow one another."
+  },
+  {
+   "code": "1.14",
+   "meaning": "Warns of a steep ascent; the number on the sign shows the gradient as a percentage.",
+   "note": "May be placed immediately before the ascent without plate 7.1.1 if descents and ascents follow one another."
+  },
+  {
+   "code": "1.15",
+   "meaning": "A section of road with a more slippery surface: reduce speed, avoid sharp braking and sharp steering.",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.16.1",
+   "meaning": "Warns of an approach to an artificial bump (speed hump) that forces vehicles to slow down.",
+   "note": "In the Rules this sign is numbered 1.16.1 (sign 1.16 is the “Uneven road” sign). Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.18.1",
+   "meaning": "Warns that the road narrows on both sides (signs 1.18.2 and 1.18.3 show narrowing on the right or on the left).",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.19",
+   "meaning": "Warns of the start of a section of road (carriageway) with two-way traffic.",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.20",
+   "meaning": "Warns of an approach to a pedestrian crossing marked by signs 5.16.1, 5.16.2.",
+   "note": "The crossing itself is marked by signs 5.16.1, 5.16.2 and (or) road markings 1.14.1-1.14.3; sign 1.20 only warns of it in advance."
+  },
+  {
+   "code": "1.21",
+   "meaning": "A section of road near a children’s institution (school, camp, etc.) where children may appear on the carriageway.",
+   "note": "Outside built-up areas the sign is repeated: the second sign is placed no closer than 50 m to the start of the hazardous section. Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.23",
+   "meaning": "Warns of an approach to a section of road where works are under way.",
+   "note": "Outside built-up areas it is repeated (the second sign no closer than 50 m to the section). For short-term works it may stand 10-15 m before the works. The temporary version of the sign is on a yellow background."
+  },
+  {
+   "code": "1.30",
+   "meaning": "Warns of a hazard for which there is no separate warning sign.",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "2.1",
+   "meaning": "A road on which you have the right of priority passage through uncontrolled intersections.",
+   "note": "At a controlled intersection the traffic lights determine the order of priority. When the traffic light is flashing amber or switched off, the sign again determines the order of priority ⟦1⟧."
+  },
+  {
+   "code": "2.2",
+   "meaning": "The main road ends: at the next intersection you no longer have its priority."
+  },
+  {
+   "code": "2.3.1",
+   "meaning": "You are on the main road, and ahead is an intersection with a minor road.",
+   "note": "Signs 2.1, 2.3.1-2.3.3 mark the main road (para. 2(9) of the Rules)."
+  },
+  {
+   "code": "2.3.2",
+   "meaning": "You are on the main road, and a minor road joins it from the right (sign 2.3.3 shows a junction from the left)."
+  },
+  {
+   "code": "2.4",
+   "meaning": "You must give way to vehicles on the road being crossed, and with plate 7.13, to vehicles on the main road.",
+   "note": "You do not have to stop if you are not impeding anyone. Marking 1.13 is often applied together with it."
+  },
+  {
+   "code": "2.5",
+   "meaning": "You must stop before the stop line, or, if there is none, before the edge of the carriageway being crossed, and give way.",
+   "note": "You must give way to traffic on the road being crossed, and with plate 7.13, to traffic on the main road. It may stand before a level crossing or a quarantine checkpoint. The stopping place is often marked by marking 1.12 and the inscription “STOP” (1.21)."
+  },
+  {
+   "code": "2.6",
+   "meaning": "You must not enter a narrow section if this would hamper oncoming traffic: oncoming vehicles go first.",
+   "note": "On the other side of the narrow section, oncoming drivers have sign 2.7."
+  },
+  {
+   "code": "2.7",
+   "meaning": "On this narrow section you go first: oncoming drivers must let you through.",
+   "note": "Priority does not remove the need for caution: if an oncoming vehicle has already entered, do not create an emergency situation."
+  },
+  {
+   "code": "3.1",
+   "meaning": "Entry of all vehicles in this direction is prohibited.",
+   "note": "Does not apply to route vehicles. The exception for residents and service vehicles does not apply to this sign."
+  },
+  {
+   "code": "3.2",
+   "meaning": "Movement of all vehicles is prohibited (in both directions).",
+   "note": "Does not apply to route vehicles; to vehicles serving businesses or citizens in the zone, or belonging to people who live or work there (enter and leave at the intersection nearest to the destination); or to vehicles of persons with Group I and II disabilities."
+  },
+  {
+   "code": "3.3",
+   "meaning": "Movement of motor vehicles is prohibited.",
+   "note": "The exceptions are the same as for sign 3.2 (route vehicles, vehicles serving the zone and residents of the zone, persons with Group I and II disabilities)."
+  },
+  {
+   "code": "3.4",
+   "meaning": "Movement of trucks with a maximum authorised mass of more than 3.5 t (or more than the figure shown on the sign) is prohibited, as is movement of tractors and self-propelled machines.",
+   "note": "Prohibits movement in both directions. Does not apply to vehicles serving businesses and citizens in the marked zone."
+  },
+  {
+   "code": "3.13",
+   "meaning": "Movement of vehicles whose overall height (with or without a load) is greater than shown on the sign is prohibited."
+  },
+  {
+   "code": "3.18.1",
+   "meaning": "Right turn is prohibited at the intersection of carriageways before which the sign is placed.",
+   "note": "Does not apply to route vehicles."
+  },
+  {
+   "code": "3.18.2",
+   "meaning": "Left turn is prohibited at the intersection of carriageways before which the sign is placed.",
+   "note": "Does not apply to route vehicles."
+  },
+  {
+   "code": "3.19",
+   "meaning": "A U-turn is prohibited at the place before which the sign is placed.",
+   "note": "Does not apply to route vehicles."
+  },
+  {
+   "code": "3.20",
+   "meaning": "Overtaking of all vehicles is prohibited, except vehicles without a trailer moving at less than 30 km/h.",
+   "note": "Applies from the place where it is installed to the nearest intersection beyond it, and in a built-up area without intersections, to the end of the built-up area; exits from adjacent areas do not interrupt its effect. Sign 3.21 may end the zone earlier."
+  },
+  {
+   "code": "3.21",
+   "meaning": "The ban on overtaking introduced by sign 3.20 ends here."
+  },
+  {
+   "code": "3.24",
+   "meaning": "It is prohibited to travel at a speed (km/h) higher than shown on the sign.",
+   "note": "Applies from the place where it is installed to the nearest intersection beyond it, and in a built-up area without intersections, to the end of the built-up area; exits from adjacent areas do not interrupt its effect. Sign 3.25 may end the zone earlier. A sign placed before a built-up area that has sign 5.22 applies up to that sign."
+  },
+  {
+   "code": "3.25",
+   "meaning": "The speed limit introduced by sign 3.24 with the same number ends here.",
+   "note": "After the sign, the general speed limits of the Rules for that road apply."
+  },
+  {
+   "code": "3.27",
+   "meaning": "Both stopping and parking of vehicles are prohibited.",
+   "note": "Applies only on the side of the road where it is placed. Does not apply to route vehicles. The zone is reduced by plate 7.2.2 or by a repeated sign with plate 7.2.3."
+  },
+  {
+   "code": "3.28",
+   "meaning": "Parking is prohibited; stopping (for example, to board or alight) is permitted.",
+   "note": "Applies only on its own side of the road. Does not apply to taxis with the taximeter on or to vehicles of persons with Group I and II disabilities."
+  },
+  {
+   "code": "3.29",
+   "meaning": "On odd days of the month parking is prohibited and stopping is permitted.",
+   "note": "On even days sign 3.30 applies. When signs 3.29 and 3.30 are used together, vehicles are moved from 19 h to 21 h. Does not apply to taxis with the taximeter on or to vehicles of persons with Group I and II disabilities."
+  },
+  {
+   "code": "3.31",
+   "meaning": "The effect of signs 3.16, 3.20, 3.22, 3.24, 3.26-3.30 ends at the same time."
+  }
+ ]
+}

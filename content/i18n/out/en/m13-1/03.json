@@ -1,0 +1,272 @@
+{
+ "questions": [
+  {
+   "id": "m13-n013",
+   "q": "May a motorcycle without a sidecar be towed by a passenger car?",
+   "options": [
+    "Yes, on a rope 4 to 6 m long",
+    "Yes, on a rigid tow bar no longer than 4 m",
+    "No, such a motorcycle may not be towed",
+    "Yes, if the rider is sitting at the handlebars"
+   ],
+   "answer": 2,
+   "explain": "Not only is towing by a motorcycle without a sidecar prohibited, but so is towing such a motorcycle itself, whatever is used to pull it ⟦67⟧. A broken-down motorcycle is carried as cargo."
+  },
+  {
+   "id": "m13-n014",
+   "q": "There is black ice on the road. You have a rigid tow bar. May you use it to tow a broken-down car?",
+   "options": [
+    "No: towing is prohibited by any method in black ice conditions",
+    "Yes: in black ice conditions, only a tow rope is prohibited",
+    "Only by the method of partial lifting",
+    "Yes, but only during daylight hours"
+   ],
+   "answer": 1,
+   "explain": "The prohibition applies only to a tow rope: on black ice, a vehicle towed on a rope may catch up with and hit the towing vehicle ⟦68⟧. A rigid tow bar keeps the distance fixed, so towing on it is allowed, at no more than 50 km/h ⟦69⟧.",
+   "scene": {
+    "labels.0.text": "tow bar"
+   }
+  },
+  {
+   "id": "m13-n016",
+   "q": "Which of these do the Rules allow to be towed by a moped?",
+   "options": [
+    "Another broken-down moped on a rope 4-6 m long",
+    "A bicycle on a rigid tow bar up to 4 m long",
+    "Any vehicle at least twice as light as the moped",
+    "Only a trailer designed for a moped"
+   ],
+   "answer": 3,
+   "explain": "Towing mopeds, and towing by mopeds, is prohibited. There is one exception: a moped may tow a trailer designed for use with a moped ⟦70⟧."
+  },
+  {
+   "id": "m13-n017",
+   "q": "Your car is being towed on a rigid tow bar, and the distance between the vehicles is 3 m. Is this allowed?",
+   "options": [
+    "Yes: on a rigid tow bar, no more than 4 m is allowed",
+    "No: there must be 4 to 6 m between the vehicles",
+    "No: on a rigid tow bar you need at least 5 m",
+    "Yes, but only at a speed of no more than 30 km/h"
+   ],
+   "answer": 0,
+   "explain": "Here there are 3 m between the vehicles. On a rigid tow bar, the distance must be no more than 4 m, so 3 m is fine, while the 4-6 m norm applies to a tow rope ⟦71⟧.",
+   "scene": {
+    "labels.0.text": "tow bar"
+   }
+  },
+  {
+   "id": "m13-n019",
+   "q": "A truck is towing your car on a rope marked with flags. There is 5 m between the vehicles, you are at the wheel, your car's hazard warning lights are on, and the road is dry. What has been broken here?",
+   "options": [
+    "The rope is too short",
+    "Hazard warning lights are not needed on the towed vehicle",
+    "A truck is not allowed to tow a passenger car",
+    "Nothing has been broken"
+   ],
+   "answer": 3,
+   "explain": "All the conditions are met: there is a driver at the wheel of the towed vehicle ⟦72⟧, the distance on the tow rope is within 4-6 m ⟦73⟧, the rope is marked (Basic Provisions, para. 12), the towed vehicle has its hazard warning lights on ⟦74⟧, and there is no black ice ⟦75⟧. All that is left is not to exceed 50 km/h ⟦76⟧.",
+   "scene": {
+    "labels.0.text": "tow rope"
+   }
+  },
+  {
+   "id": "m13-n020",
+   "q": "Your broken-down car is being towed on a rope, and you are at the wheel. May your friend ride next to you in the front seat?",
+   "options": [
+    "No: there must be no passengers in a towed vehicle",
+    "Yes, but only in the back seat, not next to you",
+    "Yes: there is no such prohibition for a passenger car",
+    "No, if the towing rope is longer than 4 m"
+   ],
+   "answer": 2,
+   "explain": "When towing on a tow rope or a rigid tow bar, the Rules ban passengers only in a towed bus (trolleybus) and in the load body of a towed truck ⟦77⟧. There is no such ban for the inside of a towed passenger car.",
+   "scene": {
+    "labels.0.text": "tow rope"
+   }
+  },
+  {
+   "id": "m13-n021",
+   "q": "Where is initial driver training carried out?",
+   "options": [
+    "On quiet city streets",
+    "On country roads with light traffic",
+    "In enclosed areas or at test grounds",
+    "In the yards of residential buildings"
+   ],
+   "answer": 2,
+   "explain": "Initial driver training is carried out in enclosed areas or at test grounds ⟦78⟧: there is no flow of vehicles and pedestrians there. Learner driving is prohibited altogether in yards and residential zones ⟦79⟧."
+  },
+  {
+   "id": "m13-n022",
+   "q": "A driving-school student has sat at the wheel for the first time. May he go straight out onto a city street if a driving instructor is next to him?",
+   "options": [
+    "Yes, if a driving instructor is sitting next to him",
+    "No: basic skills in an enclosed area are needed first",
+    "Yes, if the car is fitted with additional pedals",
+    "Yes, if you choose a street with no traffic jams at the moment"
+   ],
+   "answer": 1,
+   "explain": "Skills are first acquired in an enclosed area or at a test ground ⟦80⟧. Learner driving on the roads is allowed only with an instructor, once the learner has basic skills, and without passengers ⟦81⟧."
+  },
+  {
+   "id": "m13-n023",
+   "q": "What documents must a learner carry during learner driving?",
+   "options": [
+    "A driving licence and a medical certificate",
+    "A qualification certificate and a contract with the driving school",
+    "Only a contract with the driving school; nothing else is needed",
+    "An identity document and a medical certificate"
+   ],
+   "answer": 3,
+   "explain": "The learner carries an identity document and a medical certificate confirming no contraindications to driving a vehicle. A qualification certificate and a licence of the required category are the instructor's documents ⟦82⟧."
+  },
+  {
+   "id": "m13-n024",
+   "q": "A driving instructor has a qualification certificate, but only a category B driving licence. May he conduct learner driving in a category C truck?",
+   "options": [
+    "No: he needs the category he is teaching",
+    "Yes, if the truck is fitted out as a training vehicle",
+    "Yes, if the route is agreed with the authorised body",
+    "Yes, if the student already drives a passenger car"
+   ],
+   "answer": 0,
+   "explain": "The instructor carries a qualification certificate and a driving licence entitling him to drive a vehicle of the category he is teaching ⟦83⟧. A category B licence is not enough for a category C truck."
+  },
+  {
+   "id": "m13-n025",
+   "q": "What must a training organisation's car be fitted with for driver training?",
+   "options": [
+    "Additional clutch and brake pedals and the “Learner vehicle” sign",
+    "A second steering wheel and an additional interior mirror for the instructor",
+    "A dashcam and additional side mirrors",
+    "An amber beacon and the “Learner vehicle” sign"
+   ],
+   "answer": 0,
+   "explain": "A training vehicle is fitted out under para. 6 of the Basic Provisions ⟦84⟧: additional clutch and brake pedals, the “Learner vehicle” identification sign, and the words “Learner vehicle” in the state language on the sides and rear."
+  },
+  {
+   "id": "m13-n026",
+   "q": "What does the “Learner vehicle” identification sign look like?",
+   "options": [
+    "A yellow circle with a black border and a black letter U",
+    "A blue square with a white border and a white letter U",
+    "A white triangle with a red border and a black letter U",
+    "A red triangle with a white border and a white letter U"
+   ],
+   "answer": 2,
+   "explain": "The “Learner vehicle” sign is a white equilateral triangle, apex up, with a red border, inside which is a black letter U. The side must be at least 200 mm, and the width of the border is 1/10 of the side (Basic Provisions, para. 9)."
+  },
+  {
+   "id": "m13-n027",
+   "q": "Where is the “Learner vehicle” identification sign fitted on a passenger car?",
+   "options": [
+    "Only at the rear, in the right corner of the rear window",
+    "At the front and rear, or a double-sided sign on the roof",
+    "Only on the roof, facing the vehicles behind",
+    "On both front doors and on the boot lid"
+   ],
+   "answer": 1,
+   "explain": "The “Learner vehicle” sign is fitted at the front and rear of motor vehicles used for driver training. On a passenger car, a double-sided sign on the roof is allowed (Basic Provisions, para. 9)."
+  },
+  {
+   "id": "m13-n028",
+   "q": "What words are painted on the sides and rear of a training organisation's training vehicle?",
+   "options": [
+    "The name of the driving school, its address and a phone number for complaints",
+    "“Caution, beginner driver” in Russian and Kazakh",
+    "None: the “Learner vehicle” sign is enough for this",
+    "“Learner vehicle” in the state language"
+   ],
+   "answer": 3,
+   "explain": "In addition to the additional pedals and the identification sign, the words “Learner vehicle” in the state language are painted on the sides and rear of a training vehicle (Basic Provisions, para. 6; para. 149)."
+  },
+  {
+   "id": "m13-n029",
+   "q": "Along which routes may driver training be conducted on public roads?",
+   "options": [
+    "Along any roads except motorways and residential zones",
+    "Along routes chosen by the driving instructor",
+    "Only within 5 km of the driving school's building",
+    "Along routes agreed with the authorised body"
+   ],
+   "answer": 3,
+   "explain": "Driver training on public roads is conducted only along routes agreed with the authorised body, and in the presence of a driving instructor ⟦85⟧."
+  },
+  {
+   "id": "m13-n030",
+   "q": "Who do the Rules treat as the driver during learner driving?",
+   "options": [
+    "The driving instructor during the lesson",
+    "The director of the driving school that owns the car",
+    "Any passenger who holds a driving licence",
+    "No one: the driver is only the person holding the steering wheel"
+   ],
+   "answer": 0,
+   "explain": "A driver is a person driving a vehicle, and a driving instructor is treated as the driver during the training process ⟦86⟧. That is why the requirements for a driver also apply to him."
+  },
+  {
+   "id": "m13-n031",
+   "q": "A driver is prohibited from handing over control to a person without a driving licence. For whom do the Rules make an exception?",
+   "options": [
+    "For a close relative",
+    "For a person over 18 years old",
+    "For a person learning to drive",
+    "For someone who has passed the theory test"
+   ],
+   "answer": 2,
+   "explain": "It is prohibited to hand over control to persons who do not carry a licence entitling them to drive a vehicle of that category, except for those learning to drive ⟦87⟧. But even a learner drives only under the rules of learner driving: with an instructor and without passengers ⟦88⟧."
+  },
+  {
+   "id": "m13-n032",
+   "q": "A driving instructor suggests that a student practise on a country road with sign 5.3 “Road for motor vehicles”. It is not marked as a motorway. May they do this?",
+   "options": [
+    "Yes: learner driving is prohibited only on motorways",
+    "No: the prohibitions for motorways apply on such a road",
+    "Yes, if the route is agreed with the authorised body",
+    "Yes, if you keep to the right-hand lane"
+   ],
+   "answer": 1,
+   "explain": "You are in a training vehicle (the “Learner vehicle” sign), and sign 5.3 is ahead. The requirements of the chapter on motorways also apply to roads with this sign ⟦89⟧, so learner driving is prohibited here just as on a motorway ⟦90⟧."
+  },
+  {
+   "id": "m13-n033",
+   "q": "The instructor wants the student to practise parking in the yard of an apartment building. There is no sign 5.38 “Residential zone” at the entrance to the yard. May learner driving be conducted here?",
+   "options": [
+    "Yes: without sign 5.38, this is an ordinary road",
+    "Yes, if you drive no faster than 20 km/h",
+    "Yes, if there are no pedestrians or children in the yard",
+    "No: the rules of a residential zone apply in yards"
+   ],
+   "answer": 3,
+   "explain": "The requirements of the chapter on residential zones also apply to residential courtyards, even without sign 5.38 ⟦91⟧. Learner driving is prohibited in a residential zone ⟦92⟧, so parking is practised in an enclosed area or at a test ground.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m13-n034",
+   "q": "A student with basic skills wants to drive the training vehicle to the test ground by himself, while the instructor arrives there separately. May this be done?",
+   "options": [
+    "Yes, if this route is agreed with the authorised body",
+    "No: on the road, a learner drives only with the instructor",
+    "Yes, if the “Learner vehicle” sign is fitted on the car",
+    "Yes, if the student has already turned eighteen"
+   ],
+   "answer": 1,
+   "explain": "Without the instructor present, a student on the road is a driver without a licence. Learner driving on the roads takes place only with an instructor ⟦93⟧ and in the presence of a driving instructor ⟦94⟧."
+  },
+  {
+   "id": "m13-n035",
+   "q": "May learner driving be conducted in a car with additional pedals but without the “Learner vehicle” identification sign?",
+   "options": [
+    "Yes: the main thing is to have the additional pedals",
+    "Yes, during daylight hours, when the car can be seen",
+    "No: the “Learner vehicle” sign is mandatory too",
+    "Yes, if the instructor warns other drivers in advance"
+   ],
+   "answer": 2,
+   "explain": "The “Learner vehicle” sign warns others that a beginner is at the wheel. A training vehicle is fitted with additional pedals and the “Learner vehicle” identification sign (para. 149; Basic Provisions, para. 6, para. 9).",
+   "ref": "para. 149; Basic Provisions, para. 6, para. 9"
+  }
+ ]
+}

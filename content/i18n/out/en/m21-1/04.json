@@ -1,0 +1,200 @@
+{
+ "questions": [
+  {
+   "id": "m21-062",
+   "q": "You are riding your motorcycle straight ahead on a main road. Whom must you give way to?",
+   "options": ["Only the tram", "Only the white car", "The tram and the white car", "No one"],
+   "answer": 3,
+   "explain": "The tram is approaching along a minor road (sign 2.4). At an intersection of roads of unequal status, the driver on the minor road gives way, and this includes a tram. The white car is turning left from the opposite direction and gives way to you."
+  },
+  {
+   "id": "m21-063",
+   "q": "You and the oncoming traffic have a green light. You are riding straight ahead on your motorcycle, and an oncoming white car is turning left. What is the best thing to do?",
+   "options": [
+    "Go first, but slow down and be ready to brake",
+    "Go without reducing speed: you have priority",
+    "Stop and let the white car through",
+    "Sound the horn and accelerate to get through"
+   ],
+   "answer": 0,
+   "explain": "When turning left on a green light, the driver of the white car must give way to you ⟦66⟧. But cars turning left in front of a motorcyclist are one of the main dangers: drivers often do not notice the motorcycle. So reduce speed and be ready to brake."
+  },
+  {
+   "id": "m21-065",
+   "q": "There is a dangerous bend ahead. How should you take it on a motorcycle?",
+   "options": [
+    "Enter the bend at your previous speed and brake in the bend",
+    "Reduce speed before the bend and look where you want to go",
+    "In the bend, look at the front wheel and the road markings",
+    "Pull in the clutch and coast through the whole bend"
+   ],
+   "answer": 1,
+   "explain": "Sign 1.11.1, the “Dangerous bend to the right” sign, warns of a bend of small radius or with restricted view. You reduce speed before the bend by closing the throttle and, if necessary, applying both brakes, and in the bend you look where you want to go. Entering too fast carries the motorcycle into the oncoming lane or off the road."
+  },
+  {
+   "id": "m21-066",
+   "q": "You are already taking a bend on your motorcycle when an obstruction suddenly appears ahead in your lane. What is the best way to stop?",
+   "options": [
+    "Brake hard with the front brake without straightening the motorcycle",
+    "Lock the rear wheel and turn the motorcycle sideways",
+    "First straighten the motorcycle, then brake",
+    "Pull in the clutch and drive round the obstruction without braking"
+   ],
+   "answer": 2,
+   "explain": "Hard braking while leaning easily makes the wheels lose grip. The motorcyclists' manual names as the best technique to straighten the motorcycle first and then brake. If you have to brake while leaning, you brake gently and reduce the lean as your speed falls."
+  },
+  {
+   "id": "m21-067",
+   "q": "Which brake gives a motorcycle most of its braking force?",
+   "options": [
+    "The rear: about two thirds",
+    "Both equally, half each",
+    "Engine braking: more than half",
+    "The front: at least three quarters"
+   ],
+   "answer": 3,
+   "explain": "When braking, the weight of the motorcycle shifts to the front wheel, so the front brake is more powerful: it provides at least three quarters of the total braking force. To stop, you use both brakes at the same time."
+  },
+  {
+   "id": "m21-068",
+   "q": "You need to stop quickly on a straight, dry road. How do you brake on a motorcycle?",
+   "options": [
+    "Apply both brakes at once, without “grabbing” the front one",
+    "Only the rear brake, without touching the front",
+    "Only the front brake, sharply, until the wheel locks",
+    "Pull in the clutch and coast to a stop"
+   ],
+   "answer": 0,
+   "explain": "To stop quickly you apply both brakes at the same time. Do not be afraid to use the front brake, but apply it smoothly and firmly, not with a jerk."
+  },
+  {
+   "id": "m21-069",
+   "q": "The front wheel locks while you are braking. What should you do?",
+   "options": [
+    "Hold the brake until the motorcycle stops completely",
+    "Release the front brake at once and apply it again",
+    "Open the throttle so that the wheel starts turning again",
+    "Turn the handlebars sharply in the direction the motorcycle is leaning"
+   ],
+   "answer": 1,
+   "explain": "A locked front wheel does not hold its direction, and the motorcycle falls. The motorcyclists' manual advises releasing the front brake at once and then applying it again firmly."
+  },
+  {
+   "id": "m21-070",
+   "q": "You need to swerve sharply round an obstruction. When should you brake?",
+   "options": [
+    "During the swerve",
+    "Only after the engine has stopped",
+    "Before or after the swerve, but not during it",
+    "At the same time as turning the handlebars: it is quicker"
+   ],
+   "answer": 2,
+   "explain": "During a sharp swerve the motorcycle leans, and braking may make the wheels lose grip. So you brake before the manoeuvre or after it."
+  },
+  {
+   "id": "m21-071",
+   "q": "When is the asphalt especially slippery for a motorcycle?",
+   "options": [
+    "An hour after the rain starts, when the oil has already been washed off",
+    "In dry, cool weather in the daytime",
+    "In the first minutes of rain, before the oil is washed off",
+    "At night in dry, windless weather"
+   ],
+   "answer": 2,
+   "explain": "Right after the rain starts, the water mixes with the oil and dust on the asphalt, and the surface becomes especially slippery. Later the rain washes the oil to the edges of the road."
+  },
+  {
+   "id": "m21-072",
+   "q": "Which places on a wet road are especially dangerous for a motorcycle?",
+   "options": [
+    "The middle of the lane, with smooth, clean asphalt",
+    "Dry sections under bridges and overpasses",
+    "Places where the asphalt is rough and there are no puddles",
+    "Road markings, metal plates and manhole covers"
+   ],
+   "answer": 3,
+   "explain": "In the rain, the paint of road markings and the metal of manhole covers and plates become very slippery. Wet leaves, sand and gravel at the edge of the road are also dangerous."
+  },
+  {
+   "id": "m21-073",
+   "q": "How should you cross tram rails, ruts or longitudinal joints in the road surface on a motorcycle?",
+   "options": [
+    "Along the rail, so that the wheel follows the groove",
+    "At any angle, if your speed is high",
+    "At an angle of at least 45 degrees",
+    "Only standing on the footrests"
+   ],
+   "answer": 2,
+   "explain": "If you cross rails or a rut at a shallow angle, the wheel may drop into the groove and the motorcycle will fall. The motorcyclists' manual advises moving over and crossing them at an angle of at least 45 degrees."
+  },
+  {
+   "id": "m21-074",
+   "q": "What is the minimum following distance to the vehicle ahead that a motorcyclist is advised to keep?",
+   "options": ["Half a second", "1 metre", "The length of one motorcycle", "2 seconds"],
+   "answer": 3,
+   "explain": "The Rules require a following distance that lets you avoid a collision. The motorcyclists' manual gives the usual minimum as 2 seconds."
+  },
+  {
+   "id": "m21-075",
+   "q": "At the test, in the “Dimensional figure eight” exercise, you touched the ground with your foot. What will be the result?",
+   "options": [
+    "100 penalty points: the test is failed",
+    "5 penalty points: it is only a remark",
+    "25 penalty points: you may continue",
+    "10 penalty points for each touch"
+   ],
+   "answer": 0,
+   "explain": "Under the autodrome methodology, touching the surface of the test area with a foot in the motorcycle exercises gives 100 penalty points. The result “fail” is given if more than 99 points are scored, that is, for a single such touch."
+  },
+  {
+   "id": "m21-076",
+   "q": "What must you do at the category A test before the “Start” command?",
+   "options": [
+    "Fasten the helmet, switch on the hazard warning lights and the main beam",
+    "Fasten the helmet, adjust the mirrors, switch on the dipped headlight",
+    "Take off the helmet to hear the commands better, and start the engine",
+    "Only start the engine: the helmet and lights will be checked after the start"
+   ],
+   "answer": 1,
+   "explain": "Under the methodology the candidate puts on and fastens the helmet, adjusts the mirrors, takes a place in the pre-start zone, starts the engine and switches on the dipped headlight. Crossing the “Start” line without the dipped headlight or without the left indicator gives 10 penalty points for each."
+  },
+  {
+   "id": "m21-077",
+   "q": "After the “Start” command you moved off only after 25 seconds. How many penalty points will be given?",
+   "options": ["0", "10", "25", "100"],
+   "answer": 2,
+   "explain": "Under the methodology you must move off within 20 seconds. A delay of more than 20 seconds gives 25 points, and if you do not start moving within 30 seconds, it is 100 points and the test is failed."
+  },
+  {
+   "id": "m21-078",
+   "q": "What must you do before the “Finish” line at the category A test?",
+   "options": [
+    "Switch on the left indicator",
+    "Switch on the right indicator",
+    "Sound the horn",
+    "Switch off the headlight"
+   ],
+   "answer": 1,
+   "explain": "Before the finish line you switch on the right indicator, cross the line and stop the motorcycle. Not switching on the indicator before the line gives 10 penalty points."
+  },
+  {
+   "id": "m21-079",
+   "q": "In the “Dimensional corridor” you ran a wheel over a control line once, but did not touch the ground with your foot. How many penalty points will you get?",
+   "options": ["10", "25", "50", "100"],
+   "answer": 1,
+   "explain": "Under the methodology, running a wheel over a control line gives 25 penalty points. The test is failed if the total is more than 99, so four such errors already mean failure."
+  },
+  {
+   "id": "m21-080",
+   "q": "You want to obtain categories A and B at the same time. How will you take the tests?",
+   "options": [
+    "Two theory tests and two practical tests: separately for each category",
+    "One theory test and one joint practical test in a car",
+    "Only the practical test: the theory test is not taken for A",
+    "One theory test and a separate practical test for each category"
+   ],
+   "answer": 3,
+   "explain": "When obtaining a licence with several categories, the candidate takes one theory test and a practical test for each category separately. For A the practical test is taken on a two-wheeled motorcycle, and for B in a car."
+  }
+ ]
+}

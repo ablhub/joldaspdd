@@ -1,0 +1,137 @@
+{
+ "questions": [
+  {
+   "id": "m22-079",
+   "q": "You are driving a truck in a convoy in dense fog. The truck ahead is going slower than you would like. May you overtake it, as shown?",
+   "options": [
+    "Yes, if the oncoming lane is clear for 300 m",
+    "No: members of a convoy are forbidden to overtake one another",
+    "Yes, if you warn it by flashing your main-beam headlights",
+    "Yes, if you return to the convoy in front of it immediately"
+   ],
+   "answer": 1,
+   "explain": "A member of a convoy does not break its order of movement: you may not overtake other members, leave the convoy or stop on your own, except for a forced stop. The speed is set by the convoy leader or the lead vehicle. If something hinders movement, tell the leading or rear vehicle ⟦13⟧."
+  },
+  {
+   "id": "m22-080",
+   "q": "A convoy of road trains stops on the shoulder at night in a snowstorm on the leader's signal. What must be switched on on your road train during this stop?",
+   "options": [
+    "Hazard warning lights, position lamps and the “Road train” sign",
+    "Only the position lamps: hazard warning lights are not needed in a convoy",
+    "Only the “Road train” sign; the other lights are switched off",
+    "Main-beam headlights, so that the convoy can be seen from far away"
+   ],
+   "answer": 0,
+   "explain": "When a convoy stops on the road, hazard warning lights are switched on on all vehicles ⟦14⟧. At night and in poor visibility, position lamps ⟦15⟧ and the “Road train” sign ⟦16⟧ are lit during the stop. Main beam dazzles other drivers ⟦17⟧."
+  },
+  {
+   "id": "m22-081",
+   "q": "You are turning right in a tractor unit with a semi-trailer. Why can you not start the turn as early and as close to the kerb as in a passenger car?",
+   "options": [
+    "The semi-trailer wheels follow a smaller arc and will cut the corner",
+    "The tractor cab turns along a smaller arc than the semi-trailer wheels",
+    "The Rules prohibit road trains from turning from the right lane",
+    "The semi-trailer always swings into the oncoming lane on a turn"
+   ],
+   "answer": 0,
+   "explain": "In a turn the rear wheels of the tractor unit and semi-trailer follow a shorter arc than the cab and cut the corner. So enter the turn later and slightly wider, moving to the adjacent lane if necessary ⟦18⟧, and watch the inside of the turn in the right-hand mirror: a pedestrian or cyclist may be there.",
+   "ref": "para. 54; safe driving recommendation"
+  },
+  {
+   "id": "m22-083",
+   "q": "The maximum authorised mass of a truck is 7 t. Which licence category (subcategory) is enough to drive it?",
+   "options": [
+    "Category B",
+    "Subcategory C1",
+    "Only category C",
+    "Subcategory C1E"
+   ],
+   "answer": 1,
+   "explain": "Subcategory C1 covers motor cars (except buses) with a maximum authorised mass of more than 3500 kg but not more than 7500 kg. A 7 t truck falls into C1. Category C also suffices because it includes C1, but it is not required."
+  },
+  {
+   "id": "m22-084",
+   "q": "You are 19 years old, obtained subcategory C1 a year ago after an ordinary driving school and have worked as a driver since. When can you obtain category C?",
+   "options": [
+    "Now: one year of experience on C1 is enough for C",
+    "From age 23, with 3 years as a driver, including a year on D1",
+    "From age 25, with 5 years as a driver on any category",
+    "From age 21, with 3 years as a driver, including a year on C1"
+   ],
+   "answer": 3,
+   "explain": "Category C is obtained from age 21 with at least 3 years of work as a driver, including at least 1 year on vehicles of subcategory C1. You are 19, so you need to wait. Age 23 and experience on D1 are the requirements for category D."
+  },
+  {
+   "id": "m22-085",
+   "q": "You hold category C. May you drive your truck with a trailer whose maximum authorised mass is 2 t?",
+   "options": [
+    "Yes: category C allows towing a trailer of any mass",
+    "Yes, if the trailer is empty and weighs less than 750 kg",
+    "No: category C allows a trailer of up to 750 kg; you need CE",
+    "No: any trailer behind a truck needs a separate category E"
+   ],
+   "answer": 2,
+   "explain": "Category C allows towing a trailer with a maximum authorised mass of no more than 750 kg. The authorised mass of your trailer is 2 t, so you need category CE. What counts is the authorised, not the actual, mass of the trailer, so an empty body does not help."
+  },
+  {
+   "id": "m22-086",
+   "q": "You hold a category C licence. Do you need to obtain subcategory C1 separately to drive a truck with a maximum authorised mass of 6 t?",
+   "options": [
+    "No: a C licence also gives the right to C1",
+    "Yes: subcategory C1 is always taken in a separate test",
+    "No, but only if you have more than 3 years of experience",
+    "Yes, if the truck will carry people in the body"
+   ],
+   "answer": 0,
+   "explain": "A category C licence confirms the right to drive vehicles of subcategory C1 as well, just as D includes D1 and CE includes C1E. No separate C1 test is needed."
+  },
+  {
+   "id": "m22-087",
+   "q": "On what vehicle is the practical test for subcategory C1 taken?",
+   "options": [
+    "On a truck with a maximum authorised mass of more than 3500 kg",
+    "On a passenger car, as for the category B test",
+    "On a truck with a maximum authorised mass of exactly 7500 kg",
+    "On a tractor unit with a semi-trailer of any mass"
+   ],
+   "answer": 0,
+   "explain": "The practical test is taken on a vehicle of the category for which the licence is issued. For C and C1 the Examination Rules name one vehicle: a truck with a maximum authorised mass of over 3500 kg. It is taken at an automated test ground."
+  },
+  {
+   "id": "m22-088",
+   "q": "Which of these exercises do the Examination Rules provide for the practical test for category C?",
+   "options": [
+    "Figure of eight",
+    "Track plank",
+    "Slalom",
+    "Coupling to a semi-trailer"
+   ],
+   "answer": 2,
+   "explain": "For categories C and C1 the test ground zones are the same as for B: start, stopping and moving off on a hill, pedestrian crossing, 90-degree turns, slalom, U-turn and parking, parallel reversing parking, controlled intersection, level crossing, acceleration lane, emergency stop, finish. The figure of eight and the track plank are motorcycle exercises. The exact set and order of zones is set by the layout of your test ground."
+  },
+  {
+   "id": "m22-089",
+   "q": "You are driving a truck with a maximum authorised mass of 12 t outside a built-up area on a road with a central reservation (not a motorway) and pass these signs. What is the highest speed at which you may continue?",
+   "options": [
+    "90 km/h",
+    "80 km/h",
+    "70 km/h",
+    "60 km/h"
+   ],
+   "answer": 2,
+   "explain": "The upper sign “90” applies to everyone, and the lower “70” with plate 7.4.1 applies to trucks, that is, to you. Your own limit on such a road is 80 km/h, but of all the restrictions the strictest is observed: 70 km/h."
+  },
+  {
+   "id": "m22-090",
+   "q": "May you use your truck with a trailer that is not designed to travel in a combination with this vehicle?",
+   "options": [
+    "No: this is a condition under which use is prohibited",
+    "Yes, if the coupling device fits in size",
+    "Yes, if the authorised mass of the trailer is no more than 750 kg",
+    "Yes, over a short distance, without leaving the city"
+   ],
+   "answer": 0,
+   "explain": "The Basic Provisions prohibit the use of a motor vehicle with a trailer that is not designed to travel in a combination with it. That the coupling device happens to fit in size does not change this."
+  }
+ ]
+}

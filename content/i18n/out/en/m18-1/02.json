@@ -1,0 +1,321 @@
+{
+  "questions": [
+    {
+      "id": "m18-01",
+      "q": "You are approaching an intersection with this sign in front of it. What does it require of you?",
+      "options": [
+        "Stop at the edge of the intersection in any case",
+        "Give way to vehicles on the road being crossed",
+        "Go first: you are on the priority road",
+        "Give way only to pedestrians on the crossing"
+      ],
+      "answer": 1,
+      "explain": "Sign 2.4 requires you to give way to vehicles on the road being crossed, or, with plate 7.13, to those on the priority road. You do not have to stop if you are not impeding anyone."
+    },
+    {
+      "id": "m18-02",
+      "q": "There is this sign in front of the intersection. The road being crossed is empty and visibility is excellent. What should you do?",
+      "options": [
+        "Drive through without stopping, slowing down in advance",
+        "Stop only if there are vehicles at the intersection",
+        "Always stop, then continue",
+        "Sound the horn and drive through without stopping"
+      ],
+      "answer": 2,
+      "explain": "Sign 2.5 prohibits passing without stopping before the stop line, or, if there is none, before the edge of the carriageway being crossed. You must stop even at an empty intersection, and then give way if anyone appears."
+    },
+    {
+      "id": "m18-03",
+      "q": "You are driving on a road with the “Priority road” sign. A green car is approaching the intersection from a minor road on your right. Who goes first?",
+      "options": [
+        "The green car: it is approaching from the right",
+        "You: you are on the priority road",
+        "Whoever reached the intersection first",
+        "The green car, if it is going straight"
+      ],
+      "answer": 1,
+      "explain": "You are on the priority road and the green car is on a minor road. At an intersection of roads of unequal status, the driver on the minor road gives way to those on the priority road, regardless of their direction. The “priority to the right” rule applies only on roads of equal status."
+    },
+    {
+      "id": "m18-04",
+      "q": "You are driving on a road with the “Priority road” sign, but the traffic light at the intersection is red for you. What should you do?",
+      "options": [
+        "Drive on: the priority road matters more than the traffic light",
+        "Drive on if the road being crossed is empty",
+        "Stop only if there is a stop line",
+        "Stop: here the traffic light sets the order"
+      ],
+      "answer": 3,
+      "explain": "An intersection where the order is set by traffic lights is controlled, and priority signs do not decide who goes first there. At a red light you stop at the stop line, or, if there is none, before the carriageway being crossed."
+    },
+    {
+      "id": "m18-05",
+      "q": "The traffic light is flashing amber, and you have the “Give way” sign in front of the intersection. Who must you give way to?",
+      "options": [
+        "Only the blue car",
+        "Only the green car",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2,
+      "explain": "A flashing amber signal means the intersection is uncontrolled, and priority signs set the order. Under sign 2.4 you give way to everyone on the priority road being crossed, that is, to both the blue and the green car."
+    },
+    {
+      "id": "m18-06",
+      "q": "There is this sign in front of a road narrowing. A truck is approaching the narrow section from the other side, and you will reach the narrowing almost at the same time. What do you do?",
+      "options": [
+        "Enter first, before the truck arrives",
+        "Flash your headlights so that the truck stops",
+        "Give way and do not enter the narrowing",
+        "Go first, keeping close to the shoulder"
+      ],
+      "answer": 2,
+      "explain": "Sign 2.6 prohibits entering a narrow section if this would obstruct oncoming traffic. You give way to oncoming vehicles that are already on the narrow section or at the opposite entrance to it."
+    },
+    {
+      "id": "m18-07",
+      "q": "There is this sign in front of a narrow section. An oncoming car has reached the narrowing from the other side at the same time as you. Who goes first?",
+      "options": [
+        "The oncoming car: it arrived from the other side",
+        "You: you have priority here",
+        "Whoever is driving faster",
+        "Whoever switches on their headlights first"
+      ],
+      "answer": 1,
+      "explain": "Sign 2.7 marks a narrow section where you have priority over oncoming vehicles. Oncoming drivers who have sign 2.6 in front of them must give way to you."
+    },
+    {
+      "id": "m18-08",
+      "q": "Under the “Give way” sign in front of you there is a plate, as in the diagram. Who does this sign with the plate require you to give way to?",
+      "options": [
+        "Everyone on the road being crossed",
+        "Only vehicles approaching from the right",
+        "Those on the priority road (thick line)",
+        "Nobody: the plate cancels the whole sign"
+      ],
+      "answer": 2,
+      "explain": "Plate 7.13 shows the direction of the priority road at the intersection: the thick line. Sign 2.4 with this plate requires you to give way to vehicles on the priority road, and with drivers on minor roads you pass one another by the “priority to the right” rule ⟦39⟧."
+    },
+    {
+      "id": "m18-09",
+      "q": "You live on a street whose entrance from this side is marked by this sign. Can you enter here to reach your home?",
+      "options": [
+        "Yes: this sign does not prohibit residents from entering",
+        "Yes, if you enter at the intersection nearest to your home",
+        "Yes, if you drive no faster than 20 km/h",
+        "No: this sign has no exception for residents"
+      ],
+      "answer": 3,
+      "explain": "Sign 3.1 prohibits entry by all vehicles in the given direction; the exception is made for route vehicles. The exception for residents and those serving the zone applies to signs 3.2-3.8 and does not apply to sign 3.1."
+    },
+    {
+      "id": "m18-10",
+      "q": "You work in an office located in the zone of this sign. Can you drive there in your own car?",
+      "options": [
+        "No: the exception is only for residents of the zone",
+        "Yes, entering at the intersection nearest to the office",
+        "Yes, but only until 8 am, while there are no traffic jams",
+        "Yes, by any route, if you have a pass"
+      ],
+      "answer": 1,
+      "explain": "Sign 3.2 does not apply to vehicles that belong to citizens who live or work in the marked zone, or that serve them. You must enter and leave at the intersection nearest to your destination.",
+      "ref": "Annex 1, Chapter 3 (exceptions for signs 3.2-3.8)"
+    },
+    {
+      "id": "m18-11",
+      "q": "You are in the zone of this sign, on a road with two lanes in your direction. Ahead in the right lane a tractor without a trailer is travelling at about 25 km/h. May you overtake it in the left lane of your own direction, if there are no other prohibitions?",
+      "options": [
+        "Yes: it has no trailer and is moving slower than 30 km/h",
+        "No: the sign prohibits overtaking any vehicle",
+        "Yes, but only on the right, on the shoulder",
+        "No: tractors may be overtaken only outside the zone"
+      ],
+      "answer": 0,
+      "explain": "Sign 3.20 prohibits overtaking all vehicles except those without a trailer that are moving slower than 30 km/h. The tractor has no trailer and is moving at about 25 km/h, and to overtake in the left lane of your own direction you do not need to move onto the oncoming side, so overtaking is permitted."
+    },
+    {
+      "id": "m18-12",
+      "q": "Outside a built-up area you have passed this sign and then a filling station exit, as in the diagram. There were no intersections. The truck ahead is doing 60 km/h. May you overtake it?",
+      "options": [
+        "Yes: the filling station exit ended the effect of the sign",
+        "No: a filling station exit is not an intersection",
+        "Yes: the sign applies for only 100 m",
+        "Yes, if the truck signals a right turn"
+      ],
+      "answer": 1,
+      "explain": "The zone of sign 3.20 extends to the nearest intersection. Exits from adjacent areas, such as a filling station, are not counted as intersections and do not interrupt the effect of the sign.",
+      "scene": {
+        "side.0.text": "filling station"
+      }
+    },
+    {
+      "id": "m18-13",
+      "q": "In a town this sign is installed, and there are several intersections ahead. There is no sign 3.25 further on. Where will the restriction end?",
+      "options": [
+        "1 km after the sign",
+        "Only at the sign marking the end of the built-up area",
+        "At the next traffic light",
+        "At the nearest intersection beyond the sign"
+      ],
+      "answer": 3,
+      "explain": "The zone of sign 3.24 runs from the place of installation to the nearest intersection beyond it. It applies up to the end of the built-up area only if there are no intersections."
+    },
+    {
+      "id": "m18-14",
+      "q": "Outside a built-up area, before the entrance to a village, there is this sign. There are no intersections before the sign marking the start of the built-up area (white background). Up to which point does the restriction apply?",
+      "options": [
+        "Up to the sign marking the start of the built-up area",
+        "Up to the end of the built-up area",
+        "For 500 m after the sign",
+        "Up to the first intersection inside the village"
+      ],
+      "answer": 0,
+      "explain": "Sign 3.24 installed before a built-up area marked by sign 5.22 applies up to that sign. After it, the rules for built-up areas apply (60 km/h)."
+    },
+    {
+      "id": "m18-15",
+      "q": "Can you stop for a minute under this sign to let a passenger out?",
+      "options": [
+        "Yes, if the driver does not get out of the vehicle",
+        "Yes, if the hazard warning lights are on",
+        "No: the sign prohibits both stopping and parking",
+        "Yes, if the stop is shorter than 5 minutes"
+      ],
+      "answer": 2,
+      "explain": "Sign 3.27 “No stopping” prohibits both stopping and parking, so a passenger may not be let out here even for a minute. The exception from the sign is for route vehicles, not for ordinary drivers."
+    },
+    {
+      "id": "m18-16",
+      "q": "You stopped under this sign to let a passenger out and drove off immediately. Did you break the rules?",
+      "options": [
+        "No: the sign prohibits only parking",
+        "Yes, this sign prohibits any stopping of the vehicle",
+        "Yes, if the passenger got out onto the carriageway",
+        "Yes, if it was during the hours of darkness"
+      ],
+      "answer": 0,
+      "explain": "Sign 3.28 prohibits parking. A brief stop, including for boarding or alighting of passengers, is permitted under it."
+    },
+    {
+      "id": "m18-17",
+      "q": "Today is the 15th. May you leave your car parked by this sign?",
+      "options": [
+        "Yes, parking is allowed here today",
+        "No: parking is prohibited on odd days",
+        "Only from 19 to 21 h",
+        "You may neither stop nor park"
+      ],
+      "answer": 1,
+      "explain": "Sign 3.29 prohibits parking on odd days of the month; stopping is permitted. The time 19 to 21 h is when vehicles are moved, if signs 3.29 and 3.30 are used together."
+    },
+    {
+      "id": "m18-18",
+      "q": "This sign stands at the start of a section of road, not before an intersection. Which path may be used to enter the yard?",
+      "options": [
+        "Path A only",
+        "Path B only",
+        "Both paths",
+        "Neither path"
+      ],
+      "answer": 0,
+      "explain": "Sign 4.1.1 at the start of a section of road applies up to the nearest intersection and does not prohibit a right turn into adjacent areas (A). It does prohibit a left turn into the yard (B)."
+    },
+    {
+      "id": "m18-19",
+      "q": "May you make a U-turn at the intersection in front of which this sign stands?",
+      "options": [
+        "No: only ahead or left is permitted",
+        "No: a U-turn is permitted only for route vehicles",
+        "Only if the intersection has traffic lights",
+        "Yes: a left turn also includes a U-turn"
+      ],
+      "answer": 3,
+      "explain": "Mandatory signs that permit a left turn also permit a U-turn. Sign 4.1.5 permits ahead and left, so a U-turn is also permitted.",
+      "ref": "Annex 1, Chapter 4 (signs 4.1.1-4.1.6)"
+    },
+    {
+      "id": "m18-20",
+      "q": "Who is allowed to use a track with this sign?",
+      "options": [
+        "Bicycles only",
+        "Bicycles, mopeds and e-scooters",
+        "Bicycles, e-scooters and monowheels",
+        "Bicycles and mopeds with an electric motor"
+      ],
+      "answer": 2,
+      "explain": "Sign 4.5 permits only bicycles, e-scooters and small electric vehicles, for example monowheels. Mopeds may not use it. Pedestrians use a cycle track only if there is no pavement, footpath or shoulder, or if it is impossible to walk on them ⟦40⟧."
+    },
+    {
+      "id": "m18-21",
+      "q": "You have passed this sign with the name of a built-up area; there are no other signs. What is the maximum speed at which you may drive a passenger car?",
+      "options": [
+        "50 km/h",
+        "80 km/h",
+        "60 km/h",
+        "90 km/h"
+      ],
+      "answer": 2,
+      "explain": "Sign 5.22 marks the start of a built-up area, where the rules for built-up areas apply: no more than 60 km/h. 50 km/h is the limit for buses and trucks."
+    },
+    {
+      "id": "m18-22",
+      "q": "What does the name of a built-up area on a blue background, as on this sign, mean?",
+      "options": [
+        "The start of a built-up area with a 60 km/h limit",
+        "The rules for built-up areas do not apply here",
+        "The end of a built-up area",
+        "The direction to this built-up area"
+      ],
+      "answer": 1,
+      "explain": "Sign 5.24 shows the name and start of a built-up area in which, on this road, the requirements of the Rules for built-up areas do not apply. The speed limit stays as outside a built-up area."
+    },
+    {
+      "id": "m18-23",
+      "q": "You have entered the zone marked by this sign. At what speed may you drive?",
+      "options": [
+        "No more than 20 km/h",
+        "No more than 40 km/h",
+        "No more than 60 km/h",
+        "No more than 10 km/h"
+      ],
+      "answer": 0,
+      "explain": "Sign 5.38 marks a residential zone. In residential zones and residential courtyards, driving is permitted at no more than 20 km/h."
+    },
+    {
+      "id": "m18-24",
+      "q": "You are leaving the zone whose end is marked by this sign onto an ordinary street. Who must you give way to?",
+      "options": [
+        "Nobody, if the street is a minor road",
+        "Only vehicles coming from the right",
+        "All other road users",
+        "Only pedestrians"
+      ],
+      "answer": 2,
+      "explain": "Sign 5.39 marks the end of the residential zone. When leaving a residential zone, the driver gives way to other road users."
+    },
+    {
+      "id": "m18-25",
+      "q": "What is prohibited on a road marked with this sign?",
+      "options": [
+        "Overtaking in the left lane if it is free",
+        "U-turns at central reservation gaps",
+        "Passenger cars driving faster than 90 km/h",
+        "Driving with dipped headlights in daylight"
+      ],
+      "answer": 1,
+      "explain": "On a motorway (sign 5.1), U-turns and driving into the gaps in the central reservation are prohibited, as well as reversing and learner driving. Passenger cars may drive there at up to 140 km/h, unless signs require otherwise."
+    },
+    {
+      "id": "m18-26",
+      "q": "You are driving outside a built-up area and see this sign with no plates. Roughly where does the hazardous section begin?",
+      "options": [
+        "Immediately after the sign",
+        "After 50-100 m",
+        "After 150-300 m",
+        "After 500-700 m"
+      ],
+      "answer": 2,
+      "explain": "Outside built-up areas, warning signs are placed 150-300 m before the hazardous section, and in built-up areas 50-100 m. A different distance is shown by plate 7.1.1."
+    }
+  ]
+}

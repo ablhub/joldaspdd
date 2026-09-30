@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "title": "Stopping and parking",
+  "pdd": "Chapter 12 of the Rules",
+  "summary": "You will learn how stopping differs from parking, where and how you may stop and park, where the prohibitions apply (with exact distances in metres), and what to do after a forced stop and when you walk away from your car."
+ },
+ "lesson": [
+  {
+   "h": "Stopping, parking and forced stops",
+   "p": [
+    "Stopping is an intentional halt of up to 5 minutes. A longer halt is also stopping if it is needed for passengers to board or alight, or for loading or unloading.",
+    "Parking is an intentional halt of more than 5 minutes for other reasons. For example, you are waiting for a friend outside a shop.",
+    "A forced stop is a halt you did not choose: because of a fault, a hazard from the load, the driver or a passenger feeling unwell, or an obstruction on the road."
+   ],
+   "tip": "Where stopping is prohibited, parking is prohibited too. It does not work the other way round."
+  },
+  {
+   "h": "Where you may stop",
+   "list": [
+    "On the right, on the shoulder. If there is no shoulder, on the carriageway at its right-hand edge.",
+    "On the left, only in built-up areas: on roads with one lane in each direction and no tram tracks in the middle, and on one-way roads.",
+    "Trucks over 3.5 t may stop on the left-hand side of a one-way road only for loading or unloading."
+   ]
+  },
+  {
+   "h": "How to position your vehicle",
+   "list": [
+    "On the carriageway: in a single row parallel to its edge. Any other arrangement is allowed only where the road has been specially widened and this permits it.",
+    "Two-wheeled vehicles without a sidecar may be parked in two rows.",
+    "Only passenger cars, motorcycles, mopeds and bicycles may park on the edge of the pavement next to the carriageway, fully or partly on it, and only if this does not obstruct pedestrians.",
+    "Outside built-up areas, parking for a long rest or an overnight stay is allowed only at designated sites or off the road."
+   ]
+  },
+  {
+   "h": "Where stopping is prohibited",
+   "p": [
+    "These prohibitions keep a vehicle from blocking the view, getting in the way of pedestrians and public transport, or causing traffic jams. Remember the places and distances:"
+   ],
+   "list": [
+    "Near tram tracks, if you obstruct trams.",
+    "On level crossings and in tunnels. The boundary of a level crossing is 10 m from the nearest rail.",
+    "On flyovers, bridges and overpasses, if there are fewer than three lanes in your direction; under them, whatever the number of lanes.",
+    "Where there is less than 3 m between your vehicle and a solid line (other than the line marking the edge of the carriageway), the opposite edge of the road or a vehicle standing there, if this obstructs traffic.",
+    "On pedestrian crossings and within 5 m before them. There is no such prohibition immediately after a crossing.",
+    "Near dangerous bends and at brows of hills, if visibility is less than 100 m in at least one direction.",
+    "Where carriageways intersect and within 30 m of the edge of the intersecting carriageway, both before and after the intersection. The exception is the side opposite the side road at a T-junction with a solid line or a central reservation. An exit from a yard does not count as an intersection.",
+    "In stop areas and within 15 m of them or, if there is no stop area, within 15 m of the stop indicator for route vehicles or taxis (except buses of categories M2 and M3).",
+    "Where your vehicle would hide traffic lights or signs, prevent others from entering or leaving, cause a traffic jam or obstruct pedestrians.",
+    "On flower beds, lawns, playgrounds and sports grounds.",
+    "On cycle tracks and in cycle lanes. There is one exception: you may enter a cycle lane with sign 4.5 and plate 7.14 that is separated by a broken line to let a passenger board or alight at the right-hand edge, after giving way to cyclists ⟦13⟧. If the line is solid, you must not stop in the cycle lane.",
+    "In a lane for route vehicles (signs 5.9, 5.10.1-5.10.3): no vehicles may stop in it except public transport (including taxis) and vehicles of category M3 ⟦14⟧. You must not enter it to let passengers board or alight, even if the line is broken."
+   ],
+   "tip": "Three key numbers: 5 m before a pedestrian crossing, 15 m from a bus stop, 30 m from an intersection."
+  },
+  {
+   "h": "Where parking is prohibited",
+   "list": [
+    "Wherever stopping is prohibited.",
+    "On flyovers, bridges and overpasses, whatever the number of lanes.",
+    "Outside built-up areas, on the carriageway of roads marked with sign 2.1 “Priority road”.",
+    "Within 50 m of level crossings.",
+    "With the engine running in built-up areas, if this causes inconvenience to residents.",
+    "On flower beds, lawns, playgrounds and sports grounds."
+   ]
+  },
+  {
+   "h": "Signs and markings that prohibit stopping and parking",
+   "p": [
+    "Sign 3.27 “No stopping” prohibits both stopping and parking. Sign 3.28 “No parking” prohibits only parking: you may drop off a passenger or unload under it. Signs 3.29 and 3.30 prohibit parking on odd and even days of the month respectively.",
+    "These signs apply only on the side of the road where they are placed: from the sign to the nearest intersection beyond it or, in a built-up area with no intersections, to the end of the built-up area. Exits from yards do not interrupt their effect. The prohibition ends earlier at sign 3.31 “End of all restrictions”, at a repeated sign with plate 7.2.3, or where plate 7.2.2 “Zone of application” indicates. If sign 3.27 is used together with yellow line 1.4, or sign 3.28 with line 1.10, the zone of application equals the length of the line."
+   ],
+   "list": [
+    "A plate showing the time limits the prohibition to the hours shown, and a plate with a picture of a truck makes it apply only to trucks with a maximum authorised mass of more than 3.5 t.",
+    "Sign 3.27 and line 1.4 do not apply to route vehicles. Signs 3.28-3.30 and line 1.10 do not apply to taxis with the taximeter on or to vehicles driven by, or carrying, persons with group I or II disabilities (and also group III disabilities involving musculoskeletal disorders).",
+    "If signs 3.29 and 3.30 are placed on opposite sides of a street, vehicles are moved from one side to the other from 19:00 to 21:00.",
+    "A yellow solid line 1.4 along the edge of the carriageway or on the kerb prohibits stopping, and a yellow broken line 1.10 prohibits parking. A yellow zigzag line 1.17 marks route vehicle stops and taxi ranks."
+   ],
+   "tip": "Under sign 3.28 you may spend 20 minutes unloading your vehicle: loading and unloading count as stopping, not parking."
+  },
+  {
+   "h": "A forced stop where stopping is prohibited",
+   "p": [
+    "If a vehicle has come to a halt where stopping is prohibited, the driver must take all necessary measures to move it away from there.",
+    "While the vehicle is stationary, switch on the hazard warning lights and place the warning triangle on the side of greatest danger: at least 15 m from the vehicle in a built-up area and 30 m outside it."
+   ]
+  },
+  {
+   "h": "When you get out and leave your vehicle",
+   "p": [
+    "You must not open the doors, leave them open or step out onto the carriageway without making sure that this will not obstruct or endanger others. First look in the mirror and over your shoulder.",
+    "When leaving the vehicle, the driver must take measures to prevent it from moving on its own. This is especially important on a slope: apply the parking brake and only then get out."
+   ]
+  }
+ ],
+ "keyFacts": [
+  "Stopping: up to 5 minutes, or longer for boarding, alighting, loading and unloading; parking: more than 5 minutes for other reasons ⟦1⟧",
+  "Stop on the right, on the shoulder or, if there is none, at the edge of the carriageway; on the left, only in a built-up area on a road with one lane in each direction and no tram tracks in the middle, or on a one-way road ⟦2⟧",
+  "Stopping is prohibited on a cycle track and in a cycle lane ⟦3⟧; the exception is boarding and alighting in a cycle lane with sign 4.5 and plate 7.14 behind a broken line ⟦4⟧",
+  "Stopping is prohibited on pedestrian crossings and within 5 m before them ⟦5⟧",
+  "Stopping is prohibited where carriageways intersect and within 30 m of the edge of the intersecting carriageway ⟦6⟧",
+  "Stopping is prohibited in stop areas and within 15 m of them or of the stop indicator for route vehicles and taxis ⟦7⟧",
+  "Stopping is prohibited if there is less than 3 m to a solid line or the opposite edge and this obstructs traffic ⟦8⟧",
+  "Stopping is prohibited near dangerous bends and brows of hills when visibility is less than 100 m ⟦9⟧",
+  "Stopping is prohibited on level crossings, in tunnels and under bridges; on bridges, if there are fewer than three lanes in your direction ⟦10⟧",
+  "Parking is prohibited within 50 m of a level crossing and on any bridge ⟦11⟧",
+  "The warning triangle is placed at least 15 m from the vehicle in a built-up area and 30 m outside it ⟦12⟧",
+  "Signs 3.27-3.30 apply only on their own side of the road, up to the nearest intersection; the yellow solid line 1.4 prohibits stopping, the yellow broken line 1.10 prohibits parking (Annex 1, Annex 2)"
+ ],
+ "mistakes": [
+  "Thinking you can stop at a pedestrian crossing for a minute. Stopping is prohibited on a crossing and within 5 m before it, even to drop someone off.",
+  "Thinking it is enough to move a couple of metres away from an intersection. Under the Rules, stopping is prohibited within 30 m of the edge of the intersecting carriageway.",
+  "Believing that at a level crossing the only ban is on standing on the tracks. Parking is also prohibited within 50 m of the crossing.",
+  "Thinking that hazard warning lights let you stop anywhere. They only mark the vehicle: it must be moved out of a place where stopping is prohibited.",
+  "Thinking you can stop under a wide bridge if it has many lanes. Stopping is prohibited under flyovers, bridges and overpasses whatever the number of lanes.",
+  "Flinging the door open without looking back. First make sure you will not obstruct vehicles or cyclists."
+ ]
+}

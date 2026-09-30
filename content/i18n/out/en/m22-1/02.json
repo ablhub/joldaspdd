@@ -1,0 +1,102 @@
+{
+"questions": [
+ {
+  "id": "m22-001",
+  "q": "You are driving a truck with a maximum authorised mass of 12 t along a road with a central reservation and enter a village marked by this sign on a blue background. It is not a motorway, and there are no other signs. What is the highest speed at which you may drive?",
+  "options": ["50 km/h", "60 km/h", "90 km/h", "80 km/h"],
+  "answer": 3,
+  "explain": "The 5.24 sign on a blue background means that the rules for built-up areas do not apply on this road, so the built-up area limit of 50 km/h does not apply here. The out-of-town limit applies: for a truck heavier than 3.5 t on a road with a central reservation it is 80 km/h."
+ },
+ {
+  "id": "m22-002",
+  "q": "You are driving a truck with a maximum authorised mass of 12 t. Before a village you passed a 3.24 “60” sign, and then the sign for the start of a built-up area, as in the diagram. What is the highest speed for you now?",
+  "options": ["60 km/h", "50 km/h", "70 km/h", "40 km/h"],
+  "answer": 1,
+  "explain": "A 3.24 sign placed before a built-up area applies only up to the 5.22 sign. After that the built-up area limit applies, and trucks are allowed no more than 50 km/h in built-up areas."
+ },
+ {
+  "id": "m22-003",
+  "q": "You are driving out of town in a truck with a maximum authorised mass of 20 t along a road as in the picture. There is no “Motorway” sign and no speed limit signs. What is the highest speed for you?",
+  "options": ["70 km/h", "80 km/h", "90 km/h", "100 km/h"],
+  "answer": 1,
+  "explain": "The oncoming lanes are separated by a central reservation, but this is not a motorway. For a truck heavier than 3.5 t on a road with a central reservation, no more than 80 km/h is allowed."
+ },
+ {
+  "id": "m22-004",
+  "q": "You are driving a truck with a maximum authorised mass of 20 t and have passed the “End of motorway” sign. Beyond it the road has one lane in each direction and no central reservation, and there are no limit signs. What is the highest speed at which you may drive?",
+  "options": ["90 km/h", "80 km/h", "70 km/h", "110 km/h"],
+  "answer": 2,
+  "explain": "Sign 5.2 ends the motorway, and the 90 km/h limit no longer applies. For a truck heavier than 3.5 t on a road without a central reservation, no more than 70 km/h is allowed."
+ },
+ {
+  "id": "m22-005",
+  "q": "You are driving a truck with a maximum authorised mass of 15 t out of town along a road without a central reservation and you see this sign. What is the highest speed at which you may drive?",
+  "options": ["90 km/h", "80 km/h", "70 km/h"],
+  "answer": 2,
+  "explain": "The 3.24 sign prohibits driving faster than 90 km/h, but it does not allow you to exceed the limit for your vehicle. For a truck heavier than 3.5 t on such a road, the limit is no more than 70 km/h."
+ },
+ {
+  "id": "m22-006",
+  "q": "You are driving a van with a maximum authorised mass of 3.2 t out of town along a road with a central reservation and pass a 3.24 “110” sign. It is not a motorway. What is the highest speed at which you may drive?",
+  "options": ["90 km/h", "100 km/h", "110 km/h", "80 km/h"],
+  "answer": 1,
+  "explain": "The 3.24 sign only prohibits driving faster than 110 km/h and does not raise the limit for your vehicle. A truck up to 3.5 t on a road with a central reservation is allowed no more than 100 km/h (on a motorway 110, on other roads 90)."
+ },
+ {
+  "id": "m22-007",
+  "q": "The driver of a road train put workers in the load body of a goods trailer and drove off. What fine does the CAO provide for such carriage of passengers outside the cab?",
+  "options": ["5 MCI (21 625 tenge)", "10 MCI (43 250 tenge)", "15 MCI (64 875 tenge)", "A warning"],
+  "answer": 1,
+  "explain": "Carrying passengers on a goods trailer is prohibited ⟦85⟧. For carrying passengers outside the cab (passenger compartment), the CAO sets a fine of 10 MCI, which in 2026 is 43 250 tenge. For other violations of the rules on the carriage of passengers and goods, the fine is 5 MCI."
+ },
+ {
+  "id": "m22-008",
+  "q": "Your truck with a maximum authorised mass of 20 t (category N3) has no retroreflective marking on its sides and rear. May you set off on a trip?",
+  "options": ["Yes, in daytime: the marking is needed only in the dark", "Yes: such marking is applied only to trailers", "No: without the marking, operation is prohibited", "Yes, if all the position lamps work"],
+  "answer": 2,
+  "explain": "The outlines of the side and rear of vehicles of categories M2, M3, N2, N3, O2, O3, O4 are marked with retroreflective material ⟦86⟧. If the marking is missing, operation is prohibited under the List of Defects, in daytime too."
+ },
+ {
+  "id": "m22-009",
+  "q": "You are driving a truck with a maximum authorised mass of 20 t and carrying dangerous goods along a motorway. When the conditions of carriage were approved, you were prescribed a speed of no more than 60 km/h, and there are no limit signs. What is the highest speed at which you may drive?",
+  "options": ["90 km/h", "70 km/h", "50 km/h", "60 km/h"],
+  "answer": 3,
+  "explain": "The truck itself could drive up to 90 km/h on a motorway. But when carrying dangerous, overweight and oversized goods you must not exceed the speed prescribed when the carriage was approved, so you observe the lower limit - 60 km/h."
+ },
+ {
+  "id": "m22-010",
+  "q": "On which vehicles must the “Speed limit” identification sign (a reduced-size 3.24 sign with a number) be fitted?",
+  "options": ["On all trucks heavier than 3.5 t and on all buses", "On road trains longer than 20 m and on vehicles with a trailer", "On vehicles with an overweight or oversized load and on slow-moving vehicles", "On vehicles with dangerous goods and on trucks carrying people in the load body"],
+  "answer": 2,
+  "explain": "The sign is fitted at the rear left on vehicles that carry overweight and oversized loads, and on vehicles whose maximum speed by their technical specifications is below the limit in the Rules. You must not exceed the number on this sign ⟦87⟧."
+ },
+ {
+  "id": "m22-011",
+  "q": "You are driving a truck with a maximum authorised mass of 12 t along a one-way street in a built-up area with three lanes in your direction. You need to unload goods at a shop on the left side. May you change into the far left lane and stop at the left edge, as shown?",
+  "options": ["No: for you this lane is only for turning left and making a U-turn", "Yes: you are allowed to stop on the left to unload", "Yes, but only if unloading takes no more than 5 minutes", "No: only passenger cars stop on the left in such a street"],
+  "answer": 1,
+  "explain": "A truck heavier than 3500 kg uses the far left lane only to turn left or make a U-turn, but for driving to the left side of a one-way road in order to stop, para. 63 refers to para. 84. And para. 84 allows such a truck to stop on the left for loading or unloading, and this is not limited to 5 minutes ⟦88⟧."
+ },
+ {
+  "id": "m22-012",
+  "q": "You are driving a truck with a maximum authorised mass of 12 t along a street with three lanes in each direction. At the next intersection you will make a U-turn. Which path should you continue along?",
+  "options": ["Path A", "Path B", "Either path", "Neither: a truck may not use the left lane"],
+  "answer": 0,
+  "explain": "U-turns are made from the far left position ⟦89⟧. For a truck heavier than 3500 kg, the far left lane on such a road is allowed precisely for turning left and making a U-turn ⟦90⟧, so change lanes in advance along path A."
+ },
+ {
+  "id": "m22-013",
+  "q": "You are driving along a motorway in the second lane in a tractor unit with a semi-trailer (maximum authorised mass 40 t). A truck is going slowly ahead. May you change lanes along path A in order to overtake it?",
+  "options": ["Yes, if the third lane is clear for a sufficient distance", "Yes, but only in daylight and in good visibility", "Yes, if you switch on the hazard warning lights for the overtaking", "No: the third lane is prohibited here for a truck heavier than 3.5 t"],
+  "answer": 3,
+  "explain": "Path A leads into the third lane. On a motorway, trucks with a maximum authorised mass of more than 3.5 t are prohibited from driving beyond the second lane, so you may not overtake here."
+ },
+ {
+  "id": "m22-014",
+  "q": "You are driving along a motorway in the second lane in a van with a maximum authorised mass of 3 t. A truck is going slowly ahead. May you change lanes along path A in order to overtake it?",
+  "options": ["Yes, if it is safe: the ban applies to trucks heavier than 3.5 t", "No: trucks are not allowed in the third lane on a motorway", "No: on a motorway nobody may overtake in the left lane", "Yes, but only in heavy traffic, when the right-hand lanes are occupied"],
+  "answer": 0,
+  "explain": "The ban on driving beyond the second lane applies to trucks with a maximum authorised mass of more than 3.5 t ⟦91⟧. For a 3 t van, the far left lane is available for overtaking ⟦92⟧, provided you give way to those already driving in it."
+ }
+]
+}

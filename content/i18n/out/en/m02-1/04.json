@@ -1,0 +1,244 @@
+{
+ "questions": [
+  {
+   "id": "m02-n027",
+   "q": "Which of the following do the Rules expressly prohibit for the driver of a motorcycle?",
+   "options": [
+    "Holding the handlebars with one hand while giving a hand signal",
+    "Riding in the daytime with dipped headlights on",
+    "Carrying a passenger wearing a fastened motorcycle helmet",
+    "Riding on one wheel"
+   ],
+   "answer": 3,
+   "explain": "It is prohibited to ride a motorcycle or moped on one wheel or to be positioned anywhere other than the driving position. You must hold the handlebars with at least one hand, so giving a hand signal is allowed."
+  },
+  {
+   "id": "m02-n028",
+   "q": "On a smooth road, a motorcyclist took both hands off the handlebars to adjust his jacket. Did he break the Rules?",
+   "options": [
+    "Yes, he did",
+    "No, if the road is straight",
+    "No, if his speed is below 20 km/h",
+    "Yes, but only in a built-up area"
+   ],
+   "answer": 0,
+   "explain": "A driver must not ride a motorcycle or moped without holding the handlebars with at least one hand."
+  },
+  {
+   "id": "m02-n029",
+   "q": "You are carrying planks on a moped that project 60 cm beyond its overall length. They do not interfere with control. May you ride like this?",
+   "options": [
+    "Yes, as they do not interfere with control",
+    "Yes, if you tie a red flag to the planks",
+    "No, more than 50 cm is not allowed",
+    "No: loads may not be carried on a moped at all"
+   ],
+   "answer": 2,
+   "explain": "On motorcycles and mopeds, it is prohibited to carry a load that projects more than 50 cm beyond the vehicle's dimensions in length or width, or a load that interferes with control. 60 cm is more than allowed."
+  },
+  {
+   "id": "m02-n030",
+   "q": "You are carrying planks on a moped that project 40 cm beyond its overall length. They do not interfere with control. May you ride like this?",
+   "options": [
+    "Yes, up to 50 cm is allowed",
+    "No, any projecting load on a moped is prohibited",
+    "Yes, but only in daylight hours",
+    "No, no more than 30 cm is allowed"
+   ],
+   "answer": 0,
+   "explain": "The ban applies to a load that projects more than 50 cm beyond the moped's dimensions in length or width, or that interferes with control. The load projects 40 cm and does not interfere with control, so you may ride like this, with the load securely fastened."
+  },
+  {
+   "id": "m02-n031",
+   "q": "Which of these signs or documents do the Rules expressly require a vehicle in international traffic to have in order to drive in Kazakhstan?",
+   "options": [
+    "Kazakhstani state registration number plates",
+    "A vehicle registration certificate issued in Kazakhstan",
+    "A technical inspection passed only in Kazakhstan",
+    "The distinguishing sign of the country of registration"
+   ],
+   "answer": 3,
+   "explain": "A vehicle in international traffic is allowed to drive if it has the following, issued in accordance with international treaties: a registration certificate (for the vehicle or trailer), a registration number, the distinguishing sign of the country of registration, an identification mark and a document confirming a technical inspection. Kazakhstani documents and number plates are not needed for this."
+  },
+  {
+   "id": "m02-n032",
+   "q": "On the way, your horn has stopped working, and you cannot fix the fault on the spot. What should you do?",
+   "options": [
+    "Continue your journey along the route as usual",
+    "Drive carefully to a place of parking or repair",
+    "You must not drive at all; call a tow truck",
+    "Drive to the end of the route with the hazard warning lights on"
+   ],
+   "answer": 1,
+   "explain": "A horn that does not work is a fault that prohibits use of the vehicle, but it is not on the special list in para. 12(9) (brakes, steering, coupling device, headlights in the dark, wipers in rain). With such “other” faults, a driver who cannot fix them drives to a place of parking or repair, taking precautions."
+  },
+  {
+   "id": "m02-n033",
+   "q": "A driver has a licence issued in another country. He has left it at his hotel, but he has his passport with him. May he drive a car?",
+   "options": [
+    "Yes, his passport is enough for this",
+    "Yes, if he states his licence number",
+    "No, he may not",
+    "Yes, but only in daylight hours"
+   ],
+   "answer": 2,
+   "explain": "Driving without a driving licence on you is prohibited. The only exception is for a licence issued in Kazakhstan, when the driver has an identity document."
+  },
+  {
+   "id": "m02-n034",
+   "q": "You have not slept for almost 24 hours and feel very tired. You need to go somewhere urgently. May you drive?",
+   "options": [
+    "Yes, if you drink some coffee",
+    "Yes, if you drive slowly",
+    "Yes, if you turn the music up loud",
+    "No, not in this state"
+   ],
+   "answer": 3,
+   "explain": "The Rules prohibit driving a vehicle while ill or tired to a degree that endangers road safety. Coffee and music do not relieve fatigue."
+  },
+  {
+   "id": "m02-n035",
+   "q": "Which types of intoxication are expressly named in the ban on driving a vehicle?",
+   "options": [
+    "Alcohol, drug and toxic-substance intoxication",
+    "Only alcohol intoxication, if over the limit",
+    "Alcohol and drug, but not toxic-substance intoxication",
+    "The Rules do not specify the type of intoxication"
+   ],
+   "answer": 0,
+   "explain": "It is prohibited to drive a vehicle in a state of alcohol, drug and (or) toxic-substance intoxication, or under the influence of medicines that impair reaction and attention."
+  },
+  {
+   "id": "m02-n036",
+   "q": "Your passenger car is 4 years old, including the year of manufacture. You use it only for personal purposes. Does it need to pass the compulsory technical inspection for you to drive it?",
+   "options": [
+    "Yes, all vehicles need a technical inspection",
+    "No, such a car is exempt",
+    "Yes, if you drive out of town",
+    "No, the inspection has been abolished for all vehicles"
+   ],
+   "answer": 1,
+   "explain": "Driving a vehicle without the compulsory technical inspection is prohibited, except for category M1 vehicles no more than 7 years old, including the year of manufacture, if they are not used for business activities in road transport. Your car falls under this exception."
+  },
+  {
+   "id": "m02-n037",
+   "q": "Your passenger car is 4 years old, including the year of manufacture, and you use it as a taxi. Does it need to pass the compulsory technical inspection?",
+   "options": [
+    "No, cars under 7 years old do not need one",
+    "Yes, there is no exception for taxis",
+    "No, if the car carries no more than 4 passengers",
+    "Yes, but only once every 5 years"
+   ],
+   "answer": 1,
+   "explain": "The exemption from the technical inspection applies only to category M1 vehicles no more than 7 years old that are not used for business activities in road transport. Running a taxi is exactly such an activity."
+  },
+  {
+   "id": "m02-n038",
+   "q": "May you drive a car if its owner has not taken out compulsory civil liability insurance (OGPO)?",
+   "options": [
+    "Yes, if the driver is named in a power of attorney",
+    "Yes, but only in your own town",
+    "Yes, if the car is new",
+    "No"
+   ],
+   "answer": 3,
+   "explain": "A driver must not drive a vehicle whose owner, in the cases established by law, has not taken out compulsory civil liability insurance for vehicle owners."
+  },
+  {
+   "id": "m02-n039",
+   "q": "May you drive a car if its state number plates do not match the registration documents?",
+   "options": [
+    "Yes, if the plates are clean and legible",
+    "Yes, until the next technical inspection",
+    "No",
+    "Yes, if the plates are from another car of yours"
+   ],
+   "answer": 2,
+   "explain": "It is prohibited to drive a vehicle without state registration number plates or with plates that do not match the registration documents."
+  },
+  {
+   "id": "m02-n040",
+   "q": "Your friend has a driving licence for category A only. He asks to drive your passenger car. What should you do?",
+   "options": [
+    "Let him, as he has a licence",
+    "Let him, if you sit next to him",
+    "Let him, if he only drives in the yard",
+    "Refuse: category B is needed"
+   ],
+   "answer": 3,
+   "explain": "A driver must not hand over control of the vehicle to someone who has no driving licence for that category of vehicle. A category A licence does not entitle you to drive a passenger car."
+  },
+  {
+   "id": "m02-n041",
+   "q": "To whom may a driver hand over control of the vehicle even though that person has no driving licence?",
+   "options": [
+    "A learner driver during learner driving",
+    "A person disqualified from driving, if sober",
+    "A foreigner who has left their licence at the hotel",
+    "Nobody, under any circumstances"
+   ],
+   "answer": 0,
+   "explain": "The ban on handing over control to a person without a driving licence does not apply to learner drivers. Learner driving on roads takes place only with a driving instructor, who is treated as the driver. You must not hand over the wheel to a person who has been disqualified from driving."
+  },
+  {
+   "id": "m02-n042",
+   "q": "An organised convoy escorted by a police car with its flashing beacons on is passing through an intersection. There are gaps between the vehicles in the convoy. May you drive through the intersection in a gap in the convoy?",
+   "options": [
+    "Yes, if the gap between the vehicles is big enough",
+    "Yes, if you are on the main road",
+    "No, you must let the convoy pass",
+    "Yes, after sounding the horn in advance"
+   ],
+   "answer": 2,
+   "explain": "You must let the entire convoy pass. A driver must not cut across organised convoys, including organised groups of pedestrians, or take a place in them."
+  },
+  {
+   "id": "m02-n043",
+   "q": "A taxi driver is answering the dispatcher on a two-way radio, holding the microphone in his hand while driving. Is this allowed?",
+   "options": [
+    "Yes, the ban applies only to using mobile phones",
+    "No, only with headphones or a hands-free speaker",
+    "Yes, if the conversation is very short",
+    "Yes, if the speed is below 40 km/h"
+   ],
+   "answer": 1,
+   "explain": "While driving a vehicle, it is prohibited to use a phone or a two-way radio, except with headphones or a hands-free speaker."
+  },
+  {
+   "id": "m02-n044",
+   "q": "Which service braking system is considered inoperative?",
+   "options": [
+    "One whose warning lamp is lit on the dashboard",
+    "One whose braking distance on a dry road is slightly above the norm",
+    "One whose brake pads squeal loudly when braking",
+    "One that cannot stop the car even at minimum speed"
+   ],
+   "answer": 3,
+   "explain": "A service braking system or steering is considered inoperative if it does not allow you to stop the vehicle or perform a manoeuvre when moving at minimum speed. Driving with such a fault is prohibited."
+  },
+  {
+   "id": "m02-n045",
+   "q": "At night on an unlit country road, both your headlights have gone out. You have stopped on the shoulder. May you carry on to the nearest garage?",
+   "options": [
+    "No, driving in these conditions is prohibited",
+    "Yes, with the hazard warning lights on",
+    "Yes, if you drive slowly along the shoulder",
+    "Yes, as far as the nearest built-up area"
+   ],
+   "answer": 0,
+   "explain": "During the hours of darkness on roads without artificial lighting, or in poor visibility, it is prohibited to drive with headlights or rear position lamps that are not lit. This is not one of the “other” faults under para. 11, so you may not drive to the garage under your own power."
+  },
+  {
+   "id": "m02-n046",
+   "q": "On the way, you notice that the coupling device between the towing vehicle and the trailer is faulty. May you drive to a workshop under your own power?",
+   "options": [
+    "Yes, as long as you take precautions",
+    "Yes, if you drive no faster than 20 km/h",
+    "No, driving it there is prohibited",
+    "Yes, but only in daylight hours"
+   ],
+   "answer": 2,
+   "explain": "A faulty coupling device in a road train is on the special list in para. 12(9), together with brakes and steering. With such faults, you may not drive even to a place of repair."
+  }
+ ]
+}

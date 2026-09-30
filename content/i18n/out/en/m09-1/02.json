@@ -1,0 +1,217 @@
+{
+ "questions": [
+  {
+   "id": "m09-01",
+   "q": "You are driving outside a built-up area on a road with no shoulder and want to stop briefly. Where should you stop?",
+   "options": [
+    "At the left-hand edge, if there is no oncoming traffic",
+    "On the carriageway at the right-hand edge",
+    "In the middle of the lane, with the hazard warning lights on",
+    "Nowhere: stopping is prohibited if there is no shoulder"
+   ],
+   "answer": 1,
+   "explain": "Stopping and parking are allowed on the right-hand side of the road on the shoulder or, if there is no shoulder, on the carriageway at its edge. Outside built-up areas you must not stop at the left-hand edge of such a road."
+  },
+  {
+   "id": "m09-02",
+   "q": "You are in town on a two-way street with one lane in each direction and no tram tracks. May you stop at the left-hand edge of the road?",
+   "options": [
+    "Yes, you may",
+    "No: stopping on the left is always prohibited",
+    "Only trucks may, for unloading"
+   ],
+   "answer": 0,
+   "explain": "Stopping and parking on the left are allowed in built-up areas on roads with one lane for each direction and no tram tracks in the middle, and also on one-way roads."
+  },
+  {
+   "id": "m09-03",
+   "q": "Under the Rules, who may park on the edge of a pavement adjoining the carriageway, with the vehicle fully or partly on the pavement?",
+   "options": [
+    "Any vehicle with a maximum authorised mass of up to 3.5 t, if there is little room on the road",
+    "Only trucks, for the time needed to load or unload goods",
+    "Passenger cars, motorcycles, mopeds and bicycles, without obstructing pedestrians",
+    "No one: parking on the pavement is prohibited for everyone"
+   ],
+   "answer": 2,
+   "explain": "Parking on the edge of the pavement, fully or partly on it, is allowed only for passenger cars, motorcycles, mopeds and bicycles, and only if this does not obstruct pedestrians."
+  },
+  {
+   "id": "m09-04",
+   "q": "You want to drop off a friend near a pedestrian crossing. Within what distance before the crossing must you not stop?",
+   "options": [
+    "3 m",
+    "5 m",
+    "10 m",
+    "15 m"
+   ],
+   "answer": 1,
+   "explain": "Stopping is prohibited on pedestrian crossings and within 5 m before them: your car would hide pedestrians from other drivers."
+  },
+  {
+   "id": "m09-05",
+   "q": "You are approaching an intersection and want to stop before it. Within what distance of the edge of the intersecting carriageway is stopping prohibited?",
+   "options": [
+    "5 m",
+    "15 m",
+    "20 m",
+    "30 m"
+   ],
+   "answer": 3,
+   "explain": "Stopping is prohibited where carriageways intersect and within 30 m of the edge of the intersecting carriageway. The exception is the side opposite the side road at a T-junction with a solid marking line or a central reservation."
+  },
+  {
+   "id": "m09-06",
+   "q": "You need to drop off a passenger near a bus stop. Within what distance of the stop area must a passenger car not stop?",
+   "options": [
+    "15 m",
+    "5 m",
+    "10 m",
+    "30 m"
+   ],
+   "answer": 0,
+   "explain": "Stopping is prohibited in stop areas and within 15 m of them or, if there is no stop area, within 15 m of the stop indicator for route vehicles or taxis. An exception is made for buses of categories M2 and M3."
+  },
+  {
+   "id": "m09-07",
+   "q": "You want to leave your car for half an hour near a level crossing. Within what distance of the crossing is parking prohibited?",
+   "options": [
+    "30 m",
+    "100 m",
+    "50 m",
+    "150 m"
+   ],
+   "answer": 2,
+   "explain": "Parking is prohibited within 50 m of level crossings. On the crossing itself, even stopping is prohibited."
+  },
+  {
+   "id": "m09-08",
+   "q": "You have stopped at the right-hand edge of a narrow street. There is about 2 m left between your car and a solid marking line, and other vehicles now find it hard to get past. Have you stopped correctly?",
+   "options": [
+    "Yes, if you switch on the hazard warning lights and stay in the car",
+    "No: the solid line is less than 3 m away, and you obstruct traffic",
+    "Yes, if you stay no longer than 5 minutes",
+    "Yes: you have not crossed the solid marking line"
+   ],
+   "answer": 1,
+   "explain": "The solid line is about 2 m away, and other vehicles find it hard to get past. Stopping is prohibited where there is less than 3 m between the vehicle and a solid marking line (other than the line marking the edge of the carriageway), if this obstructs traffic."
+  },
+  {
+   "id": "m09-09",
+   "q": "Under a wide overpass there are four lanes in your direction. May you stop under it to look at a map?",
+   "options": [
+    "Yes: only parking is prohibited under an overpass, not stopping",
+    "Yes: there are more than three lanes in your direction",
+    "Yes, but only to pick up or drop off a passenger",
+    "No: it is prohibited under an overpass with any number of lanes"
+   ],
+   "answer": 3,
+   "explain": "Stopping is prohibited on flyovers, bridges and overpasses if there are fewer than three lanes in that direction, and under them regardless of the number of lanes."
+  },
+  {
+   "id": "m09-10",
+   "q": "You are driving outside a built-up area on a road marked with sign 2.1 “Priority road” and want to park for half an hour. Where can you do this?",
+   "options": [
+    "Off the carriageway: on the shoulder or in a parking area",
+    "On the carriageway at the right-hand edge, with the position lamps on",
+    "On the carriageway, with the hazard warning lights on"
+   ],
+   "answer": 0,
+   "explain": "Outside built-up areas, parking on the carriageway of roads marked with sign 2.1 is prohibited. You must leave the car off the carriageway."
+  },
+  {
+   "id": "m09-11",
+   "q": "Your engine has stalled right on a pedestrian crossing, and you cannot restart the car. What must you do?",
+   "options": [
+    "Switch on the hazard warning lights and wait for a recovery vehicle; no triangle is needed",
+    "Put out the warning triangle, lock the car and go for help",
+    "Switch on the hazard warning lights, put out the triangle and move the car off the crossing",
+    "Nothing: the ban on stopping at a crossing does not apply to a forced stop"
+   ],
+   "answer": 2,
+   "explain": "A pedestrian crossing is a place where stopping is prohibited. After a forced stop there, the driver switches on the hazard warning lights, puts out the warning triangle and takes all measures to move the car away from that place."
+  },
+  {
+   "id": "m09-12",
+   "q": "You have made a forced stop outside a built-up area on a stretch where stopping is prohibited. At what distance from the car must you place the warning triangle?",
+   "options": [
+    "At least 15 m",
+    "At least 30 m",
+    "At least 50 m",
+    "At least 100 m"
+   ],
+   "answer": 1,
+   "explain": "The triangle is placed so that it warns other drivers in good time, but no closer than 15 m to the vehicle in built-up areas and 30 m outside built-up areas."
+  },
+  {
+   "id": "m09-13",
+   "q": "You have stopped outside a shop and sit in the car for 10 minutes reading messages. Nobody gets in or out, and you are not loading anything. What is this called under the Rules?",
+   "options": [
+    "Stopping, because you do not get out of the car",
+    "Forced stop",
+    "Parking"
+   ],
+   "answer": 2,
+   "explain": "Parking is a halt of more than 5 minutes for reasons not related to passengers boarding or alighting, or to loading and unloading. It does not matter whether you are sitting in the car or whether the engine is running."
+  },
+  {
+   "id": "m09-14",
+   "q": "You park on a street with a noticeable slope and go into a shop. What must you do?",
+   "options": [
+    "Switch off the engine and turn on the hazard warning lights",
+    "Leave the key in the ignition so that the car can be moved if necessary",
+    "Switch on the position lamps so that the car can be seen",
+    "Make sure the car cannot roll away: apply the parking brake"
+   ],
+   "answer": 3,
+   "explain": "The driver must not leave the vehicle without taking measures to prevent it from moving on its own. This is especially important on a slope."
+  },
+  {
+   "id": "m09-n001",
+   "q": "Which of the drivers may stop here?",
+   "options": [
+    "Only the blue car",
+    "Only the red car",
+    "Both the blue and the red car",
+    "Neither the blue nor the red car"
+   ],
+   "answer": 1,
+   "explain": "The blue car is 3 m before the pedestrian crossing, and you must not stop within 5 m before a crossing: the car hides pedestrians from other drivers. The red car is 10 m before the crossing in its direction of travel, which is allowed."
+  },
+  {
+   "id": "m09-n002",
+   "q": "Which of the drivers may stop here?",
+   "options": [
+    "Only the blue car",
+    "Only the red car",
+    "Both the blue and the red car",
+    "Neither the blue nor the red car"
+   ],
+   "answer": 2,
+   "explain": "The blue car is 10 m before the crossing. The red car is facing down the diagram: it has already passed the crossing and is 3 m beyond it. The ban applies only on the crossing itself and within 5 m before it, so both may stop."
+  },
+  {
+   "id": "m09-n003",
+   "q": "Which of the drivers may stop near this intersection?",
+   "options": [
+    "Only the blue car",
+    "Only the red car",
+    "Both the blue and the red car",
+    "Neither the blue nor the red car"
+   ],
+   "answer": 3,
+   "explain": "The blue car is 20 m from the edge of the intersecting carriageway, but it must be at least 30 m away. The red car is opposite the side road: stopping there is allowed only if the T-junction has a solid marking line or a central reservation, and here the line is broken."
+  },
+  {
+   "id": "m09-n004",
+   "q": "Which of the drivers may stop near this intersection?",
+   "options": [
+    "Both the blue and the red car",
+    "Neither the blue nor the red car",
+    "Only the blue car",
+    "Only the red car"
+   ],
+   "answer": 3,
+   "explain": "This is a T-junction, and there is a solid line along the main road. In this case an exception is made for the side opposite the side road, so the red car may stop. The blue car is 20 m from the edge of the intersecting carriageway, but it must be at least 30 m away."
+  }
+ ]
+}

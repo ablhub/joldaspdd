@@ -1,0 +1,220 @@
+{
+ "questions": [
+  {
+   "id": "m11-n044",
+   "q": "In what order will all four vehicles cross the intersection?",
+   "options": [
+    "Bus, blue car, white car, red car",
+    "Blue car, bus, red car, white car",
+    "Blue car, white car, bus, red car",
+    "Blue car, bus, white car, red car"
+   ],
+   "answer": 3,
+   "explain": "Here the main road turns (plate 7.13): the bus and the blue car are on the main road, the red and white cars are on the minor road. Within each pair, the priority to the right rule applies ⟦1⟧: the bus gives way to the blue car, and the red car gives way to the white car. The vehicles on the minor road wait until both vehicles from the main road have passed ⟦2⟧."
+  },
+  {
+   "id": "m11-n045",
+   "q": "Who must you give way to?",
+   "options": [
+    "Only the truck",
+    "Only the green car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 2,
+   "explain": "Plate 7.13 shows that the main road runs from the bottom to the right, and you are on the minor road. So you give way to everyone on the main road whose path crosses yours ⟦3⟧: the truck, which is turning into your lane, and the green car, even though it is turning left."
+  },
+  {
+   "id": "m11-n046",
+   "q": "Who must you give way to?",
+   "options": [
+    "Only the truck",
+    "Only the green car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 3,
+   "explain": "You are driving on the main road, which turns left (plate 7.13). The truck is also on the main road, and for the truck you are on the right, so it gives way to you ⟦4⟧. The green car on the minor road gives way to those on the main road ⟦5⟧, even though you are turning left."
+  },
+  {
+   "id": "m11-n047",
+   "q": "Who must the driver of the truck give way to?",
+   "options": [
+    "Only the blue car",
+    "Only the green car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "You and the blue car are on the main road (plate 7.13 shows that it turns). Between yourselves you pass each other as on a road of equal status: the blue car is approaching from the right, so you give way to it ⟦6⟧. The green car on the minor road is coming towards you, and your paths do not cross."
+  },
+  {
+   "id": "m11-n048",
+   "q": "In what order will the motorcycle, the truck and the blue car cross the intersection?",
+   "options": [
+    "Truck, motorcycle, blue car",
+    "Motorcycle, blue car, truck",
+    "Blue car, motorcycle, truck",
+    "Motorcycle, truck, blue car"
+   ],
+   "answer": 3,
+   "explain": "The main road runs from the top to the right (plate 7.13). The motorcycle and the truck are on the main road and pass each other under the priority to the right rule: the motorcycle is on the truck's right ⟦7⟧. The blue car on the minor road gives way to both, even though it is going straight ahead ⟦8⟧."
+  },
+  {
+   "id": "m11-n049",
+   "q": "Who must you give way to?",
+   "options": [
+    "Only the tram",
+    "Only the green car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "You and the tram are on the main road, which turns (plate 7.13), and between yourselves you pass each other under the rules for roads of equal status ⟦9⟧. On such roads, a tram has priority over trackless vehicles regardless of direction, even if it is approaching from the left ⟦10⟧. The green car is turning right and does not cross your path."
+  },
+  {
+   "id": "m11-n050",
+   "q": "In what order will all four vehicles cross the intersection?",
+   "options": [
+    "Blue car, truck, green car, white car",
+    "Truck, green car, blue car, white car",
+    "Truck, blue car, white car, green car",
+    "Truck, blue car, green car, white car"
+   ],
+   "answer": 3,
+   "explain": "The main road runs from the right and from the top (plate 7.13): the truck and the blue car are on the main road, the green and white cars are on the minor road. The blue car is turning left and gives way to the truck, which is on its right ⟦11⟧. Then the vehicles on the minor road: the green car is on the white car's right, so the green car crosses first ⟦12⟧."
+  },
+  {
+   "id": "m11-n051",
+   "q": "Who must you give way to?",
+   "options": [
+    "Only the blue car",
+    "Only the truck",
+    "Both",
+    "Neither"
+   ],
+   "answer": 1,
+   "explain": "According to plate 7.13, the main road runs from the bottom to the left, and you are on the minor road. The truck is driving on the main road and turning into your lane, so you must give way to it ⟦13⟧. The blue car leaves the main road straight onto your road, in the lane that is oncoming for you, so your paths do not cross."
+  },
+  {
+   "id": "m11-n052",
+   "q": "In what order will the bus, the motorcycle and the cyclist cross the intersection?",
+   "options": [
+    "Motorcycle, bus, cyclist",
+    "Bus, motorcycle, cyclist",
+    "Motorcycle, cyclist, bus",
+    "Cyclist, motorcycle, bus"
+   ],
+   "answer": 0,
+   "explain": "The main road runs from the top to the left (plate 7.13): the bus and the motorcycle are on the main road, the cyclist is on the minor road. The motorcycle is approaching the bus from the right, so the bus gives way to it ⟦14⟧. The cyclist gives way to the bus, which crosses the cyclist's path, so the cyclist goes last ⟦15⟧."
+  },
+  {
+   "id": "m11-n053",
+   "q": "Who must you give way to?",
+   "options": [
+    "Only the white car",
+    "Only the blue car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "The main road runs from the bottom to the right (plate 7.13); you and the white car are on minor roads. Between themselves, drivers on minor roads also pass each other as on roads of equal status: the white car is on your right, so you give way to it ⟦16⟧. The blue car on the main road is turning right and does not cross your path, but it will cross first: the white car gives way to it."
+  },
+  {
+   "id": "m11-n054",
+   "q": "Who must the driver of the white car give way to?",
+   "options": [
+    "Only the orange car",
+    "Only the blue car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 1,
+   "explain": "The blue car is driving on the main road (plate 7.13 shows that it turns right) and is turning into your lane, so you must give way to it ⟦17⟧. The orange car, like you, is on the minor road and is on your left, so it gives way to you ⟦18⟧."
+  },
+  {
+   "id": "m11-n055",
+   "q": "In what order will the taxi, the truck, the green car and the motorcycle cross the intersection?",
+   "options": [
+    "Taxi, truck, motorcycle, green car",
+    "Truck, taxi, green car, motorcycle",
+    "Truck, taxi, motorcycle, green car",
+    "Truck, motorcycle, taxi, green car"
+   ],
+   "answer": 2,
+   "explain": "On the minor roads there are sign 2.5 with plate 7.13: the main road runs from the left and from the top. The taxi is turning left and gives way to the truck, which is on its right ⟦19⟧. Then the vehicles on the minor roads, after coming to a full stop: the motorcycle is on the green car's right, so the motorcycle crosses first ⟦20⟧."
+  },
+  {
+   "id": "m11-n056",
+   "q": "The main road turns left, and you turn with it. Who must you give way to?",
+   "options": [
+    "Only the green car",
+    "Only the bus",
+    "Both",
+    "Neither"
+   ],
+   "answer": 3,
+   "explain": "You are driving on the main road (plate 7.13). The green car and the bus are on the minor road and give way to you, even though one of them is on your right and the other is oncoming and turning right ⟦21⟧."
+  },
+  {
+   "id": "m11-n057",
+   "q": "Who must the driver of the bus give way to?",
+   "options": [
+    "Only the white car",
+    "Only the green car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "You are on the minor road (sign 2.4 with plate 7.13). The white car is driving on the main road and turning the same way as you, so you must give way to it, even though it is turning left ⟦22⟧. The green car is also on the minor road, and you are on its right, so it waits for you ⟦23⟧."
+  },
+  {
+   "id": "m11-n058",
+   "q": "In what order will the road train, the blue car and the green car cross the intersection?",
+   "options": [
+    "Road train, green car, blue car",
+    "Blue car, then the road train and the green car together",
+    "Blue car, road train, green car",
+    "The road train and the blue car together, then the green car"
+   ],
+   "answer": 3,
+   "explain": "The main road runs from the bottom to the right (plate 7.13). The road train turns right with the main road, while the blue car on the main road goes straight ahead: their paths do not cross, so they cross the intersection together. The green car on the minor road gives way to the road train, which is moving into its lane ⟦24⟧."
+  },
+  {
+   "id": "m11-n059",
+   "q": "Who must you give way to?",
+   "options": [
+    "Only the blue car",
+    "The green car and the bus",
+    "Everyone",
+    "No one"
+   ],
+   "answer": 3,
+   "explain": "You are driving on the main road and turning right with it (plate 7.13). The blue car is also on the main road; it is turning left along the main road, and your paths do not cross, so you pass each other at the same time. The green car and the bus are on minor roads and give way to you ⟦25⟧."
+  },
+  {
+   "id": "m11-n060",
+   "q": "In what order will the tractor, the white car and the blue car cross the intersection?",
+   "options": [
+    "White car and blue car together, then the tractor",
+    "White car, tractor, blue car",
+    "Tractor, then the white car and the blue car together",
+    "Blue car, tractor, white car"
+   ],
+   "answer": 2,
+   "explain": "The main road runs from the right downward (plate 7.13): the tractor and the white car are on the main road, and for the white car the tractor is approaching from the right, so the white car gives way to it ⟦26⟧. The blue car on the minor road also waits for the tractor ⟦27⟧. The white car and the blue car are going straight ahead towards each other, so they cross afterwards at the same time."
+  },
+  {
+   "id": "m11-n061",
+   "q": "You and an oncoming green car are turning left on a green signal. Who must you give way to?",
+   "options": [
+    "Only the green car",
+    "Only the truck",
+    "Both",
+    "Neither"
+   ],
+   "answer": 1,
+   "explain": "When turning left on green, you give way to oncoming vehicles going straight ahead or turning right ⟦28⟧, which is the truck. The oncoming green car is also turning left: you pass each other right side to right side and do not obstruct one another ⟦29⟧."
+  }
+ ]
+}

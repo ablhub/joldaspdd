@@ -1,0 +1,186 @@
+{
+ "questions": [
+  {
+   "id": "m01-n002",
+   "q": "You have just driven past the sign shown in the diagram, but there are still houses along the road. Do the requirements of the Rules for driving in built-up areas apply to you?",
+   "options": [
+    "Yes, as long as there are still houses along the road",
+    "Yes, up to the first intersection after the sign",
+    "No, they stop applying at this sign",
+    "Only to trucks and buses"
+   ],
+   "answer": 2,
+   "explain": "This is sign 5.23 “End of built-up area”. From the point where it is placed, the requirements for built-up areas stop applying on this road, even if the houses continue."
+  },
+  {
+   "id": "m01-n003",
+   "q": "You are approaching an asphalt road along a dirt road and want to turn left. There are no signs. Who must give way?",
+   "options": [
+    "You must give way to the blue car",
+    "The blue car must give way to you: you are on its right",
+    "Whoever reached the intersection first"
+   ],
+   "answer": 0,
+   "explain": "You are on a dirt road, and a paved road is the main road in relation to a dirt road. So you let the blue car go first, even though it is approaching from the left: the “priority to the right” rule applies only on roads of equal status."
+  },
+  {
+   "id": "m01-n004",
+   "q": "You are driving straight on along an asphalt road. A blue car is approaching from the right along a dirt road and is turning left. There are no signs. Who must give way?",
+   "options": [
+    "You must give way to the blue car: it is on your right",
+    "The blue car must give way to you",
+    "Whoever is driving more slowly"
+   ],
+   "answer": 1,
+   "explain": "The blue car is coming out of a dirt road, which is a minor road in relation to the asphalt road. So it must give way to you, even though it is on your right."
+  },
+  {
+   "id": "m01-n005",
+   "q": "A red car is leaving the yard of a block of flats onto the street. What do the Rules call such a yard, and do the Rules apply in it?",
+   "options": [
+    "An adjacent area; the Rules do not apply there",
+    "A minor road; the Rules apply there",
+    "A residential zone; the Rules do not apply there",
+    "An adjacent area; the Rules apply there"
+   ],
+   "answer": 3,
+   "explain": "The yard adjoins the road and is not intended for through traffic, so it is an adjacent area. The Rules state explicitly that traffic in an adjacent area is subject to the Rules.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m01-n006",
+   "q": "How many carriageways does the road in the diagram have?",
+   "options": [
+    "One",
+    "Two",
+    "Four"
+   ],
+   "answer": 1,
+   "explain": "There is a central reservation in the middle of the road. It separates adjacent carriageways, so there are two carriageways here, each with two traffic lanes."
+  },
+  {
+   "id": "m01-n007",
+   "q": "How many carriageways does the road in the diagram have?",
+   "options": [
+    "One",
+    "Two",
+    "Four"
+   ],
+   "answer": 0,
+   "explain": "The double solid line is a road marking, not a central reservation: there is no structurally separate element here. So there is one carriageway, and it has four traffic lanes."
+  },
+  {
+   "id": "m01-n008",
+   "q": "A box that fell off a truck is lying in the right lane, and there is a traffic jam in the left lane. Which of these do the Rules call an obstruction to traffic?",
+   "options": [
+    "Only the box in the right lane",
+    "Only the traffic jam in the left lane",
+    "Both the box and the traffic jam",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "An obstruction is a stationary object in a lane that makes it impossible to continue in that lane: that is the box. The Rules explicitly exclude a traffic jam, as well as a vehicle that has stopped in the lane in accordance with the Rules.",
+   "scene": {
+    "labels.0.text": "box",
+    "labels.1.text": "traffic jam"
+   }
+  },
+  {
+   "id": "m01-n009",
+   "q": "The driver of the blue car has pulled over onto the shoulder and switched on the hazard warning lights because a passenger suddenly felt unwell. What is this halt called?",
+   "options": [
+    "Stopping",
+    "Forced stop",
+    "Parking",
+    "Neither stopping nor parking"
+   ],
+   "answer": 1,
+   "explain": "The car has halted because of the passenger's condition. This is a forced stop: that is what the Rules call a halt caused by a fault, a hazard from the load, the condition of the driver or a passenger, or an obstruction on the road."
+  },
+  {
+   "id": "m01-n010",
+   "q": "The driver of the blue car spends 12 minutes loading shopping into the boot. The driver of the white car sits in the car for 12 minutes waiting for a friend; nobody gets in or out. Which of them is parking under the Rules?",
+   "options": [
+    "Only the blue car",
+    "Only the white car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 1,
+   "explain": "The blue car's driver is loading, so this is stopping, however long it lasts. The white car has been stationary for more than 5 minutes with no boarding, alighting, loading or unloading: that is parking."
+  },
+  {
+   "id": "m01-n011",
+   "q": "It is a clear day. You are driving behind a truck that blocks your view: you can see the road ahead for about 40 m. What do the Rules call this kind of visibility?",
+   "options": [
+    "Poor visibility",
+    "Restricted view",
+    "Normal visibility: only terrain and buildings can restrict it"
+   ],
+   "answer": 1,
+   "explain": "The weather is clear, but the truck limits your view to less than 100 m. A restricted view is a view of less than 100 m in the direction of travel because of terrain, bends in the road, vegetation, buildings or other objects, including vehicles."
+  },
+  {
+   "id": "m01-n012",
+   "q": "It is midnight. The street is well lit by street lights, and you can see the road far ahead. Does this count as the hours of darkness under the Rules?",
+   "options": [
+    "No, as the street is well lit",
+    "No, if the road is visible beyond 300 m",
+    "Yes",
+    "Only if there is fog"
+   ],
+   "answer": 2,
+   "explain": "The hours of darkness are the period from the end of evening twilight to the beginning of morning twilight. Street lights do not change the time of day, so midnight falls within the hours of darkness even on a lit street."
+  },
+  {
+   "id": "m01-n013",
+   "q": "The driver of the red car is driving around the blue car, which has broken down and is standing in the lane with its hazard warning lights on. Is this manoeuvre overtaking?",
+   "options": [
+    "Yes, as the red car moves into the oncoming lane",
+    "Yes, if the blue car has stood there for less than 5 minutes",
+    "No: only passing a truck counts as overtaking",
+    "No, this is driving around a stationary car"
+   ],
+   "answer": 3,
+   "explain": "The blue car is stationary, so the red car is driving around it, not overtaking it. Overtaking is passing a moving vehicle ahead by leaving your lane and then returning to it."
+  },
+  {
+   "id": "m01-n014",
+   "q": "Which vehicles in the diagram are road trains?",
+   "options": [
+    "Only the tractor unit with a semi-trailer",
+    "Only the passenger car with a trailer",
+    "Both",
+    "Neither"
+   ],
+   "answer": 2,
+   "explain": "A road train is a motor vehicle coupled to one or more trailers. A passenger car with a trailer is also a road train, and the term “trailer” also covers semi-trailers."
+  },
+  {
+   "id": "m01-n015",
+   "q": "The red car has stopped 5 m from the nearest rail (see the diagram). Is it within the boundaries of the level crossing?",
+   "options": [
+    "Yes: the crossing boundary is 10 m from the rail",
+    "No: the crossing begins only at the rails themselves",
+    "No, if the barrier is raised",
+    "Yes, but only when a train is approaching the crossing"
+   ],
+   "answer": 0,
+   "explain": "The boundary of a level crossing is an imaginary line 10 m from the nearest rail. The car is 5 m from the rail, so it is already within the level crossing."
+  },
+  {
+   "id": "m01-n016",
+   "q": "Three cars with their headlights on are driving one behind the other in the same lane. A police car with its flashing beacons on is escorting them at the front. What do the Rules call such a group?",
+   "options": [
+    "A road train",
+    "A traffic jam",
+    "An organised convoy",
+    "A group of route vehicles"
+   ],
+   "answer": 2,
+   "explain": "An organised convoy is a group of three or more motor vehicles travelling one behind the other in the same lane with their headlights on at all times, escorted by a lead vehicle with a flashing blue (or blue and red) beacon."
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "questions": [
+  {
+   "id": "m11-n103",
+   "q": "The entries have only sign 4.3, with no priority signs. Who must you give way to when entering the roundabout?",
+   "options": [
+    "Only the white car",
+    "Only the green car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 3,
+   "explain": "The Rules of the Republic of Kazakhstan have no separate rule giving priority to those already on a roundabout. Without priority signs, a roundabout is crossed as an intersection of equal status: you are approaching the white car from its right, so it gives way ⟦91⟧. The green car is driving ahead of you and does not obstruct your entry."
+  },
+  {
+   "id": "m11-n104",
+   "q": "The entries have sign 2.4. In what order will the vehicles cross the intersection?",
+   "options": [
+    "Truck, then the blue car and the green car together",
+    "The blue car and the green car together, then the truck",
+    "Blue car, truck, green car",
+    "Green car, truck, blue car"
+   ],
+   "answer": 0,
+   "explain": "Sign 2.4 at the entries requires drivers to give way to those already driving around the roundabout, so the truck crosses first. The blue car and the green car enter after it, and their paths on the roundabout do not cross: the blue car exits before reaching the green car's entry point."
+  },
+  {
+   "id": "m11-n105",
+   "q": "There are no priority signs, only sign 4.3. In what order will the vehicles cross the intersection?",
+   "options": [
+    "The blue car and the green car together, then the truck",
+    "Truck, then the blue car and the green car together",
+    "Truck, green car, blue car",
+    "Green car, truck, blue car"
+   ],
+   "answer": 0,
+   "explain": "Without priority signs, a roundabout is crossed under the rules for an intersection of equal status ⟦92⟧: those entering are approaching the truck from its right, so it gives way to them. The paths of the blue car and the green car do not cross, so they enter at the same time."
+  },
+  {
+   "id": "m11-n106",
+   "q": "A bus on the roundabout has switched on its right indicator. Who must you give way to when entering the roundabout at a sign 2.4?",
+   "options": [
+    "Only the bus, not the white car",
+    "Only the white car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 1,
+   "explain": "Sign 2.4 requires you to give way to those driving around the roundabout who pass your entry point. The bus is leaving the roundabout onto your road before reaching your entry point, so your paths do not cross. The white car will continue around the roundabout past you, so you must give way to it."
+  },
+  {
+   "id": "m11-n107",
+   "q": "There are no priority signs. You are driving around the roundabout and exiting onto the road at the top. Who must you give way to?",
+   "options": [
+    "Only the blue car",
+    "Only the taxi",
+    "Both",
+    "Neither"
+   ],
+   "answer": 2,
+   "explain": "Without priority signs, a roundabout is crossed under the rules for an intersection of equal status ⟦93⟧. Both the blue car and the taxi are approaching you from the right, and you will pass their entry points, so you must give way to both."
+  },
+  {
+   "id": "m11-n108",
+   "q": "You are entering a roundabout intersection and plan to leave by the third exit, that is, to the left. Do you need to take up the far-left position before entering?",
+   "options": [
+    "Yes: before any left turn, drivers take up the far-left position",
+    "No: this requirement does not apply when entering a roundabout",
+    "Yes: you cannot leave by the third exit from the right-hand lane"
+   ],
+   "answer": 1,
+   "explain": "Before turning, a driver takes up the extreme position in advance, except when the turn is made on entering a roundabout intersection ⟦94⟧. However, before leaving the roundabout, take up the far-right position: an exit is a right turn."
+  },
+  {
+   "id": "m11-n109",
+   "q": "Which path can you continue along?",
+   "options": [
+    "Only A",
+    "Only B",
+    "Either of them"
+   ],
+   "answer": 0,
+   "explain": "Sign 4.1.1, the “Ahead only” sign, allows only straight-ahead movement at this intersection. Signs 4.1.1-4.1.6 apply to the intersection of carriageways before which they are installed."
+  },
+  {
+   "id": "m11-n110",
+   "q": "Which paths can you continue along?",
+   "options": [
+    "Only A",
+    "Only B",
+    "Both"
+   ],
+   "answer": 2,
+   "explain": "Sign 4.1.3, the “Turn left only” sign, allows a left turn, and signs that allow a left turn also allow a U-turn. So you may either turn or make a U-turn."
+  },
+  {
+   "id": "m11-n111",
+   "q": "Which paths can you continue along?",
+   "options": [
+    "B and C",
+    "Only B",
+    "A and B",
+    "Any of them"
+   ],
+   "answer": 0,
+   "explain": "Sign 4.1.4, the “Ahead or right only” sign, allows only these two directions. A left turn is prohibited at this intersection."
+  },
+  {
+   "id": "m11-n112",
+   "q": "Which paths can you continue along?",
+   "options": [
+    "Only B",
+    "A and B",
+    "B and C",
+    "All three"
+   ],
+   "answer": 1,
+   "explain": "Sign 4.1.5, the “Ahead or left only” sign, allows going straight ahead and turning left, and a sign that allows a left turn also allows a U-turn. Turning right is not allowed."
+  },
+  {
+   "id": "m11-n113",
+   "q": "Which path can you continue along?",
+   "options": [
+    "Only A",
+    "Only B",
+    "Both"
+   ],
+   "answer": 1,
+   "explain": "Sign 3.18.2, the “No left turn” sign, applies to the intersection before which it is installed: a left turn is not allowed here, but going straight ahead is."
+  },
+  {
+   "id": "m11-n114",
+   "q": "Which path can you continue along?",
+   "options": [
+    "Only A",
+    "Only B",
+    "Both"
+   ],
+   "answer": 0,
+   "explain": "Sign 3.19, the “No U-turn” sign, prohibits only a U-turn at this intersection. A left turn is not prohibited by it."
+  },
+  {
+   "id": "m11-n115",
+   "q": "You are in the right-hand lane, which has an “ahead” marking arrow. Which path can you continue along?",
+   "options": [
+    "Only A",
+    "Only B",
+    "Either of them"
+   ],
+   "answer": 0,
+   "explain": "The marking 1.18 arrow in your lane shows only “ahead”, so you must not turn right from this lane, even if the intersection is clear."
+  },
+  {
+   "id": "m11-n118",
+   "q": "Which paths can you continue along?",
+   "options": [
+    "Only B",
+    "B and C",
+    "A and B",
+    "Any of them"
+   ],
+   "answer": 1,
+   "explain": "Sign 3.18.1, the “No right turn” sign, prohibits only a right turn at this intersection. You may go straight ahead or turn left."
+  },
+  {
+   "id": "m11-n119",
+   "q": "The white car is making a U-turn. In what order will the vehicles cross the intersection?",
+   "options": [
+    "White car, truck, blue car",
+    "Truck, blue car, white car",
+    "Truck, white car, blue car",
+    "Blue car, truck, white car"
+   ],
+   "answer": 2,
+   "explain": "The white car and the truck are on the main road. While making its U-turn, the white car gives way to the oncoming truck ⟦95⟧. The blue car on the minor road gives way to both, including the white car making the U-turn: after the U-turn it will be in the lane the blue car is turning into ⟦96⟧."
+  },
+  {
+   "id": "m11-n120",
+   "q": "In what order will the tram, the blue car and the green car cross the intersection?",
+   "options": [
+    "Blue car, tram, green car",
+    "Tram, green car, blue car",
+    "Tram, blue car, green car",
+    "Green car, tram, blue car"
+   ],
+   "answer": 2,
+   "explain": "The tram and the blue car are on the main road, which turns (plate 7.13). Between themselves, they pass each other under the rules for roads of equal status, and on such roads a tram has priority regardless of direction ⟦97⟧. The green car on the minor road gives way to the blue car, whose path it crosses ⟦98⟧."
+  },
+  {
+   "id": "m11-n121",
+   "q": "There are no signs, and the motorcycle is making a U-turn. In what order will the vehicles cross the intersection?",
+   "options": [
+    "Green car, bus, motorcycle",
+    "Bus, green car, motorcycle",
+    "Green car, motorcycle, bus",
+    "Motorcycle, green car, bus"
+   ],
+   "answer": 0,
+   "explain": "The intersection is of equal status. The motorcycle is making a U-turn: it gives way to the oncoming green car ⟦99⟧ and to the bus, which is on its right ⟦100⟧. The bus is turning left and gives way to the green car, which is approaching it from the right."
+  },
+  {
+   "id": "m11-n122",
+   "q": "In what order will the white car, the truck and the blue car cross the intersection?",
+   "options": [
+    "Truck, white car, blue car",
+    "White car, blue car, truck",
+    "Blue car, white car, truck",
+    "White car, truck, blue car"
+   ],
+   "answer": 3,
+   "explain": "The white car and the truck are on the main road, and both are turning onto the minor road. The truck is turning left and gives way to the oncoming white car, which is turning right ⟦101⟧. The blue car stops at sign 2.5 and gives way to the truck, whose path it crosses ⟦102⟧."
+  }
+ ]
+}

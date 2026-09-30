@@ -1,0 +1,219 @@
+{
+ "questions": [
+  {
+   "id": "m09-n041",
+   "q": "You are outside a built-up area on a road with sign 2.1 “Priority road”. Who may park here?",
+   "options": [
+    "Both the blue and the red car",
+    "Neither the blue nor the red car",
+    "Only the blue car",
+    "Only the red car"
+   ],
+   "answer": 2,
+   "explain": "Outside built-up areas, parking on the carriageway of roads with sign 2.1 is prohibited. The blue car has pulled onto the shoulder, while the red car has stayed on the carriageway."
+  },
+  {
+   "id": "m09-n042",
+   "q": "On the bridge there are three traffic lanes in your direction. What are you allowed to do on this bridge?",
+   "options": [
+    "Only stopping",
+    "Only parking",
+    "Both stopping and parking",
+    "Neither stopping nor parking"
+   ],
+   "answer": 0,
+   "explain": "Stopping on bridges is prohibited if there are fewer than three lanes in your direction. Here there are three, so you may stop. But parking on bridges, flyovers and overpasses is prohibited whatever the number of lanes."
+  },
+  {
+   "id": "m09-n043",
+   "q": "Which of the drivers may stop here?",
+   "options": [
+    "Only the blue car",
+    "Only the red car",
+    "Both the blue and the red car",
+    "Neither the blue nor the red car"
+   ],
+   "answer": 1,
+   "explain": "The boundary of a level crossing is 10 m from the nearest rail. The blue car is 5 m from the rail, that is, on the crossing itself, where stopping is prohibited. The red car is 30 m from the crossing: only parking is prohibited there."
+  },
+  {
+   "id": "m09-n044",
+   "q": "Who may park here?",
+   "options": [
+    "Both the blue and the red car",
+    "Neither the blue nor the red car",
+    "Only the blue car",
+    "Only the red car"
+   ],
+   "answer": 3,
+   "explain": "A passenger car may be parked on the edge of the pavement only if it does not obstruct pedestrians. The blue car takes up the whole pavement, and pedestrians would have to step onto the carriageway. The red car is at the edge of the carriageway and is not in anyone's way."
+  },
+  {
+   "id": "m09-n045",
+   "q": "Who may park on the pavement here?",
+   "options": [
+    "Only the truck",
+    "Only the motorcycle",
+    "Both the motorcycle and the truck",
+    "Neither the motorcycle nor the truck"
+   ],
+   "answer": 1,
+   "explain": "Only passenger cars, motorcycles, mopeds and bicycles may park on the edge of the pavement, and only if this does not obstruct pedestrians. The motorcycle has left room for people to walk past, but a truck must not be parked like this."
+  },
+  {
+   "id": "m09-n046",
+   "q": "Which of the drivers may stop here?",
+   "options": [
+    "Only the blue car",
+    "Only the red car",
+    "Both the blue and the red car",
+    "Neither the blue nor the red car"
+   ],
+   "answer": 0,
+   "explain": "An exit from a yard is not an intersection, so the 30 m rule does not apply to it: the blue car is 10 m from the exit and is not in anyone's way. The red car is 10 m before the intersection, but it must be at least 30 m away."
+  },
+  {
+   "id": "m09-n047",
+   "q": "Which of the drivers may stop near this intersection?",
+   "options": [
+    "Both the blue and the red car",
+    "Neither the blue nor the red car",
+    "Only the blue car",
+    "Only the red car"
+   ],
+   "answer": 0,
+   "explain": "The blue car is 40 m before the intersection, which is allowed. The red car is opposite the side road of a T-junction, and here the opposite directions are separated by a central reservation. An exception is made for such a side, so the red car may stop too."
+  },
+  {
+   "id": "m09-n048",
+   "q": "A taxi has stopped 5 m from the stop indicator to drop off a passenger, and the blue car has stopped 20 m from it. Who is allowed to stop like this?",
+   "options": [
+    "Both the taxi and the blue car",
+    "Neither the taxi nor the blue car",
+    "Only the taxi",
+    "Only the blue car"
+   ],
+   "answer": 3,
+   "explain": "No one may stop within 15 m of a route vehicle stop indicator except buses of categories M2 and M3. There is no exception for taxis, even to drop off a passenger. The blue car is 20 m from the stop indicator."
+  },
+  {
+   "id": "m09-n049",
+   "q": "Which of the drivers may stop near this intersection?",
+   "options": [
+    "Both the blue and the red car",
+    "Neither the blue nor the red car",
+    "Only the blue car",
+    "Only the red car"
+   ],
+   "answer": 2,
+   "explain": "This is a T-junction with the side road on the left, and there is a solid line along the main road. The blue car is on the side opposite the side road, and an exception is made for that side. The red car has passed the intersection but is only 10 m beyond it."
+  },
+  {
+   "id": "m09-n050",
+   "q": "Which of the drivers may park here?",
+   "options": [
+    "Both the blue and the red car",
+    "Neither the blue nor the red car",
+    "Only the blue car",
+    "Only the red car"
+   ],
+   "answer": 1,
+   "explain": "The red car is within the zone of sign 3.28, which applies up to the nearest intersection. The blue car is already beyond the intersection, where the sign does not apply, but only 10 m from it, and within 30 m even stopping is prohibited."
+  },
+  {
+   "id": "m09-n051",
+   "q": "You are driving through a tunnel, and a passenger asks you to stop to take a photo. May you stop for a minute at the right-hand edge in the tunnel?",
+   "options": [
+    "Yes, if you switch on the hazard warning lights",
+    "Yes, if there are two or more lanes in your direction",
+    "No: stopping in a tunnel is prohibited",
+    "Yes, if you stay no longer than 5 minutes"
+   ],
+   "answer": 2,
+   "explain": "Stopping is prohibited in tunnels, and so is parking. Neither the hazard warning lights, nor a short time, nor the number of lanes changes this: you may stop only after leaving the tunnel, where this is allowed."
+  },
+  {
+   "id": "m09-n052",
+   "q": "A passenger suddenly felt unwell, and you stopped right on a pedestrian crossing. How do the Rules treat this?",
+   "options": [
+    "It is a forced stop, but the car must be moved off the crossing as soon as possible",
+    "It is a forced stop, so you may stay on the crossing for as long as you need to",
+    "It is ordinary parking, and it is allowed with the hazard warning lights switched on"
+   ],
+   "answer": 0,
+   "explain": "A halt caused by the condition of the driver or a passenger is a forced stop. But if it happens where stopping is prohibited, the driver takes all measures to move the car away from that place."
+  },
+  {
+   "id": "m09-n053",
+   "q": "You have stopped at the edge of the road and want to open the driver's door. A cyclist is coming from behind. What should you do?",
+   "options": [
+    "Open the door quickly while the cyclist is still far away",
+    "Open the door after warning the cyclist with the horn",
+    "Open the door halfway so that the cyclist notices it",
+    "Let the cyclist pass, then open the door"
+   ],
+   "answer": 3,
+   "explain": "The cyclist will pass you on the left, exactly where the driver's door will open. You may open doors and step out onto the carriageway only after making sure that this will not obstruct or endanger others."
+  },
+  {
+   "id": "m09-n054",
+   "q": "At night you wait 20 minutes for a friend outside a block of flats with the engine running, and the noise can be heard in the flats. Are you breaking the rules?",
+   "options": [
+    "No: you do not have to switch off the engine when parked",
+    "No, if the position lamps are on and you are in the car",
+    "Yes: you must not park like this if it disturbs residents"
+   ],
+   "answer": 2,
+   "explain": "You have been stationary for 20 minutes with no boarding or unloading, so this is parking. In built-up areas, parking motor vehicles with the engine running is prohibited if it causes inconvenience to residents."
+  },
+  {
+   "id": "m09-n055",
+   "q": "You are outside a built-up area, very tired, and want to sleep in the car for a couple of hours. Where can you do this?",
+   "options": [
+    "Path B only: in the parking area with sign 5.15",
+    "Path A only: on the shoulder at the edge of the road",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 0,
+   "explain": "Outside built-up areas, parking for a long rest or an overnight stay is allowed only at sites provided for this purpose or off the road. The shoulder is part of the road, so you must not sleep there.",
+   "scene": {
+    "side.0.text": "parking area"
+   }
+  },
+  {
+   "id": "m09-n056",
+   "q": "You want to stop for a minute 2 m before a pedestrian crossing, with the hazard warning lights on, to buy some water. May you do this?",
+   "options": [
+    "Yes: with the hazard warning lights on you may stop anywhere",
+    "Yes, if you stay less than 5 minutes",
+    "No: stopping within 5 m before a crossing is prohibited"
+   ],
+   "answer": 2,
+   "explain": "Stopping within 5 m before a pedestrian crossing is prohibited, even for a minute. Hazard warning lights only mark the car; they do not allow you to stand where this is prohibited."
+  },
+  {
+   "id": "m09-n057",
+   "q": "Along the right-hand edge of the street there is a cycle lane with sign 4.5 and plate 7.14. It is separated from the adjacent lane by a solid marking line. A passenger asks you to drop them off right in the cycle lane. What should you do?",
+   "options": [
+    "Pull into the cycle lane: dropping off takes only a moment",
+    "Pull into the cycle lane and switch on the hazard warning lights",
+    "Find another place: stopping in this lane is prohibited",
+    "Pull into the cycle lane if there are no cyclists in it"
+   ],
+   "answer": 2,
+   "explain": "Stopping is prohibited on a cycle track and in a cycle lane ⟦15⟧. The exception in para. 166 - entering the lane to let passengers board or alight - applies only where the lane is separated by a broken line, and here the line is solid."
+  },
+  {
+   "id": "m09-n058",
+   "q": "You have stopped at the edge of a narrow street, and your car is preventing a tram from getting past. Have you broken the rules?",
+   "options": [
+    "Yes: you must not stand where you obstruct a tram",
+    "No: you are at the edge, not on the tracks",
+    "No, if you stay less than 5 minutes and do not get out"
+   ],
+   "answer": 0,
+   "explain": "A tram cannot drive around an obstruction. That is why stopping in the immediate vicinity of tram tracks is prohibited if it obstructs trams."
+  }
+ ]
+}

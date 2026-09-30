@@ -1,0 +1,712 @@
+{
+ "questions": [
+  {
+   "id": "m06-n024",
+   "q": "You are driving at about 60 km/h and want to change into the left lane right behind the white car. The gap between you would be about 5 m. May you change lanes like this?",
+   "options": [
+    "Yes, if you switch on the direction indicator in advance",
+    "Yes, if there is no one behind you in the left lane",
+    "Yes, if you brake immediately after changing lanes",
+    "No: this would create a dangerous following distance"
+   ],
+   "answer": 3,
+   "explain": "At 60 km/h a car covers about 17 m per second, so 5 m to the vehicle ahead is a dangerous following distance. Changing lanes is not allowed if it results in a dangerous following distance between vehicles ⟦1⟧. First drop further back from the white car."
+  },
+  {
+   "id": "m06-n025",
+   "q": "You are pulling out of a yard and turning left. Who must you give way to?",
+   "options": [
+    "The blue car only",
+    "The white car only",
+    "Both cars",
+    "No one: you have already started pulling out"
+   ],
+   "answer": 2,
+   "explain": "The blue car is approaching from the left in the near lane and the white one from the right in the far lane, and you cross or enter the path of each. When leaving a yard, a driver gives way to all other road users, which means both the blue and the white car ⟦2⟧.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m06-n027",
+   "q": "You are pulling out from a dirt road onto an asphalt road and turning right. There are no priority signs. Who goes first?",
+   "options": [
+    "The blue car",
+    "You: you are turning right",
+    "Determined by the “priority to the right” rule"
+   ],
+   "answer": 0,
+   "explain": "A paved road is the main road in relation to a dirt road ⟦3⟧. When entering a road from a minor road, a driver gives way to vehicles and pedestrians moving along it, so the blue car goes first ⟦4⟧."
+  },
+  {
+   "id": "m06-n028",
+   "q": "A truck is pulling out of a dirt road and turning left. Who goes first?",
+   "options": [
+    "The truck",
+    "You",
+    "Whoever reached the intersection first"
+   ],
+   "answer": 1,
+   "explain": "You are driving on a paved road, and it is the main road in relation to a dirt road ⟦5⟧. A driver coming out of a minor road gives way to vehicles on the main road, that is, to you ⟦6⟧."
+  },
+  {
+   "id": "m06-n029",
+   "q": "You are turning left into a yard. A white car is coming towards you, and a pedestrian is walking along the pavement at the entrance to the yard. What should you do?",
+   "options": [
+    "Turn in front of the white car, then let the pedestrian go first",
+    "Give way to the pedestrian only",
+    "Turn first: you may enter a yard without stopping",
+    "Give way to both the white car and the pedestrian"
+   ],
+   "answer": 3,
+   "explain": "When turning left outside an intersection, you give way to oncoming vehicles, that is, to the white car ⟦7⟧. When leaving the road, you also give way to the pedestrian whose path you cross ⟦8⟧.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m06-n030",
+   "q": "You are making a U-turn outside an intersection. Who goes first?",
+   "options": [
+    "The white car",
+    "You",
+    "Whoever switched on their direction indicator first"
+   ],
+   "answer": 0,
+   "explain": "You are making a U-turn away from an intersection, and the white car is coming towards you, going straight on. When making a U-turn outside an intersection, a driver gives way to oncoming vehicles ⟦9⟧."
+  },
+  {
+   "id": "m06-n031",
+   "q": "The road is narrow, so you start your U-turn from the right-hand edge, from the shoulder. Who must you give way to?",
+   "options": [
+    "The blue car only",
+    "The white car only",
+    "Both cars",
+    "No one"
+   ],
+   "answer": 2,
+   "explain": "The blue car is travelling in the same direction as you, the white one towards you. If the road is not wide enough for a U-turn from the extreme left position, the U-turn is made from the right-hand edge (from the right shoulder), giving way to vehicles travelling in the same direction and to oncoming vehicles ⟦10⟧."
+  },
+  {
+   "id": "m06-n032",
+   "q": "You intend to stop at the right-hand edge of the road. A cyclist is riding along the shoulder ahead. What should you do?",
+   "options": [
+    "Stop right in front of them: they will go around you",
+    "Sound the horn to make the cyclist give way to you",
+    "Stop on the shoulder right next to the cyclist",
+    "Give way to the cyclist first, then stop"
+   ],
+   "answer": 3,
+   "explain": "As you approach the place where you intend to stop, you cross the path of the cyclist on the shoulder. In this case a driver gives way to pedestrians, cyclists, moped riders and drivers of horse-drawn carts moving along the edge of the carriageway or on the shoulder ⟦11⟧."
+  },
+  {
+   "id": "m06-n033",
+   "q": "You are parked on the shoulder and intend to pull out onto the road. A blue car is approaching from behind. What should you do?",
+   "options": [
+    "Indicate left and pull out at once: the signal gives you the right to manoeuvre",
+    "Indicate left, let the blue car go by, then pull out",
+    "Pull out without indicating while the blue car is still far away",
+    "Switch on the hazard warning lights and pull out"
+   ],
+   "answer": 1,
+   "explain": "Moving off from a parking place is a manoeuvre ⟦12⟧. Before it, you give a signal with the direction indicator, and the manoeuvre itself must not impede others ⟦13⟧. A signal does not give priority ⟦14⟧, so let the blue car go by first."
+  },
+  {
+   "id": "m06-n034",
+   "q": "You want to stop at the right-hand edge just past the exit from a yard. A green car is about to pull out of the yard. When should you switch on the right direction indicator?",
+   "options": [
+    "In advance, before you reach the yard exit",
+    "Do not switch it on: stopping is not a manoeuvre",
+    "Once you have driven past the yard exit",
+    "Only after you have stopped"
+   ],
+   "answer": 2,
+   "explain": "If you signal before the yard exit, the driver of the green car may think that you are turning into the yard and start to pull out. A signal is given in good time, but in such a way that it does not mislead others ⟦15⟧. Stopping is also a manoeuvre ⟦16⟧.",
+   "scene": {
+    "labels.0.text": "stopping place",
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m06-n035",
+   "q": "You are reversing into a free space by the pavement. Under the Rules, how is the signal for reversing given?",
+   "options": [
+    "With the reversing lights only",
+    "With the reversing lights and the horn",
+    "With the right direction indicator and the hazard warning lights",
+    "With the reversing lights and the hazard warning lights"
+   ],
+   "answer": 3,
+   "explain": "The reversing lights come on by themselves when reverse gear is engaged, but the driver has to switch on the hazard warning lights. The signal for reversing is given by switching on the reversing lights and the hazard warning lights ⟦17⟧."
+  },
+  {
+   "id": "m06-n036",
+   "q": "There is a dangerous bend ahead, and because of it the road is visible for only 60 m. On which path may you continue?",
+   "options": [
+    "Path B only",
+    "Path A only",
+    "Both paths"
+   ],
+   "answer": 0,
+   "explain": "Here the road is visible for only 60 m: an oncoming vehicle may appear from behind the bend while you are across the road. A U-turn is prohibited where the visibility of the road is less than 100 m ⟦18⟧, so you may only go straight on."
+  },
+  {
+   "id": "m06-n037",
+   "q": "No train is in sight, and the traffic light at the level crossing is switched off. On which path may you continue?",
+   "options": [
+    "Both paths",
+    "Path A only",
+    "Path B only"
+   ],
+   "answer": 2,
+   "explain": "Path A is a U-turn right on the level crossing, and U-turns are prohibited there ⟦19⟧. There is no train and the traffic light is off, so you may go straight over the level crossing."
+  },
+  {
+   "id": "m06-n038",
+   "q": "You are driving a long vehicle - a road train or an articulated bus. Because of its dimensions, you cannot turn right from the extreme right position. What should you do?",
+   "options": [
+    "Move into the adjacent lane if this is safe and impedes no one",
+    "Turn strictly from the extreme right lane, even if you mount the kerb",
+    "Turn from the left lane with the hazard warning lights on",
+    "Abandon the turn: it is prohibited for you"
+   ],
+   "answer": 0,
+   "explain": "If, because of its dimensions, a vehicle cannot turn while keeping to the required extreme position, it may move partly, or if necessary fully, into the adjacent lane. The conditions are traffic safety and not impeding others ⟦20⟧."
+  },
+  {
+   "id": "m06-n039",
+   "q": "You are pulling out of a yard. On which paths may you continue?",
+   "options": [
+    "Path B only",
+    "Path A only",
+    "Both paths"
+   ],
+   "answer": 1,
+   "explain": "To turn left (B), you would have to cross the solid line of marking 1.1, and crossing it is prohibited. You may turn right (A), giving way to everyone moving along the road ⟦21⟧.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m06-n040",
+   "q": "You are pulling out from a dirt road onto an asphalt road and turning right. A pedestrian is walking along the shoulder of the asphalt road towards the exit. What should you do?",
+   "options": [
+    "Pull out first: the pedestrian is not on a crossing",
+    "Sound the horn and pull out",
+    "Give way to vehicles only: the pedestrian can wait",
+    "Let the pedestrian go first, then pull out"
+   ],
+   "answer": 3,
+   "explain": "An asphalt road is the main road in relation to a dirt road ⟦22⟧. When coming out of a minor road, a driver gives way to both vehicles and pedestrians moving along the main road ⟦23⟧."
+  },
+  {
+   "id": "m06-n041",
+   "q": "You are driving in a town, and a sign permits 90 km/h here. The right lane is free, and you do not intend to turn. On which path must you continue?",
+   "options": [
+    "Path A",
+    "Path B",
+    "Either path: in a town you may drive in any lane"
+   ],
+   "answer": 1,
+   "explain": "In a town you may usually drive in any lane, but where more than 80 km/h is permitted, the rule for roads outside built-up areas applies: keep closer to the right-hand edge and do not occupy the left lanes when the right ones are free ⟦24⟧. So move into the right lane (B)."
+  },
+  {
+   "id": "m06-n042",
+   "q": "You are driving in a town in the left lane at the permitted speed. The right lane is free, and no one is catching up with you from behind. On which path may you continue?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths"
+   ],
+   "answer": 2,
+   "explain": "In built-up areas where no more than 80 km/h is permitted, you may drive in any lane ⟦25⟧. You have to vacate the left lane only if you are driving slower than permitted and a faster vehicle approaching from behind gives a light signal ⟦26⟧."
+  },
+  {
+   "id": "m06-n043",
+   "q": "You are driving outside a built-up area in the left lane and have just overtaken a truck. The right lane ahead is free, and you do not intend to turn. On which path must you continue?",
+   "options": [
+    "Path B",
+    "Path A",
+    "Either path"
+   ],
+   "answer": 0,
+   "explain": "The overtaking is complete, and the right lane is free. Outside built-up areas, drivers keep closer to the right-hand edge and do not occupy the left lanes when the right ones are free, so return to the right lane (B) when it is safe ⟦27⟧."
+  },
+  {
+   "id": "m06-n044",
+   "q": "The traffic is heavy: the right and middle lanes are filled with dense traffic. On which paths may you continue?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths"
+   ],
+   "answer": 2,
+   "explain": "The extreme left of three lanes in one direction may be used in heavy traffic, when the other lanes are occupied ⟦28⟧. So you may either stay in the middle lane (B) or move into the left lane (A)."
+  },
+  {
+   "id": "m06-n045",
+   "q": "You are driving a truck with a maximum authorised mass of 12 t and overtaking a slow truck in the middle lane. There are no turns ahead. On which paths may you continue?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths"
+   ],
+   "answer": 0,
+   "explain": "On roads with three or more lanes in one direction, trucks with a maximum authorised mass of more than 3500 kg may occupy the extreme left lane only to turn left or make a U-turn ⟦29⟧. There is no turn, so continue overtaking in the middle lane (A)."
+  },
+  {
+   "id": "m06-n046",
+   "q": "You are driving a truck with a maximum authorised mass of 12 t. In 150 m you need to turn left. On which path must you continue?",
+   "options": [
+    "Path B: turn later from the middle lane",
+    "Path A: move into the left lane",
+    "A truck may not use the left lane, so you cannot turn left here"
+   ],
+   "answer": 1,
+   "explain": "A truck with a mass of more than 3500 kg may occupy the left of three lanes in one direction precisely to turn left or make a U-turn ⟦30⟧. And a left turn must be made from the extreme left position ⟦31⟧."
+  },
+  {
+   "id": "m06-n048",
+   "q": "A two-way road has three lanes. You are overtaking a truck in the middle lane. On which paths may you continue?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths"
+   ],
+   "answer": 0,
+   "explain": "On two-way roads with three lanes, it is prohibited to move into the extreme left lane, which is intended for oncoming traffic ⟦32⟧. Overtake in the middle lane (A)."
+  },
+  {
+   "id": "m06-n049",
+   "q": "A truck ahead of you is travelling at 60 km/h. On which path may you continue?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths"
+   ],
+   "answer": 1,
+   "explain": "The road has two lanes separated by solid line marking 1.1, and sign 3.20 is in place. On such roads, moving onto the side intended for oncoming traffic is prohibited, except in cases provided for by the Rules ⟦33⟧. Overtaking a truck travelling at 60 km/h is not one of these cases."
+  },
+  {
+   "id": "m06-n050",
+   "q": "The road has two lanes in each direction, the centre line is broken, there are no prohibitory signs and there are no oncoming vehicles. On which paths may you continue?",
+   "options": [
+    "Path B only: on such roads, moving onto the oncoming side is prohibited",
+    "Path A only",
+    "Both paths"
+   ],
+   "answer": 2,
+   "explain": "On roads with four or more lanes, you may not drive on the oncoming side, but left turns and U-turns are permitted at intersections and in other places where they are not prohibited by the Rules, signs or markings ⟦34⟧. There are no prohibitions here."
+  },
+  {
+   "id": "m06-n051",
+   "q": "You are driving a tractor whose top speed is no more than 30 km/h. You do not intend to turn or overtake. On which path must you continue?",
+   "options": [
+    "Path A",
+    "Path B",
+    "Either path"
+   ],
+   "answer": 1,
+   "explain": "Vehicles that travel at no more than 40 km/h, or cannot reach that speed for technical reasons, drive in the extreme right lane ⟦35⟧. So move into the right lane (B)."
+  },
+  {
+   "id": "m06-n052",
+   "q": "You are driving a tractor whose top speed is no more than 30 km/h. In 100 m you need to turn left. On which path must you continue?",
+   "options": [
+    "Path B: change lanes in advance to turn left",
+    "Path A: slow vehicles always drive in the right lane",
+    "Either path"
+   ],
+   "answer": 0,
+   "explain": "Slow-moving vehicles keep to the extreme right lane, but they are allowed to change lanes before turning left or making a U-turn ⟦36⟧. A left turn must be made from the extreme left position ⟦37⟧."
+  },
+  {
+   "id": "m06-n053",
+   "q": "Sign 3.20 “No overtaking” is in force. You are driving in the left lane for your direction faster than a truck in the right lane. Are you breaking the prohibition?",
+   "options": [
+    "Yes: passing in the adjacent lane also counts as overtaking",
+    "Yes, if the truck is travelling faster than 30 km/h",
+    "No, but only if you are in a built-up area",
+    "No: driving faster in your own lane is not overtaking"
+   ],
+   "answer": 3,
+   "explain": "You do not leave your lane and do not return to it. Driving in one lane at a higher speed than in the adjacent lane is not considered overtaking ⟦38⟧."
+  },
+  {
+   "id": "m06-n054",
+   "q": "All the lanes in your direction are occupied. On the left there are tram tracks for the same direction, level with the carriageway. There is no tram, and there are no signs 5.8.1 or 5.8.2. May you continue along the tram tracks?",
+   "options": [
+    "No, driving on tram tracks is not allowed",
+    "Yes, and the tram must give way to you",
+    "Yes, but you may not cross an intersection on the tracks",
+    "Yes, provided you do not impede the tram"
+   ],
+   "answer": 3,
+   "explain": "You may drive on tram tracks for the same direction, located on the left and level with the carriageway, when all the lanes in that direction are occupied. You must not impede the tram ⟦39⟧. Driving across an intersection on the tracks is prohibited only if signs 5.8.1 or 5.8.2 are in place."
+  },
+  {
+   "id": "m06-n055",
+   "q": "In which case is driving onto tram tracks prohibited?",
+   "options": [
+    "Onto tracks for the same direction, to drive around an obstacle",
+    "Onto tracks for the same direction, to turn left",
+    "Onto tracks for the same direction, when all lanes are occupied",
+    "Onto tram tracks for oncoming traffic"
+   ],
+   "answer": 3,
+   "explain": "Driving onto tram tracks for oncoming traffic is prohibited ⟦40⟧. You may drive onto tram tracks for the same direction, located on the left and level with the carriageway, to drive around an obstacle, to overtake, to turn left or make a U-turn, and when all the lanes are occupied, without impeding the tram."
+  },
+  {
+   "id": "m06-n056",
+   "q": "Sign 5.8.1 “Lane directions” is installed before the intersection. May you go straight through this intersection on the tram tracks for the same direction?",
+   "options": [
+    "Yes, if all the lanes in your direction are occupied",
+    "Yes, if there is no tram and you impede no one",
+    "No, with this sign it is prohibited",
+    "Yes, but only at up to 20 km/h"
+   ],
+   "answer": 2,
+   "explain": "If signs 5.8.1 or 5.8.2 are installed on the road, driving through the intersection on the tram tracks is prohibited, even when the lanes are occupied ⟦41⟧. Choose your lane according to the sign."
+  },
+  {
+   "id": "m06-n057",
+   "q": "The road is divided into three lanes by broken lines. A driver is driving with a marking line running under the middle of the car, as this makes it easier to change lanes if necessary. Is this correct?",
+   "options": [
+    "Yes: you are allowed to cross broken lines at any moment",
+    "No: you may drive onto the line only to change lanes",
+    "Yes, if the adjacent lane is free right now",
+    "No, but only outside built-up areas"
+   ],
+   "answer": 1,
+   "explain": "Such a driver occupies two lanes at once and gets in the way of traffic in both. If the carriageway is divided into lanes by marking lines, you must drive strictly within the lanes, and driving onto broken lines is allowed only when changing lanes ⟦42⟧."
+  },
+  {
+   "id": "m06-n058",
+   "q": "You have turned onto a road with reversible traffic and taken the extreme right lane. When may you change to a lane further left?",
+   "options": [
+    "Right after the turn, if the adjacent lane on the left is free",
+    "Only 100 m after the intersection",
+    "Once you are sure traffic in your direction may use other lanes",
+    "Not until the very end of the road section with reversible traffic"
+   ],
+   "answer": 2,
+   "explain": "On reversible lanes the direction of traffic can change. So after turning onto such a road, a driver may change lanes only after making sure that traffic in their direction is also allowed in the other lanes ⟦43⟧."
+  },
+  {
+   "id": "m06-n059",
+   "q": "You are delivering goods to a shop whose entrance is directly off the pavement, and there is no other access. May you drive to the entrance along the pavement?",
+   "options": [
+    "No, driving on pavements is always prohibited",
+    "Yes, but only at night",
+    "Yes, if you sound the horn",
+    "Yes, by the shortest route and ensuring safety"
+   ],
+   "answer": 3,
+   "explain": "The Rules allow vehicles delivering goods to premises located by shoulders, pavements or footpaths to approach them by the shortest route if there is no other way to get there. Traffic safety must be ensured ⟦44⟧.",
+   "scene": {
+    "labels.0.text": "shop"
+   }
+  },
+  {
+   "id": "m06-n060",
+   "q": "In a town, to get around a traffic jam, a driver drove across a lawn between the buildings. Did the driver break the Rules?",
+   "options": [
+    "Yes: this is not allowed in built-up areas",
+    "No, if there were no pedestrians near the lawn",
+    "No: a lawn is neither a pavement nor a shoulder",
+    "Yes, but only if there is a prohibitory sign there"
+   ],
+   "answer": 0,
+   "explain": "Besides driving on shoulders, pavements and footpaths, driving off the carriageway is also prohibited in built-up areas ⟦45⟧. A lawn is not part of the carriageway."
+  },
+  {
+   "id": "m06-n061",
+   "q": "A road maintenance vehicle with its amber beacon on is driving slowly along the shoulder. Is its driver breaking the Rules?",
+   "options": [
+    "Yes: driving on shoulders is prohibited for everyone without exception",
+    "No: road maintenance and utility services are allowed to do this",
+    "Yes, if no “Road works” sign is installed nearby",
+    "No, but only during the hours of darkness"
+   ],
+   "answer": 1,
+   "explain": "Driving on shoulders is prohibited, but an exception is made for vehicles of road maintenance and public utility services. Safety must still be ensured ⟦46⟧."
+  },
+  {
+   "id": "m06-n062",
+   "q": "There is a traffic island in the middle of the carriageway of a two-way road without a central reservation. There are no signs or markings showing which side of it to drive on. How should you drive around it?",
+   "options": [
+    "On the right",
+    "On the left",
+    "On either side",
+    "On the side with less traffic"
+   ],
+   "answer": 0,
+   "explain": "Driving around it on the left would take you onto the oncoming side. Traffic islands, bollards and bridge supports in the middle of the carriageway of a two-way road without a central reservation are driven around on the right, unless signs and markings require otherwise ⟦47⟧."
+  },
+  {
+   "id": "m06-n063",
+   "q": "Your direction indicators are not working. Which hand signal by the driver means a manoeuvre to the left?",
+   "options": [
+    "Left arm extended to the side and bent upwards at the elbow",
+    "Arm raised upwards",
+    "Right arm extended to the side",
+    "Left arm extended to the side"
+   ],
+   "answer": 3,
+   "explain": "A manoeuvre to the left is signalled with the left arm extended to the side, or with the right arm extended to the side and bent upwards at the elbow at a right angle. The left arm bent upwards means a manoeuvre to the right, and a raised arm means braking ⟦48⟧."
+  },
+  {
+   "id": "m06-n064",
+   "q": "Which hand signal means braking?",
+   "options": [
+    "Left arm extended downwards",
+    "Right arm bent upwards at the elbow",
+    "Arm raised upwards",
+    "Left arm extended to the side"
+   ],
+   "answer": 2,
+   "explain": "The braking signal is given with the brake lights or with an arm raised upwards ⟦49⟧. The right arm bent upwards means a manoeuvre to the left, and so does the left arm extended to the side."
+  },
+  {
+   "id": "m06-n065",
+   "q": "You are signalling a turn by hand. When may you stop giving this signal?",
+   "options": [
+    "Only immediately after the manoeuvre is fully completed",
+    "Immediately before making the manoeuvre",
+    "5 seconds after starting the turn",
+    "When the manoeuvre is half completed"
+   ],
+   "answer": 1,
+   "explain": "During a turn, your hands are needed on the steering wheel. So a hand signal may be ended immediately before making the manoeuvre, while a signal with the direction indicator is stopped immediately after the manoeuvre ⟦50⟧."
+  },
+  {
+   "id": "m06-n066",
+   "q": "Which of these actions do the Rules also classify as manoeuvring, along with turning and changing lanes?",
+   "options": [
+    "Braking",
+    "Sounding the horn",
+    "Going straight through an intersection without stopping",
+    "Driving in a lane at a constant speed"
+   ],
+   "answer": 0,
+   "explain": "Manoeuvring means moving off after stopping (parking), stopping, turning (making a U-turn), changing lanes, braking and reversing ⟦51⟧. Sounding the horn and driving at a constant speed are not manoeuvres."
+  },
+  {
+   "id": "m06-n067",
+   "q": "Before turning, a driver takes up the appropriate extreme position on the carriageway in advance. In which case do the Rules not require this?",
+   "options": [
+    "When turning right at a controlled intersection",
+    "When turning left from a one-way road",
+    "When turning on an empty road during the hours of darkness",
+    "When turning as you enter a roundabout"
+   ],
+   "answer": 3,
+   "explain": "The requirement to take up the extreme position in advance does not apply to a turn made when entering a roundabout ⟦52⟧. In all other cases, including on a one-way road, you must take up this position."
+  },
+  {
+   "id": "m06-n068",
+   "q": "How must a turn be made?",
+   "options": [
+    "Along the shortest route, cutting the corner across the oncoming lane",
+    "So as to take the least busy lane immediately after the turn",
+    "So as not to end up on the oncoming side on leaving the intersection",
+    "Crossing onto the oncoming side if there are no vehicles there"
+   ],
+   "answer": 2,
+   "explain": "A turn is made so that the vehicle does not end up on the side intended for oncoming traffic when leaving the intersection of carriageways, and it is made into the lane corresponding to the one the vehicle occupied ⟦53⟧. You may not cut the corner across the oncoming lane or pick a “less busy” lane."
+  },
+  {
+   "id": "m06-n069",
+   "q": "The paths of two vehicles cross, and the Rules do not determine who goes first. Who gives way?",
+   "options": [
+    "The one with a vehicle approaching from the right",
+    "The one with a vehicle approaching from the left",
+    "The one who started their manoeuvre later than the other",
+    "The one whose vehicle is smaller in size"
+   ],
+   "answer": 0,
+   "explain": "If paths cross and the Rules do not determine who goes first, the driver who has a vehicle approaching from the right gives way ⟦54⟧. This is the “priority to the right” rule."
+  },
+  {
+   "id": "m06-n070",
+   "q": "A wide road has no markings or signs that define traffic lanes. How is the number of lanes determined?",
+   "options": [
+    "It is assumed that there is only one lane in each direction",
+    "As many lanes as vehicles that fit side by side with no gaps",
+    "By drivers, based on road width, vehicle dimensions and clearances",
+    "It is decided by a police officer who arrives at the scene"
+   ],
+   "answer": 2,
+   "explain": "The number of lanes is determined by road markings or signs 5.8.1, 5.8.2, 5.8.7, 5.8.8, and if there are none, by the drivers themselves, taking into account the width of the carriageway, the dimensions of the vehicles and the necessary clearance between them ⟦55⟧."
+  },
+  {
+   "id": "m06-n071",
+   "q": "A two-way road has no markings. Which part of the carriageway is considered the side for oncoming traffic?",
+   "options": [
+    "The right half of the width of the carriageway",
+    "The left lane, if two vehicles fit in it",
+    "The side where fewer vehicles are travelling at the moment",
+    "The left half, disregarding any local widening"
+   ],
+   "answer": 3,
+   "explain": "The side for oncoming traffic is the half of the width of the carriageway on the left, unless traffic management establishes otherwise. Any local widening of the carriageway is not taken into account ⟦56⟧."
+  },
+  {
+   "id": "m06-n072",
+   "q": "The driver of a 16 m road train, on a road outside a built-up area with one lane in each direction, keeps a following distance that allows overtaking vehicles to pull in ahead of the road train. When does this requirement not apply?",
+   "options": [
+    "During the hours of darkness",
+    "When the driver is preparing to overtake",
+    "On straight sections of road",
+    "If the road train's speed is below 60 km/h"
+   ],
+   "answer": 1,
+   "explain": "Such a distance for overtaking vehicles is kept by vehicles for which a speed limit has been set and by vehicles or vehicle combinations longer than 7 m. The requirement does not apply if the driver is preparing to overtake, in heavy traffic, or when driving in an organised convoy ⟦57⟧."
+  },
+  {
+   "id": "m06-n073",
+   "q": "You have driven into a tunnel and realised that you have taken the wrong road. May you reverse back to the entrance?",
+   "options": [
+    "Yes, if no vehicles are behind and the hazard warning lights are on",
+    "No: both U-turns and reversing are prohibited in tunnels",
+    "Yes, if you reverse no more than 20 m with the headlights on",
+    "Yes, if the tunnel is short and the entrance is clearly visible"
+   ],
+   "answer": 1,
+   "explain": "U-turns are prohibited in tunnels ⟦58⟧, and reversing is prohibited wherever U-turns are prohibited ⟦59⟧. Drive on to the tunnel exit and make a U-turn at a permitted place."
+  },
+  {
+   "id": "m06-n074",
+   "q": "You are driving in a town on a road marked with sign 5.3 “Road for motor vehicles”. The right lane is free, and you do not intend to turn. On which path must you continue?",
+   "options": [
+    "Path A: in a town you may drive in any lane",
+    "Either path, if your speed is no more than 60 km/h",
+    "Path A only, as long as no one is behind you",
+    "Path B"
+   ],
+   "answer": 3,
+   "explain": "Sign 5.3 marks a road for motor vehicles. On such roads, even in a built-up area, the rule for roads outside built-up areas applies: keep closer to the right-hand edge and do not occupy the left lanes when the right ones are free ⟦60⟧. So move into the right lane (B)."
+  },
+  {
+   "id": "m06-n075",
+   "q": "In a town there is an overpass ahead. Under it is a wide road with no prohibitory signs or markings. May you make a U-turn under the overpass?",
+   "options": [
+    "Yes, if there are no signs",
+    "Yes, if the visibility is more than 100 m",
+    "No: U-turns under overpasses are prohibited",
+    "Only when the traffic light is green"
+   ],
+   "answer": 2,
+   "explain": "U-turns are prohibited on and under bridges, overpasses and flyovers ⟦61⟧, even if there are no signs. Make your U-turn further on, at a permitted place."
+  },
+  {
+   "id": "m06-n076",
+   "q": "You are following a truck at 90 km/h at a distance of about 5 m. Is this correct?",
+   "options": [
+    "No: the following distance must let you avoid a collision",
+    "Yes, if the truck is travelling at the same speed as you",
+    "Yes, if its brake lights are clearly visible and the road is dry",
+    "No: the Rules require a following distance of exactly 50 m"
+   ],
+   "answer": 0,
+   "explain": "At 90 km/h a car covers 25 m per second, and 5 m is a fifth of a second: if the truck brakes sharply, you will not have time to react. The following distance is chosen according to speed so that a collision can be avoided ⟦62⟧. The Rules do not set an exact number of metres."
+  },
+  {
+   "id": "m06-n077",
+   "q": "You are overtaking a cyclist riding along the edge of the carriageway. Besides the following distance, what must you observe?",
+   "options": [
+    "A safe lateral clearance from the cyclist",
+    "A speed of no more than 20 km/h",
+    "Sounding the horn throughout the overtaking",
+    "Nothing: the cyclist must keep close to the shoulder"
+   ],
+   "answer": 0,
+   "explain": "A cyclist may swerve because of the wind or a pothole, so you need a margin of space beside them. A driver keeps not only a following distance to the vehicle ahead but also the lateral clearance necessary for safety ⟦63⟧."
+  },
+  {
+   "id": "m06-n078",
+   "q": "You are turning right from the extreme right lane onto a road with three lanes in your direction. In 200 m you need to turn left. What should you do?",
+   "options": [
+    "Turn straight into the extreme left lane if it is free",
+    "Turn into the right lane, then move left one lane at a time",
+    "Turn straight into the middle lane to change lanes fewer times",
+    "Turn into any free lane: after the turn it does not matter"
+   ],
+   "answer": 1,
+   "explain": "A turn is made into the lane corresponding to the one you occupy ⟦64⟧: from the extreme right lane into the extreme right lane. Then change lanes to the left one at a time, giving way to those travelling in the same direction without changing lanes ⟦65⟧, and take up the extreme left position in advance ⟦66⟧."
+  },
+  {
+   "id": "m06-n079",
+   "q": "You are driving in the left lane. On which paths may you continue?",
+   "options": [
+    "Path A only",
+    "Paths A, B and C",
+    "Path C only",
+    "Paths A and C"
+   ],
+   "answer": 3,
+   "explain": "The arrow in your lane permits only a left turn, so you may not go straight on (B) from here. Markings that permit a left turn from the extreme left lane also permit a U-turn (C) ⟦67⟧."
+  },
+  {
+   "id": "m06-n080",
+   "q": "Sign 5.8.1, installed before the intersection, and the road markings permit a left turn from the middle and left lanes. The left lane is free. On which paths may you continue from the middle lane?",
+   "options": [
+    "Path A only",
+    "Both paths",
+    "Path B only"
+   ],
+   "answer": 2,
+   "explain": "When a sign permits a left turn from several lanes, you may not take a lane other than the extreme left one for the turn while the extreme left lane is free ⟦68⟧. The left lane is free, so the left turn must be made from it, and from the middle lane you may go straight on (B)."
+  },
+  {
+   "id": "m06-n081",
+   "q": "Sign 5.8.1, installed before the intersection, and the road markings permit a left turn from the middle and left lanes. The left lane is occupied. On which paths may you continue from the middle lane?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths"
+   ],
+   "answer": 2,
+   "explain": "Taking a lane other than the extreme left one for the turn is prohibited only while the extreme left lane is free ⟦69⟧. The left lane is occupied, so from the middle lane you may both turn left, as the sign permits, and go straight on."
+  },
+  {
+   "id": "m06-n082",
+   "q": "There are no lane arrows and no lane direction signs, and you are driving in the right lane. On which paths may you go through the intersection?",
+   "options": [
+    "Paths B and C",
+    "Paths A, B and C",
+    "Path C only",
+    "Paths A and B"
+   ],
+   "answer": 0,
+   "explain": "A U-turn, like a left turn, is made from the extreme left position ⟦70⟧. From the right lane you may go straight on (B) and turn right (C), but a U-turn along path A, across the left lane, is prohibited."
+  },
+  {
+   "id": "m06-n083",
+   "q": "Before the intersection, the centre line is a double solid line. You are in the left lane, and there are no signs. On which paths may you go through the intersection?",
+   "options": [
+    "Path B only",
+    "Both paths",
+    "Path A only",
+    "Neither path: you may not cross a double solid line"
+   ],
+   "answer": 1,
+   "explain": "The double solid line ends before the intersection, so you do not cross it when turning. A left turn (B) and a U-turn (A) at an intersection are made from the extreme left position, and you are in the left lane ⟦71⟧."
+  },
+  {
+   "id": "m06-n084",
+   "q": "The entrance to the yard you need is now behind you, just before a pedestrian crossing. On which path may you continue?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths"
+   ],
+   "answer": 1,
+   "explain": "You could only reverse back to the entrance (A) across the pedestrian crossing, and reversing is prohibited wherever U-turns are prohibited, including on pedestrian crossings ⟦72⟧. Drive on (B) and return to the entrance in a permitted way.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  }
+ ],
+ "pack": "m06-2"
+}

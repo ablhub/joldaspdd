@@ -1,0 +1,13 @@
+#!/bin/bash
+# Сброс пароля админки Жолдас. Запуск в консоли сервера: sudo joldas-admin-reset
+set -euo pipefail
+set -a; . /etc/joldas/env; set +a
+runuser -u postgres -- psql -d joldas -q -c "delete from admin_kv where key='password'; delete from admin_sessions;"
+openssl rand -hex 16 > /var/lib/joldas/setup-code
+chown joldas:joldas /var/lib/joldas/setup-code
+chmod 0600 /var/lib/joldas/setup-code
+D="${PUBLIC_IP//./-}"
+DOMAIN=""
+if [ -f /var/lib/joldas/domain ]; then DOMAIN=$(tr -cd 'a-z0-9.-' < /var/lib/joldas/domain); fi
+echo "Пароль сброшен. Откройте ссылку и задайте новый:"
+echo "https://${DOMAIN:-$D.sslip.io}/admin#setup=$(cat /var/lib/joldas/setup-code)"

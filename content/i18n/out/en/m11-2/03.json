@@ -1,0 +1,220 @@
+{
+ "questions": [
+  {
+   "id": "m11-n082",
+   "q": "There are no signs. Who must you give way to?",
+   "options": [
+    "Only the tram",
+    "Only the yellow car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "At an intersection of equal status, a tram has priority over trackless vehicles regardless of direction, even if it is approaching from the left ⟦62⟧. The yellow car is coming towards you and turning right, so it does not cross your path."
+  },
+  {
+   "id": "m11-n083",
+   "q": "There are no signs. Who must the driver of the tram give way to?",
+   "options": [
+    "Only the blue car",
+    "Only the yellow car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 3,
+   "explain": "At an intersection of equal status, a tram has priority over trackless vehicles regardless of the direction of travel ⟦63⟧. The blue car on your right must give way to the tram, and the yellow car is turning right and does not cross your path."
+  },
+  {
+   "id": "m11-n084",
+   "q": "In what order will the tram, the truck and the green car cross the intersection?",
+   "options": [
+    "Tram, truck, green car",
+    "Truck, tram, green car",
+    "Green car, truck, tram",
+    "Truck, green car, tram"
+   ],
+   "answer": 3,
+   "explain": "The tram is driving on the minor road (sign 2.4) and gives way to everyone on the main road ⟦64⟧: its priority at an intersection applies on roads of equal status and under a shared permissive signal ⟦65⟧. The green car on the main road is turning left and gives way to the oncoming truck ⟦66⟧."
+  },
+  {
+   "id": "m11-n085",
+   "q": "Who must you give way to when turning right?",
+   "options": [
+    "Only the tram",
+    "Only the orange vehicle",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "You are on the minor road and turning right into the lane the tram is using on the main road, so you must give way to it ⟦67⟧. The orange vehicle is driving in the far lane in the other direction and does not obstruct your turn."
+  },
+  {
+   "id": "m11-n086",
+   "q": "An ambulance is driving with its flashing beacon and siren on. In what order will the vehicles cross the intersection?",
+   "options": [
+    "Blue car, ambulance, truck",
+    "Blue car, truck, ambulance",
+    "Ambulance, truck, blue car",
+    "Ambulance, blue car, truck"
+   ],
+   "answer": 3,
+   "explain": "Everyone gives way to a vehicle with a flashing blue or red beacon and a siren on ⟦68⟧. After the ambulance, the intersection is crossed as one of equal status: the truck is turning left and gives way to the oncoming blue car ⟦69⟧."
+  },
+  {
+   "id": "m11-n087",
+   "q": "There are no signs. The ambulance on your left has its flashing beacon on, but the siren is off. Who must give way?",
+   "options": [
+    "You: a flashing beacon alone is enough for priority, even without a siren",
+    "The ambulance: without a siren it has no priority, and you are on its right",
+    "Whoever arrived at the intersection first: there are no priority signs here"
+   ],
+   "answer": 1,
+   "explain": "The driver of a special-purpose vehicle gains priority over others only by switching on both the flashing beacon and the siren ⟦70⟧, and other drivers must give way only when a vehicle with both signals is approaching ⟦71⟧. Here there is no siren, so the general rules apply: the ambulance is approaching from the left and gives way to you ⟦72⟧. But be careful: the driver may be in a hurry."
+  },
+  {
+   "id": "m11-n088",
+   "q": "A police car with its flashing beacon and siren on is pulling out of a minor road. In what order will the vehicles cross the intersection?",
+   "options": [
+    "White car, green car, police car",
+    "White car, police car, green car",
+    "Police car, white car, green car",
+    "Police car, green car, white car"
+   ],
+   "answer": 2,
+   "explain": "A driver with a flashing blue or red beacon and a siren on may depart from the requirements of signs, and everyone else must give way to that vehicle ⟦73⟧. So the police car crosses first, despite sign 2.4. Then the main road: the green car is turning left and gives way to the oncoming white car ⟦74⟧."
+  },
+  {
+   "id": "m11-n089",
+   "q": "You are driving a road-cleaning vehicle with its amber beacon on. Who must you give way to?",
+   "options": [
+    "Only the blue car",
+    "Only the green car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 2,
+   "explain": "An amber beacon does not give priority in traffic. While working, drivers of such vehicles may depart from the requirements of a number of signs and markings, but not from signs 2.2, 2.4-2.6 and some others ⟦75⟧. So you give way to both vehicles on the main road whose paths cross yours ⟦76⟧."
+  },
+  {
+   "id": "m11-n090",
+   "q": "There are no signs. In what order will the cyclist, the motorcycle and the red car cross the intersection?",
+   "options": [
+    "Cyclist, then the red car and the motorcycle together",
+    "The red car and the motorcycle together, then the cyclist",
+    "Motorcycle, cyclist, red car",
+    "Red car, cyclist, motorcycle"
+   ],
+   "answer": 1,
+   "explain": "The intersection is of equal status, and a cyclist on the carriageway follows the same rules. The cyclist is turning left into the lane the red car is using, and the red car is on the cyclist's right, so the cyclist waits ⟦77⟧. The motorcycle is turning right and does not cross anyone's path, so it crosses together with the red car."
+  },
+  {
+   "id": "m11-n092",
+   "q": "There are no signs. In what order will all four vehicles cross the intersection?",
+   "options": [
+    "Truck, tram, green car, blue car",
+    "Tram, green car, truck, blue car",
+    "Tram, truck, blue car, green car",
+    "Tram, truck, green car, blue car"
+   ],
+   "answer": 3,
+   "explain": "The intersection is of equal status, and the tram crosses first regardless of direction ⟦78⟧. After that, priority to the right applies: the truck is on the green car's right, and the green car is on the blue car's right; besides, the blue car is turning left and gives way to the oncoming truck ⟦79⟧."
+  },
+  {
+   "id": "m11-n093",
+   "q": "You have a green signal. A fire engine with its flashing beacon and siren on is approaching from the left against a red signal. What should you do?",
+   "options": [
+    "Drive on: you have a green signal",
+    "Give way to the fire engine",
+    "Drive on, sounding your horn",
+    "Give way only if the fire engine enters the intersection first"
+   ],
+   "answer": 1,
+   "explain": "When a vehicle with a flashing blue or red beacon and a siren on is approaching, drivers give way to it to allow it unobstructed passage ⟦80⟧. Such a driver may depart from traffic light signals ⟦81⟧, so a green signal does not give you the right to go first."
+  },
+  {
+   "id": "m11-n094",
+   "q": "In what order will the articulated bus, the truck and the blue car cross the intersection?",
+   "options": [
+    "The articulated bus and the truck together, then the blue car",
+    "The blue car, then the articulated bus and the truck together",
+    "Articulated bus, blue car, truck",
+    "Truck, blue car, articulated bus"
+   ],
+   "answer": 0,
+   "explain": "The bus and the truck are driving on the main road towards each other, going straight ahead: their paths do not cross, so they cross the intersection together. The blue car stops first at sign 2.5, then turns left after giving way to both of them ⟦82⟧."
+  },
+  {
+   "id": "m11-n095",
+   "q": "There are no signs. In what order will the tractor, the motorcycle and the white car cross the intersection?",
+   "options": [
+    "Motorcycle, white car, tractor",
+    "White car, motorcycle, tractor",
+    "Tractor, motorcycle, white car",
+    "Motorcycle, tractor, white car"
+   ],
+   "answer": 0,
+   "explain": "The tractor is pulling out of a dirt road onto asphalt: without signs, a paved road outranks a dirt road, so the tractor gives way to both vehicles on the main road ⟦83⟧. The white car on the main road is turning left and gives way to the oncoming motorcycle ⟦84⟧.",
+   "ref": "para. 2(9), paras. 101 and 104"
+  },
+  {
+   "id": "m11-n097",
+   "q": "An ambulance with its flashing beacon and siren on is driving through on red. In what order will the vehicles cross the intersection?",
+   "options": [
+    "White car, ambulance, blue car",
+    "Ambulance, blue car, white car",
+    "White car, blue car, ambulance",
+    "Ambulance, white car, blue car"
+   ],
+   "answer": 3,
+   "explain": "Everyone gives way to an ambulance with its beacon and siren on, even if they have a green signal ⟦85⟧, since its driver may depart from traffic light signals ⟦86⟧. Then, on green, the white car goes straight ahead, and the blue car, which is turning left, gives way to it as an oncoming vehicle ⟦87⟧."
+  },
+  {
+   "id": "m11-n099",
+   "q": "A bus in the right-hand lane has stopped before an uncontrolled pedestrian crossing at an intersection. What should you do?",
+   "options": [
+    "Drive on without slowing down: your lane is clear",
+    "Give way to the pedestrian stepping out from behind the bus",
+    "Sound your horn and drive on without stopping",
+    "Drive around the bus on the right, between it and the pavement"
+   ],
+   "answer": 1,
+   "explain": "The bus has stopped before an uncontrolled crossing, most likely because it is giving way to a pedestrian you cannot see well. Drivers in adjacent lanes continue only after making sure there are no pedestrians in front of it ⟦88⟧. Here a pedestrian is stepping out from behind the bus into your lane, so you must give way to them ⟦89⟧."
+  },
+  {
+   "id": "m11-n100",
+   "q": "You have mistakenly moved into the left-turn lane, although you wanted to go straight ahead. The left filter arrow is lit, and another car is behind you in the same lane. What should you do?",
+   "options": [
+    "Stop and wait for the main green signal to go straight ahead",
+    "Turn left on the arrow",
+    "Change into the adjacent lane right before the stop line",
+    "Go straight ahead on the arrow"
+   ],
+   "answer": 1,
+   "explain": "A driver in a lane used for turning continues in the direction of the lit arrow if stopping would obstruct those driving behind in the same lane ⟦90⟧. You can get back onto your intended route later."
+  },
+  {
+   "id": "m11-n101",
+   "q": "The entries have signs 4.3 and 2.4. Who must you give way to when entering the roundabout?",
+   "options": [
+    "Only the white car",
+    "Only the green car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "Sign 2.4 at the entry requires you to give way to those already driving around the roundabout who will pass your entry point. The white car on your left will pass you, so you must give way to it. The green car is driving around the roundabout ahead of you and is not approaching your entry point."
+  },
+  {
+   "id": "m11-n102",
+   "q": "The entries have signs 4.3 and 2.4. You are driving around the roundabout. Who must you give way to?",
+   "options": [
+    "Only the blue car",
+    "Only the green car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 3,
+   "explain": "The entries have sign 2.4, so the blue car entering must give way to you: you are already on the roundabout and are passing its entry point. The green car is driving around the roundabout ahead of you."
+  }
+ ]
+}

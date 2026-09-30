@@ -1,0 +1,244 @@
+{
+ "questions": [
+  {
+   "id": "m14-01",
+   "q": "You are carrying your 9-year-old son. You have no child seat, but you do have a special device that lets you belt him in correctly with the standard seat belt. Where can he sit?",
+   "options": [
+    "In any seat, since you have a device for belting him in",
+    "Only in the front seat, so the driver can see the child",
+    "Only in the back seat, belted in with this device",
+    "Nowhere: without a child seat, you cannot carry a child under 12"
+   ],
+   "answer": 2,
+   "explain": "Another means of belting a child in with the standard seat belt is allowed, but in the front seat a child under 12 may be carried only in a special child restraint."
+  },
+  {
+   "id": "m14-02",
+   "q": "Your 11-year-old daughter asks to sit next to you in the front seat. Under what condition is this allowed?",
+   "options": [
+    "If she is in a special child restraint",
+    "If she is belted in with the standard seat belt through a special adapter",
+    "If the trip is only within the city and the speed does not exceed 60 km/h",
+    "If there are no free seats for the child in the back"
+   ],
+   "answer": 0,
+   "explain": "A child under 12 may be carried in the front seat only in a special child restraint. The standard seat belt, even with an adapter, is not enough for the front seat."
+  },
+  {
+   "id": "m14-03",
+   "q": "Your friend wants to give his 15-year-old brother a ride on the back seat of his moped. Is this allowed?",
+   "options": [
+    "Yes, if the passenger is wearing a fastened motorcycle helmet",
+    "Yes, but only outside a built-up area and in daylight",
+    "Yes, if the moped rider is over 18",
+    "No: the passenger must be at least 16"
+   ],
+   "answer": 3,
+   "explain": "The Rules prohibit carrying anyone under 16 on the back seat of a motorcycle or moped."
+  },
+  {
+   "id": "m14-05",
+   "q": "A driver is 24 years old, holds category “C” and has 6 years of experience. Can he carry people in a truck's load body?",
+   "options": [
+    "Yes, his experience is enough",
+    "Yes, if there are no more than 8 people",
+    "No: the driver must be at least 25",
+    "No: category “D” is always required for this"
+   ],
+   "answer": 2,
+   "explain": "People are carried in a load body by drivers aged 25 who hold category “C” and have more than five years of experience in that category. Category “D” is additionally required if there are more than 8 people, including passengers in the cab."
+  },
+  {
+   "id": "m14-06",
+   "q": "Before setting off, two passengers in a fitted-out load body say they will stand by the front side to see the road better. What should you do?",
+   "options": [
+    "Allow it, if they hold on tightly to the front side",
+    "Allow it, but drive no faster than 40 km/h and avoid hard braking",
+    "Allow standing only on straight sections, and make them sit for bends",
+    "Not set off until they sit down: standing in the load body is not allowed"
+   ],
+   "answer": 3,
+   "explain": "The driver instructs passengers and warns them that standing in the load body and sitting on the sides while moving are not allowed."
+  },
+  {
+   "id": "m14-07",
+   "q": "During hours of darkness you are carrying pipes that extend 1.5 m beyond the rear of the vehicle. How must you mark them?",
+   "options": [
+    "With the “Oversized load” sign and a red lamp or retroreflector",
+    "With the “Oversized load” sign and a white lamp or white retroreflector",
+    "Only with a red flag on the end of the load; no sign is needed",
+    "With the “Long vehicle” sign and an amber flashing beacon"
+   ],
+   "answer": 0,
+   "explain": "A rear projection of more than 1 m is marked with the “Oversized load” sign. During hours of darkness, a red lamp or retroreflector is added at the back, and a white one at the front."
+  },
+  {
+   "id": "m14-08",
+   "q": "A load extends 30 cm beyond the outer edge of a position lamp at the side. Is the “Oversized load” sign needed?",
+   "options": [
+    "Yes, any sideways projection must be marked",
+    "No: the sign is needed when the sideways projection exceeds 40 cm",
+    "Yes, but only during hours of darkness",
+    "No: a load projecting at the side is marked only with flags"
+   ],
+   "answer": 1,
+   "explain": "The sign is fitted if the load extends more than 40 cm beyond the outer edge of a position lamp at the side. Even so, the load must still not obstruct the driver's view or handling."
+  },
+  {
+   "id": "m14-09",
+   "q": "You are carrying boards on a trailer. They are securely fastened, but they cover the number plate and one rear light. Can you drive?",
+   "options": [
+    "Yes: the main thing is that the load is securely fastened to the trailer",
+    "Yes, in daylight, when lights are not needed",
+    "No: the load must not cover the number plate and the lights",
+    "Yes, if you switch on the hazard warning lights on the trailer"
+   ],
+   "answer": 2,
+   "explain": "A load must not cover the external lights, retroreflectors or number plates. Position it differently."
+  },
+  {
+   "id": "m14-10",
+   "q": "A school is looking for a bus driver for a trip with an organised group of children. Which candidate meets the requirements of the Rules?",
+   "options": [
+    "23 years old, the required category, 5 years of experience",
+    "30 years old, the required category, 3 years of experience",
+    "27 years old, the required category, 6 years of experience",
+    "22 years old, the required category, 4 years of experience"
+   ],
+   "answer": 2,
+   "explain": "Organised groups of children are carried by drivers aged at least 25, holding a driving licence of the required category and with at least five years of experience working as a driver."
+  },
+  {
+   "id": "m14-n001",
+   "q": "Which of these passengers can you carry on the back seat of a motorcycle if they are wearing a fastened motorcycle helmet?",
+   "options": [
+    "A sober 17-year-old passenger",
+    "A 15-year-old teenager",
+    "An adult who has been drinking at a party",
+    "No one: motorcycle passengers must be at least 18"
+   ],
+   "answer": 0,
+   "explain": "The age limit for the back seat of a motorcycle or moped is 16, so you may carry a sober 17-year-old passenger wearing a fastened motorcycle helmet. Children under 16 and intoxicated passengers are not carried on the back seat even wearing a helmet: an intoxicated passenger can lose their balance and tip the motorcycle over."
+  },
+  {
+   "id": "m14-n003",
+   "q": "May people be carried in the load body of a goods motorcycle?",
+   "options": [
+    "Yes, if they sit on the floor and hold on tightly to the side",
+    "No: a goods motorcycle's load body does not carry people",
+    "Yes, but only on a field track, not on a highway",
+    "Yes, if the load body has sides at least 0.8 m high"
+   ],
+   "answer": 1,
+   "explain": "Para. 156 prohibits carrying people in the load body of a goods motorcycle, and in general anywhere outside the seating positions provided for by the motorcycle's design. The load body will not hold a person in place during braking or if the vehicle overturns."
+  },
+  {
+   "id": "m14-n004",
+   "q": "Your son is 11 and tall for his age: 155 cm, and the standard seat belt fits him properly. You have no child seat or other device. Can you put him in the back seat and belt him in with the ordinary seat belt?",
+   "options": [
+    "Yes: above 150 cm in height, a child restraint is not needed",
+    "Yes, if you drive only within the city and no faster than 60 km/h",
+    "No: under 12, a restraint or another suitable means is required",
+    "Yes, but only in the front seat, where the belt fits better"
+   ],
+   "answer": 2,
+   "explain": "The Rules set the limit by age: children under 12 are carried in a child restraint or with another means that allows the child to be belted in with the standard seat belt. Height is not mentioned in para. 157; it only matters when choosing a restraint according to the manufacturer's instructions."
+  },
+  {
+   "id": "m14-n005",
+   "q": "Your daughter has just turned 12. How may she be carried in the front seat of a car under the Rules?",
+   "options": [
+    "Only in a child seat, until she is 14",
+    "She may not sit in front until she is 16",
+    "Belted in with the standard seat belt",
+    "She does not need to be belted in if you drive slowly"
+   ],
+   "answer": 2,
+   "explain": "The special requirements of para. 157 apply only to children under 12. From age 12, a child travels like an adult passenger, but must be belted in: a driver does not carry passengers who are not wearing seat belts."
+  },
+  {
+   "id": "m14-n006",
+   "q": "You work as a taxi driver. A female passenger with her 5-year-old son gets in the back and says she will hold him in her arms: it is only a five-minute ride. There is no child seat in the car. What should you do?",
+   "options": [
+    "Carry them: the mother is responsible for the child in her arms",
+    "Refuse: a child under 12 must not be carried in someone's arms",
+    "Carry them, but drive slowly and along minor streets",
+    "Put the child in the front seat and belt him in"
+   ],
+   "answer": 1,
+   "explain": "A child under 12 is carried only in a child restraint or with another means of belting them in with the standard seat belt, and in the front seat only in a restraint. There is no exception for taxis, and you cannot hold on to a child during hard braking. Offer the passenger a car with a child seat instead."
+  },
+  {
+   "id": "m14-n007",
+   "q": "You are driving a truck whose cab has only front seats. Your 10-year-old son wants to come with you. Under what condition is this allowed?",
+   "options": [
+    "If he is in a special child restraint",
+    "If he is belted in with the standard seat belt",
+    "If the speed does not exceed 60 km/h",
+    "Children under 12 are never carried in a truck cab, under any condition"
+   ],
+   "answer": 0,
+   "explain": "In the front seat of a motor vehicle, a child under 12 may be carried only in a special child restraint. There is no exception for a truck cab."
+  },
+  {
+   "id": "m14-n008",
+   "q": "According to its technical specification, your car has 5 seats. Your friends ask you to take a sixth person, who will sit in the back on a friend's lap. Can you do this?",
+   "options": [
+    "Yes, for a short distance, if you drive slowly",
+    "Yes, if all the other passengers are belted in",
+    "Yes, if the sixth passenger is over 12 and sits in the back",
+    "No: the technical specification allows for only 5 seats"
+   ],
+   "answer": 3,
+   "explain": "The number of passengers is limited by the vehicle's technical specification. There is no seat or belt for a sixth passenger, and during braking they are a danger to themselves and to the people next to them."
+  },
+  {
+   "id": "m14-n009",
+   "q": "A passenger asks you to drop them off here, at the right-hand edge. Can you stop?",
+   "options": [
+    "Yes, if getting out takes no more than one minute",
+    "Yes, if you switch on the hazard warning lights",
+    "No: sign 3.27 also prohibits stopping to let a passenger out",
+    "Yes: letting a passenger out does not count as stopping"
+   ],
+   "answer": 2,
+   "explain": "The place where you want to stop is within the zone of sign 3.27 “No stopping”. You may let passengers on or off only where stopping is not prohibited. Drive past the sign's zone and drop the passenger off beyond it."
+  },
+  {
+   "id": "m14-n010",
+   "q": "A passenger asks you to drop them off here, at the right-hand edge. Can you stop?",
+   "options": [
+    "No: sign 3.28 prohibits both stopping and parking",
+    "Yes: sign 3.28 prohibits only parking",
+    "Only a taxi with its meter running may do this",
+    "Yes, but letting the passenger out must take no more than 1 minute"
+   ],
+   "answer": 1,
+   "explain": "Sign 3.28 “No parking” is posted here; it does not prohibit stopping. Stopping is ceasing to move for up to 5 minutes, or longer if this is needed for boarding or alighting passengers. So you may drop the passenger off."
+  },
+  {
+   "id": "m14-n011",
+   "q": "When may a driver move off after passengers have boarded?",
+   "options": [
+    "As soon as the passenger has got in, even if the door is still open",
+    "When the passenger is holding the door with their hand",
+    "At once, if the door is on the pavement side",
+    "Only once all the doors are closed"
+   ],
+   "answer": 3,
+   "explain": "A driver moves off only with the doors closed and does not open them before coming to a full stop. An open door can strike a pedestrian, a cyclist or a nearby vehicle, and a passenger could fall out."
+  },
+  {
+   "id": "m14-n012",
+   "q": "You are carrying 10 workers in a truck's load body, and two more are riding with you in the cab. Which categories does the driver need?",
+   "options": [
+    "Categories “C” and “D”",
+    "Category “C” is enough",
+    "Only category “D”",
+    "Categories “C” and “CE”"
+   ],
+   "answer": 0,
+   "explain": "People are carried in a load body by a driver aged 25 with more than five years of experience driving category “C” vehicles. If, together with the passengers in the cab, there are more than 8 people in total, categories “C” and “D” are needed. Here there are 12 passengers."
+  }
+ ]
+}

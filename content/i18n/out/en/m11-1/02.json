@@ -1,0 +1,211 @@
+{
+ "questions": [
+  {
+   "id": "m11-01",
+   "q": "You are approaching an intersection. The traffic lights are flashing amber. How do you work out the order of priority?",
+   "options": [
+    "As with an ordinary amber: you must stop at the stop line",
+    "The intersection is closed; you must wait for green to come on",
+    "By the priority signs, as at an uncontrolled intersection",
+    "Vehicles going straight ahead have priority, and everyone else gives way"
+   ],
+   "answer": 2,
+   "explain": "With a flashing amber signal, non-working traffic lights, or no traffic controller, the intersection counts as uncontrolled. The order of priority is set by the priority signs and the rules for driving through uncontrolled intersections."
+  },
+  {
+   "id": "m11-02",
+   "q": "At an intersection, the traffic lights are working and a traffic controller is also present. The traffic lights show red for you, but the traffic controller's signal allows you to go. What should you do?",
+   "options": [
+    "Wait for green: the traffic lights take precedence over the traffic controller",
+    "Go: the traffic controller's signals are obeyed",
+    "Wait until the traffic controller switches off the traffic lights"
+   ],
+   "answer": 1,
+   "explain": "Drivers obey the traffic controller's signals and instructions, even if they contradict the traffic light signals or the requirements of signs or road markings."
+  },
+  {
+   "id": "m11-03",
+   "q": "You are turning right on a green signal. Pedestrians are crossing, on a pedestrian crossing, the road you are turning into. What must you do?",
+   "options": [
+    "Go first: you also have a green signal",
+    "Sound your horn so the pedestrians stop",
+    "Go ahead of the pedestrians if they have only just stepped onto the crossing",
+    "Give way to the pedestrians and only then complete the turn"
+   ],
+   "answer": 3,
+   "explain": "When turning right or left, a driver gives way to pedestrians crossing the carriageway of the road they are turning into. A pedestrian must not have to change speed or direction because of you."
+  },
+  {
+   "id": "m11-04",
+   "q": "At a controlled intersection, you are turning left on a green signal. A car is coming towards you going straight ahead, and behind it a bus is turning right. What should you do?",
+   "options": [
+    "Give way to both oncoming vehicles, then turn left",
+    "Turn first: you entered the intersection earlier",
+    "Give way only to the car: the bus turning right gives way to you",
+    "Give way only to the bus, because it is bigger"
+   ],
+   "answer": 0,
+   "explain": "When turning left or making a U-turn on a permitting signal, a driver gives way to oncoming vehicles going straight ahead or turning right. It does not matter who entered the intersection first."
+  },
+  {
+   "id": "m11-05",
+   "q": "The light is green. There is a traffic jam right beyond the intersection: if you enter, you will stop in the middle of the intersection and block vehicles moving across your path. What should you do?",
+   "options": [
+    "Do not enter until there is room beyond the intersection",
+    "Enter: as long as the light is green, you have the right to go",
+    "Enter and wait on the intersection with your hazard warning lights on"
+   ],
+   "answer": 0,
+   "explain": "You must not enter an intersection if a traffic jam has formed that would force you to stop and create an obstruction for traffic moving across your path. A green signal does not cancel this ban."
+  },
+  {
+   "id": "m11-06",
+   "q": "You are the first vehicle at the stop line. Green comes on. At that moment, a vehicle is finishing crossing the intersection across your path, and a pedestrian who has not finished crossing is still on the crossing ahead. What should you do?",
+   "options": [
+    "Move off straight away: green gives you priority",
+    "Give way to the vehicle and the pedestrian, then move off",
+    "Give way only to the pedestrian: the vehicle should have stopped",
+    "Give way only to the vehicle: the pedestrian must wait"
+   ],
+   "answer": 1,
+   "explain": "When a permitting signal comes on, a driver gives way to vehicles finishing their way through the intersection and to pedestrians who have not finished crossing."
+  },
+  {
+   "id": "m11-07",
+   "q": "You crossed the stop line on green to turn left, and stopped in the centre of the intersection, giving way to the oncoming flow of traffic. While you were waiting, red came on. There are no other traffic lights with a stop line on your path. What should you do?",
+   "options": [
+    "Stay where you are until the next green",
+    "Reverse back behind the stop line",
+    "Turn right instead of left, so as not to get in anyone's way",
+    "Complete the left turn and clear the intersection"
+   ],
+   "answer": 3,
+   "explain": "A driver who has crossed the stop line on a permitting signal exits in the intended direction regardless of the signals at the exit ⟦66⟧. Drivers for whom green comes on must give way to you as a vehicle finishing its way through ⟦67⟧."
+  },
+  {
+   "id": "m11-08",
+   "q": "You are turning right on a green filter arrow in the additional section. The main signal for you is red. On the left, along the road you are crossing, a vehicle is moving on its own green. Who goes first?",
+   "options": [
+    "You: the green arrow gives you priority",
+    "You: the vehicle is approaching from the left, so it is the one facing an obstacle",
+    "The vehicle on the left: on such an arrow, you give way to everyone"
+   ],
+   "answer": 2,
+   "explain": "If you are driving on an arrow lit in the additional section at the same time as a red or amber signal, you give way to vehicles from all other directions."
+  },
+  {
+   "id": "m11-09",
+   "q": "At a controlled intersection, the green signal permits you and an oncoming tram to move at the same time. You are going straight ahead, and the tram is turning left, crossing your path. Who goes first?",
+   "options": [
+    "You: a vehicle turning left gives way to oncoming vehicles",
+    "The tram, even though it is turning left",
+    "Whoever entered the intersection first",
+    "You: trackless vehicles always have priority over a tram"
+   ],
+   "answer": 1,
+   "explain": "If the signals permit a tram and trackless vehicles to move at the same time, the tram has priority regardless of its direction of travel. Trams apply the “turning left gives way to oncoming vehicles” rule only among themselves."
+  },
+  {
+   "id": "m11-10",
+   "q": "You are stopped on a minor road at sign 2.4 “Give way” and want to turn left. A vehicle with its left indicator on is approaching along the main road from the left: it is about to make a U-turn at this intersection. What should you do?",
+   "options": [
+    "Give way to it, then turn",
+    "Turn first: a driver making a U-turn must give way to everyone",
+    "Turn first, if it has not yet started the U-turn"
+   ],
+   "answer": 0,
+   "explain": "A driver on a minor road gives way to vehicles approaching on the main road regardless of the direction they will go next, including those making a U-turn."
+  },
+  {
+   "id": "m11-11",
+   "q": "You are driving on the main road. At the intersection, the main road turns left (as shown by plate 7.13), and you keep going straight ahead, that is, you turn off the main road. On the right, a vehicle is approaching the intersection along a minor road, also going straight ahead. Who goes first?",
+   "options": [
+    "The vehicle on the right: you are turning off the main road and losing priority",
+    "The vehicle on the right: priority to the right applies",
+    "You, because you are approaching on the main road",
+    "Whoever reached the intersection first"
+   ],
+   "answer": 2,
+   "explain": "A driver on a minor road gives way to everyone approaching on the main road, regardless of the direction they will go next. When the main road changes direction, the priority-to-the-right rule applies only among drivers on the main road, and separately among drivers on minor roads."
+  },
+  {
+   "id": "m11-12",
+   "q": "You are driving on the main road, which turns right at the intersection (plate 7.13). You keep going straight ahead. On the right, along the same main road, a vehicle is approaching the intersection going straight ahead, across your path. Who goes first?",
+   "options": [
+    "You: you are going straight ahead, so you have priority",
+    "You: it is turning off the main road and must give way to you",
+    "Whoever entered the intersection first",
+    "The vehicle on the right: priority to the right applies between you"
+   ],
+   "answer": 3,
+   "explain": "When the main road changes direction at the intersection, drivers on it follow the rules for roads of equal status among themselves. So you give way to the vehicle approaching from the right ⟦68⟧."
+  },
+  {
+   "id": "m11-13",
+   "q": "An intersection of roads of equal status, with no signs or traffic lights. You are going straight ahead. A vehicle is approaching the intersection from the right, also going straight ahead. Who goes first?",
+   "options": [
+    "You: you are closer to the centre of the intersection",
+    "The vehicle on the right",
+    "Whoever is going faster"
+   ],
+   "answer": 1,
+   "explain": "At an intersection of roads of equal status, the driver of a trackless vehicle gives way to vehicles approaching from the right."
+  },
+  {
+   "id": "m11-14",
+   "q": "An intersection of roads of equal status. You are turning left. A vehicle is coming towards you going straight ahead, and there is no one on the right or left. What should you do?",
+   "options": [
+    "Give way to the oncoming vehicle and turn after it",
+    "Turn first: the oncoming vehicle is not approaching from the right, so there is no obstacle",
+    "Turn first, sounding your horn"
+   ],
+   "answer": 0,
+   "explain": "When turning left or making a U-turn at an intersection of equal status, a driver gives way to vehicles moving from the opposite direction, going straight ahead or turning right."
+  },
+  {
+   "id": "m11-15",
+   "q": "An intersection of roads of equal status. You are going straight ahead. A tram is approaching the intersection from the left, also going straight ahead. Who goes first?",
+   "options": [
+    "You: the tram is approaching from the left, so it must give way",
+    "Whoever reached the intersection first",
+    "You, if the tram is moving slowly",
+    "The tram, even though it is approaching from the left"
+   ],
+   "answer": 3,
+   "explain": "At an intersection of roads of equal status, a tram has priority over trackless vehicles regardless of its direction of travel. The priority-to-the-right rule does not help here."
+  },
+  {
+   "id": "m11-16",
+   "q": "It is night, and it is snowing. You are approaching an intersection and cannot tell whether your road has an asphalt surface. There are no priority signs. What should you assume?",
+   "options": [
+    "That you are on the main road until you see a sign",
+    "That the main road is the one more vehicles are travelling on",
+    "That you are on a minor road"
+   ],
+   "answer": 2,
+   "explain": "If it is impossible to tell whether there is a paved surface (darkness, mud, snow) and there are no priority signs, a driver assumes they are on a minor road."
+  },
+  {
+   "id": "m11-17",
+   "q": "You are driving round a roundabout intersection (sign 4.3). There are no priority signs at this intersection, and all the roads are paved. A vehicle is entering the roundabout on your right, and its path crosses yours. Who gives way?",
+   "options": [
+    "You: the vehicle entering is approaching you from the right",
+    "The vehicle entering: whoever is already on the roundabout always has priority",
+    "The vehicle entering, if you have your indicator on"
+   ],
+   "answer": 0,
+   "explain": "Kazakhstan's Rules have no separate rule giving priority to those already on a roundabout. If there are no priority signs, a roundabout is treated as an intersection of roads of equal status, and drivers give way to whoever is on their right. For a driver already on the roundabout, the vehicle entering is on the right."
+  },
+  {
+   "id": "m11-18",
+   "q": "Signs 4.3 “Roundabout” and 2.4 “Give way” are placed before the entry to a roundabout intersection. A vehicle is approaching you on the roundabout from the left. What should you do?",
+   "options": [
+    "Enter first: it is approaching from the left",
+    "Enter first, if you have already switched on your indicator",
+    "Give way to the vehicle on the roundabout, then enter"
+   ],
+   "answer": 2,
+   "explain": "Sign 2.4 requires giving way to vehicles moving along the road being crossed. Here, the road being crossed is the roundabout, so a vehicle entering gives way to those already on it."
+  }
+ ]
+}

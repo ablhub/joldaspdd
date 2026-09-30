@@ -1,0 +1,1185 @@
+{
+ "questions": [
+  {
+   "id": "m18-n025",
+   "q": "You have a green light, but there is a sign 2.4 before the intersection. On your right, a green car is waiting at a red light. What should you do?",
+   "options": [
+    "Give way to the green car: it is on the main road",
+    "Proceed: here the traffic lights decide the order",
+    "Stop at the sign, then proceed",
+    "Proceed only if the green car flashes its headlights"
+   ],
+   "answer": 1,
+   "explain": "An intersection where the traffic lights decide the order is treated as controlled. Priority signs there apply only when the lights are off or flashing amber. You have a green light now, so proceed."
+  },
+  {
+   "id": "m18-n026",
+   "q": "Which of these drivers is allowed to drive past this sign?",
+   "options": [
+    "A taxi driver with the taximeter switched on",
+    "A resident of a house on this street",
+    "The driver of a truck delivering goods to a shop on this street",
+    "The driver of a route bus"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.1 bans entry by all vehicles in that direction, except for route vehicles. The exception for residents and service vehicles applies to signs 3.2-3.8, and a taxi is not a route vehicle.",
+   "ref": "Annex 1, sign 3.1 (exceptions in Chapter 3); para. 2(47)"
+  },
+  {
+   "id": "m18-n027",
+   "q": "This sign applies on a stretch of road. Does the ban also apply to vehicles entering the stretch from the opposite end?",
+   "options": [
+    "No, only to those who have passed this sign",
+    "No, if they keep to their own lane while driving towards you",
+    "Only during hours of darkness",
+    "Yes: the sign bans travel in both directions"
+   ],
+   "answer": 3,
+   "explain": "Signs 3.2-3.9, 3.32 and 3.33 ban travel by the relevant types of vehicle in both directions. Unlike sign 3.1, the ban does not depend on which end you entered from.",
+   "ref": "Annex 1, sign 3.2 and the general provisions of Chapter 3"
+  },
+  {
+   "id": "m18-n028",
+   "q": "You are a driver with a group III disability affecting the musculoskeletal system. Are you allowed to drive past this sign?",
+   "options": [
+    "Yes: this sign does not apply to such vehicles",
+    "No: the exception applies only to groups I and II",
+    "No: the exception applies only to route vehicles",
+    "Yes, but only if you live in this zone"
+   ],
+   "answer": 0,
+   "explain": "Signs 3.2, 3.3 and 3.28-3.30 do not apply to vehicles driven by a person with a group I or group II disability, or a group III disability affecting the musculoskeletal system, nor to vehicles carrying such a person.",
+   "ref": "Annex 1, Chapter 3 (exceptions for signs 3.2, 3.3, 3.28-3.30)"
+  },
+  {
+   "id": "m18-n029",
+   "q": "Which of them may drive on the road beyond this sign?",
+   "options": [
+    "The rider of a moped",
+    "The driver of an electric car",
+    "A cyclist",
+    "The rider of a motorcycle"
+   ],
+   "answer": 2,
+   "explain": "Sign 3.3 bans travel by motor vehicles, that is self-propelled vehicles with an engine. A moped, a motorcycle and an electric car are motor vehicles, while an ordinary bicycle is powered by muscular effort."
+  },
+  {
+   "id": "m18-n030",
+   "q": "This sign has no plate and no figures under it. Who is it banning from driving past?",
+   "options": [
+    "A bus",
+    "A truck with a maximum authorised mass of 3 t",
+    "A truck designed to carry passengers",
+    "A tractor"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.4 without figures bans travel by trucks and vehicle combinations with a maximum authorised mass of more than 3.5 t, and by tractors and self-propelled machines. It does not apply to buses, light trucks or trucks designed to carry passengers."
+  },
+  {
+   "id": "m18-n031",
+   "q": "You are driving an empty truck: its maximum authorised mass is 12 t, and its actual mass right now is 6 t. Can you drive past this sign with no figures on it?",
+   "options": [
+    "Yes: right now the truck weighs only 6 t",
+    "No: the sign bans all trucks",
+    "Yes, if the truck is passing through without stopping",
+    "No: what matters is the maximum authorised mass"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.4 looks at the maximum authorised mass, that is the mass set by the manufacturer, not at how loaded the vehicle is. Yours is 12 t, more than 3.5 t, so driving past is banned even when empty."
+  },
+  {
+   "id": "m18-n032",
+   "q": "You are driving an empty truck: maximum authorised mass 12 t, actual mass right now 6 t. Can you drive past this sign?",
+   "options": [
+    "No: the authorised mass is more than 10 t",
+    "No: the sign bans trucks heavier than 3.5 t",
+    "Yes: the sign limits the actual mass",
+    "Yes, if your speed is no more than 30 km/h"
+   ],
+   "answer": 2,
+   "explain": "Sign 3.11 limits the total actual mass of the vehicle (together with a trailer, if any). Your empty truck weighs 6 t right now, less than 10 t, so driving past is allowed. Sign 3.4, by contrast, looks at the maximum authorised mass."
+  },
+  {
+   "id": "m18-n033",
+   "q": "You are riding a moped just passing through: you do not live or work in this area. Can you drive past this sign?",
+   "options": [
+    "Yes: the sign applies only to motorcycles",
+    "Yes, if you ride no faster than 20 km/h",
+    "No: the sign bans both motorcycles and mopeds",
+    "Yes, if you ride in daylight with dipped headlights on"
+   ],
+   "answer": 2,
+   "explain": "Sign 3.5 bans travel by motorcycles and mopeds. The exception applies only to those who live or work in the zone, or who service it: they enter at the intersection nearest to their destination.",
+   "ref": "Annex 1, sign 3.5 (exceptions for signs 3.2-3.8)"
+  },
+  {
+   "id": "m18-n034",
+   "q": "Can you drive past this sign on a self-propelled machine, for example a backhoe loader, if you are just passing through?",
+   "options": [
+    "Yes: the sign applies only to wheeled tractors",
+    "No: both tractors and self-propelled machines are banned",
+    "Yes, if you keep to no more than 20 km/h on the shoulder"
+   ],
+   "answer": 1,
+   "explain": "Sign 3.6 bans travel by tractors and self-propelled machines. The exception applies to vehicles that service businesses or residents of the zone, or that belong to its residents and workers; passing through does not fall under it."
+  },
+  {
+   "id": "m18-n035",
+   "q": "Which of these drivers does this sign stop from continuing?",
+   "options": [
+    "The driver of a car towing a light caravan",
+    "The driver of an articulated bus",
+    "The driver of a car towing another car",
+    "The driver of a truck with no trailer"
+   ],
+   "answer": 2,
+   "explain": "Sign 3.7 bans travel by trucks and tractors with a trailer of any type, and towing of motor vehicles. It does not apply to a car with a trailer, but towing a car here is not allowed."
+  },
+  {
+   "id": "m18-n036",
+   "q": "Can you ride a bicycle past this sign?",
+   "options": [
+    "Yes: only e-scooters are banned",
+    "No: the sign bans bicycles and scooters",
+    "No: the sign bans all small vehicles",
+    "Only children under 14"
+   ],
+   "answer": 0,
+   "explain": "Sign 3.9.1 bans travel only by e-scooters; it does not apply to bicycles. Bicycles, e-scooters and small electric vehicles are all banned together by a different sign, 3.9."
+  },
+  {
+   "id": "m18-n037",
+   "q": "Which of these is this sign not banning?",
+   "options": [
+    "A cyclist",
+    "The rider of an e-scooter",
+    "The rider of a self-balancing unicycle",
+    "The rider of a moped"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.9 bans travel by bicycles, e-scooters and small electric vehicles, for example self-balancing unicycles and hoverboards. A moped is a motor vehicle, so this sign does not apply to it."
+  },
+  {
+   "id": "m18-n038",
+   "q": "The sign stands on the left side of the street, as in the diagram. Which pedestrian is breaking its requirement?",
+   "options": [
+    "Only the pedestrian on the right",
+    "Only the pedestrian on the left",
+    "Both",
+    "Neither"
+   ],
+   "answer": 1,
+   "explain": "Sign 3.10 bans pedestrians only on the side of the road where it is placed. The pedestrian on the right is walking on the other side of the street, so the ban does not apply to them.",
+   "ref": "Annex 1, sign 3.10 and the general provisions of Chapter 3"
+  },
+  {
+   "id": "m18-n039",
+   "q": "Your truck's total mass is 11 t, split evenly as 5.5 t on each of its two axles. Can you drive past this sign?",
+   "options": [
+    "No: the total mass is more than 6 t",
+    "Yes, if you keep to no more than 20 km/h",
+    "No: the sign bans trucks heavier than 6 t",
+    "Yes: the load on each axle is less than 6 t"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.12 limits not the total mass but the actual load on any axle. Yours is 5.5 t per axle, less than 6 t, so you may drive past."
+  },
+  {
+   "id": "m18-n040",
+   "q": "Your car is 4.6 m long, and together with a caravan trailer it is 11 m long. Can you drive past this sign?",
+   "options": [
+    "Yes: the car itself is less than 10 m long",
+    "Yes, if the trailer is currently empty",
+    "No: the sign bans any trailer",
+    "No: the length of the whole combination counts"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.15 bans travel by vehicles and vehicle combinations whose overall length, laden or unladen, is more than the figure shown. Your combination is 11 m long, so driving past is banned."
+  },
+  {
+   "id": "m18-n041",
+   "q": "You are driving behind a truck within the zone of this sign. How must you drive?",
+   "options": [
+    "No faster than 30 km/h",
+    "Keep at least 30 m from the vehicle ahead",
+    "Keep 30 m only from trucks; less is fine behind cars"
+   ],
+   "answer": 1,
+   "explain": "Sign 3.16 bans travel with a following distance shorter than the figure shown on the sign. Keep at least 30 m from any vehicle ahead. The zone of application runs to the nearest intersection, unless plate 7.2.1 shortens it.",
+   "ref": "Annex 1, sign 3.16 and the general provisions of Chapter 3"
+  },
+  {
+   "id": "m18-n042",
+   "q": "What must a driver do at this sign?",
+   "options": [
+    "Reduce speed to 20 km/h and proceed",
+    "Proceed without stopping if no one is there",
+    "Turn on the hazard warning lights and proceed",
+    "Stop at the checkpoint"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.17.3 “Checkpoint” bans passing through checkpoints, for example police or transport-inspection posts, without stopping."
+  },
+  {
+   "id": "m18-n043",
+   "q": "There has been a crash ahead, and the road service has put up this sign. What does it require?",
+   "options": [
+    "Stop: you must not go any further",
+    "Slow down and carefully drive around the danger",
+    "Proceed if the danger is not in your lane",
+    "Only trucks must stop"
+   ],
+   "answer": 0,
+   "explain": "Sign 3.17.2 “Danger” bans any further travel because of a crash or other danger. You must not drive around the danger: wait until the sign is removed, or turn around where this is allowed."
+  },
+  {
+   "id": "m18-n044",
+   "q": "This sign stands before an intersection. Right after the intersection, on the right, there is an entrance to a yard. Can you turn in there as shown?",
+   "options": [
+    "No: the sign bans any right turn",
+    "Yes: the sign applies only at this intersection",
+    "No: the ban lasts until the next intersection",
+    "No: only residents may enter the yard"
+   ],
+   "answer": 1,
+   "explain": "Sign 3.18.1 applies to the crossing of carriageways before which it is placed. Once you have driven straight across the intersection, you may turn right into the yard: an exit onto an adjacent area is not an intersection.",
+   "ref": "Annex 1, Chapter 3 (application of signs 3.18.1, 3.18.2); para. 2(33)"
+  },
+  {
+   "id": "m18-n045",
+   "q": "You have passed this sign. Ahead, a tractor is travelling at about 35 km/h, and the oncoming lane is clear. Can you overtake it?",
+   "options": [
+    "Yes: a tractor is a slow-moving vehicle",
+    "Yes, if the road markings are a broken line",
+    "No: it is travelling at not less than 30 km/h",
+    "Yes, if you sound the horn"
+   ],
+   "answer": 2,
+   "explain": "Sign 3.20 bans overtaking of all vehicles except single ones travelling at under 30 km/h. The tractor is doing about 35 km/h, so you may not overtake it before the end of the sign's zone."
+  },
+  {
+   "id": "m18-n046",
+   "q": "Driving a car, you have passed the sign, then a field track joining the road, as in the diagram. There is no central reservation. What is the highest speed you may drive?",
+   "options": [
+    "70 km/h",
+    "90 km/h",
+    "100 km/h",
+    "110 km/h"
+   ],
+   "answer": 0,
+   "explain": "A place where a field or forest track joins the road does not count as an intersection, so the zone of sign 3.24 continues to the nearest real intersection. The 70 km/h limit still applies.",
+   "scene": {
+    "labels.0.text": "field track"
+   }
+  },
+  {
+   "id": "m18-n047",
+   "q": "Driving a car, you have passed the sign, then an intersection, as in the diagram. There is no central reservation, and there were no other signs. What is the highest speed you may drive?",
+   "options": [
+    "70 km/h",
+    "90 km/h",
+    "100 km/h",
+    "110 km/h"
+   ],
+   "answer": 2,
+   "explain": "The zone of application of sign 3.24 ends at the nearest intersection beyond it. Beyond that, the general limit applies for cars outside built-up areas on a road with no central reservation: 100 km/h."
+  },
+  {
+   "id": "m18-n048",
+   "q": "You passed these signs 600 m back, and there have been no intersections since. Can you overtake now, if there are no other bans?",
+   "options": [
+    "No: the ban lasts until the nearest intersection",
+    "No: the ban lasts until sign 3.21",
+    "Yes: the plate limited the zone to 500 metres",
+    "Yes, but only slow-moving vehicles"
+   ],
+   "answer": 2,
+   "explain": "Plate 7.2.1 shortens the zone of application of sign 3.20: the overtaking ban applies only for 500 m from the sign. You have already gone 600 m, so overtaking is allowed again if there are no other bans."
+  },
+  {
+   "id": "m18-n049",
+   "q": "You are driving a goods van with a maximum authorised mass of 3 t and have passed this sign. May you overtake a passenger car, if there are no other bans?",
+   "options": [
+    "No: the sign applies to all trucks",
+    "Only if the passenger car is travelling slower than 30 km/h",
+    "No: until sign 3.23, nobody may overtake",
+    "Yes: the sign applies to trucks heavier than 3.5 t"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.22 bans overtaking by trucks with a maximum authorised mass of more than 3.5 t, and bans tractors from overtaking all vehicles except horse-drawn carts and bicycles. Your van is lighter, so the ban does not apply to it."
+  },
+  {
+   "id": "m18-n050",
+   "q": "You are driving a passenger car outside a built-up area, on a road without a central reservation. What speed is allowed for you after these signs?",
+   "options": [
+    "No more than 60 km/h",
+    "No more than 90 km/h",
+    "No more than 100 km/h",
+    "No more than 110 km/h"
+   ],
+   "answer": 2,
+   "explain": "Plate 7.4.1 limits the sign to trucks only. For a passenger car, the general limit for a road without a central reservation outside a built-up area applies: 100 km/h."
+  },
+  {
+   "id": "m18-n051",
+   "q": "You are driving a truck with a maximum authorised mass of 12 t outside a built-up area, on a road without a central reservation, and have passed these signs. What is the highest speed you may drive at?",
+   "options": [
+    "60 km/h",
+    "70 km/h",
+    "80 km/h",
+    "90 km/h"
+   ],
+   "answer": 0,
+   "explain": "Plate 7.4.1 means that the sign applies to trucks, that is, to you too. The 60 km/h limit is stricter than the general limit for your truck on such a road (70 km/h), so you may drive at no more than 60 km/h."
+  },
+  {
+   "id": "m18-n052",
+   "q": "You are driving a passenger car in a built-up area and have passed these signs. It is 19:00. What is the highest speed you may drive at?",
+   "options": [
+    "60 km/h",
+    "40 km/h",
+    "50 km/h",
+    "90 km/h"
+   ],
+   "answer": 0,
+   "explain": "Plate 7.5.4 shows the time when the sign applies: from 8.00 to 17.30. At 19:00 the 40 km/h limit does not apply, and in a built-up area you may drive at no more than 60 km/h."
+  },
+  {
+   "id": "m18-n053",
+   "q": "Under the speed limit sign “60” there is plate 7.16 “Wet surface”. The asphalt is dry. You are driving a passenger car outside a built-up area, on a road without a central reservation. What is your speed limit?",
+   "options": [
+    "60 km/h",
+    "80 km/h",
+    "90 km/h",
+    "100 km/h"
+   ],
+   "answer": 3,
+   "explain": "Plate 7.16 means that the sign applies only when the surface of the carriageway is wet. On dry asphalt the 60 km/h limit does not apply, and the general limit of 100 km/h remains."
+  },
+  {
+   "id": "m18-n054",
+   "q": "You are driving a passenger car outside a built-up area and have passed both signs, as in the diagram. There were no intersections between them. What is the highest speed you may drive at?",
+   "options": [
+    "50 km/h",
+    "70 km/h",
+    "90 km/h",
+    "100 km/h"
+   ],
+   "answer": 1,
+   "explain": "The zone of a sign 3.24 can be ended by another sign 3.24 with a different value. After the second sign, its limit applies: 70 km/h.",
+   "ref": "Annex 1, Chapter 3 (zone of application of sign 3.24)"
+  },
+  {
+   "id": "m18-n055",
+   "q": "You see a sign with a plate, as in the diagram. Where will the 40 km/h limit start?",
+   "options": [
+    "Right at the sign, on a section 150 m long",
+    "About 150 m from the sign",
+    "After 150 m the limit ends",
+    "Only after 150-300 m, as with warning signs"
+   ],
+   "answer": 1,
+   "explain": "Plate 7.1.1 shows the distance from the sign to the place where the limit starts. You must slow down to 40 km/h by that place, about 150 m ahead."
+  },
+  {
+   "id": "m18-n056",
+   "q": "You are driving in the zone of this sign. A pedestrian who cannot see you has stepped from the shoulder onto the road right in front of you. May you sound the horn?",
+   "options": [
+    "No: the horn is banned altogether in the zone of the sign",
+    "Only outside a built-up area",
+    "Yes: you may sound the horn to prevent a road traffic accident",
+    "No, you may only flash your headlights"
+   ],
+   "answer": 2,
+   "explain": "Sign 3.26 bans the use of the horn, except where it is needed to prevent a road traffic accident. This is exactly such a case, and you must brake at the same time."
+  },
+  {
+   "id": "m18-n057",
+   "q": "Outside a built-up area you have passed this sign and then an intersection, as in the diagram. May you sound the horn to warn a truck driver that you are going to overtake?",
+   "options": [
+    "No: the sign applies until a sign that ends the ban",
+    "Yes: the zone of the sign ended at the intersection",
+    "No: a warning about overtaking is given only with the headlights",
+    "Yes, but only if the truck is driving slowly"
+   ],
+   "answer": 1,
+   "explain": "The zone of sign 3.26 extends to the nearest intersection beyond it. You have already passed it, and outside a built-up area you may use the horn to warn a driver of your intention to overtake."
+  },
+  {
+   "id": "m18-n058",
+   "q": "The sign with a plate is placed as in the diagram. Which of the drivers is allowed to stop?",
+   "options": [
+    "Only the blue one",
+    "Only the red one",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "Sign 3.27 with plate 7.2.3 marks the end of the no-stopping zone. The red car is in front of this sign, that is, still in the ban zone. The blue car is beyond it, where stopping is allowed."
+  },
+  {
+   "id": "m18-n059",
+   "q": "The sign is placed together with a solid yellow line at the edge of the road, as in the diagram. There are no intersections. Which of the drivers is allowed to stop?",
+   "options": [
+    "Only the red one",
+    "Both",
+    "Only the blue one",
+    "Neither"
+   ],
+   "answer": 2,
+   "explain": "When sign 3.27 is used together with marking 1.4, its zone is determined by the length of this yellow line. The red car is by the line, where stopping is banned. The blue car is beyond the end of the line, where it is allowed.",
+   "ref": "Annex 1, Chapter 3 (sign 3.27 with marking 1.4); Annex 2, marking 1.4"
+  },
+  {
+   "id": "m18-n060",
+   "q": "A town street with one lane in each direction. The sign is placed as in the diagram, and there are no intersections. Which of the drivers is allowed to stop?",
+   "options": [
+    "Neither",
+    "Only the blue one",
+    "Both",
+    "Only the red one"
+   ],
+   "answer": 1,
+   "explain": "Sign 3.27 applies only on the side of the road where it is placed. The blue car is on the opposite side, at the edge of its own direction of travel, so the ban does not apply to it. The red car is in the zone of the sign.",
+   "ref": "Annex 1, sign 3.27 and the general provisions of Chapter 3"
+  },
+  {
+   "id": "m18-n061",
+   "q": "You are driving along a street and see this sign with a plate. May you stop just beyond it to let a passenger alight?",
+   "options": [
+    "Yes: the plate shows the end of the ban zone",
+    "No: the plate says you are in the ban zone",
+    "Yes, if the stop takes less than a minute",
+    "Yes: the ban applies only before the sign"
+   ],
+   "answer": 1,
+   "explain": "Plate 7.2.4 tells you that you are in the zone of sign 3.27, so stopping here is banned, even to let a passenger alight. The end of the zone would be shown by plate 7.2.3."
+  },
+  {
+   "id": "m18-n062",
+   "q": "Under sign 3.27 “No stopping” there is plate 7.21 “Tow truck in operation”. What does it mean?",
+   "options": [
+    "Stopping is allowed only for tow trucks and the police",
+    "The ban does not apply if the driver stays in the vehicle",
+    "A tow truck is on duty nearby to help in case of a breakdown",
+    "A vehicle left here may be taken away to an impound lot"
+   ],
+   "answer": 3,
+   "explain": "Plate 7.21 is used with signs 3.27-3.30 and informs you that a vehicle left in breach of the rules may be detained and taken to a specialised impound lot.",
+   "ref": "Annex 1, Chapter 7 (plate 7.21)"
+  },
+  {
+   "id": "m18-n063",
+   "q": "This sign with a plate is placed before an intersection. Where is stopping banned?",
+   "options": [
+    "Straight ahead beyond the intersection, up to the next intersection",
+    "Only at the intersection itself",
+    "On all roads of this intersection",
+    "On the road to the right, after turning onto it"
+   ],
+   "answer": 3,
+   "explain": "Plate 7.3.2 shows the direction of application of a sign placed before an intersection. The arrow points to the right: stopping is banned on the road onto which you turn right."
+  },
+  {
+   "id": "m18-n064",
+   "q": "Under sign 3.28 “No parking” there is plate 7.5.1 “Saturdays, Sundays and public holidays”. Today is Tuesday, not a holiday. May you leave your car here for two hours?",
+   "options": [
+    "Yes: on working days this sign does not apply",
+    "No: the sign bans parking on any day",
+    "You may, but for no longer than 5 minutes",
+    "No: on weekdays the ban applies round the clock"
+   ],
+   "answer": 0,
+   "explain": "Plate 7.5.1 shows the days when the sign applies: Saturdays, Sundays and public holidays. On a Tuesday the parking ban does not apply, if there are no other bans."
+  },
+  {
+   "id": "m18-n065",
+   "q": "Today is the 20th. May you stop at this sign for 3 minutes to buy water at a kiosk?",
+   "options": [
+    "No: on even days you may not even stop here",
+    "Yes, but only from 19 to 21 hours",
+    "No: stopping is allowed only for boarding",
+    "Yes: the sign bans only parking"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.30 bans parking on even days of the month. Stopping for up to 5 minutes is not parking, so you may wait for 3 minutes."
+  },
+  {
+   "id": "m18-n066",
+   "q": "Which restriction does this sign not cancel?",
+   "options": [
+    "The parking ban (sign 3.28)",
+    "The maximum speed limit (sign 3.24)",
+    "The ban on using the horn (sign 3.26)",
+    "The minimum speed limit (sign 4.7)"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.31 marks the end of the zone of several signs from a list at once: 3.16, 3.20, 3.22, 3.24, 3.26-3.30. Sign 4.7 is not on this list; its zone is ended by sign 4.8."
+  },
+  {
+   "id": "m18-n067",
+   "q": "You are driving a tanker with “Dangerous goods” identification signs. Before the turn into a street there is this sign. May you turn there?",
+   "options": [
+    "No: such vehicles are banned here",
+    "Yes, if you drive no faster than 40 km/h",
+    "Yes, in daylight",
+    "Yes, if you switch on the hazard warning lights"
+   ],
+   "answer": 0,
+   "explain": "Sign 3.32 bans vehicles with “Dangerous goods” identification signs, in both directions. Look for another route: the permitted direction for such vehicles may be shown by signs 4.9.1-4.9.3."
+  },
+  {
+   "id": "m18-n068",
+   "q": "A taxi with the taximeter switched on may park in the zone of three of these signs. Which sign still applies to a taxi?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 0,
+   "explain": "Signs 3.28-3.30 do not apply to a taxi with the taximeter switched on. A taxi must obey sign 3.27 “No stopping” (A): this sign has no exception for taxis, the exception was made for route vehicles.",
+   "scene": {
+    "labels.0.text": "A",
+    "labels.1.text": "B",
+    "labels.2.text": "C",
+    "labels.3.text": "D"
+   }
+  },
+  {
+   "id": "m18-n069",
+   "q": "Which of these signs may the driver of a route bus disregard?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 2,
+   "explain": "Signs 3.1-3.3, 3.18.1, 3.18.2, 3.19 and 3.27 do not apply to route vehicles, so a bus may drive past sign 3.1 (C). A bus obeys the overtaking ban and the height and weight limits like everyone else.",
+   "scene": {
+    "labels.0.text": "A",
+    "labels.1.text": "B",
+    "labels.2.text": "C",
+    "labels.3.text": "D"
+   }
+  },
+  {
+   "id": "m18-n070",
+   "q": "You are driving a truck with a maximum authorised mass of 10 t and are delivering furniture to a resident of a house that is in the zone of this sign. May you drive in?",
+   "options": [
+    "No: there are no exceptions for trucks",
+    "Yes, by any convenient route inside the whole zone",
+    "Yes, at the intersection nearest the house",
+    "Only at night, when there are fewer cars"
+   ],
+   "answer": 2,
+   "explain": "Signs 3.2-3.8 do not apply to vehicles that serve citizens who live in the marked zone. But you must enter and leave the zone at the intersection nearest to your destination.",
+   "ref": "Annex 1, Chapter 3 (exceptions for signs 3.2-3.8)"
+  },
+  {
+   "id": "m18-n071",
+   "q": "You are driving your own car to visit a friend whose house is in the zone of this sign. You neither live nor work in this zone. May you enter the zone?",
+   "options": [
+    "Yes, entering at the intersection nearest to your friend’s house",
+    "No: the exceptions do not cover visitors",
+    "Yes, if you drive no faster than 20 km/h",
+    "Yes, if you stay in the zone for no longer than 5 minutes"
+   ],
+   "answer": 1,
+   "explain": "Sign 3.2 does not apply to vehicles that serve businesses or citizens in the zone, or that belong to people who live or work in it. A visit to a resident of the zone meets none of these conditions, so entry is banned.",
+   "ref": "Annex 1, Chapter 3 (exceptions for signs 3.2-3.8)"
+  },
+  {
+   "id": "m18-n072",
+   "q": "You are driving through a village and have passed the “No overtaking” sign. There are no intersections before the end of the village. Up to which place does the ban apply?",
+   "options": [
+    "Up to the sign marking the end of the built-up area",
+    "For 1 km from the sign",
+    "Up to the first exit from a yard or filling station",
+    "Up to the nearest pedestrian crossing"
+   ],
+   "answer": 0,
+   "explain": "The zone of sign 3.20 extends to the nearest intersection, and in a built-up area where there is no intersection, to the end of the built-up area. Exits from adjacent areas do not count as intersections."
+  },
+  {
+   "id": "m18-n073",
+   "q": "You are driving a route bus and your route turns right here. Before the intersection there is a sign, as in the diagram. May you turn right?",
+   "options": [
+    "No: the sign allows only straight ahead",
+    "Yes: this sign does not apply to route vehicles",
+    "Yes, but only if there are no passengers on board",
+    "No: you must go straight on and make a U-turn"
+   ],
+   "answer": 1,
+   "explain": "Sign 4.1.1 allows movement only straight ahead, but signs 4.1.1-4.1.6 do not apply to route vehicles. The bus may turn right along its route."
+  },
+  {
+   "id": "m18-n074",
+   "q": "In the middle lane there is an obstruction with a sign on it, as in the diagram. Which path may you take to drive around it?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 2,
+   "explain": "Sign 4.2.3 allows you to drive around the obstruction on either side. Sign 4.2.1 would allow it only on the right, and sign 4.2.2 only on the left."
+  },
+  {
+   "id": "m18-n075",
+   "q": "In the middle lane there is an obstruction with a sign on it, as in the diagram. Which path may you take to drive around it?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 0,
+   "explain": "Sign 4.2.2 allows you to drive around the obstruction only on the left, along path A. You may not pass on the right, even if it is clear."
+  },
+  {
+   "id": "m18-n076",
+   "q": "Which of these drivers is allowed to drive on a road with this sign?",
+   "options": [
+    "The driver of a tractor",
+    "The driver of a bus",
+    "The driver of an 8 t truck in transit",
+    "The driver of a self-propelled crane"
+   ],
+   "answer": 1,
+   "explain": "Sign 4.4 allows passenger cars, buses, motorcycles, route vehicles and trucks with a maximum authorised mass of no more than 3.5 t. Others may enter only if they serve this zone or are going to their home or place of work in it."
+  },
+  {
+   "id": "m18-n077",
+   "q": "You are driving a truck with a maximum authorised mass of 12 t and are delivering goods to a shop on the street where this sign is placed. May you enter?",
+   "options": [
+    "No: trucks heavier than 3.5 t may not come here",
+    "Yes, but only from 22 to 6 hours",
+    "Yes, along any street inside the zone",
+    "Yes, entering at the intersection nearest to the shop"
+   ],
+   "answer": 3,
+   "explain": "Sign 4.4 also allows other vehicles if they serve businesses in the marked zone. You must enter and leave the zone at the intersection nearest to your destination."
+  },
+  {
+   "id": "m18-n078",
+   "q": "May you ride a moped along a path with this sign?",
+   "options": [
+    "Yes, at walking pace",
+    "Yes, if there are no pedestrians on the path",
+    "No, but you may push the moped alongside you on foot",
+    "No, and you may not push the moped along it either"
+   ],
+   "answer": 2,
+   "explain": "Sign 4.6 allows only pedestrians. Under the Rules, a person pushing a moped is treated as a pedestrian, so you may walk with the moped but not ride it."
+  },
+  {
+   "id": "m18-n079",
+   "q": "Before an ascent, an additional lane begins on the right. On the “Start of lane” sign above it there is sign 4.7 “40”. Your truck is climbing at 30 km/h. What should you do?",
+   "options": [
+    "Move into the additional lane",
+    "Continue in the main lane with the hazard warning lights on",
+    "Stop and let the vehicles behind pass",
+    "Speed up to climb faster than 40 km/h"
+   ],
+   "answer": 0,
+   "explain": "If sign 4.7 is shown on the sign before an additional lane on an ascent, a driver who cannot drive in the main lane at the indicated speed or faster moves into the additional lane."
+  },
+  {
+   "id": "m18-n080",
+   "q": "You are driving a truck with “Dangerous goods” identification signs. There is this sign before the intersection. Which way may you go?",
+   "options": [
+    "Only straight ahead",
+    "Straight ahead or right",
+    "In any direction: the sign is for other vehicles",
+    "Only right"
+   ],
+   "answer": 3,
+   "explain": "Sign 4.9.1 allows vehicles with “Dangerous goods” identification signs to go only to the right. It does not apply to other vehicles."
+  },
+  {
+   "id": "m18-n081",
+   "q": "Before the intersection there is a sign, as in the diagram. Which paths may you take to continue?",
+   "options": [
+    "Path B only",
+    "Paths B and C",
+    "Paths A and B",
+    "All three paths"
+   ],
+   "answer": 1,
+   "explain": "Sign 4.1.6 allows movement only right or left, and a sign that allows a left turn also allows a U-turn. So you may take paths B and C, but not straight ahead (A)."
+  },
+  {
+   "id": "m18-n082",
+   "q": "Who is allowed to drive on a road with this sign?",
+   "options": [
+    "A moped rider",
+    "A tractor driver",
+    "A cyclist",
+    "A motorcyclist"
+   ],
+   "answer": 3,
+   "explain": "Sign 5.3 marks a road for motor cars and motorcycles only. The motorway rules apply on it, so mopeds, tractors and bicycles are not allowed."
+  },
+  {
+   "id": "m18-n083",
+   "q": "Because of a fault, your car cannot go faster than 35 km/h. May you continue along a road with this sign?",
+   "options": [
+    "Yes, if you switch on the hazard warning lights",
+    "Yes, but only in the far right lane",
+    "No: vehicles slower than 40 km/h may not drive here",
+    "Yes, if you drive on the shoulder"
+   ],
+   "answer": 2,
+   "explain": "On a motorway it is banned to drive vehicles whose speed, by their technical specification or their condition, is less than 40 km/h. You must choose another road or call for help."
+  },
+  {
+   "id": "m18-n084",
+   "q": "Before the entry to the road there is a sign, as in the diagram. Which path may you take to continue?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 0,
+   "explain": "Sign 5.7.1 informs you about the entry to a one-way road, where traffic flows to the right. A left turn (B) would mean driving against the traffic flow."
+  },
+  {
+   "id": "m18-n085",
+   "q": "Before the entry to the road there is a sign, as in the diagram. Which path may you take to continue?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 1,
+   "explain": "Sign 5.7.2 shows that traffic on the one-way road flows to the left. You may turn only left (B); turning right (A) is against the flow."
+  },
+  {
+   "id": "m18-n086",
+   "q": "This sign is placed before an intersection. Which lane may you make a U-turn from?",
+   "options": [
+    "Only from the far left lane",
+    "From any lane, if there is no oncoming traffic",
+    "From the far left and middle lanes",
+    "From none: the sign does not show a U-turn"
+   ],
+   "answer": 0,
+   "explain": "Sign 5.8.1, which allows a left turn from the far left lane, also allows a U-turn from it. The middle lane here is for going straight ahead only, and the right lane for going straight ahead and turning right."
+  },
+  {
+   "id": "m18-n087",
+   "q": "This sign is placed before a large intersection. There are no other such signs at the intersection itself. Where does the lane layout shown on it apply?",
+   "options": [
+    "Only up to the stop line",
+    "Only up to the middle of the intersection",
+    "Up to the nearest traffic light",
+    "Throughout the whole intersection"
+   ],
+   "answer": 3,
+   "explain": "The effect of signs 5.8.1 and 5.8.2 placed before an intersection extends over the whole intersection, unless other such signs there give different instructions."
+  },
+  {
+   "id": "m18-n088",
+   "q": "Sign 5.8.1 allows a left turn from the two left lanes. Both lanes are free. Which lane must you turn from?",
+   "options": [
+    "Either of the two, whichever is more convenient",
+    "The far left lane",
+    "The second from the left, so as not to obstruct oncoming traffic",
+    "The one with fewer vehicles behind"
+   ],
+   "answer": 1,
+   "explain": "Where the directions for lanes are set by signs 5.8.1 or 5.8.2, it is not allowed to use inner lanes while the far lanes are free. When both lanes are free, turn from the far left lane."
+  },
+  {
+   "id": "m18-n089",
+   "q": "You are driving in the zone of this sign. May you turn left into a yard, as shown?",
+   "options": [
+    "Yes, if there is no oncoming traffic",
+    "Yes: the sign allows manoeuvres to the left",
+    "No: a left turn is banned in a U-turn zone",
+    "Yes, if you switch on the direction indicator in advance"
+   ],
+   "answer": 2,
+   "explain": "Sign 5.11.2 marks a U-turn zone and its length (here 150 m). You may make a U-turn in it, but a left turn is banned."
+  },
+  {
+   "id": "m18-n090",
+   "q": "Who may park at this parking place?",
+   "options": [
+    "Any cars, if other parking places are free",
+    "Only cars of families travelling with small children",
+    "Only vehicles with the “Person with a disability” sign",
+    "Any cars, but for no longer than 15 minutes at a time"
+   ],
+   "answer": 2,
+   "explain": "Plate 7.17 means that parking place 5.15 is intended only for motorised wheelchairs and cars with the “Person with a disability” identification sign."
+  },
+  {
+   "id": "m18-n091",
+   "q": "How must you park at this parking place?",
+   "options": [
+    "On the carriageway, alongside the pavement",
+    "Entirely on the pavement",
+    "At an angle to the pavement, front end towards it",
+    "Partly on the pavement"
+   ],
+   "answer": 0,
+   "explain": "Plate 7.6.1 with sign 5.15 shows that all vehicles are parked on the carriageway alongside the pavement. Ways of parking on the pavement are shown by other plates of group 7.6."
+  },
+  {
+   "id": "m18-n092",
+   "q": "You are driving a truck with a maximum authorised mass of 8 t. May you park it at this parking place?",
+   "options": [
+    "Yes: sign 5.15 allows parking for everyone",
+    "No: the place is for cars and trucks up to 3.5 t",
+    "Yes, if you park for less than an hour",
+    "No: parking for trucks in a built-up area is banned"
+   ],
+   "answer": 1,
+   "explain": "Plate 7.4.3 limits the sign to passenger cars and trucks with a maximum authorised mass of up to 3.5 t. This parking place is not intended for your truck."
+  },
+  {
+   "id": "m18-n093",
+   "q": "There is no “zebra” marking, and the signs are placed as in the diagram. Where is the pedestrian crossing?",
+   "options": [
+    "In front of the right sign, before it",
+    "Beyond the left sign, after it",
+    "Between the signs: they mark its boundaries",
+    "Without markings it is not a pedestrian crossing"
+   ],
+   "answer": 2,
+   "explain": "If a crossing has no markings, sign 5.16.2 is placed on the right at the near boundary of the crossing, and sign 5.16.1 on the left at the far boundary. The width of the crossing is the distance between these signs."
+  },
+  {
+   "id": "m18-n094",
+   "q": "There are no other restrictions. May you drive faster than indicated on this sign?",
+   "options": [
+    "No: it is a maximum speed limit",
+    "No: it is a minimum speed, like sign 4.7",
+    "Yes, but by no more than 10 km/h",
+    "Yes: it is a recommended speed, not a limit"
+   ],
+   "answer": 3,
+   "explain": "Sign 5.18.1 (a blue square with a number) shows the recommended speed on a section of road. It does not ban driving faster, but on dangerous sections its advice should be followed."
+  },
+  {
+   "id": "m18-n095",
+   "q": "The “Recommended speed” sign is placed together with a warning sign, as in the diagram. Where does its effect end?",
+   "options": [
+    "At the nearest intersection ahead",
+    "At the end of the dangerous section",
+    "Within 150-300 m from the sign",
+    "At the nearest sign 3.25"
+   ],
+   "answer": 1,
+   "explain": "The zone of the “Recommended speed” sign extends to the nearest intersection, but if it is used together with a warning sign, it is determined by the length of the dangerous section, here a dangerous bend."
+  },
+  {
+   "id": "m18-n096",
+   "q": "Outside a built-up area, the name of a city is written on a green background on a direction sign. What does this mean?",
+   "options": [
+    "The city is near, less than 10 km away",
+    "The road to the city is a toll road, with a payment point ahead",
+    "The route to it will be along a motorway",
+    "This is the detour direction for a closed section"
+   ],
+   "answer": 2,
+   "explain": "On signs 5.20.1, 5.20.2, 5.21.1 and 5.21.2 outside a built-up area, a green background means that a motorway leads to that place, and a blue one means another road.",
+   "ref": "Annex 1, Chapter 5 (background colour of direction signs)"
+  },
+  {
+   "id": "m18-n097",
+   "q": "In a built-up area, the name of a district is written on a white background on a direction sign. What does this mean?",
+   "options": [
+    "This district is in the same city",
+    "The route there is along a motorway",
+    "You can get there only in daytime",
+    "The road there is temporarily closed"
+   ],
+   "answer": 0,
+   "explain": "On signs in a built-up area, a white background means that the place is in the same built-up area. A green or blue background means that after leaving the city the route will be along a motorway or another road.",
+   "ref": "Annex 1, Chapter 5 (background colour of direction signs)"
+  },
+  {
+   "id": "m18-n098",
+   "q": "You have entered a village and passed this sign. May you sound the horn to warn a truck ahead that you are going to overtake?",
+   "options": [
+    "Yes, if the truck is driving slowly",
+    "No: you may not sound the horn like this in a built-up area",
+    "Yes: a warning about overtaking may be given anywhere",
+    "No: any overtaking is banned in a village"
+   ],
+   "answer": 1,
+   "explain": "Sign 5.22 means that the rules for built-up areas start to apply. The horn to warn of overtaking is allowed only outside built-up areas; here you may flash the headlights."
+  },
+  {
+   "id": "m18-n099",
+   "q": "You are driving a passenger car and have entered a village past this sign on a blue background. The road has no central reservation, and there are no other signs. What is the highest speed you may drive at?",
+   "options": [
+    "60 km/h",
+    "90 km/h",
+    "100 km/h",
+    "110 km/h"
+   ],
+   "answer": 2,
+   "explain": "Sign 5.24 marks a built-up area in which the requirements of the Rules for built-up areas do not apply on this road, including the 60 km/h limit. For a passenger car, the limit outside built-up areas on a road without a central reservation remains: 100 km/h."
+  },
+  {
+   "id": "m18-n100",
+   "q": "You have passed this sign. How can you tell whether you may use the middle lane?",
+   "options": [
+    "By the sign at the end of the section ahead",
+    "The middle lane is always only for oncoming traffic",
+    "By the direction of the vehicles in the adjacent lane",
+    "By the lane-control signal above that lane"
+   ],
+   "answer": 3,
+   "explain": "Sign 5.35 marks a section where the direction of traffic in one or more lanes may be reversed. Whether you may use such a lane is shown by the lane-control signals above it."
+  },
+  {
+   "id": "m18-n101",
+   "q": "This sign informs you about photo and video enforcement of violations. May a camera record a violation where there is no such sign?",
+   "options": [
+    "No: without a sign, enforcement is unlawful",
+    "Only if the sign is 150-300 m away",
+    "Only in built-up areas",
+    "Yes: placing this sign is not mandatory"
+   ],
+   "answer": 3,
+   "explain": "According to the text for sign 5.42 (as amended by Order No. 305, in force from 12.07.2026), violations are recorded by a stationary certified technical device, and placing the sign itself is not mandatory. So a camera may operate where there is no sign."
+  },
+  {
+   "id": "m18-n102",
+   "q": "You have passed sign 5.44 “Parking restriction zone” and then two intersections. Sign 5.45 has not appeared yet. May you park here?",
+   "options": [
+    "Yes: the zone ended at the first intersection",
+    "No: the ban lasts until the end-of-zone sign",
+    "Yes, if you park for less than 30 minutes",
+    "Only on the right side of the street"
+   ],
+   "answer": 1,
+   "explain": "Sign 5.44 marks the start of an area where parking is banned. Such a ban does not end at an intersection; it applies throughout the zone up to sign 5.45 “End of parking restriction zone”."
+  },
+  {
+   "id": "m18-n103",
+   "q": "Who is allowed to travel in a pedestrian zone, the start of which is marked by sign 5.48?",
+   "options": [
+    "Everyone, but no faster than 20 km/h",
+    "Pedestrians and taxis",
+    "Only pedestrians",
+    "Pedestrians and cyclists"
+   ],
+   "answer": 2,
+   "explain": "Sign 5.48 marks the place where an area begins in which only pedestrians are allowed. Do not confuse it with residential zone 5.38, where vehicles drive at no more than 20 km/h."
+  },
+  {
+   "id": "m18-n104",
+   "q": "At the entrance to a zone there is sign 5.50 with an environmental class restriction. The registration documents of your car do not state an environmental class. May you enter?",
+   "options": [
+    "Yes: if no class is stated, the ban does not apply to you",
+    "Yes, but only on weekends",
+    "Yes, if the car is less than five years old",
+    "No: entry is banned for such vehicles too"
+   ],
+   "answer": 3,
+   "explain": "Sign 5.50 bans motor vehicles whose environmental class is lower than the one shown on the sign, or is not stated in the registration documents."
+  },
+  {
+   "id": "m18-n105",
+   "q": "You have passed a sign with a plate, as in the diagram. At the edge of the carriageway before the crossing, a person is signalling with a white cane: they are about to cross. What should you do?",
+   "options": [
+    "Stop and let them cross",
+    "Drive on before they step onto the carriageway",
+    "Sound the horn so that they wait",
+    "Let them cross only if they are already on the “zebra”"
+   ],
+   "answer": 0,
+   "explain": "Plate 7.15 under sign 1.20 warns that the crossing is used by people who are completely blind. A driver must give way to a completely blind pedestrian who signals with a white cane in all cases, even away from a pedestrian crossing."
+  },
+  {
+   "id": "m18-n106",
+   "q": "You need a vehicle service station. How do you get there, judging by the sign with a plate?",
+   "options": [
+    "Drive straight on: the station is 200 m ahead by the road",
+    "Turn right: the station is 200 m off to the side",
+    "Turn left: the station is 200 m off to the side",
+    "Make a U-turn: the station is 200 m behind you"
+   ],
+   "answer": 1,
+   "explain": "Plate 7.1.3 shows the distance to an object that is to the side of the road, and the arrow shows which way to turn towards it. Here the service station is 200 m to the right."
+  },
+  {
+   "id": "m18-n107",
+   "q": "What does this sign require of the driver?",
+   "options": [
+    "Reduce speed to 40 km/h",
+    "Stop at the place to eat",
+    "Give way to vehicles leaving the parking area",
+    "Nothing: it only informs about a place to eat"
+   ],
+   "answer": 3,
+   "explain": "Service signs only inform you about the location of facilities: a place to eat, a filling station, vehicle service and others. By themselves they neither ban nor require anything."
+  },
+  {
+   "id": "m18-n108",
+   "q": "You are driving in the lane next to a lane for route vehicles and have passed this sign. May you now move into the right lane, if there are no other bans?",
+   "options": [
+    "No: the right lane is for buses up to the intersection",
+    "Only to turn right",
+    "Yes: the lane for route vehicles has ended here",
+    "No: only taxis and buses may use it"
+   ],
+   "answer": 2,
+   "explain": "Sign 5.9.1 marks the end of a lane for route vehicles. Before it, ordinary cars could not use that lane; beyond the sign it is an ordinary lane, and you may move into it."
+  },
+  {
+   "id": "m18-n109",
+   "q": "Sign 2.1 “Priority road” hangs above the carriageway. Where is plate 7.13 “Direction of the priority road” placed in this case?",
+   "options": [
+    "Under the sign, as usual",
+    "To the side of the sign",
+    "On a separate post beyond the intersection",
+    "Such a plate is not hung above the road"
+   ],
+   "answer": 1,
+   "explain": "Plates are placed directly under the sign. Exception: plates 7.2.2-7.2.4 and 7.13, for signs above the carriageway, shoulder or pavement, are placed to the side of the sign."
+  },
+  {
+   "id": "m18-n110",
+   "q": "This sign with a plate hangs above the right lane. Whom does the restriction concern?",
+   "options": [
+    "Everyone travelling in this direction",
+    "Only those travelling in this lane",
+    "Only trucks in the right lane",
+    "Only those turning right"
+   ],
+   "answer": 1,
+   "explain": "Plate 7.14 shows the traffic lane to which the sign or traffic light applies. The 40 km/h limit concerns only the right lane."
+  },
+  {
+   "id": "m18-n111",
+   "q": "Besides route vehicles, who may drive past this sign with a plate?",
+   "options": [
+    "A taxi taking a passenger to their home",
+    "Passenger cars of residents of this street",
+    "Cars with the “Person with a disability” sign",
+    "Trucks delivering goods to local shops"
+   ],
+   "answer": 2,
+   "explain": "Plate 7.18 means that the sign does not apply to motorised wheelchairs and cars with the “Person with a disability” identification sign. For all others, except route vehicles, entry is banned."
+  },
+  {
+   "id": "m18-n112",
+   "q": "Before an intersection there is a permanent sign 4.1.1 “Ahead only”, and next to it, on a portable stand, a temporary sign 4.1.2 “Turn right only” on a yellow background. Which way do you go?",
+   "options": [
+    "Only straight ahead: the permanent sign is more important",
+    "Straight ahead or right, as you choose",
+    "Only right: the temporary sign is obeyed",
+    "Stop and wait for instructions"
+   ],
+   "answer": 2,
+   "explain": "If the meanings of temporary signs on a portable stand and of fixed signs contradict each other, drivers follow the temporary ones. This is how a work site is usually bypassed."
+  },
+  {
+   "id": "m18-n113",
+   "q": "You are driving on a roundabout with this sign and have passed the exit you need. What should you do?",
+   "options": [
+    "Drive another lap and leave where you need to",
+    "Reverse to the missed exit",
+    "Make a U-turn and go back to the exit against the arrows",
+    "Stop and wait until the exit is free"
+   ],
+   "answer": 0,
+   "explain": "Sign 4.3 allows movement only in the direction of the arrows, and reversing at intersections is banned. So you reach a missed exit by going round the roundabout once more."
+  },
+  {
+   "id": "m18-n114",
+   "q": "A temporary sign on a yellow background allows only a right turn, and a traffic controller signals you to go straight ahead. What should you do?",
+   "options": [
+    "Turn right: the temporary sign is more important",
+    "Go straight ahead on the traffic controller’s signal",
+    "Stop and wait until the sign is removed",
+    "Choose either of the two directions"
+   ],
+   "answer": 1,
+   "explain": "The signals and instructions of a traffic controller must be obeyed even if they contradict traffic lights, road signs (including temporary ones) or road markings."
+  },
+  {
+   "id": "m18-n115",
+   "q": "You have a red light and a green left arrow in a filter arrow section. Before the intersection there is a sign, as in the diagram. Which path may you take?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 0,
+   "explain": "A green left arrow normally allows a U-turn too, but only if it is not banned by a sign. Sign 3.19 bans U-turns, so you may only turn left (A), giving way to traffic from other directions."
+  },
+  {
+   "id": "m18-n116",
+   "q": "Under sign 5.15 “Parking place” there is plate 7.7. May you leave your car at this parking place with the engine running to keep the air conditioning on?",
+   "options": [
+    "Yes, if you stay in the car",
+    "Yes, if the engine is diesel",
+    "No: only with the engine switched off",
+    "Yes, if it is hotter than 30°C outside"
+   ],
+   "answer": 2,
+   "explain": "Plate 7.7 means that at a parking place marked by sign 5.15, parking is allowed only for vehicles with the engine not running."
+  },
+  {
+   "id": "m18-n117",
+   "q": "Under sign 5.15 there is plate 7.9 saying “2 h”. You left your car for 3 hours. Did you break the rules?",
+   "options": [
+    "No: the plate is only a recommendation",
+    "Yes: parking here is limited to 2 hours",
+    "No, if you pay for the extra hour",
+    "No: the limit applies only to trucks"
+   ],
+   "answer": 1,
+   "explain": "Plate 7.9 shows the maximum duration of parking at a place with sign 5.15. Here it is 2 hours, and you may not park for longer."
+  },
+  {
+   "id": "m18-n118",
+   "q": "Under sign 3.28 “No parking” there is plate 7.11 saying “7 t”. May you park here a van with a maximum authorised mass of 3.5 t?",
+   "options": [
+    "Yes: the ban is for vehicles over 7 t only",
+    "No: the sign bans parking for everyone",
+    "No: the plate makes the ban stricter for vans",
+    "Yes, but for no longer than 7 minutes"
+   ],
+   "answer": 0,
+   "explain": "Plate 7.11 means that the sign applies only to vehicles whose maximum authorised mass is greater than the one shown on the plate. A 3.5 t van is lighter than 7 t, so the parking ban does not apply to it."
+  },
+  {
+   "id": "m18-n119",
+   "q": "Under sign 3.28 “No parking” there is a plate “Except type of vehicle” showing a passenger car. Who is banned from parking?",
+   "options": [
+    "Only passenger cars",
+    "Everyone except passenger cars",
+    "Nobody: the plate cancels the sign",
+    "Everyone, including passenger cars"
+   ],
+   "answer": 1,
+   "explain": "Plates 7.4.9-7.4.14 show the type of vehicle to which the sign does not apply. Passenger cars may park here, and all others are banned."
+  },
+  {
+   "id": "m18-n120",
+   "q": "Under sign 5.15 “Parking place” there is plate 7.22 showing an electric car. May you park an ordinary petrol car here?",
+   "options": [
+    "Yes, if all places for electric cars are free",
+    "Yes, if you park for no longer than an hour",
+    "No: this place is for electric cars",
+    "Yes, but only at night"
+   ],
+   "answer": 2,
+   "explain": "Plate 7.22 limits the sign to electric cars and hybrid cars that are charged from an external source. So this parking place is intended only for them."
+  }
+ ],
+ "pack": "m18-2"
+}

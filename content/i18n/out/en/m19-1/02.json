@@ -1,0 +1,291 @@
+{
+ "questions": [
+  {
+   "id": "m19-01",
+   "q": "Oncoming traffic flows are separated by a double solid line. May you cross it to turn left into a yard?",
+   "options": [
+    "No, crossing lines 1.1-1.3 is prohibited",
+    "Yes, if there is no oncoming traffic",
+    "Yes, if you signal with the indicator",
+    "Only during daylight hours"
+   ],
+   "answer": 0,
+   "explain": "A double solid line is marking 1.3. Crossing lines 1.1, 1.2 and 1.3 is prohibited, and for 1.3 there are not even any exceptions.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m19-02",
+   "q": "A broken-down truck is stopped in your lane. You can only drive around it by crossing a single solid line, and the oncoming lane is clear. What should you do?",
+   "options": [
+    "Wait for a tow truck: a solid line must never be crossed",
+    "Drive around the truck on the right, along the shoulder, without crossing the solid line",
+    "Make a U-turn across the solid line and look for a way round on another road",
+    "Drive around it across the solid line: this is allowed when driving around an obstruction"
+   ],
+   "answer": 3,
+   "explain": "Crossing 1.1 is allowed as an exception when driving around an obstruction, if there is no other way round it, and driving along the shoulder is not allowed ⟦40⟧. The obstruction is on your side, so give way to oncoming traffic ⟦41⟧. A double solid line 1.3 must not be crossed this way."
+  },
+  {
+   "id": "m19-03",
+   "q": "Line 1.11 is marked to your left: on the side of your lane it is solid, on the other side it is broken. When may you cross it?",
+   "options": [
+    "No, you must never cross this kind of solid line",
+    "Yes, at any time, in the same way as an ordinary broken line",
+    "Only when completing overtaking or driving around an obstruction",
+    "Only in order to make a U-turn or to drive into a yard"
+   ],
+   "answer": 2,
+   "explain": "Line 1.11 may be crossed from the side of the broken line, and from the side of the solid line only when completing overtaking or driving around an obstruction."
+  },
+  {
+   "id": "m19-04",
+   "q": "The broken centre line has changed: the dashes have become roughly three times longer than the gaps. What does this warn of?",
+   "options": [
+    "An uncontrolled intersection is coming up soon",
+    "Solid line 1.1 or 1.11 will begin soon",
+    "An acceleration or deceleration lane will begin soon",
+    "A U-turn across the centre line is allowed here"
+   ],
+   "answer": 1,
+   "explain": "This is the approach line 1.6. It warns that you are approaching marking 1.1 or 1.11, which separates traffic flows. It is too late to start overtaking."
+  },
+  {
+   "id": "m19-05",
+   "q": "A yellow solid line is marked along the kerb. What does this mean?",
+   "options": [
+    "Stopping is prohibited here",
+    "Only parking is prohibited here",
+    "This is a taxi rank",
+    "This is the edge of the carriageway on a motorway"
+   ],
+   "answer": 0,
+   "explain": "Yellow solid line 1.4 marks places where stopping (and therefore parking too) is prohibited."
+  },
+  {
+   "id": "m19-06",
+   "q": "A yellow broken line is marked along the edge of the carriageway. May you stop here briefly to let a passenger out?",
+   "options": [
+    "No: this line prohibits both stopping and parking",
+    "Yes, but only with the hazard warning lights on",
+    "Yes: this line prohibits only parking",
+    "No: only taxis may stop at this line"
+   ],
+   "answer": 2,
+   "explain": "Yellow broken line 1.10 marks places where parking is prohibited. You may stop here to let a passenger out, and hazard warning lights are not needed for this."
+  },
+  {
+   "id": "m19-07",
+   "q": "What does a yellow zigzag line at the edge of the carriageway mark?",
+   "options": [
+    "A parking place for vehicles of people with disabilities",
+    "A speed hump on the carriageway",
+    "A section where overtaking and U-turns are prohibited",
+    "A route vehicle stop or a taxi rank"
+   ],
+   "answer": 3,
+   "explain": "Marking 1.17 marks route vehicle stops and taxi ranks."
+  },
+  {
+   "id": "m19-08",
+   "q": "A route bus and a taxi are pulling up at a marked route vehicle stop. A yellow solid line 1.4 is marked along the edge here. Who is allowed to stop to board or set down passengers?",
+   "options": [
+    "Only the bus driver",
+    "Only the taxi driver",
+    "Both drivers",
+    "Neither of them"
+   ],
+   "answer": 0,
+   "explain": "Line 1.4 prohibits stopping, but it does not apply to route vehicles ⟦42⟧. A bus on its route stops at its own stop, but a taxi is not a route vehicle: it may not stop here ⟦43⟧."
+  },
+  {
+   "id": "m19-09",
+   "q": "Marking 1.13 (a line of triangles) is marked across the lane before the entrance to an intersection. What does it mean?",
+   "options": [
+    "A place where you must always stop, even if the road is clear",
+    "A place where you stop if necessary, giving way",
+    "A place where a speed hump is installed before the intersection",
+    "A place where a lane for route vehicles begins"
+   ],
+   "answer": 1,
+   "explain": "Marking 1.13 shows the place where a driver, if necessary, stops, giving way to traffic on the intersecting road. If there is no one to give way to, you do not need to stop."
+  },
+  {
+   "id": "m19-10",
+   "q": "You are driving in the far left lane. Before the intersection, a marking 1.18 “left” arrow is marked on it. May you make a U-turn from this lane?",
+   "options": [
+    "No: the arrow allows only a left turn",
+    "Yes, but only on a green traffic light arrow",
+    "No: a U-turn is allowed only for route vehicles",
+    "Yes: such an arrow also allows a U-turn"
+   ],
+   "answer": 3,
+   "explain": "As described for marking 1.18: an arrow that allows a left turn from the far left lane also allows a U-turn from that lane."
+  },
+  {
+   "id": "m19-12",
+   "q": "The lane-control signals are switched off. Line 1.9 is marked to the left of your lane, and oncoming traffic is travelling beyond it. May you cross this line to overtake a slow truck?",
+   "options": [
+    "Yes: line 1.9 may be crossed from either side",
+    "No: crossing this line 1.9 is prohibited",
+    "Yes, if no oncoming vehicles are in sight",
+    "Yes, but only to turn left"
+   ],
+   "answer": 1,
+   "explain": "While the lane-control signals are switched off, line 1.9 separates oncoming traffic flows, and crossing it is prohibited. While the signals are off, line 1.9 may be crossed only if it is on the driver's right ⟦44⟧."
+  },
+  {
+   "id": "m19-n001",
+   "q": "The centre line is solid. Which paths may you continue along?",
+   "options": [
+    "Only A",
+    "Only B",
+    "Both",
+    "None"
+   ],
+   "answer": 3,
+   "explain": "Both paths cross solid line 1.1: turning into the yard and making a U-turn. Crossing lines 1.1-1.3 is prohibited; exceptions exist only for stopping on the shoulder and driving around an obstruction. You can reach the yard by making a U-turn where that is allowed.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m19-n002",
+   "q": "The centre line is broken. Which paths may you continue along?",
+   "options": [
+    "Only A",
+    "Only B",
+    "Both",
+    "Neither"
+   ],
+   "answer": 2,
+   "explain": "Broken line 1.5 may be crossed from either side. There are no signs here prohibiting a turn or a U-turn, so you may both turn into the yard and make a U-turn. In doing so, you must give way to oncoming vehicles ⟦45⟧.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m19-n003",
+   "q": "Oncoming traffic flows are separated by line 1.11; on the side of your lane it is broken. Which paths may you continue along?",
+   "options": [
+    "Only A",
+    "Only B",
+    "Both",
+    "Neither"
+   ],
+   "answer": 2,
+   "explain": "Line 1.11 may be crossed from the side of the broken line. The broken line is nearer to you, so you may both turn into the yard and make a U-turn, giving way to oncoming traffic ⟦46⟧. This is exactly why such a line is marked at places for U-turns and for entering and leaving.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m19-n004",
+   "q": "Oncoming traffic flows are separated by line 1.11; on the side of your lane it is solid. Which paths may you continue along?",
+   "options": [
+    "Only A",
+    "Only B",
+    "Both",
+    "None"
+   ],
+   "answer": 3,
+   "explain": "From the side of the solid line, line 1.11 may be crossed only when completing overtaking or driving around an obstruction. Turning into the yard and making a U-turn are not among these cases, so both paths are prohibited. Oncoming drivers, for whom the broken line is nearer, are allowed to make such manoeuvres.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m19-n005",
+   "q": "Both drivers want to turn left into a yard. Which of them does the marking allow to do this?",
+   "options": [
+    "Only you",
+    "Only the driver of the blue car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "Line 1.11 is broken on the side of your lane and solid on the oncoming side. It may be crossed from the side of the broken line, so you may turn. The blue car would have to cross the line from the side of the solid line, and that is allowed only when completing overtaking or driving around an obstruction.",
+   "scene": {
+    "side.0.text": "yard",
+    "side.1.text": "yard"
+   }
+  },
+  {
+   "id": "m19-n006",
+   "q": "The solid centre line is interrupted by a short stretch of line 1.11, broken on your side. Which paths may you continue along?",
+   "options": [
+    "Only A",
+    "Only B",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "Line 1.11 is marked where U-turns, entering and leaving are allowed. It may be crossed from the side of the broken line, so the U-turn along A is allowed. To enter the yard along B, you would have to cross solid line 1.1, and that is prohibited.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m19-n007",
+   "q": "The edge of the carriageway is marked with a solid line. May you cross it to stop on the shoulder?",
+   "options": [
+    "Yes, but only during daylight hours",
+    "No: a solid line must not be crossed",
+    "Yes: line 1.1 may be crossed for this purpose",
+    "Yes, but only if the car has broken down"
+   ],
+   "answer": 2,
+   "explain": "Lines 1.1 and 1.2 may be crossed to stop on the shoulder. Under the Rules, stopping is allowed primarily on the right-hand shoulder, and if there is none, at the edge of the carriageway ⟦47⟧."
+  },
+  {
+   "id": "m19-n008",
+   "q": "You get a flat tyre on an out-of-town motorway. The edge of the carriageway is marked with wide solid line 1.2, and there is a shoulder beyond it. What should you do?",
+   "options": [
+    "Make a U-turn through a gap in the central reservation and drive unhurriedly to a service station",
+    "Stop on the central reservation, switch on the hazard warning lights and wait",
+    "Stop in your lane, since line 1.2 is not crossed, and switch on the hazard warning lights",
+    "Drive across line 1.2 onto the shoulder, switch on the hazard warning lights and put out the warning triangle"
+   ],
+   "answer": 3,
+   "explain": "In the event of a forced stop on a motorway, the vehicle is moved to the right of the line marking the edge of the carriageway ⟦48⟧, and line 1.2 may be crossed to stop on the shoulder. Then switch on the hazard warning lights and put out the warning triangle not less than 30 m from the car ⟦49⟧. Making a U-turn and driving into service gaps in the central reservation on a motorway are prohibited ⟦50⟧."
+  },
+  {
+   "id": "m19-n009",
+   "q": "In a traffic jam, the driver of the blue car has crossed the solid line marking the edge of the carriageway and is driving along the shoulder. Is he breaking the rules?",
+   "options": [
+    "No, not if he drives slowly and takes care not to obstruct pedestrians",
+    "Yes: driving along the shoulder is not allowed, even to get around a traffic jam",
+    "No: the solid line marking the edge of the road may always be crossed",
+    "Yes, but only if the shoulder is unpaved"
+   ],
+   "answer": 1,
+   "explain": "The solid line at the edge is marking 1.1. It may be crossed to stop on the shoulder, but not to drive along it: driving on shoulders is not allowed ⟦51⟧."
+  },
+  {
+   "id": "m19-n010",
+   "q": "What does black-and-white vertical marking 2.3 mark?",
+   "options": [
+    "The lower edge of the span of a bridge or flyover",
+    "Guide posts, tank obstacles and barrier supports",
+    "Round bollards on central reservations and islands",
+    "Kerbs on hazardous sections of road"
+   ],
+   "answer": 2,
+   "explain": "Marking 2.3 is applied to round bollards installed on central reservations or traffic islands. The other options are also vertical markings: 2.2 is the lower edge of a span, 2.4 is guide posts and barrier supports, 2.7 is kerbs on hazardous sections. Bollards in the middle of the road are passed on the right, unless signs or markings require otherwise ⟦52⟧.",
+   "ref": "Annex 2, Chapter 2, marking 2.1-2.7; para. 71"
+  },
+  {
+   "id": "m19-n011",
+   "q": "A broken-down car is stopped in the left lane. Which path may you use to drive around it?",
+   "options": [
+    "Only A",
+    "Only B",
+    "Both",
+    "Neither: you must wait for a tow truck"
+   ],
+   "answer": 1,
+   "explain": "Crossing double solid line 1.3 is prohibited, and there is no exception for it to drive around an obstruction: that exception is made only for the single line 1.1. On a road with four lanes, driving onto the oncoming side is also prohibited ⟦53⟧. Drive around using the right-hand lane, giving way to those already travelling in it ⟦54⟧."
+  }
+ ]
+}

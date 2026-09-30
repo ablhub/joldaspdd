@@ -1,0 +1,245 @@
+{
+ "questions": [
+  {
+   "id": "m20-01",
+   "q": "You are driving on a dry highway behind a passenger car. How can you check in practice that your following distance is safe?",
+   "options": [
+    "Keep about one car length behind, whatever your speed is",
+    "Stay far enough back to see the rear wheels of the vehicle ahead",
+    "Time the gap to the vehicle ahead by a landmark: at least 2 seconds",
+    "Stay as close as possible so that nobody can cut into the gap"
+   ],
+   "answer": 2,
+   "explain": "The Rules require a following distance that will let you avoid a collision, but they do not give a figure in metres ⟦48⟧. A convenient measure is time: from the moment the vehicle ahead passes a post or sign to the moment you pass it, at least 2 seconds should go by, and on a wet road at least twice as much (Highway Code UK, para. 126). The distance in metres grows with your speed."
+  },
+  {
+   "id": "m20-02",
+   "q": "Before winter you are checking the tyres of your passenger car. What is the smallest residual tread depth that is still permitted?",
+   "options": [
+    "1 mm",
+    "1.6 mm",
+    "2 mm",
+    "0.8 mm"
+   ],
+   "answer": 1,
+   "explain": "The List of Defects prohibits using a passenger car if the residual tread depth is less than 1.6 mm. 1 mm is the limit for trucks, 2 mm for buses, and 0.8 mm for motorcycles and mopeds. For winter and rain it is better to have a depth well above the minimum."
+  },
+  {
+   "id": "m20-03",
+   "q": "You have sped up from 40 to 80 km/h. Roughly how will your braking distance change on the same road?",
+   "options": [
+    "It will not change if the brakes are in good order",
+    "It will increase roughly 2 times",
+    "It will increase roughly 3 times",
+    "It will increase roughly 4 times"
+   ],
+   "answer": 3,
+   "explain": "Braking distance is proportional to the square of the speed: the speed has grown 2 times, so the distance has grown roughly 2 x 2 = 4 times. That is why speed is chosen with regard to the road and visibility ⟦49⟧."
+  },
+  {
+   "id": "m20-04",
+   "q": "You are driving at 60 km/h and a child suddenly runs out onto the road. Your reaction time is about 1 second. How far will the vehicle travel before you even start braking?",
+   "options": [
+    "About 6 metres",
+    "About 17 metres",
+    "About 35 metres",
+    "Hardly any distance: the vehicle starts braking at once"
+   ],
+   "answer": 1,
+   "explain": "60 km/h is about 16.7 metres per second. While you notice the danger and move your foot to the pedal, the vehicle covers about 17 m at the same speed, and only then does the braking distance begin. That is why, in the event of danger, the driver must reduce speed at once, up to a complete stop ⟦50⟧."
+  },
+  {
+   "id": "m20-05",
+   "q": "Heavy rain has started. You are driving through town at 60 km/h in dense traffic. What is the best thing to do?",
+   "options": [
+    "Smoothly slow down and increase the gap to the vehicle ahead",
+    "Keep your speed but switch on the main-beam headlights",
+    "Switch on the hazard warning lights and keep the same speed",
+    "Stay closer to the vehicle ahead to drive in its tracks"
+   ],
+   "answer": 0,
+   "explain": "On a wet road grip is worse, braking distance is longer and visibility is lower. Speed is chosen with regard to the weather and visibility ⟦51⟧, and the following distance must be one that lets you avoid a collision ⟦52⟧. Main-beam headlights dazzle others in traffic, and rain is not one of the cases where you switch on the hazard warning lights."
+  },
+  {
+   "id": "m20-06",
+   "q": "On a highway in the rain at 100 km/h, the steering wheel suddenly becomes very light and the vehicle feels as if it is floating. What is happening and what should you do?",
+   "options": [
+    "It is a punctured tyre: brake hard and stop",
+    "It is a rear-wheel skid: turn the steering wheel sharply to one side",
+    "It is aquaplaning: ease off the accelerator, do not brake sharply",
+    "It is normal on a wet road: accelerate and get through the water"
+   ],
+   "answer": 2,
+   "explain": "The tyres have lost contact with the asphalt because of a wedge of water. Smoothly ease off the accelerator and keep the steering wheel straight until the vehicle slows down: sharp braking or steering will throw it into a skid when the wheels touch the road again (Highway Code UK, para. 227). In rain, slow down in advance ⟦53⟧."
+  },
+  {
+   "id": "m20-07",
+   "q": "On a snowy bend, the rear of your vehicle has started to swing to the right. What should you do with the steering wheel?",
+   "options": [
+    "Steer left, away from the skid, and accelerate at the same time",
+    "Brake hard to a complete stop, holding the steering wheel straight",
+    "Let go of the wheel and accelerator: the vehicle will straighten in its own track",
+    "Steer right, into the skid, and straighten once the vehicle recovers"
+   ],
+   "answer": 3,
+   "explain": "In a rear-wheel skid, smoothly steer in the direction the rear of the vehicle is sliding, and straighten at once when the vehicle is going straight. Sharp braking increases the slide, and steering away from the skid only turns the vehicle further round. The main protection is a speed chosen with regard to the road ⟦54⟧."
+  },
+  {
+   "id": "m20-08",
+   "q": "The vehicle ahead has braked sharply, and there is room on the right to drive around it. Your vehicle has ABS. How should you brake?",
+   "options": [
+    "Press the pedal all the way down, hold it and steer around the obstruction",
+    "Press and release the pedal several times, as in a vehicle without ABS",
+    "Brake only with the parking brake so that the ABS does not activate",
+    "First drive around the obstruction and only then start to brake"
+   ],
+   "answer": 0,
+   "explain": "ABS stops the wheels from locking by itself, so you hold the pedal all the way down, and a vibrating pedal means the system is working. The wheels keep turning and the vehicle still responds to the steering wheel. In the event of danger, the driver reduces speed, up to a complete stop, or safely drives around the obstruction ⟦55⟧."
+  },
+  {
+   "id": "m20-09",
+   "q": "It is a winter morning, about 0°C, and the road just looks wet. Where is black ice most likely to be?",
+   "options": [
+    "On open stretches that are lit by the sun",
+    "On bridges, flyovers and in shade",
+    "Black ice does not form at temperatures around zero",
+    "Only on dirt roads and forest tracks"
+   ],
+   "answer": 1,
+   "explain": "Bridges and flyovers cool from both above and below, and in shade the ice is not melted by the sun. Black ice appears there earlier and lasts longer. Approach such places at a reduced speed, chosen according to the road conditions ⟦56⟧."
+  },
+  {
+   "id": "m20-10",
+   "q": "You are driving at night on the Astana - Karaganda highway. You are yawning, your eyelids feel heavy, and a couple of times the vehicle has drifted towards the shoulder. What is right?",
+   "options": [
+    "Open the window, turn the music up and drive on to the city",
+    "Speed up to arrive sooner and rest when you get there",
+    "Stop in a safe place and rest, preferably with a nap",
+    "Drink an energy drink and carry on without any stops"
+   ],
+   "answer": 2,
+   "explain": "The Rules prohibit driving in a fatigued state that endangers safety ⟦57⟧. Cold air, music and energy drinks help only for a short while. If you feel sleepy, stop in a safe place and rest (Highway Code UK, para. 91)."
+  },
+  {
+   "id": "m20-11",
+   "q": "You are about to change into the left lane. Your left mirror shows no vehicles. What should you do before the manoeuvre?",
+   "options": [
+    "Change lanes at once: the mirror is empty, so the lane is clear",
+    "Switch on the indicator at the moment you start changing lanes",
+    "Sound the horn and change lanes without using the indicator",
+    "Signal in good time and look over your left shoulder"
+   ],
+   "answer": 3,
+   "explain": "Even correctly adjusted mirrors leave a blind spot at the side. The signal is given in good time, before the manoeuvre begins ⟦58⟧, but it does not give you priority: when changing lanes you must give way to those travelling in the same direction who are not changing lanes ⟦59⟧. A glance over your shoulder shows what the mirror does not."
+  },
+  {
+   "id": "m20-12",
+   "q": "You are driving on the main road towards an intersection. A driver on the minor road is approaching it without slowing down. What should you do?",
+   "options": [
+    "Take your foot off the accelerator, cover the brake and be ready to stop",
+    "Keep your speed: you have priority, and he must give way",
+    "Sound the horn and accelerate to get through the intersection first",
+    "Move into the oncoming lane to drive around him on the left in advance"
+   ],
+   "answer": 0,
+   "explain": "Priority under the Rules does not protect you from someone else's mistake. If a hazard appears that the driver can detect, the driver must take measures to reduce speed, up to a complete stop ⟦60⟧. A foot moved to the brake in advance saves fractions of a second."
+  },
+  {
+   "id": "m20-n001",
+   "q": "You are driving at 60 km/h on dry asphalt. A child runs out from behind a bus at a stop 30 m ahead. Will you be able to stop if your reaction time is 1 second?",
+   "options": [
+    "Yes: with ABS the vehicle stops much sooner, in about 20 m",
+    "Yes: the brakes will stop the vehicle in about 10 metres",
+    "No: the stopping distance at 60 km/h is about 35-40 m",
+    "Yes, if you swerve sharply and drive around the child"
+   ],
+   "answer": 2,
+   "explain": "In a second of reaction time the vehicle covers about 17 m, and the braking distance on dry asphalt is about 20 m: about 37 m in total (an approximate calculation). The child is only 30 m away. That is why you pass a stationary bus slowly and ready to brake ⟦61⟧."
+  },
+  {
+   "id": "m20-n002",
+   "q": "A child ran out onto the road 28 m in front of a vehicle. At 50 km/h the driver would have managed to stop right in front of the child. At roughly what speed would the impact occur if the vehicle were travelling at 60 km/h?",
+   "options": [
+    "About 60 km/h",
+    "There would be no impact: the difference is only 10 km/h",
+    "About 10 km/h",
+    "About 40 km/h"
+   ],
+   "answer": 3,
+   "explain": "This is an approximate calculation: reaction time about 1 s, deceleration on dry asphalt about 7 m/s². At 60 km/h the vehicle covers almost 17 m during the reaction time, leaving only 11 m for braking. In that distance the speed drops only to about 40 km/h. An extra 10 km/h turns a stop into a serious collision ⟦62⟧."
+  },
+  {
+   "id": "m20-n003",
+   "q": "What is a vehicle's stopping distance made up of?",
+   "options": [
+    "Only the braking distance of the vehicle",
+    "The reaction-time distance plus the braking distance",
+    "The braking distance plus the length of the vehicle",
+    "The distance covered with the engine switched off"
+   ],
+   "answer": 1,
+   "explain": "First the driver notices the danger and moves their foot to the pedal: for about a second the vehicle keeps moving at the same speed. Only then does the braking distance begin. That is why distraction and fatigue lengthen the stopping distance even with perfect brakes."
+  },
+  {
+   "id": "m20-n004",
+   "q": "An impact with an obstacle at 60 km/h is, in terms of energy, roughly similar to a vehicle falling from a height of...",
+   "options": [
+    "about 1 m, like falling off a table",
+    "about 3 m, like falling off a garage roof",
+    "about 14 m, like the 4th-5th floor",
+    "about 60 m, like falling from the 20th floor"
+   ],
+   "answer": 2,
+   "explain": "Kinetic energy grows in proportion to the square of the speed. At 60 km/h it is roughly equal to the energy of a fall from 14 m (an approximate calculation using the formula h = v²/2g). That is why seat belts are needed in town too ⟦63⟧."
+  },
+  {
+   "id": "m20-n005",
+   "q": "At 90 km/h you looked down at your phone for 2 seconds. Roughly how far did the vehicle travel “blind”?",
+   "options": [
+    "About 5 m",
+    "About 18 m",
+    "About 50 m",
+    "About 180 m"
+   ],
+   "answer": 2,
+   "explain": "90 km/h is 25 m per second, so in 2 seconds it is about 50 m. That is why you may use a phone while driving only through headphones or hands-free mode ⟦64⟧. Holding it in your hand and texting is not allowed."
+  },
+  {
+   "id": "m20-n006",
+   "q": "How does stopping distance on wet asphalt change compared with dry asphalt?",
+   "options": [
+    "It becomes longer, at least twice as long",
+    "It becomes shorter: water cools the brakes",
+    "It hardly changes if the tyres are new",
+    "It becomes tens of times longer, as on smooth ice"
+   ],
+   "answer": 0,
+   "explain": "On wet asphalt grip is worse, and stopping distance at least doubles, and is longer still on worn tyres and in puddles (Highway Code UK, para. 227). In rain, reduce your speed and increase your following distance ⟦65⟧."
+  },
+  {
+   "id": "m20-n007",
+   "q": "You are driving at 60 km/h, about 10 m behind the vehicle ahead, as in the diagram. Is this following distance safe?",
+   "options": [
+    "Yes, if your vehicle has ABS and good brakes",
+    "Yes, if the vehicle ahead is a car, not a truck",
+    "Yes: two car lengths is enough in town",
+    "No: it is under a second, and 2 seconds is advised"
+   ],
+   "answer": 3,
+   "explain": "60 km/h is about 17 m per second, so you cover 10 m in 0.6 s. That is not enough even for the reaction time if the vehicle ahead brakes sharply. The Rules require a following distance that will let you avoid a collision but do not set a figure ⟦66⟧; on a dry road it is usually advised to keep at least 2 seconds, which at 60 km/h is about 33 m.",
+   "ref": "para. 69; road safety recommendation"
+  },
+  {
+   "id": "m20-n008",
+   "q": "A white car has tucked in right behind you. What is the safest thing to do?",
+   "options": [
+    "Brake sharply so that it understands it must drop back",
+    "Increase the gap ahead and brake early and smoothly",
+    "Speed up and stay closer to the vehicle ahead",
+    "Switch on the hazard warning lights and carry on as before"
+   ],
+   "answer": 1,
+   "explain": "If you have to brake sharply, a driver following right behind will not manage to stop. A bigger gap ahead lets you brake smoothly, so the driver behind can react too; if possible, let them go past. Braking sharply without need is prohibited ⟦67⟧."
+  }
+ ]
+}

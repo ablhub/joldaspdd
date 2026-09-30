@@ -1,0 +1,242 @@
+{
+ "questions": [
+  {
+   "id": "m08-01",
+   "q": "You are driving behind a truck and intend to overtake it. The truck driver has switched on the left direction indicator. What should you do?",
+   "options": [
+    "Quickly overtake it on the left before it starts the manoeuvre",
+    "Sound the horn and overtake it in the oncoming lane",
+    "Flash your headlights so that the driver lets you through",
+    "Do not start overtaking on the left; let it make its manoeuvre"
+   ],
+   "answer": 3,
+   "explain": "Before overtaking, the driver must make sure that the vehicle ahead in the same lane has not signalled a left turn. If it has, you must not start overtaking on the left."
+  },
+  {
+   "id": "m08-02",
+   "q": "The car ahead has signalled a left turn and has already started turning. On which side may you overtake it?",
+   "options": [
+    "Only on the left, in the oncoming lane",
+    "On the right",
+    "Overtaking such a car is prohibited"
+   ],
+   "answer": 1,
+   "explain": "Trackless vehicles are overtaken on the left, but if the driver has signalled a left turn and started the manoeuvre, the vehicle is overtaken on the right."
+  },
+  {
+   "id": "m08-03",
+   "q": "Another car starts to overtake you. What must you do?",
+   "options": [
+    "Speed up so that the driver realises overtaking is dangerous",
+    "Move closer to the middle of the road",
+    "Do not speed up or hinder the overtaking in any way"
+   ],
+   "answer": 2,
+   "explain": "The driver of a vehicle being overtaken must not hinder the overtaking by increasing speed or by any other actions."
+  },
+  {
+   "id": "m08-04",
+   "q": "You are approaching a level crossing behind a slow car. From what distance before the crossing is overtaking already prohibited?",
+   "options": [
+    "Closer than 100 m",
+    "Closer than 50 m",
+    "Closer than 150 m",
+    "Closer than 300 m"
+   ],
+   "answer": 0,
+   "explain": "Overtaking is prohibited on level crossings and less than 100 m before them."
+  },
+  {
+   "id": "m08-05",
+   "q": "You are approaching an uncontrolled pedestrian crossing behind a slow vehicle. In which case does para. 81 expressly prohibit overtaking on the crossing itself?",
+   "options": [
+    "Only during the hours of darkness",
+    "Only if the crossing is controlled",
+    "If there are pedestrians on the crossing",
+    "The Rules contain no such prohibition"
+   ],
+   "answer": 2,
+   "explain": "Overtaking is prohibited on pedestrian crossings when there are pedestrians on them. Signs and solid markings may prohibit overtaking in other cases too."
+  },
+  {
+   "id": "m08-06",
+   "q": "At a controlled intersection the light is green, and a motorcycle without a sidecar is moving slowly ahead of you. May you overtake it by moving into the oncoming lane right at the intersection?",
+   "options": [
+    "No: such overtaking is prohibited at a controlled intersection",
+    "Yes: two-wheeled vehicles without a sidecar may be overtaken at intersections",
+    "Yes, if there are no oncoming cars at the intersection"
+   ],
+   "answer": 0,
+   "explain": "The intersection is controlled, and at controlled intersections overtaking that involves moving into the oncoming lane is prohibited, whoever you are overtaking. The exception for two-wheeled vehicles without a sidecar applies only at uncontrolled intersections when you are driving on a minor road."
+  },
+  {
+   "id": "m08-07",
+   "q": "You are driving on a minor road and approaching an uncontrolled intersection that is not a roundabout. A motorcycle with a sidecar is moving slowly ahead. There is no crossing traffic. May you overtake it at the intersection?",
+   "options": [
+    "Yes: overtaking motorcycles at such an intersection is permitted",
+    "No: the exception is only for two-wheeled vehicles without a sidecar",
+    "Yes, if the motorcycle is travelling slower than 30 km/h"
+   ],
+   "answer": 1,
+   "explain": "When you are driving on a minor road, overtaking at an uncontrolled intersection is prohibited. An exception is made for two-wheeled vehicles without a sidecar, and a motorcycle with a sidecar does not qualify."
+  },
+  {
+   "id": "m08-08",
+   "q": "The blue car ahead of you has started to overtake a truck, as shown in the diagram. You want to overtake both at once. May you do so?",
+   "options": [
+    "Yes, if the oncoming lane is clear",
+    "Yes, if you sound the horn",
+    "Yes, but only outside a built-up area",
+    "No: the car is itself overtaking"
+   ],
+   "answer": 3,
+   "explain": "The blue car is itself overtaking the truck, and overtaking a vehicle that is overtaking or driving around an obstruction is prohibited: there would be three vehicles side by side on the road."
+  },
+  {
+   "id": "m08-09",
+   "q": "You are driving uphill behind a single tractor travelling at about 20 km/h. There are signs on the ascent, as shown in the diagram. The crest is a few dozen metres away, and you cannot see what is beyond it. May you overtake the tractor by moving into the oncoming lane?",
+   "options": [
+    "Yes: sign 3.20 allows overtaking single vehicles slower than 30 km/h",
+    "Yes, if you sound the horn before the crest",
+    "No: such overtaking is prohibited at the end of an ascent"
+   ],
+   "answer": 2,
+   "explain": "It is true that sign 3.20 does not prohibit overtaking a single tractor travelling slower than 30 km/h. But at the end of an ascent and on other sections with a restricted view, overtaking that involves moving into the oncoming lane is prohibited: an oncoming vehicle cannot be seen beyond the crest.",
+   "scene": {
+    "labels.0.text": "crest",
+    "labels.1.text": "20 km/h"
+   }
+  },
+  {
+   "id": "m08-10",
+   "q": "You are driving a slow-moving tractor on a narrow road outside a built-up area. It is difficult to overtake you, and a queue has built up behind. What must you do?",
+   "options": [
+    "Move over to the right and, if necessary, stop to let the vehicles pass",
+    "Carry on: whether to overtake is up to the drivers behind",
+    "Switch on the hazard warning lights and drive in the middle of the lane",
+    "Switch on the left indicator so that no one behind starts overtaking"
+   ],
+   "answer": 0,
+   "explain": "You are driving a slow-moving vehicle outside a built-up area, and it is difficult to overtake you. In this case, the driver moves as far to the right as possible and, if necessary, stops to let the vehicles queuing behind pass."
+  },
+  {
+   "id": "m08-11",
+   "q": "On a narrow road, a broken-down truck is standing in your lane. A car is coming towards you, and it is difficult to pass each other. There are no signs 2.6 or 2.7. Who must give way?",
+   "options": [
+    "The oncoming driver",
+    "Whoever reached the obstruction later",
+    "Whoever has the bigger vehicle",
+    "You: the obstruction is on your side"
+   ],
+   "answer": 3,
+   "explain": "If passing oncoming vehicles is difficult and the order of passage is not set by signs 2.6 and 2.7, the driver on whose side the obstruction is must give way."
+  },
+  {
+   "id": "m08-12",
+   "q": "You are driving down a steep gradient marked with signs 1.13 and 1.14. There is an obstruction in the lane of the oncoming driver, who is going uphill. It is difficult to pass each other. Who gives way?",
+   "options": [
+    "The driver going uphill, as the obstruction is on their side",
+    "You, as you are going downhill",
+    "Whoever sounded the horn first"
+   ],
+   "answer": 1,
+   "explain": "On gradients marked with signs 1.13 and 1.14, if there is an obstruction, the driver of the vehicle going downhill gives way."
+  },
+  {
+   "id": "m08-n001",
+   "q": "You want to overtake a tractor. Ahead, the broken centre line changes to an approach line and then to a solid line. On which path may you overtake?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 0,
+   "explain": "On path A, you return to your lane across broken approach line 1.6. Path B returns across solid line 1.1, which must not be crossed. Line 1.6 is there precisely to warn you that a solid line will begin soon."
+  },
+  {
+   "id": "m08-n002",
+   "q": "You are driving behind a tractor. The solid centre line will soon change to a broken one. On which path may you start overtaking now?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 3,
+   "explain": "Both paths start by crossing solid line 1.1, which must not be crossed. You may start overtaking only where the line is already broken."
+  },
+  {
+   "id": "m08-n003",
+   "q": "Opposing traffic flows are separated by line 1.11, as shown in the diagram. You are in the red car and want to overtake a tractor, and the driver of the blue car wants to overtake a tractor coming the other way. Which overtaking path do the road markings permit?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 0,
+   "explain": "Line 1.11 may be crossed from the broken-line side, and from the solid-line side only to complete overtaking or driving around an obstruction. Here the broken part is on the side of your lane: you (A) may start overtaking, but the driver of the blue car (B) may not."
+  },
+  {
+   "id": "m08-n004",
+   "q": "Opposing traffic flows are separated by line 1.11, as shown in the diagram. You are in the red car and want to overtake a tractor, and the driver of the blue car wants to overtake a tractor coming the other way. Which overtaking path do the road markings permit?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 1,
+   "explain": "Now the broken part of line 1.11 is on the side of the oncoming lane. The driver of the blue car (B) may start overtaking across it, but you must not start overtaking from the solid-line side."
+  },
+  {
+   "id": "m08-n005",
+   "q": "You are overtaking a tractor by moving into the oncoming lane. On which path must you perform this manoeuvre?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 1,
+   "explain": "On completing overtaking that involved moving into the oncoming lane, the driver returns to the lane they occupied before: this is path B. You must not continue in the oncoming lane (A)."
+  },
+  {
+   "id": "m08-n006",
+   "q": "The driver of the white car has switched on the left direction indicator and started turning left. On which path may you continue?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 0,
+   "explain": "You must not overtake on the left a vehicle that has signalled a left turn (B). If it has already started the manoeuvre, it is overtaken on the right, so you continue straight on in your lane (A)."
+  },
+  {
+   "id": "m08-n007",
+   "q": "There is a pedestrian crossing ahead, and pedestrians are walking across it. You want to overtake a tractor. On which path may you overtake?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 1,
+   "explain": "Path A goes over the pedestrian crossing while there are pedestrians on it, and overtaking is prohibited there. On path B, overtaking is completed before the crossing, after which you must give way to the pedestrians."
+  },
+  {
+   "id": "m08-n008",
+   "q": "There is a pedestrian crossing ahead, with no pedestrians on it or near it. You want to overtake a tractor. On which path may you overtake?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 2,
+   "explain": "Under para. 81, overtaking on a pedestrian crossing is prohibited only when there are pedestrians on it. The crossing is empty and the centre line is broken, so both paths are permitted. As you approach the crossing, still be ready to let a pedestrian cross."
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "questions": [
+  {
+   "id": "m05-n006",
+   "q": "An ambulance with its beacons on is standing in the oncoming lane, with people next to it. How should you drive past?",
+   "options": [
+    "Keep the same speed: the ambulance is not in your lane",
+    "Stop and wait until the ambulance leaves",
+    "Sound the horn so that the people move away",
+    "Slow down so that you can stop at once"
+   ],
+   "answer": 3,
+   "explain": "When approaching a stationary vehicle with a flashing blue and (or) red beacon switched on, the driver slows down so as to be able to stop immediately if necessary. The rule does not depend on the lane: people near the ambulance may also step onto your side of the road."
+  },
+  {
+   "id": "m05-n007",
+   "q": "You are driving in the left lane, and an ambulance with its beacons and siren on is approaching from behind. The right lane is clear. What is the correct thing to do?",
+   "options": [
+    "Brake sharply so that the ambulance can get around you faster",
+    "Speed up and drive in front of the ambulance, clearing the way",
+    "Carry on: the ambulance can get around you via the oncoming lane",
+    "Move smoothly into the right lane in good time to let it pass"
+   ],
+   "answer": 3,
+   "explain": "You must give way to a vehicle with beacons and a siren on so that it can pass unhindered. The best way is to clear its lane smoothly and in good time. Sharp braking in front of an emergency vehicle itself creates a danger."
+  },
+  {
+   "id": "m05-n008",
+   "q": "A road sweeper with its amber beacon on is moving slowly in the left lane. Is its driver breaking the rule that slow-moving vehicles must keep to the right-hand lane?",
+   "options": [
+    "Yes: a slow-moving vehicle must always use the right-hand lane",
+    "Yes, if the hazard warning lights are not switched on as well",
+    "No: with an amber beacon this is allowed if it is safe",
+    "No, but only at night, when there is little traffic"
+   ],
+   "answer": 2,
+   "explain": "Drivers of vehicles with an amber beacon on may deviate from most signs and road markings and from the rules on positioning on the carriageway ⟦36⟧, provided it is safe and they have made sure they are not impeding anyone. Other road users must not obstruct their work."
+  },
+  {
+   "id": "m05-n009",
+   "q": "A road maintenance truck with its amber beacon on is coming out of a minor road. Who will go through the intersection first?",
+   "options": [
+    "The truck: its beacon is on",
+    "You, and then the truck",
+    "The truck, if it sounds its horn",
+    "Whoever reached the intersection first"
+   ],
+   "answer": 1,
+   "explain": "An amber beacon gives no priority in traffic. A driver with such a beacon may deviate from many signs, but not from sign 2.4 “Give way”. So the truck lets you go first: you are on the main road."
+  },
+  {
+   "id": "m05-n010",
+   "q": "A tow truck with its amber beacon on is loading a damaged car right in the zone of a “No stopping” sign. Is it breaking the Rules?",
+   "options": [
+    "Yes: sign 3.27 applies to everyone without exception",
+    "No, but only if the hazard warning lights are on",
+    "Yes, if the loading takes longer than five minutes",
+    "No: with an amber beacon it may deviate from this sign"
+   ],
+   "answer": 3,
+   "explain": "An amber beacon is switched on, among other cases, when loading damaged vehicles. With it, the driver may deviate from the requirements of most signs, including 3.27, as long as safety is ensured. Other road users must not obstruct the tow truck's work."
+  },
+  {
+   "id": "m05-n011",
+   "q": "You have stopped after a road traffic accident. In what order should you switch on the hazard warning lights and place the warning triangle?",
+   "options": [
+    "Place the triangle first, then switch on the hazard warning lights",
+    "Switch on the hazard warning lights, then place the triangle at once",
+    "Switch on only the hazard warning lights; place the triangle if it gets dark",
+    "Place only the triangle and leave the hazard warning lights off"
+   ],
+   "answer": 1,
+   "explain": "The warning triangle is placed immediately after the hazard warning lights are switched on. The hazard warning lights warn drivers at once, while you go to place the triangle. In a road traffic accident, both signals are needed."
+  },
+  {
+   "id": "m05-n012",
+   "q": "In town your engine stalls, and the car comes to a halt in the zone of a “No stopping” sign. The road is straight and visibility is excellent. Do you need to place a warning triangle?",
+   "options": [
+    "No: visibility is good, so the hazard warning lights are quite enough",
+    "Yes: stopping is prohibited here, so the triangle is needed",
+    "No: a triangle is only needed outside built-up areas",
+    "Only if you have to stand there for longer than 5 minutes"
+   ],
+   "answer": 1,
+   "explain": "A warning triangle is mandatory in a road traffic accident and in a forced stop where stopping is prohibited, even when visibility is excellent. In town it is placed no closer than 15 m to the car. You must also take steps to move the car away from this place."
+  },
+  {
+   "id": "m05-n013",
+   "q": "In town your engine stalls, and the car comes to a halt at the right-hand edge where stopping is permitted. The road is straight and visibility is excellent. Is a warning triangle mandatory?",
+   "options": [
+    "Yes: a triangle is needed for any forced stop in town",
+    "No: there is no accident or stopping ban, and visibility is good",
+    "Yes, but it must be placed no closer than 30 m to the car",
+    "No, and you must not switch on the hazard warning lights here"
+   ],
+   "answer": 1,
+   "explain": "The Rules require a warning triangle in a road traffic accident, in a forced stop where stopping is prohibited, and where visibility of the road is less than 100 m in at least one direction. None of these applies here. Switching on the hazard warning lights will do no harm: they warn of a danger your car may create."
+  },
+  {
+   "id": "m05-n014",
+   "q": "A blue car is towing your car on a tow rope. On which of them must the hazard warning lights be switched on?",
+   "options": [
+    "Only on the blue car, which is towing",
+    "On both",
+    "On neither: dipped headlights are enough",
+    "Only on yours, the car being towed"
+   ],
+   "answer": 3,
+   "explain": "When towing, the hazard warning lights are switched on in the motor vehicle being towed. Drivers behind can see at once that this car is not moving under its own power.",
+   "scene": {
+    "labels.0.text": "tow rope"
+   }
+  },
+  {
+   "id": "m05-n015",
+   "q": "You are towing a friend's car on a tow rope. Its hazard warning lights are working. Do you need to fix a warning triangle to it?",
+   "options": [
+    "Yes, at the rear of the towed car in any case",
+    "No: only if its hazard warning lights do not work",
+    "Yes, but fix it at the rear of your car, the towing one",
+    "No, and its hazard warning lights need not be switched on either"
+   ],
+   "answer": 1,
+   "explain": "A warning triangle is fixed at the rear of the towed vehicle only if it has no hazard warning lights or they are faulty. Here they work, so they are simply switched on in the towed car.",
+   "scene": {
+    "labels.0.text": "tow rope"
+   }
+  },
+  {
+   "id": "m05-n016",
+   "q": "At night on an unlit road, your position lamps stop working, and you have to stop at the edge of the carriageway. What should you do?",
+   "options": [
+    "Nothing: on an empty road at night this is not dangerous",
+    "Switch on the main-beam headlights so that the car can be seen from afar",
+    "Switch on the rear fog lamps and leave the car where it is",
+    "Switch on the hazard warning lights and move the car off the road if possible"
+   ],
+   "answer": 3,
+   "explain": "When stopping or parking on an unlit section with faulty position lamps, you switch on the hazard warning lights. If possible, such a vehicle is moved off the road; if that is impossible, it is marked in accordance with Chapter 7."
+  },
+  {
+   "id": "m05-n017",
+   "q": "In winter, out of town, you stop at the edge of the road. The shoulder is covered in snow, and you cannot tell where it ends. Do you need to switch on the hazard warning lights?",
+   "options": [
+    "No: hazard warning lights are not needed when stopping on the shoulder",
+    "Only during hours of darkness or in a blizzard",
+    "Yes: the width of the shoulder cannot be determined here",
+    "No, if the position lamps and dipped headlights are on"
+   ],
+   "answer": 2,
+   "explain": "Outside a built-up area, when stopping on the shoulder, you switch on the hazard warning lights if the shoulder is not wide enough to leave the carriageway completely or if its width cannot be determined in the conditions. That is exactly what happens under snow."
+  },
+  {
+   "id": "m05-n018",
+   "q": "Out of town, your car stalls just after a bend: you can see the road 400 m ahead, but only 60 m behind because of the bend. Do you need to place a warning triangle?",
+   "options": [
+    "No: the road is visible far ahead, and that is enough",
+    "No: in a breakdown, the hazard warning lights are enough",
+    "Only if it is already dark or fog has come down",
+    "Yes: the road behind is visible for less than 100 m"
+   ],
+   "answer": 3,
+   "explain": "In a forced stop where visibility of the road is less than 100 m in at least one direction, a warning triangle is mandatory. It is placed on the side of greatest danger, here behind the car, so that drivers coming round the bend notice it in time."
+  },
+  {
+   "id": "m05-n019",
+   "q": "Out of town, your car is standing on the carriageway after a road traffic accident, with the hazard warning lights on. Where may you place the warning triangle?",
+   "options": [
+    "Only at point A",
+    "Only at point B",
+    "At either point",
+    "At neither point"
+   ],
+   "answer": 1,
+   "explain": "Outside a built-up area, the triangle is placed no closer than 30 m to the vehicle: point A at 20 m is too close, point B at 40 m is suitable. Both points are behind the car, on the side of approaching traffic.",
+   "scene": {
+    "labels.0.text": "A",
+    "labels.1.text": "B"
+   }
+  },
+  {
+   "id": "m05-n020",
+   "q": "In town, your car is standing on the carriageway after a road traffic accident, with the hazard warning lights on. Where may you place the warning triangle?",
+   "options": [
+    "Only at point A",
+    "Only at point B",
+    "At either point",
+    "At neither point"
+   ],
+   "answer": 2,
+   "explain": "In a built-up area, the triangle is placed no closer than 15 m to the vehicle, so both points are suitable: both 20 m and 40 m. Choose a place where drivers behind will notice the triangle in time.",
+   "scene": {
+    "labels.0.text": "A",
+    "labels.1.text": "B"
+   }
+  }
+ ]
+}

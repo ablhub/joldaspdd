@@ -1,0 +1,203 @@
+{
+  "meta": {
+    "title": "Road signs",
+    "pdd": "Annex 1 to the Rules",
+    "summary": "You will learn to recognise the 7 groups of signs, understand where the zone of application of prohibitory signs ends, who they do not apply to, what plates change and which signal takes precedence when they conflict."
+  },
+  "lesson": [
+    {
+      "h": "How the sign system works",
+      "p": [
+        "In the Rules, road signs are divided into 7 groups, and a sign number always starts with the number of its group: 1 - warning signs, 2 - priority signs, 3 - prohibitory signs, 4 - mandatory signs, 5 - information signs, 6 - service signs, 7 - additional information plates.",
+        "Shape and colour tell you the meaning before you make out the picture. A white triangle with a red border means “danger ahead”. A white circle with a red border means “not allowed”. A blue circle means “only this way”. A blue rectangle means information or a special traffic regime. A blue rectangle with a white field means a service. A white plate under a sign clarifies it. At road works and where traffic is temporarily changed, temporary signs on a yellow background are used ⟦12⟧.",
+        "The numbers of some signs in Kazakhstan differ from the Russian ones. For example, the “Speed hump” sign is 1.16.1 here, the “Pedestrian crossing” sign is 5.16.1 and 5.16.2, and the “Residential zone” sign is 5.38. In the test, follow the Kazakhstan numbering."
+      ],
+      "tip": "Look at the shape and colour first, then at the picture: that way you can tell a sign's group in a second."
+    },
+    {
+      "h": "Warning signs (group 1)",
+      "p": [
+        "They warn you in advance about a hazardous section so that you have time to slow down and prepare. On their own they prohibit nothing, but the general rules still apply: for example, at a dangerous bend with visibility of less than 100 m you must not stop, and you must not overtake by moving into the oncoming lane ⟦13⟧.",
+        "Outside built-up areas, signs 1.1, 1.2 and 1.5-1.30 are placed 150-300 m before the hazardous place; in a built-up area and a residential zone, 50-100 m before it. If the distance is different, it is shown on plate 7.1.1. Plate 7.2.1 with arrows shows the length of the hazardous section.",
+        "Signs 1.13 “Steep descent” and 1.14 “Steep ascent” may stand right at the start of the slope if descents and ascents follow one another. Sign 1.23 for short-term works may stand only 10-15 m before the works. Outside built-up areas, signs 1.1, 1.2, 1.9, 1.10, 1.21 and 1.23 are repeated: the second sign is placed at least 50 m before the hazardous section."
+      ],
+      "list": [
+        "1.1 and 1.2 - a level crossing with and without a barrier. Outside built-up areas they are supplemented by signs 1.4.1-1.4.6 with red stripes: three stripes under the first sign, one under the second, and two midway between them. The number of stripes does not mean the number of tracks.",
+        "1.3.1 and 1.3.2 (a white cross with a red border) stand directly in front of a level crossing without a barrier: 1.3.1 - one track, 1.3.2 - two or more.",
+        "1.5 - crossing with a tram line: outside an intersection the tram has priority ⟦14⟧. 1.6 - intersection of roads of equal status, give way to those on your right ⟦15⟧. 1.8 - traffic lights ahead.",
+        "1.16.1 - speed hump. 1.19 - a section with two-way traffic begins. 1.21 - a children's institution is nearby, and children may appear on the road.",
+        "1.20 - pedestrian crossing ahead; the crossing itself is marked by signs 5.16.1, 5.16.2 and (or) zebra crossing markings.",
+        "1.29 - a tunnel without lighting or with a poorly visible entrance. In any tunnel you must not stop or make a U-turn ⟦16⟧."
+      ],
+      "tip": "A triangle says “danger ahead”, not “stop”: the right reaction is to slow down in advance and be ready for the situation."
+    },
+    {
+      "h": "Priority signs (group 2)",
+      "p": [
+        "These signs decide who goes first at an uncontrolled intersection or a narrow section. They have special shapes: a yellow diamond, an inverted triangle and a red octagon with the word STOP."
+      ],
+      "list": [
+        "2.1 “Priority road” (a yellow diamond) - you have priority when passing uncontrolled intersections. 2.2 - end of the priority road. Outside built-up areas, parking on the carriageway of a road with sign 2.1 is prohibited ⟦17⟧.",
+        "2.3.1-2.3.7 (a triangle with a thick and a thin line) - you are on the priority road, and ahead a minor road crosses it or joins it.",
+        "2.4 “Give way” (an inverted triangle) - give way to vehicles on the road being crossed, or, with plate 7.13, to those on the priority road. Plate 7.1.2 under sign 2.4 shows how many metres ahead the intersection with sign 2.5 is.",
+        "2.5 “No passing without stopping (Stop)” - you must stop at the stop line, or, if there is none, before the edge of the carriageway being crossed, and give way. Before a level crossing or a quarantine checkpoint with no stop line, you stop in front of the sign itself.",
+        "2.6 (a white circle with a red border and two arrows) - do not enter a narrow section if this would obstruct oncoming traffic; give way to oncoming vehicles. 2.7 (a blue square) - on a narrow section you have priority."
+      ],
+      "tip": "Sign 2.5 requires you to stop even at an empty intersection. Sign 2.4 only requires you to give way."
+    },
+    {
+      "h": "Priority road, traffic lights and priority signs",
+      "p": [
+        "The priority road is the one marked by signs 2.1, 2.3.1-2.3.3 or 5.1, and also a paved road in relation to a dirt road, even after sign 2.2 ⟦18⟧. At an intersection of roads of unequal status, a driver on the minor road gives way to everyone on the priority road, whichever way they are going ⟦19⟧.",
+        "If the priority road turns at the intersection (this can be seen from plate 7.13), drivers on the priority road pass one another as on roads of equal status. Drivers on minor roads also pass one another in the same way ⟦20⟧.",
+        "At an intersection where the order is set by traffic lights or a traffic controller, priority signs do not decide who goes first. But if the traffic light flashes amber or is switched off, the intersection becomes uncontrolled, and the priority signs apply again ⟦21⟧."
+      ],
+      "tip": "First check whether the traffic light is working. If it is, follow it. If it flashes amber or is off, follow the priority signs."
+    },
+    {
+      "h": "Prohibitory signs (group 3): what they prohibit",
+      "p": [
+        "A circle with a red border introduces a prohibition or restriction. Signs 3.27-3.30 with a blue field concern stopping and parking."
+      ],
+      "list": [
+        "3.1 “No entry” - you must not enter in this direction. 3.2 “Closed to all vehicles” - no travel in either direction.",
+        "3.3 - motor vehicles are prohibited, that is, those with an engine, including mopeds and electric cars. Ordinary bicycles, e-scooters and small electric vehicles do not count as motor vehicles ⟦22⟧.",
+        "3.4 - trucks and road trains with a maximum authorised mass of more than 3.5 t (or more than the figure shown on the sign) are prohibited, as well as tractors and self-propelled machines. What matters is the maximum authorised mass, not the load. Trucks with a diagonal white stripe on the sides and trucks for carrying people may proceed.",
+        "3.5 - motorcycles and mopeds; 3.6 - tractors and self-propelled machines; 3.7 - trucks and tractors with trailers, and also towing (a passenger car with a trailer may proceed); 3.8 - horse-drawn carts, ridden and pack animals, driving of livestock; 3.9 - bicycles, e-scooters and small electric vehicles; 3.9.1 - e-scooters only; 3.10 - pedestrians.",
+        "3.11 limits the actual mass, 3.12 - the actual axle load, 3.13-3.15 - height, width and length including the load (for a road train, the length of the whole road train).",
+        "3.16 - keep a following distance of at least the one shown. 3.17.1 and 3.17.3 - stop at customs or a checkpoint; 3.17.2 - further travel is prohibited because of a road traffic accident, an incident or another hazard.",
+        "3.20 - overtaking is prohibited, except for vehicles without a trailer that are moving slower than 30 km/h. 3.22 - the same for trucks over 3.5 t, and tractors may overtake only horse-drawn carts and bicycles.",
+        "3.24 - do not exceed the speed shown. 3.26 - do not use the horn, except when necessary to prevent a road traffic accident.",
+        "3.27 - you may neither stop nor park. 3.28 - parking is prohibited, but you may stop: for up to 5 minutes, or longer for boarding, alighting or loading. 3.29 and 3.30 - parking is prohibited on odd days and even days of the month respectively; if they stand together, vehicles are moved from 19 to 21 h."
+      ],
+      "tip": "3.4 looks at the maximum authorised mass, while 3.11 looks at the actual mass: an empty 12 t truck will not pass sign 3.4, but will pass sign 3.11 showing 10 t."
+    },
+    {
+      "h": "Zone of application of prohibitory signs",
+      "p": [
+        "Signs 3.16, 3.20, 3.22, 3.24 and 3.26-3.30 apply from where they are placed to the nearest intersection beyond them, or, in a built-up area with no intersections, to its end. Exits from adjacent areas (yards, filling stations, parking areas) and junctions of field and forest tracks are not counted as intersections and do not interrupt the zone ⟦23⟧.",
+        "The zone can be ended earlier: for 3.16 and 3.26, by plate 7.2.1; for 3.20, 3.22 and 3.24, by signs 3.21, 3.23 and 3.25 or plate 7.2.1, and for 3.24 also by another sign 3.24 showing a different number; for 3.27-3.30, by a repeated sign with plate 7.2.3 or by plate 7.2.2. If sign 3.27 is used with the solid yellow line 1.4, and 3.28 with the broken yellow line 1.10, the zone equals the length of the line. Sign 3.31 cancels all these restrictions at once.",
+        "Sign 3.24 placed before a built-up area applies up to sign 5.22."
+      ],
+      "list": [
+        "3.10 and 3.27-3.30 apply only on the side of the road where they are placed.",
+        "3.2-3.9, 3.32 and 3.33 prohibit travel in both directions.",
+        "3.18.1 and 3.18.2 apply only at the intersection in front of which they are placed."
+      ],
+      "tip": "You have passed an intersection - the zone “to the nearest intersection” has ended. You have passed the exit from a yard or a field track - it has not."
+    },
+    {
+      "h": "Who prohibitory signs do not apply to",
+      "list": [
+        "3.1-3.3, 3.18.1, 3.18.2, 3.19 and 3.27 do not apply to route vehicles (a bus, trolleybus or tram on a route). A taxi is not a route vehicle.",
+        "3.2-3.8 do not apply to vehicles that serve organisations or citizens in the zone, or that belong to those who live or work there. They must enter and leave at the intersection nearest to their destination. This exception does not apply to sign 3.1.",
+        "3.28-3.30 do not apply to taxis with the taximeter switched on. Taxis must obey sign 3.27.",
+        "3.2, 3.3 and 3.28-3.30 do not apply to vehicles driven by persons with Group I and II disabilities, or Group III with musculoskeletal impairments, or carrying such persons.",
+        "Plate 7.18 exempts motorised invalid carriages and cars bearing the “Person with a disability” sign from the requirements of the sign ⟦24⟧."
+      ],
+      "tip": "A resident of the street may drive in past signs 3.2-3.8, but not past the “No entry” sign 3.1: there the exception is only for route vehicles."
+    },
+    {
+      "h": "Mandatory signs (group 4)",
+      "p": [
+        "A blue circle with a white picture says: you may move only as shown. All other directions or kinds of movement are prohibited."
+      ],
+      "list": [
+        "4.1.1-4.1.6 set the permitted directions at the intersection in front of which the sign stands. A sign that permits a left turn also permits a U-turn. Route vehicles may disregard these signs.",
+        "4.1.1 at the start of a section of road applies up to the nearest intersection and does not prohibit a right turn into yards and other adjacent areas, but a left turn there is not allowed.",
+        "4.2.1-4.2.3 show on which side to drive around an obstacle: right, left or either side. 4.3 - roundabout, in the direction of the arrows.",
+        "4.4 - passenger cars, buses, motorcycles, route vehicles and trucks up to 3.5 t are permitted. Others may enter only if they serve this zone or are going to a home or workplace in it, entering at the intersection nearest to their destination.",
+        "4.5 - cycle track or lane: bicycles, e-scooters and small electric vehicles only. 4.6 - footpath: pedestrians only, and a moped may only be pushed alongside ⟦25⟧.",
+        "4.7 - do not drive slower than the speed shown; the end of the zone is sign 4.8. 4.9.1-4.9.3 show where vehicles bearing the “Dangerous goods” identification signs may go."
+      ],
+      "tip": "Do not confuse 4.7 (blue circle, minimum speed) with 3.24 (red border, maximum speed)."
+    },
+    {
+      "h": "Information signs (group 5)",
+      "p": [
+        "These signs introduce or cancel special traffic regimes and show where things are. Most often they are blue rectangles."
+      ],
+      "list": [
+        "5.1 “Motorway” and 5.3 “Road for motor vehicles” (for motor cars and motorcycles only): you must not make a U-turn or drive into gaps in the central reservation, reverse, do learner driving, stop outside areas marked by 5.15 or 6.11, or drive a vehicle slower than 40 km/h; trucks over 3.5 t may not go beyond the second lane ⟦26⟧. The end is marked by signs 5.2 and 5.4.",
+        "5.5 - a one-way road, 5.6 - its end, 5.7.1 and 5.7.2 - entry to such a road: the arrow shows where the traffic flows.",
+        "5.8.1 and 5.8.2 - directions by lane; from the far left lane with a left arrow you may also make a U-turn. A sign before an intersection applies to the whole intersection. If sign 5.8.3 shows sign 4.7 and you cannot drive at that speed, move into the additional lane.",
+        "5.9 - lane for route vehicles: only public transport (including taxis) and M3 category vehicles, as well as bicycles and e-scooters, may drive and stop on it ⟦27⟧. Other drivers give way to those on this lane when turning ⟦28⟧.",
+        "5.11.1 and 5.11.2 - a place and a zone for U-turns; a left turn there is prohibited.",
+        "5.16.1 and 5.16.2 - the pedestrian crossing itself. If there are no zebra crossing markings, 5.16.2 is placed on the right at the near edge of the crossing and 5.16.1 on the left at the far edge, and the width of the crossing is the distance between them.",
+        "5.18.1 - recommended speed: advice, not a prohibition. It applies up to the nearest intersection, and together with a warning sign, to the end of the hazardous section.",
+        "On direction signs outside built-up areas, a green background means the route along a motorway, and blue means a route along another road; in a town, a white background means an object in the same town.",
+        "5.22 (white background) - start of a built-up area with its rules: 60 km/h and no use of the horn before overtaking ⟦29⟧. 5.23 - its end. 5.24 (blue background) - only the name: the rules for built-up areas do not apply on this road.",
+        "5.35 - reversible traffic: lane-control signals show whether you may use the lane. 5.42 - photo and video enforcement; a camera may operate even where this sign is absent."
+      ]
+    },
+    {
+      "h": "Zones: residential, pedestrian and others",
+      "p": [
+        "Some signs mark not a section up to an intersection but a whole area. The regime applies throughout the zone until you see the sign marking its end."
+      ],
+      "list": [
+        "5.38 “Residential zone” (end - 5.39): no faster than 20 km/h; pedestrians walk on the carriageway too and have priority; through traffic, learner driving, parking with the engine running (except electric cars) and use of the horn are prohibited. When leaving, give way to everyone ⟦30⟧.",
+        "5.44 and 5.45 - a parking restriction zone; 5.46 and 5.47 - a maximum speed limit zone.",
+        "5.48 and 5.49 - a pedestrian zone: only pedestrians may move there.",
+        "5.50 and 5.51 - an environmental class restriction zone: you may not enter if the class of your vehicle is lower than the one shown or is not stated in the registration documents."
+      ],
+      "tip": "A zone sign does not end at an intersection: look for the sign marking the end of the zone."
+    },
+    {
+      "h": "Service signs (group 6)",
+      "p": [
+        "A blue rectangle with a white field and a picture tells you where a useful facility is: a first aid station (6.1), a hospital (6.2), a filling station (6.3), vehicle service (6.4), a car wash (6.5), food (6.7), a rest area (6.11) and others. Plate 7.1.3 or 7.1.4 with an arrow shows that the facility is off the road, and the distance to it.",
+        "These signs prohibit nothing and oblige nothing; they only inform. But one of them matters for the test: on a motorway it is prohibited to stop outside the parking areas marked by signs 5.15 or 6.11 ⟦31⟧."
+      ]
+    },
+    {
+      "h": "Plates (group 7)",
+      "p": [
+        "A plate is placed directly under the sign it applies to; only plates 7.2.2-7.2.4 and 7.13 at signs over the road are hung at the side. A plate clarifies a sign: where the hazard begins, how far the prohibition applies, to whom, and on which days and at what times."
+      ],
+      "list": [
+        "7.1.1 - distance to the hazardous section or the place where a restriction begins; 7.1.2 - distance from sign 2.4 to the intersection with sign 2.5; 7.1.3 and 7.1.4 - distance to a facility off the road.",
+        "7.2.1 - length of the hazardous section or zone of application of the sign; 7.2.2-7.2.6 - zone of signs 3.27-3.30: length, end, “you are in the zone”, direction along a building frontage or square.",
+        "7.3.1-7.3.3 - in which direction from the intersection the sign applies.",
+        "7.4.1-7.4.8 - which type of vehicle the sign applies to (7.4.1 - trucks, 7.4.3 - passenger cars and trucks up to 3.5 t); 7.4.9-7.4.14 - which type it does not apply to.",
+        "7.5.1-7.5.7 - days and times the sign applies; 7.16 - the sign applies only when the surface is wet; 7.11 - the sign concerns only vehicles with a maximum authorised mass above the figure shown.",
+        "With parking place 5.15: 7.6.1 - park on the carriageway alongside the pavement, 7.7 - only with the engine off, 7.9 - maximum parking time, 7.10 - there is a ramp (flyover) or an inspection pit, 7.17 - only for vehicles with the “Person with a disability” sign, 7.22 - only for electric cars and hybrids charged from an external source.",
+        "7.13 - direction of the priority road; 7.14 - the lane to which the sign or traffic light applies; 7.15 - the crossing is used by blind pedestrians; 7.21 - a tow truck is operating."
+      ],
+      "tip": "Under sign 2.4 or 2.5 with plate 7.13, you must give way to those on the priority road (the thick line on the plate)."
+    },
+    {
+      "h": "What overrides what: traffic controller, traffic lights, signs, markings",
+      "list": [
+        "The traffic controller overrides everything: you obey their signals even if they contradict traffic lights, signs or road markings ⟦32⟧.",
+        "At a controlled intersection, the order is set by the traffic lights. With a flashing amber or switched-off traffic light, the priority signs apply ⟦33⟧. A green arrow to the left also permits a U-turn, unless a sign prohibits it ⟦34⟧.",
+        "If a temporary sign on a portable stand (on a yellow background) contradicts a permanent one, follow the temporary one ⟦35⟧.",
+        "If signs, including temporary ones, contradict road markings, or the markings are hard to see, follow the signs ⟦36⟧.",
+        "Signs and markings often work as a pair: a crossing is marked by signs 5.16.1, 5.16.2 and (or) markings 1.14.1-1.14.3 ⟦37⟧, and the place to stop at a red light by stop line 1.12 or sign 5.33 ⟦38⟧."
+      ],
+      "tip": "The traffic controller overrides everything. At an intersection with traffic lights, the order is set by the lights, not by priority signs. Temporary signs override permanent ones, and signs override markings."
+    }
+  ],
+  "keyFacts": [
+    "Warning signs are placed 150-300 m before the hazardous section outside built-up areas and 50-100 m in built-up areas; a different distance is shown by plate 7.1.1 ⟦1⟧",
+    "Outside built-up areas, signs 1.1, 1.2, 1.9, 1.10, 1.21 and 1.23 are repeated, the second one at least 50 m before the hazardous section ⟦2⟧",
+    "Sign 2.5 requires you to stop at the stop line, or, if there is none, before the edge of the carriageway being crossed; at a level crossing or quarantine checkpoint with no stop line, before the sign ⟦3⟧",
+    "With a flashing amber or switched-off traffic light, the intersection is uncontrolled and priority signs apply ⟦4⟧",
+    "Zone of application of 3.16, 3.20, 3.22, 3.24 and 3.26-3.30: up to the nearest intersection, in a built-up area with no intersections up to its end; exits from yards and field tracks do not interrupt it ⟦5⟧",
+    "Sign 3.20 does not prohibit overtaking vehicles without a trailer that are moving slower than 30 km/h ⟦6⟧",
+    "Signs 3.10 and 3.27-3.30 apply only on their own side of the road, while 3.2-3.9, 3.32 and 3.33 apply in both directions ⟦7⟧",
+    "Route vehicles may disregard 3.1-3.3, 3.18.1, 3.18.2, 3.19, 3.27 and 4.1.1-4.1.6; taxis with the taximeter on - 3.28-3.30; persons with Group I, II and III (with musculoskeletal impairments) disabilities - 3.2, 3.3, 3.28-3.30 (Annex 1, Chapters 3, 4)",
+    "A sign that permits a left turn also permits a U-turn ⟦8⟧",
+    "After sign 5.22 - no faster than 60 km/h, in the residential zone 5.38 - no faster than 20 km/h ⟦9⟧",
+    "The traffic controller's signals override traffic lights, signs and road markings ⟦10⟧",
+    "Temporary signs on a yellow background override permanent ones, and signs override road markings ⟦11⟧"
+  ],
+  "mistakes": [
+    "They think sign 2.4 always requires you to stop. Stopping is mandatory at sign 2.5, while 2.4 only requires you to give way.",
+    "They think 3.24 applies “until the next sign”. If there is no earlier sign 3.25, 3.31 or plate 7.2.1, the zone ends at the nearest intersection.",
+    "They mix up 3.27 and 3.28: under 3.28 you may stop to board or alight, under 3.27 you may not stop even for a minute.",
+    "They think residents of the street may drive past the “No entry” sign 3.1. The exception for residents and those serving the zone applies to signs 3.2-3.8, not to 3.1.",
+    "They mix up 5.22 and 5.24: built-up area rules (for example, the 60 km/h limit) are introduced by the white sign 5.22, and after the blue 5.24 they do not apply on this road.",
+    "They mix up 3.4 and 3.11: sign 3.4 looks at the maximum authorised mass, and 3.11 at the actual mass with the load."
+  ]
+}

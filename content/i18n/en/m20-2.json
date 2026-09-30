@@ -1,0 +1,550 @@
+{
+ "questions": [
+  {
+   "id": "m20-n009",
+   "q": "You are following a truck. Why is it better to keep further back from it than from a car?",
+   "options": [
+    "It blocks your view: from a distance you will spot a hazard sooner",
+    "Fuel consumption is higher close to a truck because of air turbulence",
+    "You must not follow a truck on dipped headlights closer than 50 m",
+    "The identification signs on the truck's body require it"
+   ],
+   "answer": 0,
+   "explain": "Up close, the body of a truck hides almost the whole road, and you learn about braking ahead at the last moment. From a greater distance you can see further and have time to react. Also, the truck driver cannot see a car that follows right behind."
+  },
+  {
+   "id": "m20-n010",
+   "q": "What following distance is advised on black ice?",
+   "options": [
+    "Many times more than on a dry road: up to 10 times",
+    "The same as on a dry road: distance does not depend on the surface",
+    "Less than usual, so you can follow the tracks of the car ahead",
+    "About 1 second: everyone drives slowly on ice anyway"
+   ],
+   "answer": 0,
+   "explain": "On ice the stopping distance can be up to 10 times longer than on a dry road, so the following distance is increased many times over (UK Highway Code, paras 126, 230). The Rules require a following distance that lets you avoid a collision ⟦1⟧, and the figures are a recommendation."
+  },
+  {
+   "id": "m20-n011",
+   "q": "What raises the risk of aquaplaning the most?",
+   "options": [
+    "Cold weather with no precipitation and dry asphalt",
+    "High speed, worn tread and puddles or ruts",
+    "Dipped headlights on and the air conditioning running",
+    "Driving in a low gear at high engine speed"
+   ],
+   "answer": 1,
+   "explain": "The tread pushes water out from under the tyre. The higher the speed and the shallower the pattern, the less time it has, and the tyre rides up on a wedge of water. In heavy rain, reduce speed, avoid deep puddles and do not drive on tyres worn below the permitted limit ⟦2⟧."
+  },
+  {
+   "id": "m20-n012",
+   "q": "Ahead there is a deep puddle, and only your right-hand wheels will hit it. How should you drive through it?",
+   "options": [
+    "Speed up to get through the water as quickly as possible",
+    "Brake hard right in the puddle to shed speed",
+    "Let go of the steering wheel so the wheels find their own track in the puddle",
+    "Reduce speed in advance and hold the steering wheel firmly with both hands"
+   ],
+   "answer": 3,
+   "explain": "Water slows the wheels on one side more, and the car is pulled towards the puddle. If your speed is already reduced and the steering wheel is held firmly, the jerk will be small. Braking in the puddle itself can throw the car into a skid."
+  },
+  {
+   "id": "m20-n013",
+   "q": "After a long dry spell, light rain has started. When will the road be especially slippery?",
+   "options": [
+    "Only at night, when the asphalt cools down",
+    "Only after a few hours, when deep puddles appear",
+    "In the first minutes: the water mixes with dust and oil",
+    "Never, if the asphalt is new and even"
+   ],
+   "answer": 2,
+   "explain": "The first water mixes with dust, rubber and oil on the asphalt and forms a slippery film: rain after dry weather makes the surface slippery (UK Highway Code, para. 237). At the start of rain, reduce speed at once and increase your following distance ⟦3⟧."
+  },
+  {
+   "id": "m20-n014",
+   "q": "On a snowy bend you turn the steering wheel, but the car keeps going straight. What should you do?",
+   "options": [
+    "Press the accelerator hard so the car gets through the bend",
+    "Brake hard until the wheels lock and wait for the car to stop",
+    "Ease off the accelerator smoothly and slightly reduce the steering angle",
+    "Turn the steering wheel even more, all the way in the direction of the bend"
+   ],
+   "answer": 2,
+   "explain": "This is a front-wheel skid: the front wheels slide and no longer turn the car. Turning the steering wheel harder is pointless. Ease off the accelerator and straighten the wheels slightly, and once they grip, the car will start turning again. The cause is almost always too high a speed in the bend ⟦4⟧."
+  },
+  {
+   "id": "m20-n015",
+   "q": "You have corrected a rear-axle skid by steering in the direction of the skid. The car has started to go straight. What is important to do immediately?",
+   "options": [
+    "Keep the steering wheel turned until the car has stopped completely",
+    "Brake hard",
+    "Press the accelerator to the floor",
+    "Straighten the steering wheel at once"
+   ],
+   "answer": 3,
+   "explain": "If you leave the steering wheel turned, the car will be thrown into a skid in the other direction. As soon as the car has straightened out, return the wheels to the straight-ahead position. All steering movements are quick but smooth."
+  },
+  {
+   "id": "m20-n016",
+   "q": "What most often causes a skid on a slippery road?",
+   "options": [
+    "A full fuel tank and a heavy load in the boot",
+    "High speed and abrupt steering, acceleration or braking",
+    "Dipped headlights on and the windscreen wipers running",
+    "The driver wearing a seat belt"
+   ],
+   "answer": 1,
+   "explain": "A skid begins when the tyres lose grip. On a slippery road it is caused by abrupt steering, acceleration or braking, especially at a speed chosen with no margin. The best protection is a speed suited to the conditions and smooth actions ⟦5⟧."
+  },
+  {
+   "id": "m20-n017",
+   "q": "During emergency braking the brake pedal starts to pulsate, and you hear a rattling noise from under the car. What should you do?",
+   "options": [
+    "Keep pressing the pedal: this is how ABS works",
+    "Release the pedal: the brakes have failed",
+    "Release and press the pedal several times",
+    "Pull the handbrake"
+   ],
+   "answer": 0,
+   "explain": "Vibration and rattling are normal ABS operation: the system quickly releases and reapplies the brakes so the wheels do not lock. Keep the pedal pressed down fully and, if necessary, steer around the obstacle."
+  },
+  {
+   "id": "m20-n018",
+   "q": "In a car without ABS you braked hard on ice. The wheels have locked and the car does not respond to the steering. What should you do?",
+   "options": [
+    "Press the pedal even harder until the car stops by itself",
+    "Turn the steering wheel sharply to full lock without releasing the brake",
+    "Switch off the ignition so the wheels stop turning",
+    "Ease off the pedal slightly so the wheels start turning, and steer"
+   ],
+   "answer": 3,
+   "explain": "A locked wheel slides and does not steer the car. Ease off the pressure slightly so the wheels start to rotate: then the steering works again. After that, brake in pulses, without letting the wheels lock."
+  },
+  {
+   "id": "m20-n019",
+   "q": "What does ABS give you during emergency braking?",
+   "options": [
+    "The car cannot skid at any speed",
+    "The wheels stay unlocked, so you can steer",
+    "The braking distance is always half as long",
+    "You can keep a shorter following distance"
+   ],
+   "answer": 1,
+   "explain": "ABS prevents the wheels from locking, so the car responds to the steering while braking. But on snow, ice and loose surfaces the braking distance is still long, and sometimes even longer with ABS. Choose your following distance according to the conditions, not according to whether you have ABS ⟦6⟧."
+  },
+  {
+   "id": "m20-n020",
+   "q": "In the evening you need to drive along a highway to a neighbouring town, but a storm warning has been issued: snowstorm, possible blizzard (buran). What is the right thing to do?",
+   "options": [
+    "Drive at night: there are fewer cars and the highway is clearer",
+    "Drive without stopping so as not to get stuck and freeze",
+    "Postpone the trip and follow the reports on highway conditions",
+    "Set off immediately to arrive before the snowstorm starts"
+   ],
+   "answer": 2,
+   "explain": "In a blizzard visibility drops almost to zero, the highway gets covered with snow, and cars get stuck far from built-up areas. When a storm warning is issued, the Ministry of Emergency Situations advises against travelling and checking for highway closures. If you still have to go, fill the tank completely, take warm clothing, a shovel and a charged phone.",
+   "ref": "Recommendations of the Ministry of Emergency Situations of Kazakhstan (not part of the Rules)"
+  },
+  {
+   "id": "m20-n021",
+   "q": "You are stuck on a highway in a blizzard and cannot get out. What should you do?",
+   "options": [
+    "Stay in the car, call 112 and keep the exhaust pipe clear of snow",
+    "Leave the car and walk for help to the nearest village",
+    "Close the windows tightly, turn the heater on full and go to sleep",
+    "Go out onto the road and flag down passing cars"
+   ],
+   "answer": 0,
+   "explain": "It is warmer and safer in the car than out on the steppe, and rescuers can find you more easily, so you do not leave it. Call 112 and give your location. If snow blocks the exhaust pipe, carbon monoxide will enter the cabin, so the pipe is cleared, and you must not sleep.",
+   "ref": "Recommendations of the Ministry of Emergency Situations of Kazakhstan (not part of the Rules)"
+  },
+  {
+   "id": "m20-n022",
+   "q": "In the morning your car is buried in snow. You clear only the windscreen. Why is this dangerous?",
+   "options": [
+    "It is not: a clear windscreen is enough for safety",
+    "Snow from the roof will cover the windscreen when you brake, and the mirrors will show nothing",
+    "Snow on the roof hinders engine cooling and may overheat it",
+    "It is dangerous only for cars with a sunroof: melting snow will leak into the cabin"
+   ],
+   "answer": 1,
+   "explain": "At the first braking, snow slides from the roof onto the windscreen and blocks your view. Through snow-covered side windows and mirrors you cannot see cars beside and behind you, and headlights and rear lamps under snow shine poorly ⟦7⟧. Before setting off, clear all windows, mirrors, lights and the roof (UK Highway Code, para. 229)."
+  },
+  {
+   "id": "m20-n023",
+   "q": "A car with a manual gearbox is standing on an icy uphill slope. What is the best way to move off?",
+   "options": [
+    "Sharply, at high engine speed, to accelerate at once",
+    "With wheelspin: hot wheels will melt the ice under them",
+    "First reverse, then accelerate forwards with a run-up",
+    "Smoothly, at low engine speed, possibly in second gear"
+   ],
+   "answer": 3,
+   "explain": "Sharp acceleration makes the wheels spin, and the car stays in place or slides back. Gentle pressure on the pedal and a higher gear reduce the force at the wheels, and the tyres do not lose grip."
+  },
+  {
+   "id": "m20-n024",
+   "q": "May you fit one studded and one non-studded tyre on the same axle?",
+   "options": [
+    "Yes, but only in winter, from November to March",
+    "Yes, if the tyres are the same size and model",
+    "No: a studded and a non-studded tyre are not fitted on the same axle",
+    "Yes, if the studded one is on the left, closer to the middle of the road"
+   ],
+   "answer": 2,
+   "explain": "The List of Defects prohibits fitting to the same axle tyres of different sizes, designs and models, with different tread patterns, studded and non-studded, frost-resistant and non-frost-resistant, new and retreaded. Wheels on one axle with different grip pull the car sideways when braking."
+  },
+  {
+   "id": "m20-n025",
+   "q": "You inflated your tyres in a warm garage at +20°C, and outside it is -20°C. What will happen to the pressure?",
+   "options": [
+    "It will drop almost to zero, and you will have to top up the tyres every half hour",
+    "It will not change: pressure does not depend on temperature",
+    "It will drop, by roughly 0.4 bar, so check it when the tyres are cold",
+    "It will rise about 2 times, so let some air out"
+   ],
+   "answer": 2,
+   "explain": "In the cold, the air in a tyre contracts and the pressure falls: cooling by 40 degrees lowers it by roughly 0.4 bar. An under-inflated tyre holds the road worse and lengthens braking. In winter, check the pressure after the car has been standing in the cold."
+  },
+  {
+   "id": "m20-n026",
+   "q": "You are driving in slush, and the headlights and rear lamps have become covered with dirt. What should you do?",
+   "options": [
+    "Drive on: dirt hardly matters",
+    "Switch on main-beam headlights instead of dipped headlights",
+    "Switch on the hazard warning lights and carry on",
+    "Stop in a safe place and clean them"
+   ],
+   "answer": 3,
+   "explain": "Dirty headlights shine noticeably worse, and dirty rear lamps are hard for drivers behind to see. Dirty external lighting devices are a defect under the List of Defects ⟦8⟧. A defect that arises on the road is to be fixed by the driver, and if this is not possible, the driver goes to the place of parking or repair, taking precautions ⟦9⟧."
+  },
+  {
+   "id": "m20-n027",
+   "q": "Around 0°C the asphalt gleams and looks simply wet, but no spray is thrown up from the wheels of the cars ahead. What does this suggest?",
+   "options": [
+    "The cars ahead have new tyres",
+    "Most likely it is black ice",
+    "The road is dry",
+    "Heavy rain will start soon"
+   ],
+   "answer": 1,
+   "explain": "Wet asphalt produces spray, while thin ice gleams the same way but has no water on it. Reduce speed smoothly, without hard braking, increase your following distance and avoid abrupt manoeuvres ⟦10⟧."
+  },
+  {
+   "id": "m20-n028",
+   "q": "At night on a rural highway, dipped headlights light the road for about 50 m, as in the diagram. Why is it dangerous to drive at 100 km/h?",
+   "options": [
+    "The stopping distance is about 80 m: you will see an obstacle too late",
+    "At this speed the dipped headlight bulbs overheat and begin to dim",
+    "Driving faster than 90 km/h at night is banned on all roads",
+    "It is not dangerous if the road is straight and there are no oncoming cars"
+   ],
+   "answer": 0,
+   "explain": "At 100 km/h a car covers about 28 m during one second of reaction time, and the braking distance on dry asphalt is another 55 m or so: about 80 m in total (an approximate calculation). If only 50 m are lit, you will notice an obstacle closer than the distance in which you can stop. Speed is chosen with visibility in mind ⟦11⟧."
+  },
+  {
+   "id": "m20-n029",
+   "q": "At night on an unlit road, a pedestrian in dark clothing is walking towards you along the shoulder. From roughly what distance can a driver on dipped headlights see them?",
+   "options": [
+    "About 150 m",
+    "About 300 m",
+    "From any distance: headlights shine far",
+    "About 25-30 m"
+   ],
+   "answer": 3,
+   "explain": "Dark clothing is visible in dipped headlights only from 25-30 m (approximate figures), whereas a retroreflective item, according to the Rules, makes a person visible from about 150 m on dipped headlights ⟦12⟧. At 90 km/h a car covers 25 m in one second. So at night outside built-up areas, keep a speed with a margin and expect pedestrians on the shoulder ⟦13⟧."
+  },
+  {
+   "id": "m20-n030",
+   "q": "At what time of day do drivers most often feel sleepy?",
+   "options": [
+    "The time of day makes no difference, only the previous night's sleep matters",
+    "At night and in the early morning, roughly from midnight to 6 a.m.",
+    "Only in the evening, in the first hour after work",
+    "In the morning, in the first hours after a good night's sleep"
+   ],
+   "answer": 1,
+   "explain": "At night and in the early morning, roughly from midnight to 6 a.m., natural alertness is at its lowest, so it is better to avoid long trips at that time (UK Highway Code, para. 91). Watch for signs of tiredness and plan rest stops in advance. Driving a vehicle while fatigued is prohibited ⟦14⟧."
+  },
+  {
+   "id": "m20-n031",
+   "q": "Why is it especially important at night that the windscreen is clean both outside and inside?",
+   "options": [
+    "A clean windscreen retains heat better, and the windows mist up less",
+    "A dirty windscreen gives less glare from oncoming headlights",
+    "Dirt and film scatter the headlight beams, and they dazzle more",
+    "At night the windscreen matters less, the main thing is clean headlights"
+   ],
+   "answer": 2,
+   "explain": "Dust, streaks and film on the inside turn every oncoming headlight into a bright blur, and the road is harder to see. Keep the windscreen clean and make sure the windscreen wipers and washers work ⟦15⟧."
+  },
+  {
+   "id": "m20-n032",
+   "q": "In dense fog you can see only the rear lights of the car ahead. Why is it dangerous to follow them closely?",
+   "options": [
+    "If it brakes hard, you will not be able to stop in time",
+    "On the contrary, following closely behind a car in fog is safer",
+    "It is dangerous only at night, in daytime fog is no problem",
+    "It is dangerous only for trucks with a long braking distance"
+   ],
+   "answer": 0,
+   "explain": "In fog it is easy to become “glued” to the lights ahead: they create a false sense of security (UK Highway Code, para. 235), but you have no margin in either distance or time, and you learn about an obstacle only from the brake lights. Keep a longer following distance than usual and a speed at which you can stop within the distance you can see ⟦16⟧."
+  },
+  {
+   "id": "m20-n033",
+   "q": "On a highway you enter a stretch of dense fog. What is the correct way to act?",
+   "options": [
+    "Keep your speed to get through the fog quickly and not hold anyone up",
+    "Reduce speed smoothly, switch on dipped headlights, increase your following distance",
+    "Brake hard and stop right in your lane with the hazard warning lights on",
+    "Switch on main-beam headlights to see further along the road and drive as before"
+   ],
+   "answer": 1,
+   "explain": "Hard braking in fog often ends in a rear-end collision: the driver behind you also sees poorly. Reduce speed smoothly, checking your mirrors. In poor visibility, use dipped headlights, and front fog lamps may be used too ⟦17⟧, while main beam reflects off the fog and worsens visibility."
+  },
+  {
+   "id": "m20-n034",
+   "q": "In dense fog you can see the road for about 50 m. A tractor is moving slowly ahead. May you overtake it by moving into the oncoming lane?",
+   "options": [
+    "Yes, if you switch on main-beam headlights and front fog lamps",
+    "Yes, if you sound the horn before overtaking",
+    "Yes, if the tractor is driving slower than 20 km/h and the overtaking will be short",
+    "No: you cannot make sure the oncoming lane is clear for overtaking"
+   ],
+   "answer": 3,
+   "explain": "Before overtaking, the driver must make sure the oncoming lane is clear for a sufficient distance ahead ⟦18⟧. Overtaking on a highway needs hundreds of metres, and in fog you can see only 50 m, so you cannot make sure of this. Main beam in fog only dazzles, and the horn is no substitute for a clear view."
+  },
+  {
+   "id": "m20-n035",
+   "q": "You are driving from Astana to Almaty, about 1200 km. What is the safest way to plan the trip?",
+   "options": [
+    "Set off at night after the working day so as not to lose time during the day",
+    "Drive without stopping, staying alert with coffee and energy drinks",
+    "Take a break every 2 hours and, if possible, split the journey over 2 days",
+    "Drive as fast as possible to spend less time at the wheel"
+   ],
+   "answer": 2,
+   "explain": "Such a journey takes 12-15 hours at the wheel, and fatigue is unavoidable. A break of at least 15 minutes every 2 hours is recommended (UK Highway Code, para. 91), and an overnight stop on the way or a change of driver reduces the risk of falling asleep. Driving a vehicle while fatigued is prohibited ⟦19⟧, and coffee and energy drinks help only for a short time."
+  },
+  {
+   "id": "m20-n036",
+   "q": "You are driving alongside the rear of a truck, and it has switched on its right direction indicator. What is the best thing to do?",
+   "options": [
+    "Sound your horn and stay alongside so as not to give up your place",
+    "Accelerate sharply and shoot ahead before it starts to move over",
+    "Slow down and let it go: it most likely cannot see you",
+    "Stay alongside: it must let you pass when changing lanes"
+   ],
+   "answer": 2,
+   "explain": "Under the Rules, a driver changing lanes gives way to those travelling in the same direction without changing lanes ⟦20⟧. But alongside the rear of a truck you are in its blind spot, and the driver may not notice you. It is better not to argue but to give it room and not linger beside a large vehicle."
+  },
+  {
+   "id": "m20-n037",
+   "q": "You want to change into the left lane. The mirror shows nothing, but when you look over your shoulder you notice a motorcyclist. What should you do?",
+   "options": [
+    "Change lanes: your indicator is already on",
+    "Change lanes: the motorcyclist will move away himself",
+    "Sound your horn and change lanes",
+    "Let the motorcyclist pass and change lanes after him"
+   ],
+   "answer": 3,
+   "explain": "A motorcycle easily hides in the blind spot of the mirrors. When changing lanes, you give way to those travelling in the same direction without changing lanes ⟦21⟧, and a switched-on indicator gives you no priority ⟦22⟧."
+  },
+  {
+   "id": "m20-n038",
+   "q": "What is the best way to adjust the side mirrors to reduce the blind spot?",
+   "options": [
+    "Mirror adjustment does not affect the blind spot",
+    "So that the edge of your own body takes up only a narrow strip in the mirror",
+    "So that mainly your own car is visible in the mirror",
+    "Point them at the asphalt by the rear wheels"
+   ],
+   "answer": 1,
+   "explain": "The more of your own body is in the mirror, the less you see to the side. If your car takes up only a narrow strip at the edge, the adjacent lane is visible more widely. But even well-adjusted mirrors do not remove the blind spot completely, so look over your shoulder before a manoeuvre."
+  },
+  {
+   "id": "m20-n039",
+   "q": "Ahead, a cyclist is riding near the right edge, and there is a pothole in front of him. A car is approaching from the opposite direction. What should you do?",
+   "options": [
+    "Slow down and overtake once the pothole and the oncoming car are behind you",
+    "Overtake at once, moving close to the cyclist, to make it in time",
+    "Sound your horn so the cyclist moves onto the shoulder, and overtake",
+    "Pass between the cyclist and the oncoming car without reducing speed"
+   ],
+   "answer": 0,
+   "explain": "Before the pothole, the cyclist will almost certainly swerve left, right into your path. You may overtake when there is enough room for a safe lateral clearance ⟦23⟧ and the oncoming lane is clear ⟦24⟧. The horn is used only to warn of overtaking outside built-up areas or to prevent a crash ⟦25⟧.",
+   "scene": {
+    "labels.0.text": "pothole"
+   }
+  },
+  {
+   "id": "m20-n040",
+   "q": "You want to turn right, and a cyclist is riding along the edge of the carriageway ahead. What should you do?",
+   "options": [
+    "Overtake him and turn right immediately in front of him",
+    "Sound your horn so he stops and lets you through",
+    "Turn, crossing his path: a car has priority",
+    "Let him pass and turn after him"
+   ],
+   "answer": 3,
+   "explain": "If you overtake a cyclist and turn right away, you will “cut him up”, and he will not have time to brake. It is calmer to let him go past and turn after him. Before turning right, take the far right position ⟦26⟧."
+  },
+  {
+   "id": "m20-n041",
+   "q": "You are approaching a school. There is a “Children” sign, and a group of children is on the pavement. What is the right way to drive through this section?",
+   "options": [
+    "Drive through faster, before the children step onto the carriageway",
+    "Reduce speed, keep your foot near the brake, be ready to stop",
+    "Keep your speed: the children are on the pavement, not on the carriageway",
+    "Sound your horn so the children notice the car and move away from the road"
+   ],
+   "answer": 1,
+   "explain": "Children may suddenly run into the road: after a ball, to a friend, without looking around. The “Children” sign warns of exactly this kind of section. Choose a speed at which you can stop if a hazard appears ⟦27⟧."
+  },
+  {
+   "id": "m20-n042",
+   "q": "A bus is standing at a stop on the right. What should you expect as you drive past it?",
+   "options": [
+    "That the bus driver will always let you pass before pulling away",
+    "That the bus may start reversing towards your car",
+    "That a pedestrian may step out from behind the bus, so reduce speed",
+    "Nothing special: pedestrians must wait until the bus has left"
+   ],
+   "answer": 2,
+   "explain": "Passengers who have got off a bus often cross the road in front of it or behind it, and the body of the bus hides them from view. Pass such a place slowly. In built-up areas, give way to a bus pulling away from a marked stop ⟦28⟧."
+  },
+  {
+   "id": "m20-n043",
+   "q": "Your light has just turned green. From the left, a blue car is approaching the intersection at high speed, although its light is already red. What should you do?",
+   "options": [
+    "Do not move off until the blue car has passed or stopped",
+    "Go at once: you have a green light, and it must stop",
+    "Sound your horn so the blue car brakes, and go",
+    "Pull away sharply to get across the intersection before it"
+   ],
+   "answer": 0,
+   "explain": "A green signal permits you to proceed, but it does not protect you from a driver who cannot or will not stop in time. On noticing a hazard, the driver reduces speed, even to the point of stopping ⟦29⟧. Waiting a couple of seconds is easier than taking a side impact."
+  },
+  {
+   "id": "m20-n044",
+   "q": "You are stopping in a traffic jam behind another car. How far back is it best to stop?",
+   "options": [
+    "The distance in a jam does not matter, the main thing is not to fall behind",
+    "So that you can see the rear wheels of the car ahead",
+    "Right up close, almost touching the bumper, so nobody squeezes in",
+    "No less than 20 metres, as on a highway"
+   ],
+   "answer": 1,
+   "explain": "If you can see the rear wheels of the car in front, there are a few metres between you. That is enough to drive around it if it stalls, and to avoid hitting it if you are struck from behind."
+  },
+  {
+   "id": "m20-n045",
+   "q": "Where do experienced drivers advise looking in traffic?",
+   "options": [
+    "Only at the bumper of the car ahead, to brake in time",
+    "Mainly in the interior mirror, to see who is behind",
+    "More often at the speedometer, so as not to exceed the speed limit",
+    "Far ahead, 10-15 seconds along your route, and regularly in the mirrors"
+   ],
+   "answer": 3,
+   "explain": "If you look only at the bumper ahead, you learn about braking last. Looking far ahead shows danger in advance: brake lights several cars ahead, a pedestrian at the edge, a car pulling out. The mirrors tell you whether there is somewhere to go."
+  },
+  {
+   "id": "m20-n046",
+   "q": "A hurrying driver behind you is flashing his headlights and sounding his horn. What should you do?",
+   "options": [
+    "Speed up and do not let him past: let him wait",
+    "Gesture that he is in the wrong and drive on as before",
+    "When it is safe, change lanes and let him pass",
+    "Brake hard to teach him a lesson and make him back off"
+   ],
+   "answer": 2,
+   "explain": "An argument on the road achieves nothing. Do not impede other drivers ⟦30⟧: if you are driving in the left lane slower than the permitted speed, clear it by moving right ⟦31⟧. Braking hard without necessity is also prohibited ⟦32⟧."
+  },
+  {
+   "id": "m20-n047",
+   "q": "At 90 km/h your front tyre bursts, and the car pulls to one side. What should you do?",
+   "options": [
+    "Turn the steering wheel sharply the other way to straighten the car",
+    "Switch off the ignition at once and brake with the handbrake",
+    "Hold the wheel firmly, ease off the accelerator, slow gradually",
+    "Brake hard until you stop completely, right in your lane"
+   ],
+   "answer": 2,
+   "explain": "Hard braking or a sharp steering input on a flat tyre easily throws the car into a skid. Hold the steering wheel with both hands, ease off the accelerator and brake gently once your speed has dropped. After stopping, switch on the hazard warning lights if necessary and put out a warning triangle ⟦33⟧."
+  },
+  {
+   "id": "m20-n048",
+   "q": "The brake pedal suddenly goes to the floor, and the car is not braking. What should you do?",
+   "options": [
+    "Stop the engine and take out the key so the wheels lock and the car stops at once",
+    "Sharply engage reverse gear while moving so the gearbox stops the car",
+    "Open the door, switch off the lights and get ready to jump out of the moving car",
+    "Pump the pedal, shift to a lower gear, apply the handbrake gradually"
+   ],
+   "answer": 3,
+   "explain": "Rapid presses sometimes restore pressure in the system. A lower gear brakes with the engine, and the handbrake is applied gradually so as not to lock the wheels. You must not stop the engine: the power steering and brake assistance would stop working. Driving on with a defective service braking system is prohibited ⟦34⟧."
+  },
+  {
+   "id": "m20-n049",
+   "q": "You notice a cut in the sidewall of a tyre, with the cord visible in it. May you drive on?",
+   "options": [
+    "Yes, if it is a rear wheel and you drive carefully",
+    "No: use is prohibited with the cord exposed",
+    "Yes, if the pressure in this tyre is normal and not falling",
+    "Yes, but no faster than 90 km/h and only as far as home"
+   ],
+   "answer": 1,
+   "explain": "Local damage to a tyre (punctures, cuts, tears) that exposes the cord is a defect with which use of the vehicle is prohibited ⟦35⟧. Such a tyre may burst while driving, so fit the spare wheel."
+  },
+  {
+   "id": "m20-n050",
+   "q": "One wheel nut is missing from a wheel. May you drive like this?",
+   "options": [
+    "No: driving without a wheel bolt or nut is prohibited",
+    "Yes, if the remaining nuts are tightened well",
+    "Yes, if the nut is missing from a rear wheel rather than a front one",
+    "Yes, but only in town and no faster than 60 km/h"
+   ],
+   "answer": 0,
+   "explain": "A missing wheel bolt or nut is a defect under the List of Defects ⟦36⟧. The load on the remaining fixings increases, and the wheel may come off while driving."
+  },
+  {
+   "id": "m20-n051",
+   "q": "You are descending a long mountain serpentine road. What is the right way to brake?",
+   "options": [
+    "Coast down in neutral, keeping a light pressure on the brake pedal all the time",
+    "Keep the brake pedal pressed all the way to the bottom",
+    "Switch off the engine and coast to save fuel",
+    "Use a lower gear so the engine brakes, and only brake lightly with the pedal"
+   ],
+   "answer": 3,
+   "explain": "If you brake with the pedal alone the whole time, the brakes overheat and begin to hold worse. A lower gear brakes with the engine, and the pedal is used only for light braking. In neutral the car picks up more speed, and with the engine off the power assistance stops working."
+  },
+  {
+   "id": "m20-n052",
+   "q": "Ahead is a “Cattle crossing” sign, and beyond it a herd is grazing by the road. What should you do?",
+   "options": [
+    "Move into the oncoming lane, away from the herd, and keep your speed",
+    "Reduce speed and be ready to stop: the cattle may come onto the road",
+    "Sound your horn in advance so the animals move away from the road",
+    "Drive through the section as fast as possible before the herd comes out"
+   ],
+   "answer": 1,
+   "explain": "Animals are unpredictable: if one starts across the road, the others will follow. A loud horn may frighten them, and they may rush under your wheels. The horn is used only to warn of overtaking outside built-up areas or to prevent a crash ⟦37⟧. Pass slowly and with a wide margin ⟦38⟧."
+  },
+  {
+   "id": "m20-n053",
+   "q": "On an open steppe highway there is a “Crosswind” sign, and the wind is gusty. A truck is approaching from the opposite direction. What should you be ready for?",
+   "options": [
+    "Having to switch on main-beam headlights because of dust",
+    "The engine possibly stalling from the wind",
+    "A sideways jerk: grip the steering wheel firmly and reduce speed",
+    "Nothing: strong wind affects only trucks"
+   ],
+   "answer": 2,
+   "explain": "A gust of wind can shift the car noticeably sideways, and when passing an oncoming truck, the airflow first shields you from the wind and then hits again. Hold the steering wheel with both hands, reduce speed and increase the lateral clearance ⟦39⟧."
+  }
+ ],
+ "pack": "m20-2"
+}

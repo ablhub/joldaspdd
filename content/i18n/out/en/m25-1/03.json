@@ -1,0 +1,248 @@
+{
+ "questions": [
+  {
+   "id": "m25-021",
+   "q": "A car has stopped so close to the tram tracks that your tram cannot get past. Has its driver broken the Rules?",
+   "options": [
+    "No, if the stop is short, no longer than five minutes",
+    "No, if the hazard warning lights are on",
+    "Yes, but only if the driver has left the car",
+    "Yes: you must not stop near the tracks and impede trams"
+   ],
+   "answer": 3,
+   "explain": "The Rules prohibit stopping in the immediate vicinity of tram tracks if this impedes the movement of trams. How long the stop lasts and whether the hazard warning lights are on make no difference."
+  },
+  {
+   "id": "m25-022",
+   "q": "A broken-down trolleybus with passengers on board has to be towed to the depot on a rigid tow bar. May the passengers stay inside?",
+   "options": [
+    "Yes, if the speed does not exceed 50 km/h",
+    "No: a towed trolleybus must not carry passengers",
+    "Yes, if all the passengers are seated",
+    "Yes: the ban applies only to towing on a tow rope"
+   ],
+   "answer": 1,
+   "explain": "When towing with a tow rope or a rigid tow bar, passengers must not be carried in the towed bus or trolleybus ⟦51⟧. Passengers are let off before towing begins."
+  },
+  {
+   "id": "m25-023",
+   "q": "Your tram is still rolling towards the stop, but you have already opened the doors to save time. Have you broken the Rules?",
+   "options": [
+    "No, if the speed is very low",
+    "No, if the passengers are holding the handrails",
+    "Yes: doors are opened after a complete stop",
+    "No, if only the front door is open"
+   ],
+   "answer": 2,
+   "explain": "The driver moves off only with the doors closed and does not open them until the vehicle has come to a complete stop. Getting off while the vehicle is moving is dangerous: a passenger may fall under the wheels."
+  },
+  {
+   "id": "m25-024",
+   "q": "Your trolleybus is stuck in a traffic jam 50 m from the stop. Passengers ask you to let them off right here. May you open the doors?",
+   "options": [
+    "No: passengers alight only at a designated stop",
+    "Yes: the trolleybus is standing still anyway",
+    "Yes, if you open only the front door",
+    "Yes, if the stop is less than 100 m away"
+   ],
+   "answer": 0,
+   "explain": "The driver of a route vehicle lets passengers board and alight only at a designated stop. In the middle of a traffic jam, people would step out between cars onto the carriageway."
+  },
+  {
+   "id": "m25-025",
+   "q": "Everyone has boarded, but a late passenger is still holding one of the tram doors open. May you move off so as not to fall behind schedule?",
+   "options": [
+    "Yes, if you move off very slowly",
+    "Yes, if only the rear door is open",
+    "Yes, if you give a warning with the horn first",
+    "No: you move off only with the doors closed"
+   ],
+   "answer": 3,
+   "explain": "A driver may move off only with the doors closed. Keeping to the schedule does not justify the risk of a passenger being caught in the door or falling."
+  },
+  {
+   "id": "m25-026",
+   "q": "You are driving a trolleybus on its route and moving off from a designated stop in town. A green car is approaching from behind in the next lane. What should you do?",
+   "options": [
+    "Pull away at once without indicating: everyone must give way to you",
+    "Indicate and move off after making sure others give way",
+    "Wait until there is not a single car left on the whole street",
+    "Sound the horn and pull out into the next lane at once"
+   ],
+   "answer": 1,
+   "explain": "In built-up areas, drivers give way to trolleybuses and buses moving off from a designated stop. But the trolleybus driver moves off only after making sure that others are giving way, and switches on the direction indicator before the manoeuvre."
+  },
+  {
+   "id": "m25-027",
+   "q": "A police officer has stopped your trolleybus away from a stop. The check is over, and you are moving off from the edge of the road. Must drivers in the next lane let you out?",
+   "options": [
+    "Yes: others always give way to a trolleybus",
+    "Yes, if you switch on the hazard warning lights",
+    "No: that rule applies only at a stop",
+    "Yes, if there are passengers on board now"
+   ],
+   "answer": 2,
+   "explain": "Drivers give way to a trolleybus or bus that is running on its route and moving off from a designated stop ⟦52⟧. Away from a stop there is no such rule: you move off without impeding other road users and let those in the next lane go first ⟦53⟧."
+  },
+  {
+   "id": "m25-028",
+   "q": "You are driving a trolleybus. Which sign marks a stopping place on your route?",
+   "options": [
+    "A",
+    "B",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "Sign 5.12 “Bus and (or) trolleybus stop” marks a stopping place for buses and (or) trolleybuses. Sign 5.13 “Tram stop” marks a stopping place for trams.",
+   "scene": {
+    "labels.0.text": "A",
+    "labels.1.text": "B"
+   }
+  },
+  {
+   "id": "m25-029",
+   "q": "In your trolleybus, you are approaching a stop that has no stop area. A car is standing 10 m before the sign marking the stop and prevents you from pulling in to the edge of the carriageway. Has its driver broken the Rules?",
+   "options": [
+    "No, if the driver is only letting a passenger out",
+    "No: this prohibition applies only to trucks",
+    "No, if it stays there no longer than 5 minutes",
+    "Yes: stopping within 15 m of that sign is prohibited"
+   ],
+   "answer": 3,
+   "explain": "If there is no stop area, stopping is prohibited within 15 m of the sign marking a route vehicle stop or taxi rank. The only exception is for vehicles of categories M2 and M3, and a passenger car is not one of them."
+  },
+  {
+   "id": "m25-030",
+   "q": "You are driving a trolleybus on its route. On the right there is a lane for route vehicles. May you move into it and carry on?",
+   "options": [
+    "Yes: the lane is for route vehicles, like trolleybuses",
+    "No: this lane is intended for use by buses only",
+    "Yes, but only at rush hour and on weekdays",
+    "Yes, but only if there are no passengers on board"
+   ],
+   "answer": 0,
+   "explain": "The lane marked with sign 5.9 is used by route vehicles, other public transport and vehicles of category M3. A trolleybus is a route vehicle, so this lane is for you, and the broken line allows you to move into it."
+  },
+  {
+   "id": "m25-031",
+   "q": "At a controlled intersection, the green signal permits both your tram and oncoming cars to proceed. You are turning left, and an oncoming car is going straight ahead. Who goes first?",
+   "options": [
+    "The oncoming car",
+    "The tram",
+    "Both at the same time",
+    "Whoever entered the intersection first"
+   ],
+   "answer": 1,
+   "explain": "If the signals of a traffic light or traffic controller permit a tram and trackless vehicles to move at the same time, the tram has priority regardless of its direction of travel. So even when turning left, the tram goes first."
+  },
+  {
+   "id": "m25-032",
+   "q": "Two tram lines cross at an intersection of roads of equal status. You are driving a tram straight ahead, and another tram is approaching from the right. Who goes first?",
+   "options": [
+    "You: a tram always has priority",
+    "Whoever sounded the horn",
+    "Both at the same time",
+    "The tram on the right"
+   ],
+   "answer": 3,
+   "explain": "Among themselves, tram drivers at an intersection of roads of equal status follow the same rule as trackless vehicles: they give way to the one approaching from the right."
+  },
+  {
+   "id": "m25-033",
+   "q": "An intersection of roads of equal status. You are turning left in your tram, and another tram is coming from the opposite direction, going straight ahead. Who goes first?",
+   "options": [
+    "You, since you are already turning",
+    "Both at the same time",
+    "The oncoming tram",
+    "Whoever sounds the horn"
+   ],
+   "answer": 2,
+   "explain": "When turning left, you give way to those coming from the opposite direction on a road of equal status and going straight ahead or turning right. Tram drivers follow the same rule among themselves."
+  },
+  {
+   "id": "m25-034",
+   "q": "You are turning right in your tram on a green signal. Pedestrians are crossing the carriageway you are turning into. What should you do?",
+   "options": [
+    "Drive on: the tram has priority",
+    "Sound the horn and drive on",
+    "Give way to the pedestrians",
+    "Drive on if the pedestrians have not yet reached the tracks"
+   ],
+   "answer": 2,
+   "explain": "When turning right or left, a driver gives way to pedestrians crossing the carriageway of the road onto which the driver is turning. A tram's priority concerns trackless vehicles, not pedestrians."
+  },
+  {
+   "id": "m25-035",
+   "q": "What is the minimum age for obtaining the right to drive a tram (category Tm)?",
+   "options": [
+    "18 years",
+    "21 years",
+    "23 years",
+    "25 years"
+   ],
+   "answer": 1,
+   "explain": "The right to drive category Tm vehicles is granted from the age of 21, and the law requires no driving experience for it. Websites that say 25 are repeating the version of the law in force before 2024."
+  },
+  {
+   "id": "m25-036",
+   "q": "What requirements does the law set for someone who wants to obtain category Tb (trolleybuses)?",
+   "options": [
+    "From age 23, with at least 3 years as a driver, at least 1 of them on D1",
+    "From age 18, with no experience needed, as for category B",
+    "From age 21, with at least 1 year of experience as a driver",
+    "From age 25, with at least 5 years as a driver, at least 3 of them on D1"
+   ],
+   "answer": 0,
+   "explain": "Under the current version of article 74, categories D and Tb are granted from the age of 23 with at least three years of experience as a driver, including at least one year driving subcategory D1 vehicles."
+  },
+  {
+   "id": "m25-037",
+   "q": "Who conducts the practical test for driving a tram or trolleybus?",
+   "options": [
+    "The automated test ground of a specialised PSC",
+    "Any driver holding category D",
+    "A police officer on a city route",
+    "A training organisation"
+   ],
+   "answer": 3,
+   "explain": "Under the Examination Rules, the practical test for driving a tram or trolleybus is conducted by a training organisation. For the other categories, the practical test is taken at a test ground of the State Corporation (specialised PSC)."
+  },
+  {
+   "id": "m25-038",
+   "q": "A driver holds a category D licence. May they drive a trolleybus?",
+   "options": [
+    "Yes: a trolleybus is driven the same way as a bus",
+    "No: a trolleybus requires category Tb",
+    "Yes, if the trolleybus has no passengers",
+    "Yes, but only within their own town"
+   ],
+   "answer": 1,
+   "explain": "The law puts trolleybuses in a separate category, Tb, and trams in Tm. Apart from category D itself, such a licence covers only subcategory D1."
+  },
+  {
+   "id": "m25-039",
+   "q": "You are setting off on a route in an articulated trolleybus. Which identification sign must it carry?",
+   "options": [
+    "“Oversized load” at the front and rear",
+    "“Speed limit” on the back of the body",
+    "“Road train”: three amber lamps on the roof",
+    "None: trolleybuses do not carry such signs"
+   ],
+   "answer": 2,
+   "explain": "The “Road train” sign is three amber lamps in a horizontal row on the cab roof, spaced 150 to 300 mm apart. It is fitted to trucks and wheeled tractors with trailers, and also to articulated buses and trolleybuses."
+  },
+  {
+   "id": "m25-040",
+   "q": "In your tram, you are approaching a stop without a boarding platform. People waiting for the tram are standing on the carriageway next to the tracks. Are they acting correctly?",
+   "options": [
+    "Yes: that way they board the tram faster",
+    "No: they must wait on the pavement or shoulder",
+    "Yes, if the tram is still far away",
+    "Yes, if they stand on a road marking line"
+   ],
+   "answer": 1,
+   "explain": "People wait for a route vehicle on the boarding platform or, if there is none, on the pavement or shoulder. They may step onto the carriageway to board only after the vehicle has stopped. If you see people on the carriageway, slow down and be ready to stop."
+  }
+ ]
+}

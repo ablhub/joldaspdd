@@ -1,0 +1,199 @@
+{
+ "signs": [
+  {
+   "code": "5.7.2",
+   "meaning": "Ahead is an entry onto a one-way road; the traffic on it goes to the left.",
+   "note": "You must not turn against the arrow: oncoming traffic is prohibited there."
+  },
+  {
+   "code": "5.8.1",
+   "meaning": "Shows the number of lanes and the permitted directions of movement for each of them.",
+   "note": "If the sign permits a left turn from the far left lane, a U-turn is also permitted from it. A sign before an intersection applies to the whole intersection, unless other signs 5.8.1, 5.8.2 on it indicate otherwise."
+  },
+  {
+   "code": "5.8.2",
+   "meaning": "Shows the permitted directions of movement for the lane above or beside which it is placed.",
+   "note": "A sign that permits a left turn from the far left lane also permits a U-turn from that lane."
+  },
+  {
+   "code": "5.9",
+   "meaning": "A lane intended only for route vehicles moving in the same direction as the general flow of traffic.",
+   "note": "A sign above a lane applies to that lane; a sign to the right of the road applies to the right lane. The end of the lane is sign 5.9.1."
+  },
+  {
+   "code": "5.9.1",
+   "meaning": "The lane intended only for route vehicles ends here."
+  },
+  {
+   "code": "5.10.1",
+   "meaning": "A road on which route vehicles move in a specially designated lane against the general flow of traffic.",
+   "note": "The end of such a road is sign 5.10.4."
+  },
+  {
+   "code": "5.10.4",
+   "meaning": "The road with a designated oncoming lane for route vehicles (sign 5.10.1) ends here."
+  },
+  {
+   "code": "5.11.2",
+   "meaning": "Shows the length of the zone in which you can make a U-turn. A left turn in this zone is prohibited."
+  },
+  {
+   "code": "5.13",
+   "meaning": "Marks the place where trams stop.",
+   "note": "It is prohibited to stand closer than 15 m to the route vehicle stop indicator ⟦11⟧. At a stop without a boarding platform, give way to pedestrians walking to or from the tram on the door side ⟦12⟧."
+  },
+  {
+   "code": "5.14",
+   "meaning": "Marks a parking place for passenger taxis.",
+   "note": "Other vehicles are prohibited from stopping closer than 15 m to the taxi parking indicator ⟦13⟧."
+  },
+  {
+   "code": "5.16.2",
+   "meaning": "Marks the pedestrian crossing itself.",
+   "note": "If there is no “zebra”, sign 5.16.2 is placed on the right of the road at the near edge of the crossing and 5.16.1 on the left at the far edge. At an uncontrolled crossing, give way to pedestrians ⟦14⟧."
+  },
+  {
+   "code": "5.17.1",
+   "meaning": "Marks an underground pedestrian crossing."
+  },
+  {
+   "code": "5.17.3",
+   "meaning": "Marks an above-ground pedestrian crossing."
+  },
+  {
+   "code": "5.18.1",
+   "meaning": "Shows the speed at which it is recommended to travel on this section.",
+   "note": "The zone of application extends to the nearest intersection, and together with a warning sign, it is the length of the hazardous section. This is a recommendation, not a limit."
+  },
+  {
+   "code": "5.25",
+   "meaning": "The end of the built-up area marked by sign 5.24."
+  },
+  {
+   "code": "5.33",
+   "meaning": "The place where vehicles stop at a prohibiting signal of the traffic light (traffic controller).",
+   "note": "Used when marking 1.12 (stop line) is absent or cannot be seen ⟦15⟧."
+  },
+  {
+   "code": "5.35",
+   "meaning": "The start of a section of road where the direction of traffic in one or more lanes may be reversed.",
+   "note": "On the lanes of such a section you are guided by the lane-control signals. The end of the section is sign 5.36."
+  },
+  {
+   "code": "5.36",
+   "meaning": "The section of road with reversible traffic ends here."
+  },
+  {
+   "code": "5.42",
+   "meaning": "Warns of an approach to a section where violations of the Rules are recorded by a fixed certified special technical device."
+  },
+  {
+   "code": "6.5",
+   "meaning": "Shows where a car wash is.",
+   "note": "Service signs only inform about the location of facilities; they prohibit nothing."
+  },
+  {
+   "code": "6.6",
+   "meaning": "Shows where a telephone is.",
+   "note": "Service signs only inform about the location of facilities; they prohibit nothing."
+  },
+  {
+   "code": "6.7",
+   "meaning": "Shows where a food point (cafe, canteen) is.",
+   "note": "Service signs only inform about the location of facilities; they prohibit nothing."
+  },
+  {
+   "code": "6.8",
+   "meaning": "Shows where a source of drinking water is.",
+   "note": "Service signs only inform about the location of facilities; they prohibit nothing."
+  },
+  {
+   "code": "6.11",
+   "meaning": "Shows where a rest area is.",
+   "note": "On a motorway you may stop only at the parking areas marked by signs 5.15 or 6.11 ⟦16⟧."
+  },
+  {
+   "code": "6.18",
+   "meaning": "Shows where a toilet is.",
+   "note": "Service signs only inform about the location of facilities; they prohibit nothing."
+  },
+  {
+   "code": "7.1.2",
+   "meaning": "Shows the distance from sign 2.4 to the intersection if sign 2.5 is placed directly before the intersection.",
+   "note": "When you meet 2.4 with such a plate, be ready to stop at sign 2.5 ahead."
+  },
+  {
+   "code": "7.1.3",
+   "meaning": "Shows the distance to an object to the side of the road, on the right."
+  },
+  {
+   "code": "7.1.4",
+   "meaning": "Shows the distance to an object to the side of the road, on the left."
+  },
+  {
+   "code": "7.2.2",
+   "meaning": "Shows the length of the zone of application of signs 3.27-3.30 from the place where they are installed.",
+   "note": "Under sign 3.27 with a plate “20 m”, stopping is prohibited for the nearest 20 m."
+  },
+  {
+   "code": "7.2.3",
+   "meaning": "Shows the end of the zone of application of signs 3.27-3.30.",
+   "note": "A repeated sign 3.27-3.30 with this plate ends the zone before the nearest intersection."
+  },
+  {
+   "code": "7.2.4",
+   "meaning": "Tells you that you are within the zone of application of signs 3.27-3.30."
+  },
+  {
+   "code": "7.3.1",
+   "meaning": "Shows that a sign placed before an intersection applies in both directions from it, or shows the directions to the marked objects."
+  },
+  {
+   "code": "7.3.2",
+   "meaning": "Shows that a sign placed before an intersection applies to the right of it, or shows the direction to an object on the right."
+  },
+  {
+   "code": "7.3.3",
+   "meaning": "Shows that a sign placed before an intersection applies to the left of it, or shows the direction to an object on the left."
+  },
+  {
+   "code": "7.4.1",
+   "meaning": "The sign under which it is placed applies only to trucks (including those with a trailer) with a maximum authorised mass of more than 3.5 t."
+  },
+  {
+   "code": "7.4.3",
+   "meaning": "The sign applies only to passenger cars and to trucks with a maximum authorised mass of up to 3.5 t."
+  },
+  {
+   "code": "7.4.8",
+   "meaning": "The sign applies only to vehicles with “Dangerous goods” identification signs."
+  },
+  {
+   "code": "7.5.4",
+   "meaning": "Shows the time of day during which the sign applies.",
+   "note": "At other times the sign does not apply."
+  },
+  {
+   "code": "7.6.1",
+   "meaning": "Shows that all vehicles are parked on the carriageway along the pavement.",
+   "note": "Plates 7.6.2-7.6.9 show the ways of parking passenger cars and motorcycles with driving onto the pavement; they are used with sign 5.15."
+  },
+  {
+   "code": "7.14",
+   "meaning": "Shows the traffic lane to which the sign or traffic light applies."
+  },
+  {
+   "code": "7.15",
+   "meaning": "Shows that the pedestrian crossing is used by blind people (people with total loss of sight). Used with signs 1.20, 5.16.1, 5.16.2.",
+   "note": "The driver lets pass pedestrians with total loss of sight who signal with a white cane ⟦17⟧."
+  },
+  {
+   "code": "7.17",
+   "meaning": "Shows that parking place 5.15 is intended only for motorised wheelchairs and cars with the “Disabled person” identification sign."
+  },
+  {
+   "code": "7.18",
+   "meaning": "Shows that the sign does not apply to motorised wheelchairs and cars with the “Disabled person” identification sign."
+  }
+ ]
+}

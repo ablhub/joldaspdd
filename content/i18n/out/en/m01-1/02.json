@@ -1,0 +1,179 @@
+{
+ "questions": [
+  {
+   "id": "m01-01",
+   "q": "You are driving on a dirt road and approaching an intersection with an asphalt road. There are no priority signs. Which road is the main road?",
+   "options": [
+    "The dirt road you are driving on",
+    "The asphalt road",
+    "They are of equal status, as there are no signs",
+    "The one with more traffic"
+   ],
+   "answer": 1,
+   "explain": "You are on a dirt road, and a paved road (asphalt, concrete, stone materials) is the main road in relation to a dirt road. So the asphalt road is the main road here."
+  },
+  {
+   "id": "m01-02",
+   "q": "You are driving on a dirt road. Shortly before the intersection with an asphalt road, a short asphalt section begins. There are no signs. Which road is the main road?",
+   "options": [
+    "The roads are now of equal status, as both are paved",
+    "Your road, as you are already driving on asphalt",
+    "The asphalt road; yours remains the minor road"
+   ],
+   "answer": 2,
+   "explain": "Your road is a dirt road, and a short stretch of asphalt before the intersection does not change that. A paved section on a minor road immediately before an intersection does not make it equal in status to the road it crosses."
+  },
+  {
+   "id": "m01-03",
+   "q": "You leave your car outside a shop and go shopping for 15 minutes. There are no passengers or goods. What is this called under the Rules?",
+   "options": [
+    "Parking",
+    "Stopping",
+    "Forced stop"
+   ],
+   "answer": 0,
+   "explain": "You are away for more than 5 minutes, nobody is getting in or out and nothing is being loaded. Parking is an intentional halt of more than 5 minutes for reasons not related to passengers boarding or alighting, loading or unloading."
+  },
+  {
+   "id": "m01-04",
+   "q": "You spend 20 minutes unloading heavy boxes from the boot at the edge of the carriageway. What is this called under the Rules?",
+   "options": [
+    "Parking, because it has lasted more than 5 minutes",
+    "Forced stop",
+    "Stopping, because the time is needed for unloading",
+    "Neither stopping nor parking"
+   ],
+   "answer": 2,
+   "explain": "You are stationary for more than 5 minutes, but the time is needed for unloading. Stopping is a halt of up to 5 minutes, or longer if the time is needed for passengers to board or alight, or for loading or unloading."
+  },
+  {
+   "id": "m01-05",
+   "q": "You are waiting at a red traffic light before an intersection. How do the Rules classify this halt?",
+   "options": [
+    "It is stopping",
+    "It is a forced stop",
+    "It is parking if you wait longer than 5 minutes",
+    "It counts as neither stopping nor parking"
+   ],
+   "answer": 3,
+   "explain": "You are stationary because the traffic light requires it. A halt required by traffic management does not count as stopping (parking)."
+  },
+  {
+   "id": "m01-06",
+   "q": "Your engine has stalled on the way, the car will not start, and you are stationary at the edge of the road. What is this called?",
+   "options": [
+    "Stopping",
+    "Forced stop",
+    "Parking",
+    "Neither stopping nor parking"
+   ],
+   "answer": 1,
+   "explain": "The car is stationary because of a technical fault. A forced stop is a halt caused by a fault, a hazard from the load, the condition of the driver (passenger) or an obstruction on the road."
+  },
+  {
+   "id": "m01-07",
+   "q": "You are driving in the left lane of a multi-lane road faster than the vehicles in the right lane, and you do not change lanes. What is this called under the Rules?",
+   "options": [
+    "Overtaking",
+    "Changing lanes",
+    "Driving around an obstacle",
+    "Passing"
+   ],
+   "answer": 3,
+   "explain": "Passing is moving at a higher speed than a vehicle in the adjacent lane travelling in the same direction. You do not leave your lane, so this is not overtaking."
+  },
+  {
+   "id": "m01-08",
+   "q": "Which of these manoeuvres counts as overtaking under the Rules?",
+   "options": [
+    "You drive in your lane faster than a bus in the next lane",
+    "You pass a truck by leaving your lane, then return to it",
+    "You move into the next lane so as to turn from it later",
+    "You drive around a pothole in your lane, passing no one"
+   ],
+   "answer": 1,
+   "explain": "Overtaking is passing one or more vehicles by leaving the lane you occupy and then returning to that lane."
+  },
+  {
+   "id": "m01-09",
+   "q": "In the morning there is thick fog, and you can see the road for about 200 m. What do the Rules call these conditions?",
+   "options": [
+    "Poor visibility",
+    "Restricted view",
+    "Hours of darkness",
+    "Normal visibility, as the road is visible beyond 100 m"
+   ],
+   "answer": 0,
+   "explain": "Because of the fog, the road is visible for less than 300 m. Poor visibility means visibility of the road of less than 300 m in fog, rain, snowfall, dust and at twilight."
+  },
+  {
+   "id": "m01-10",
+   "q": "It is a clear day. The road bends, bushes block the view, and you can see the road ahead for about 70 m. What is this kind of visibility called?",
+   "options": [
+    "Poor visibility",
+    "Hours of darkness",
+    "Restricted view"
+   ],
+   "answer": 2,
+   "explain": "Your view is limited to less than 100 m by the bushes on the bend, not by the weather. A restricted view means that the road is visible for less than 100 m in the direction of travel because of terrain, bends in the road, vegetation, buildings or other objects."
+  },
+  {
+   "id": "m01-11",
+   "q": "You pulled out of a minor road onto a main road, and a driver on the main road had to slow down because of you. Did you comply with the requirement to “give way”?",
+   "options": [
+    "Yes, because there was no collision",
+    "Yes, if you switched on your direction indicator in advance",
+    "No: you forced the driver with priority to change speed",
+    "It depends on whether you got up to their speed in time"
+   ],
+   "answer": 2,
+   "explain": "To give way means not to move off or continue moving if this would force a road user with priority to change direction or speed."
+  },
+  {
+   "id": "m01-12",
+   "q": "You are leaving a shopping centre car park, which is not intended for through traffic, and driving onto a street. Is the exit point an intersection?",
+   "options": [
+    "No, it is an exit from an adjacent area",
+    "Yes, it is where roads join at the same level",
+    "Yes, if the exit is wide and has an asphalt surface"
+   ],
+   "answer": 0,
+   "explain": "Such a car park is an adjacent area, and exits from adjacent areas are not intersections."
+  },
+  {
+   "id": "m01-13",
+   "q": "A man is walking along the shoulder, pushing a bicycle beside him. How do the Rules classify him?",
+   "options": [
+    "A cyclist",
+    "A driver",
+    "A passenger",
+    "A pedestrian"
+   ],
+   "answer": 3,
+   "explain": "The man is not riding but pushing the bicycle beside him. People pushing a bicycle, e-scooter, moped or motorcycle are treated as pedestrians."
+  },
+  {
+   "id": "m01-14",
+   "q": "The road has no markings, but it is wide enough for vehicles travelling in one direction to drive in two lines. Does it have traffic lanes?",
+   "options": [
+    "Yes, a traffic lane may exist without road markings",
+    "No, lanes exist only where there are road markings",
+    "No, without markings the whole carriageway counts as one lane"
+   ],
+   "answer": 0,
+   "explain": "A traffic lane is a longitudinal strip of the carriageway wide enough for one line of motor cars, whether or not it is marked. Without markings, drivers determine the number of lanes themselves, taking into account the width of the carriageway, the dimensions of the vehicles and the clearance between them."
+  },
+  {
+   "id": "m01-n001",
+   "q": "You have just driven past the sign shown in the diagram. There are no houses around yet; the buildings start further on. Do the requirements of the Rules for driving in built-up areas apply to you?",
+   "options": [
+    "Yes, from where this sign is placed",
+    "No, only from the first houses",
+    "No, not until you reach a speed limit sign",
+    "Only during the hours of darkness"
+   ],
+   "answer": 0,
+   "explain": "You have driven past sign 5.22 “Start of built-up area”. Under the Rules, a built-up area is defined by signs 5.22-5.25, not by buildings, so its requirements apply from the point where the sign is placed."
+  }
+ ]
+}

@@ -1,0 +1,799 @@
+{
+ "questions": [
+  {
+   "id": "m12-01",
+   "answer": 2,
+   "q": "You are driving your own car. The far right lane is marked with sign 5.9 and separated by a solid line. There is a traffic jam in your lane, and the lane for route vehicles is free. May you drive along it as far as the next intersection?",
+   "options": [
+    "Yes, if there are no buses in it",
+    "Yes, if you switch on the hazard warning lights",
+    "No, you are not allowed to drive in this lane"
+   ],
+   "explain": "Other vehicles are not allowed to drive or stop in the lane for route vehicles, except for public transport (including taxis) and other vehicles of category M3. The absence of buses does not lift this ban."
+  },
+  {
+   "id": "m12-02",
+   "answer": 1,
+   "q": "You are driving your own car. On your right is the lane for route vehicles (sign 5.9), separated from your lane by a broken line. You need to drop off a passenger. May you move into this lane for that and stop at the right-hand edge?",
+   "options": [
+    "Yes: where the line is broken, you may move in to drop off a passenger",
+    "No: other vehicles are not allowed to drive or stop in this lane",
+    "Yes, if it takes no more than a minute and there are no buses nearby"
+   ],
+   "explain": "Under the current version of para. 126 (Ministry of Internal Affairs Order No. 305 of 27.04.2026), other vehicles must not drive or stop in the lane for route vehicles, except for public transport (including taxis) and other vehicles of category M3. The text no longer contains the earlier exceptions for a broken line."
+  },
+  {
+   "id": "m12-03",
+   "answer": 0,
+   "q": "You are driving in town in the right-hand lane. Ahead of you, a bus running on its route is moving off from a designated stop with its left indicator on. What should you do?",
+   "options": [
+    "Give way to the bus",
+    "Continue driving: the bus must let everyone in the lane go first",
+    "Sound the horn and drive on",
+    "Swerve around the bus on the left without slowing down"
+   ],
+   "explain": "In built-up areas, drivers give way to buses and trolleybuses that are running on their route and moving off from a designated stop."
+  },
+  {
+   "id": "m12-04",
+   "answer": 1,
+   "q": "In which case do the Rules directly require drivers to give way to a bus or trolleybus moving off from a stop?",
+   "options": [
+    "On any road, if the bus has its left indicator on",
+    "In a built-up area, if it is running on its route and moving off from a designated stop",
+    "Outside a built-up area, if it is running on its route and moving off from a designated stop",
+    "Only on a road with a lane for route vehicles, if it is running on its route"
+   ],
+   "explain": "This rule applies in built-up areas: you must give way to buses and trolleybuses that are running on an established route and moving off from a designated stop."
+  },
+  {
+   "id": "m12-05",
+   "answer": 2,
+   "q": "You are driving along a street where, outside an intersection, tram tracks cross the carriageway. A tram running on its route reaches the crossing point at the same time as you. Who goes first?",
+   "options": [
+    "You, if the tram has not yet started to cross the road",
+    "Whoever arrived first",
+    "The tram"
+   ],
+   "explain": "Outside intersections, where tram tracks cross the carriageway, a tram has priority over trackless vehicles. The exception is a tram leaving the depot."
+  },
+  {
+   "id": "m12-06",
+   "answer": 3,
+   "q": "It is a sunny day and you are driving in town. Which lights must be switched on on your car?",
+   "options": [
+    "None: you do not need to switch on any lights in town by day",
+    "Position lamps, and headlights only outside town",
+    "Main-beam headlights, so that the car is easier to see",
+    "Dipped headlights or daytime running lights"
+   ],
+   "explain": "During daylight hours, all moving vehicles must have dipped headlights or daytime running lights on so that they can be seen."
+  },
+  {
+   "id": "m12-07",
+   "answer": 3,
+   "q": "It is night, you are driving on an unlit road outside town with main-beam headlights on. An oncoming car is approaching. When must you switch to dipped headlights?",
+   "options": [
+    "At least 50 m before it, and at once if the oncoming driver flashes their headlights",
+    "Only after the oncoming driver flashes their headlights",
+    "You need not switch if the oncoming driver also has main-beam headlights on",
+    "At least 150 m before it, and even earlier if the oncoming driver flashes their headlights"
+   ],
+   "explain": "When passing an oncoming vehicle, you switch from main-beam to dipped headlights at least 150 m before it. If the oncoming driver shows the need by flashing their headlights repeatedly, switch even earlier."
+  },
+  {
+   "id": "m12-08",
+   "answer": 1,
+   "q": "It is night on an unlit road outside town. There are no oncoming vehicles, but you have caught up with a car ahead travelling in the same direction and are following it closely. Which lights should you use?",
+   "options": [
+    "Main-beam: there are no oncoming cars",
+    "Dipped, so as not to dazzle the driver ahead",
+    "Only front fog lamps, without dipped or main-beam headlights"
+   ],
+   "explain": "You switch from main-beam to dipped headlights whenever you could dazzle the drivers of oncoming vehicles or vehicles travelling in the same direction. And during the hours of darkness on an unlit road, front fog lamps are used only together with dipped or main-beam headlights ⟦60⟧."
+  },
+  {
+   "id": "m12-09",
+   "answer": 2,
+   "q": "At night, you are dazzled by the headlights of an oncoming car. What is the correct thing to do?",
+   "options": [
+    "Switch on the hazard warning lights and move onto the shoulder",
+    "Switch on main-beam headlights in response, so that the other driver switches theirs",
+    "Switch on the hazard warning lights and stop in your lane",
+    "Continue driving at the same speed without changing lanes"
+   ],
+   "explain": "When dazzled, a driver switches on the hazard warning lights and stops without changing lanes."
+  },
+  {
+   "id": "m12-10",
+   "answer": 3,
+   "q": "It is a clear night with no fog or precipitation, and you are driving in town. May you switch on the rear fog lamps?",
+   "options": [
+    "Yes, if the street lights are not on along this section of road",
+    "Yes, but only together with dipped headlights",
+    "Yes, if another car is following too closely behind you",
+    "No: they are switched on only in poor visibility"
+   ],
+   "explain": "Rear fog lamps are used only in poor visibility: when, because of fog, rain, snowfall and the like, the road is visible for less than 300 m, and also at twilight. On a clear night, such a lamp only dazzles the drivers behind you."
+  },
+  {
+   "id": "m12-11",
+   "answer": 0,
+   "q": "It has got dark. You have stopped on the shoulder of an unlit road outside town to wait for a friend. Which lights must be on?",
+   "options": [
+    "Position lamps",
+    "None, if the engine is switched off",
+    "Main-beam headlights",
+    "Only the rear fog lamps"
+   ],
+   "explain": "When stopping or parking during the hours of darkness on an unlit section of road, a vehicle must have its position lamps on."
+  },
+  {
+   "id": "m12-12",
+   "answer": 2,
+   "q": "You are stopped at traffic lights in town. The green light comes on, but the driver ahead does not move off because they are distracted by their phone. May you sound the horn at them?",
+   "options": [
+    "Yes, a short sound of the horn is allowed in this situation",
+    "Yes, if they do not move off within 5 seconds of the green light",
+    "No, you must not use the horn in this situation"
+   ],
+   "explain": "The horn is used only to warn of overtaking outside built-up areas and when it is needed to prevent a road traffic accident. You must not sound it to hurry another driver."
+  },
+  {
+   "id": "m12-n001",
+   "answer": 1,
+   "q": "You work as a taxi driver and are carrying a passenger. The far right lane is marked with sign 5.9 “Lane for route vehicles”. May you drive in it?",
+   "options": [
+    "No, only buses and trolleybuses may drive in it",
+    "Yes: a taxi counts as public transport",
+    "Only if there is no passenger in the taxi",
+    "Only at night"
+   ],
+   "explain": "Public transport and other vehicles of category M3 may drive in the lane for route vehicles. The Rules directly classify a taxi as public transport, so you may drive in this lane."
+  },
+  {
+   "id": "m12-n002",
+   "answer": 2,
+   "q": "You are driving a truck with a mass of more than 3.5 t. The right-hand lane is reserved for route vehicles and is currently free, while your lane has a traffic jam. May you change into the reserved lane to get around the jam?",
+   "options": [
+    "Yes: any vehicle with a mass of more than 3.5 t may drive in this lane",
+    "Yes, if there are no buses in it and you move back before the intersection",
+    "No: a truck is not allowed to drive in this lane"
+   ],
+   "explain": "Only public transport, including taxis, and other vehicles of category M3 - that is, buses, not trucks - may drive in the lane for route vehicles. The mass of the vehicle makes no difference here: a truck may not enter this lane, even if it is empty."
+  },
+  {
+   "id": "m12-n003",
+   "answer": 2,
+   "q": "You are driving a chartered tourist bus of category M3 that does not run on a town route. May you drive in the lane for route vehicles?",
+   "options": [
+    "No: only buses that are running on a route may drive in it",
+    "Only without passengers",
+    "Yes: other vehicles of category M3 may also drive in this lane",
+    "Only with the hazard warning lights on"
+   ],
+   "explain": "Besides public transport, other vehicles of category M3 are also allowed to drive in the lane for route vehicles. Your bus belongs to this category, even though it does not run on a route."
+  },
+  {
+   "id": "m12-n004",
+   "answer": 0,
+   "q": "You are on a motorcycle. May you move into the lane for route vehicles and drive in it?",
+   "options": [
+    "No, motorcycles are not allowed to drive in this lane",
+    "Yes, a motorcycle is narrow and will not get in the way of buses",
+    "Yes, but only along its right-hand edge, like cyclists"
+   ],
+   "explain": "Only public transport, including taxis, and other vehicles of category M3 may drive in the lane for route vehicles. A motorcycle does not belong to either group, whatever its size."
+  },
+  {
+   "id": "m12-n005",
+   "answer": 3,
+   "q": "You are cycling along a street that has neither a cycle track nor a cycle lane. The right-hand lane is reserved for route vehicles. Where on the carriageway may you ride?",
+   "options": [
+    "Only in the left-hand lane, away from the route vehicles",
+    "Along the right-hand edge, but without entering the lane for route vehicles",
+    "Nowhere: cyclists are not allowed on the carriageway here",
+    "Along the right-hand edge, including in the lane for route vehicles"
+   ],
+   "explain": "If there is no cycle track or cycle lane, cyclists ride in single file along the right-hand edge of the carriageway, including in the lane for route vehicles: para. 126 directly refers to this exception under para. 166. You may also ride on the shoulder or the pavement without endangering pedestrians, but children under 14 may not ride on the carriageway or in the lane for route vehicles."
+  },
+  {
+   "id": "m12-n006",
+   "answer": 1,
+   "q": "There is an intersection ahead and you are turning right. The lane for route vehicles is separated by a broken line. Path A is to move into this lane in advance; path B is to turn from your own lane, crossing the reserved lane at the intersection. Which is correct?",
+   "options": [
+    "Path A",
+    "Path B",
+    "Both paths",
+    "Neither"
+   ],
+   "explain": "With the amendments of 27.04.2026, para. 126 no longer allows you to move into the lane for route vehicles at a broken line, so path A is not allowed. Turn from your own lane: you cross the reserved lane at the intersection and give way to route vehicles and other public transport travelling in it ⟦61⟧."
+  },
+  {
+   "id": "m12-n007",
+   "answer": 0,
+   "q": "You are turning right and crossing the lane for route vehicles. A bus is approaching from behind in that lane. Who goes first?",
+   "options": [
+    "The bus",
+    "You: the bus is behind you and must give way to you",
+    "Whoever switched on their indicator first"
+   ],
+   "explain": "When turning right, a driver gives way to route vehicles and other public transport travelling in the lane marked with sign 5.9. Give way to the bus, and only then turn."
+  },
+  {
+   "id": "m12-n008",
+   "answer": 1,
+   "q": "You are turning right and crossing the lane for route vehicles. A taxi is approaching from behind in that lane. Who goes first?",
+   "options": [
+    "You: a taxi is not a route vehicle",
+    "The taxi",
+    "Whoever switched on their indicator first"
+   ],
+   "explain": "When turning, you must give way not only to route vehicles but also to other public transport travelling in the lane marked with sign 5.9. A taxi counts as public transport, so you must give way to it."
+  },
+  {
+   "id": "m12-n009",
+   "answer": 2,
+   "q": "You are exiting a yard, turning right onto a street where the right-hand lane is reserved for route vehicles and separated by a broken line. May you drive along this lane to the intersection, as shown by the arrow?",
+   "options": [
+    "Yes: you are allowed to move into this lane when joining the road",
+    "Yes, if there are no route vehicles nearby and the lane is free",
+    "No: you are not allowed to drive in the lane for route vehicles"
+   ],
+   "explain": "The Rules used to allow moving into such a lane when joining the road, but the current version of para. 126 (Ministry of Internal Affairs Order No. 305 of 27.04.2026) contains no such exception. When exiting the yard, give way to everyone travelling on the road, cross the reserved lane and move straight into the next one.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m12-n010",
+   "answer": 0,
+   "q": "You are driving on a road with sign 5.10.1: the far left lane is reserved for route vehicles travelling towards you. May you move into this lane to overtake a truck?",
+   "options": [
+    "No: other vehicles are not allowed to drive in this lane",
+    "Yes, if the oncoming bus is still far away and the overtaking will be quick",
+    "Yes, if you switch on main-beam headlights and the left indicator"
+   ],
+   "explain": "Sign 5.10.1 marks a road where route vehicles travel in a reserved lane against the general flow of traffic. Other vehicles must not drive or stop in this lane, so you cannot use it to overtake."
+  },
+  {
+   "id": "m12-n011",
+   "answer": 1,
+   "q": "You are a taxi driver. A passenger asks to be dropped off by the pavement, and the right-hand lane is reserved for route vehicles. Stopping here is not prohibited by signs or road markings. May you stop in the reserved lane to drop them off?",
+   "options": [
+    "No: only buses may stop in it",
+    "Yes: a taxi may both drive and stop in this lane",
+    "Yes, but with the hazard warning lights on and for no longer than a minute"
+   ],
+   "explain": "The ban in para. 126 on driving and stopping applies to other vehicles, not to public transport, and under the Rules a taxi counts as public transport. So a taxi may stop in this lane if stopping here is not prohibited by other rules."
+  },
+  {
+   "id": "m12-n012",
+   "answer": 2,
+   "q": "You are driving in town. Ahead of you, a trolleybus is moving off from a designated stop and changing into your lane. Who goes first?",
+   "options": [
+    "You: you are driving straight ahead and the trolleybus is changing lanes",
+    "Whoever is faster",
+    "The trolleybus"
+   ],
+   "explain": "In built-up areas, drivers give way to trolleybuses and buses that are running on their route and moving off from a designated stop. So the usual rule on changing lanes does not apply here, and the trolleybus goes first."
+  },
+  {
+   "id": "m12-n013",
+   "answer": 0,
+   "q": "You are driving on a road outside town. Ahead of you, a bus is moving off from a stop and changing into your lane. Who goes first?",
+   "options": [
+    "You: outside town, a bus changing lanes must give way itself",
+    "The bus: it is always given way to when leaving a stop",
+    "The bus: it has its left indicator switched on"
+   ],
+   "explain": "The duty to give way to buses and trolleybuses moving off from a stop applies only in built-up areas. Outside town, a bus that is changing lanes must itself give way to vehicles travelling in the same direction without changing direction. But stay alert: the bus driver may make a mistake."
+  },
+  {
+   "id": "m12-n014",
+   "answer": 0,
+   "q": "You are driving in town. Whom must you give way to?",
+   "options": [
+    "Only the bus",
+    "Only the green car",
+    "Both",
+    "Neither"
+   ],
+   "explain": "In a built-up area, you give way to the bus that is moving off from a designated stop. The green car is turning left into a yard outside an intersection and crossing your lane, so it must give way to you.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m12-n015",
+   "answer": 2,
+   "q": "You are driving in town. Ahead of you, a truck is moving off from the right-hand edge of the road and changing into your lane. Who goes first?",
+   "options": [
+    "The truck: it has its indicator on",
+    "The truck: in town, drivers give way to anyone moving off from the edge",
+    "You: the truck is changing lanes and must give way"
+   ],
+   "explain": "Special priority when moving off belongs only to buses and trolleybuses moving off from a designated stop. The truck is changing lanes and must give way to vehicles travelling in the same direction without changing direction."
+  },
+  {
+   "id": "m12-n016",
+   "answer": 3,
+   "q": "You are the driver of a route bus in town. The passengers have boarded and you have switched on the left indicator. When may you move off from the stop?",
+   "options": [
+    "As soon as you switch on the indicator: others must give way to you",
+    "Only when there is no car within 300 m behind you",
+    "After sounding the horn",
+    "Only after making sure that others are giving way to you"
+   ],
+   "explain": "Drivers in town must give way to a bus moving off from a designated stop. But the bus driver moves off only after making sure that others are really giving way: having priority does not give the right to create a dangerous situation."
+  },
+  {
+   "id": "m12-n017",
+   "answer": 1,
+   "q": "Outside an intersection, a tram is leaving the depot and crossing the carriageway. Which of you goes first?",
+   "options": [
+    "The tram: outside intersections it always has priority",
+    "You: a tram has no such priority when leaving the depot",
+    "Whoever reaches the point where the tracks cross first"
+   ],
+   "explain": "Outside intersections, where tram tracks cross the carriageway, a tram has priority over trackless vehicles, except when it is leaving the depot. Here the tram is leaving the depot, so it does not have that priority. Keep an eye on its driver all the same.",
+   "scene": {
+    "labels.0.text": "depot"
+   }
+  },
+  {
+   "id": "m12-n018",
+   "answer": 2,
+   "q": "You are driving on the main road (sign 2.1). Outside an intersection, tram tracks cross it, and a tram running on its route is approaching from the right. Who goes first?",
+   "options": [
+    "You: sign 2.1 gives you priority",
+    "Whoever reaches the tracks first",
+    "The tram"
+   ],
+   "explain": "The “Priority road” sign determines the order of passage at intersections. Outside intersections, where tram tracks cross the carriageway, a tram has priority over trackless vehicles, except when it is leaving the depot."
+  },
+  {
+   "id": "m12-n019",
+   "answer": 2,
+   "q": "It is a sunny day. You are entering a well-lit tunnel, and only the daytime running lights are on on your car. What should you do?",
+   "options": [
+    "Change nothing: the tunnel is already well lit",
+    "Switch on only the rear fog lamps, nothing else",
+    "Switch on the position lamps and dipped headlights",
+    "Switch on the hazard warning lights instead"
+   ],
+   "explain": "In tunnels, as during the hours of darkness, a moving motor vehicle must have its position lamps and dipped or main-beam headlights on, regardless of lighting. Daytime running lights are not enough for a tunnel."
+  },
+  {
+   "id": "m12-n020",
+   "answer": 3,
+   "q": "Twilight has fallen. You are driving along a town street where the street lights are already on. Which lights must be on?",
+   "options": [
+    "None: the street is well lit by the street lights",
+    "Only the daytime running lights, as by day",
+    "Only the position lamps: the street is lit",
+    "Position lamps and dipped headlights"
+   ],
+   "explain": "Twilight counts as a condition of poor visibility. In such conditions, regardless of how well the road is lit, a moving car must have its position lamps and headlights on, and on a lit street in a built-up area that means dipped headlights."
+  },
+  {
+   "id": "m12-n021",
+   "answer": 1,
+   "q": "It has got dark. You are riding a motorcycle on an unlit road outside town. Which lights must be on?",
+   "options": [
+    "Position lamps, and the headlight only when there are oncoming cars",
+    "Position lamps and a dipped or main-beam headlight",
+    "Only a rear light and reflective clothing",
+    "Only the hazard warning lights and position lamps"
+   ],
+   "explain": "During the hours of darkness, moving motor vehicles and mopeds must have their position lamps and main-beam or dipped headlights on. Reflective clothing is useful, but it does not replace headlights."
+  },
+  {
+   "id": "m12-n022",
+   "answer": 3,
+   "q": "At night, your faulty car is being towed using a tow rope. Which lights must be switched on on your car, the one being towed?",
+   "options": [
+    "None: only the towing vehicle needs its lights on",
+    "Dipped headlights and rear fog lamps",
+    "Only main-beam headlights",
+    "Position lamps and the hazard warning lights"
+   ],
+   "explain": "During the hours of darkness, a towed motor vehicle must have its position lamps on. In addition, while being towed, a motor vehicle must have its hazard warning lights on."
+  },
+  {
+   "id": "m12-n023",
+   "answer": 1,
+   "q": "It is night and you are driving along a lit street in town. There are no oncoming or same-direction vehicles. May you drive with main-beam headlights on?",
+   "options": [
+    "Yes: while there is no one nearby, main-beam headlights are allowed",
+    "No: on a lit road in town you need dipped headlights",
+    "Yes, if your speed does not exceed 40 km/h and there is no one around"
+   ],
+   "explain": "You switch from main-beam to dipped headlights in built-up areas if the road is lit, even when there is no one nearby. The street lights are enough, and main-beam headlights could dazzle a driver or pedestrian who suddenly appears."
+  },
+  {
+   "id": "m12-n024",
+   "answer": 0,
+   "q": "It is night and you are driving along an unlit street in a village. There are no oncoming or same-direction vehicles and no pedestrians. May you switch on main-beam headlights?",
+   "options": [
+    "Yes: the road is unlit and there is no one to dazzle",
+    "No: main-beam headlights are always prohibited in built-up areas",
+    "No, you may switch on only the front fog lamps"
+   ],
+   "explain": "You must switch from main-beam to dipped headlights in a built-up area only if the road is lit. On an unlit street, you may use main-beam headlights, but you switch to dipped as soon as there is a risk of dazzling oncoming or same-direction drivers."
+  },
+  {
+   "id": "m12-n025",
+   "answer": 3,
+   "q": "It is night on a road outside town and you are driving with main-beam headlights on. An oncoming driver 300 m away has flashed their headlights several times. What should you do?",
+   "options": [
+    "Switch only at 150 m, there is no need earlier",
+    "Switch off the headlights and drive with only the position lamps on",
+    "Flash your headlights back and continue with main-beam headlights",
+    "Switch to dipped headlights now, without waiting for 150 m"
+   ],
+   "explain": "When passing an oncoming vehicle, you switch from main-beam to dipped headlights at least 150 m before it, and even earlier if the driver of the oncoming vehicle shows by repeatedly flashing their headlights that you are dazzling them."
+  },
+  {
+   "id": "m12-n026",
+   "answer": 2,
+   "q": "It is night on a road outside town. You are about to overtake a truck. What light signal can you use to warn its driver?",
+   "options": [
+    "Switch on the hazard warning lights for a few seconds",
+    "Switch the rear fog lamps on and off several times",
+    "Switch the headlights from dipped to main-beam several times",
+    "Switch the position lamps off and on again several times"
+   ],
+   "explain": "During the hours of darkness, a signal of intent to overtake is given by repeatedly switching the headlights from dipped to main-beam. Outside a built-up area, you may also sound the horn."
+  },
+  {
+   "id": "m12-n027",
+   "answer": 3,
+   "q": "By day, outside town, you are about to overtake a truck. How do you give its driver a light signal of intent to overtake?",
+   "options": [
+    "Switch on main-beam headlights and keep them on until the overtaking is finished",
+    "Switch on the hazard warning lights for the duration of the overtaking",
+    "By day, no light signal is given, only the horn",
+    "Briefly switch the headlights on and off repeatedly"
+   ],
+   "explain": "During daylight hours, a light signal means briefly switching the headlights on and off repeatedly. During the hours of darkness, you instead switch several times from dipped to main-beam headlights."
+  },
+  {
+   "id": "m12-n028",
+   "answer": 0,
+   "q": "Outside a built-up area, you are about to overtake a truck. May you sound the horn to warn its driver?",
+   "options": [
+    "Yes, this is allowed outside built-up areas",
+    "No, the horn is allowed only to prevent a road traffic accident",
+    "No, the horn is prohibited outside town"
+   ],
+   "explain": "The horn is used to warn other drivers of an intention to overtake outside built-up areas, and when it is needed to prevent a road traffic accident. Your case is the first one."
+  },
+  {
+   "id": "m12-n029",
+   "answer": 1,
+   "q": "In town, you are about to overtake a slow truck. May you sound the horn to warn its driver that you are overtaking?",
+   "options": [
+    "Yes: you may warn of overtaking with the horn anywhere",
+    "No: the horn is not used for this in town",
+    "Yes, if the truck is travelling slower than 40 km/h in the right-hand lane"
+   ],
+   "explain": "Warning of an intention to overtake with the horn is allowed only outside built-up areas. In town, the horn is used only to prevent a road traffic accident, and you can warn of overtaking with a light signal instead."
+  },
+  {
+   "id": "m12-n030",
+   "answer": 2,
+   "q": "In town, a child who does not see you runs out onto the road right in front of you. May you sound the horn?",
+   "options": [
+    "No, the horn is always prohibited when driving in town",
+    "Only if the child is standing on a pedestrian crossing",
+    "Yes, when it is needed to prevent a road traffic accident"
+   ],
+   "explain": "The horn is allowed when it is needed to prevent a road traffic accident, including in town. Brake at the same time: the horn does not replace braking."
+  },
+  {
+   "id": "m12-n032",
+   "answer": 1,
+   "q": "By day, thick fog has descended and visibility is about 100 m. May you drive with the position lamps and front fog lamps on, without switching on dipped headlights?",
+   "options": [
+    "No: front fog lamps are switched on only together with dipped headlights",
+    "Yes: in fog, front fog lamps may be switched on by themselves",
+    "No: in fog you may switch on only the rear fog lamps"
+   ],
+   "explain": "In poor visibility, front fog lamps may be used either on their own or together with dipped or main-beam headlights. They may be switched on only when the position lamps are on."
+  },
+  {
+   "id": "m12-n033",
+   "answer": 2,
+   "q": "It is a clear night on an unlit road outside town. May you drive with only the position lamps and front fog lamps on, with dipped and main-beam headlights off?",
+   "options": [
+    "Yes: front fog lamps may be switched on without dipped headlights at any time",
+    "Yes, if there are no oncoming cars and your speed does not exceed 60 km/h",
+    "No: at night on such a road, only together with dipped or main-beam headlights"
+   ],
+   "explain": "During the hours of darkness, on unlit sections of road, front fog lamps are used only together with dipped or main-beam headlights. They may be switched on by themselves only in poor visibility: in fog, rain or snowfall."
+  },
+  {
+   "id": "m12-n034",
+   "answer": 0,
+   "q": "It is a clear day and you are driving outside town. May you switch on the front fog lamps instead of dipped headlights?",
+   "options": [
+    "Yes: by day they may be switched on instead of dipped headlights",
+    "No: front fog lamps are switched on only in fog, rain or snow",
+    "Yes, but only together with the rear fog lamps"
+   ],
+   "explain": "During daylight hours, a moving vehicle must have dipped headlights or daytime running lights on, and front fog lamps are allowed to be used instead of dipped headlights. The rear fog lamps are not switched on in clear weather."
+  },
+  {
+   "id": "m12-n035",
+   "answer": 1,
+   "q": "There is thick fog and the road is visible for less than 100 m. May you switch on the rear fog lamp?",
+   "options": [
+    "No: the rear fog lamp dazzles the drivers behind you",
+    "Yes: it may be switched on in poor visibility",
+    "Only if the brake lights or position lamps are not working"
+   ],
+   "explain": "Rear fog lamps are used only in poor visibility. Fog in which the road is visible for less than 300 m is exactly such a case: the bright lamp will help drivers behind you notice you in time."
+  },
+  {
+   "id": "m12-n036",
+   "answer": 2,
+   "q": "At night, you have stopped by the pavement on a street well lit by street lights. Visibility is good. Must you leave the position lamps on?",
+   "options": [
+    "Yes: at night, position lamps are compulsory whenever you stop",
+    "Yes, and dipped headlights are compulsory together with them",
+    "No: the street is lit and visibility is good"
+   ],
+   "explain": "When stopping or parking during the hours of darkness, position lamps are switched on on unlit sections of road and also in poor visibility. The street is lit and visibility is good, so this requirement does not apply here."
+  },
+  {
+   "id": "m12-n037",
+   "answer": 0,
+   "q": "By day, in thick fog, you have stopped on the shoulder. Which lights must you switch on?",
+   "options": [
+    "Position lamps (you may add dipped headlights and front fog lamps)",
+    "None: it is currently daylight, so no lights are needed while parked",
+    "Main-beam headlights, so that the car can be seen through the fog",
+    "Only the rear fog lamp, without the position lamps"
+   ],
+   "explain": "When stopping or parking in poor visibility, the position lamps are switched on, even by day. In addition to them, you may switch on dipped headlights, front fog lamps and rear fog lamps."
+  },
+  {
+   "id": "m12-n038",
+   "answer": 1,
+   "q": "At night, on an unlit road outside town, you need to stop, but the position lamps are not working. What should you do?",
+   "options": [
+    "Stop at the edge of the carriageway and switch on main-beam headlights so that the car can be seen",
+    "Move off the road; if that is not possible, switch on the hazard warning lights and put out the warning triangle",
+    "Stop on the shoulder and switch on nothing: with the engine off, no lights are needed",
+    "Stop on the shoulder and leave the front fog lamps on instead of the position lamps"
+   ],
+   "explain": "If the position lamps are faulty, the vehicle is moved off the road. If that is not possible, it is marked in accordance with paras. 44 and 45: the hazard warning lights are switched on and a warning triangle is put out (outside a built-up area, no closer than 30 m from the car)."
+  },
+  {
+   "id": "m12-n039",
+   "answer": 0,
+   "q": "At night, outside town, you are using a spotlight. An oncoming car is approaching. May you keep using the spotlight?",
+   "options": [
+    "No: it is used only when there are no oncoming vehicles",
+    "Yes: outside built-up areas, a spotlight may always be used",
+    "Yes, if you point the beam to the right so as not to dazzle the oncoming driver"
+   ],
+   "explain": "A spotlight or searchlight may be used only outside built-up areas and only when there are no oncoming vehicles. A car is coming towards you, so you must switch off the spotlight."
+  },
+  {
+   "id": "m12-n040",
+   "answer": 3,
+   "q": "At night, on an unlit road outside town, a blue car is overtaking you. You are driving with main-beam headlights on. What should you do?",
+   "options": [
+    "Leave the lights as they are: main-beam only bothers oncoming drivers",
+    "Switch off the headlights and drive with only the position lamps on",
+    "Switch on the rear fog lamps so that the overtaking driver can see you",
+    "Switch to dipped headlights so as not to dazzle the overtaking driver"
+   ],
+   "explain": "You switch from main-beam to dipped headlights whenever you could dazzle the drivers of oncoming or same-direction vehicles. The overtaking driver will end up ahead of you, and your main-beam headlights will dazzle them through their mirrors."
+  },
+  {
+   "id": "m12-n041",
+   "answer": 3,
+   "q": "What visibility do the Rules consider poor?",
+   "options": [
+    "Less than 100 m in fog, rain, snowfall or dust, but not at twilight",
+    "Less than 500 m in fog, rain or snow, and also at night",
+    "Less than 150 m at night and at twilight, regardless of weather",
+    "Less than 300 m in fog, rain, snow or dust, and also at twilight"
+   ],
+   "explain": "Poor visibility means the road is visible for less than 300 m because of fog, rain, dust, snowfall and the like, and also at twilight. This determines which lights you must switch on and whether you may use the fog lamps."
+  },
+  {
+   "id": "m12-n042",
+   "answer": 1,
+   "q": "What do the Rules call the hours of darkness?",
+   "options": [
+    "The time from 22:00 to 6:00, regardless of the time of year",
+    "From the end of evening twilight to the start of morning twilight",
+    "Any time when the street lights are on",
+    "The time from sunset to sunrise, including twilight"
+   ],
+   "explain": "The hours of darkness are the period from the end of evening twilight to the beginning of morning twilight. Twilight itself is not part of it, but it is a condition of poor visibility, and headlights must be switched on then too."
+  },
+  {
+   "id": "m12-n043",
+   "answer": 2,
+   "q": "What must be on on a moving bicycle during the hours of darkness?",
+   "options": [
+    "Nothing: a bicycle is not a vehicle",
+    "Only reflectors on the wheels",
+    "A headlight or a lamp",
+    "The hazard warning lights"
+   ],
+   "explain": "During the hours of darkness, in poor visibility and in tunnels, a bicycle must have a headlight or a lamp on. This makes the cyclist visible from far away."
+  },
+  {
+   "id": "m12-n044",
+   "answer": 3,
+   "q": "Which lights are switched on on a horse-drawn cart during the hours of darkness?",
+   "options": [
+    "Position lamps and main-beam headlights",
+    "There are no requirements",
+    "A flashing amber beacon",
+    "Lamps, if fitted"
+   ],
+   "explain": "On horse-drawn carts, during the hours of darkness, in poor visibility and in tunnels, lamps are switched on, if fitted."
+  },
+  {
+   "id": "m12-n045",
+   "answer": 0,
+   "q": "At night, you are driving with a trailer. What must be lit on the trailer?",
+   "options": [
+    "Position lamps",
+    "Dipped headlights",
+    "Nothing, the car's lights are enough",
+    "Fog lamps"
+   ],
+   "explain": "On trailers and towed motor vehicles, during the hours of darkness, in poor visibility and in tunnels, the position lamps are switched on."
+  },
+  {
+   "id": "m12-n046",
+   "answer": 0,
+   "q": "May the rear fog lamps be wired so that they light up together with the brake lights?",
+   "options": [
+    "No: they are not wired to the brake lights",
+    "Yes: this makes the car easier to see when braking in fog",
+    "Yes, but only on trucks and buses"
+   ],
+   "explain": "Rear fog lamps are not wired to the brake lights. They are used only in poor visibility."
+  },
+  {
+   "id": "m12-n047",
+   "answer": 2,
+   "q": "Which lights must be on together with the front fog lamps?",
+   "options": [
+    "Main-beam headlights",
+    "The hazard warning lights",
+    "Position lamps",
+    "The rear fog lamps"
+   ],
+   "explain": "Front fog lamps are switched on only when the position lamps are on, regardless of whether the main-beam or dipped headlights are lit."
+  },
+  {
+   "id": "m12-n048",
+   "answer": 3,
+   "q": "Who may use a spotlight in a built-up area?",
+   "options": [
+    "Any driver, if the street is unlit and there are no oncoming vehicles",
+    "Truck and bus drivers when loading or unloading in the dark",
+    "No one: a spotlight is prohibited for everyone in built-up areas",
+    "Drivers of emergency and special services on an official assignment"
+   ],
+   "explain": "In built-up areas, a spotlight or searchlight may be used only by drivers of vehicles of emergency and special services carrying out an official assignment. Everyone else may use one only outside built-up areas and when there are no oncoming vehicles."
+  },
+  {
+   "id": "m12-n049",
+   "answer": 1,
+   "q": "You are the driver of a road train. When must the “Road train” identification sign be switched on?",
+   "options": [
+    "Only during the hours of darkness and in fog, whether moving or parked",
+    "While moving, and also while stationary in the dark or in poor visibility",
+    "Only when stopping and parking during the hours of darkness",
+    "Only while moving outside built-up areas, day and night"
+   ],
+   "explain": "The “Road train” identification sign is switched on while a road train is moving. During the hours of darkness and in poor visibility, it is left on while stopped or parked too."
+  },
+  {
+   "id": "m12-n050",
+   "answer": 3,
+   "q": "The outlines of the sides and rear of which vehicles are marked with retroreflective material?",
+   "options": [
+    "All passenger cars and their category O1 trailers",
+    "Only vehicles of emergency and special services fitted with beacons",
+    "Only vehicles carrying dangerous or oversized goods",
+    "Buses, trucks and trailers of categories M2, M3, N2, N3, O2-O4"
+   ],
+   "explain": "The outlines of the sides and rear of vehicles of categories M2, M3, N2, N3, O2, O3 and O4 are marked with retroreflective material. The exceptions are process vehicles working within closed areas, and vehicles of peasant and farm enterprises used within those enterprises."
+  },
+  {
+   "id": "m12-n051",
+   "answer": 2,
+   "q": "On which of these vehicles is a flashing amber (orange or yellow) beacon switched on?",
+   "options": [
+    "On any taxi working during the hours of darkness",
+    "On a passenger car driven by a novice driver",
+    "On a bus carrying an organised group of children",
+    "On a motorcycle riding in a group"
+   ],
+   "explain": "A flashing amber (orange or yellow) beacon is switched on, in particular, on buses used to carry organised groups of children, on vehicles used in road construction, repair and cleaning, and on vehicles carrying overweight, oversized or dangerous goods."
+  },
+  {
+   "id": "m12-n052",
+   "answer": 3,
+   "q": "You are a truck driver. In which case is a flashing amber (orange or yellow) beacon switched on your truck?",
+   "options": [
+    "Always during the hours of darkness and in poor visibility",
+    "When driving on a motorway at a speed below 40 km/h",
+    "When carrying people in the load body or any goods under a tarpaulin",
+    "When carrying an oversized or dangerous load"
+   ],
+   "explain": "An amber beacon is switched on on vehicles carrying overweight, oversized and dangerous goods, and on vehicles escorting such loads. An ordinary truck does not need one."
+  },
+  {
+   "id": "m12-n053",
+   "answer": 0,
+   "q": "In which cases is it allowed to use the horn?",
+   "options": [
+    "To warn of overtaking outside town and to prevent a road traffic accident",
+    "To warn of overtaking in town and to prevent a road traffic accident",
+    "Only to prevent a road traffic accident; overtaking is signalled with the headlights",
+    "Anywhere, if the sound is short and does not disturb residents"
+   ],
+   "explain": "The horn is used in only two cases: to warn other drivers of an intention to overtake outside built-up areas, and when it is needed to prevent a road traffic accident."
+  },
+  {
+   "id": "m12-n054",
+   "answer": 1,
+   "q": "Who is allowed to drive in the lane marked with this sign?",
+   "options": [
+    "Any vehicle, if the lane is separated by a broken line",
+    "Public transport, including taxis, and vehicles of category M3",
+    "Only route buses and trolleybuses, but not taxis",
+    "All vehicles at night, when route vehicles are not running"
+   ],
+   "explain": "This is sign 5.9, the “Lane for route vehicles” sign. Only public transport, including taxis, and other vehicles of category M3 may drive and stop in it, and the current version of para. 126 contains no exception for a broken line. Cyclists may also ride along the right-hand edge of this lane if there is no cycle track or cycle lane ⟦62⟧."
+  },
+  {
+   "id": "m12-n056",
+   "answer": 1,
+   "q": "Does a taxi count as public transport under the Road Traffic Rules?",
+   "options": [
+    "No: only buses and trolleybuses count as public transport here",
+    "Yes: the definition of public transport names taxis directly",
+    "Only a shared taxi that runs to a timetable"
+   ],
+   "explain": "Public transport is transport for general use that carries out regular and irregular road carriage of passengers and luggage, and also taxis. That is why a taxi may drive in the lane for route vehicles."
+  },
+  {
+   "id": "m12-n057",
+   "answer": 3,
+   "q": "What does this sign mean?",
+   "options": [
+    "Route vehicles travel in their own lane in the same direction as the general flow",
+    "Only route vehicles are allowed to travel on this road",
+    "The lane for route vehicles ends, and everyone may drive on",
+    "Route vehicles travel in their own lane against the general flow"
+   ],
+   "explain": "This is sign 5.10.1, the “Road with a lane for route vehicles” sign: route vehicles travel in a specially reserved lane against the general flow of traffic. Other vehicles must not drive or stop in this lane ⟦63⟧."
+  },
+  {
+   "id": "m12-n058",
+   "answer": 3,
+   "q": "Must you switch on your headlights during the hours of darkness if the road is well lit by street lights?",
+   "options": [
+    "No: position lamps are enough on a lit road",
+    "No, if your speed is below 40 km/h and the street is well lit",
+    "Only outside town: in town, daytime running lights are enough",
+    "Yes: headlights are switched on regardless of how well the road is lit"
+   ],
+   "explain": "During the hours of darkness, in poor visibility and in tunnels, a moving motor vehicle must have its position lamps and main-beam or dipped headlights on regardless of how well the road is lit. On a lit street in a built-up area, that means dipped headlights ⟦64⟧."
+  }
+ ]
+}

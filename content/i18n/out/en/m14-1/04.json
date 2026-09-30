@@ -1,0 +1,208 @@
+{
+ "questions": [
+  {
+   "id": "m14-n033",
+   "q": "Your road train with its load is 22 m long. Which identification sign is mandatory at the rear?",
+   "options": [
+    "“Oversized load”",
+    "“Long vehicle”",
+    "“Speed limit”",
+    "None, if the load does not extend beyond the vehicle's dimensions"
+   ],
+   "answer": 1,
+   "explain": "The “Long vehicle” sign is a yellow rectangle at least 1200×200 mm with a red border. It is fitted at the rear of vehicles whose length, with or without a load, exceeds 20 m (including with one trailer), and on road trains with two or more trailers."
+  },
+  {
+   "id": "m14-n034",
+   "q": "Who sets the procedure for carrying overweight, oversized and dangerous loads?",
+   "options": [
+    "The driver, together with the consignor",
+    "A police officer at the scene",
+    "The authorised transport authority",
+    "The owner of the load"
+   ],
+   "answer": 2,
+   "explain": "Such loads are carried under a special procedure set by the authorised transport authority. When the terms of carriage are agreed, a speed is also set that must not be exceeded."
+  },
+  {
+   "id": "m14-n035",
+   "q": "Your truck's height without a load is 3.2 m, and with a load it is 3.8 m. Can you continue along this road?",
+   "options": [
+    "Yes: the sign concerns the vehicle's height, which is 3.2 m",
+    "Yes, if you drive slowly along the middle of the road",
+    "Yes, if the load is soft and can flex slightly",
+    "No: the overall height with the load is what counts"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.13 prohibits the movement of vehicles whose overall height, with or without a load, exceeds the figure shown on the sign. With your load it is 3.8 m, so look for a detour: the load could strike a bridge or a pipeline."
+  },
+  {
+   "id": "m14-n036",
+   "q": "You are carrying a wide panel on a trailer; with the load, the width is 2.7 m. Can you continue along this road?",
+   "options": [
+    "No: sign 3.14 takes the width with the load into account",
+    "Yes: the vehicle and trailer without the load are already 2.5 m wide",
+    "Yes, in daylight",
+    "Yes, if you switch on the hazard warning lights"
+   ],
+   "answer": 0,
+   "explain": "Sign 3.14 prohibits the movement of vehicles whose overall width, with or without a load, exceeds the figure shown. You need a detour. In addition, a load extending more than 40 cm beyond the side is marked with the “Oversized load” sign."
+  },
+  {
+   "id": "m14-n037",
+   "q": "Ahead is sign 3.12 “Axle load limit” (6 t). The total mass of your loaded truck is 10 t, with 7 t on the rear axle. Can you continue?",
+   "options": [
+    "No: the load on the rear axle is 7 t, and the sign shows 6 t",
+    "Yes: on average, each axle carries only 5 t",
+    "Yes, if you drive slowly along the middle of the road",
+    "Yes, if there are no other vehicles ahead"
+   ],
+   "answer": 0,
+   "explain": "Sign 3.12 prohibits the movement of vehicles where the actual load on any axle exceeds the figure shown on the sign. The average does not count: the rear axle carries 7 t against a 6 t limit. That is why a load is distributed across the axles in advance."
+  },
+  {
+   "id": "m14-n038",
+   "q": "Ahead is sign 3.11 “Weight limit” (10 t). Your truck's mass without a load is 7 t, and with the load it is 12 t. Can you continue?",
+   "options": [
+    "Yes: the sign concerns the mass without the load, which is 7 t",
+    "Yes, if the load on each axle is less than 10 t",
+    "Yes, if vehicles cross one at a time and slowly",
+    "No: the mass with the load, 12 t, is more than 10 t"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.11 “Weight limit” prohibits the movement of vehicles and combinations whose total actual mass exceeds the figure shown on the sign. The mass with the load counts: 12 t is more than 10 t."
+  },
+  {
+   "id": "m14-n039",
+   "q": "You need to unload furniture by a building entrance; this will take about 20 minutes. Can you stop at the right-hand edge within the zone of this sign?",
+   "options": [
+    "No: longer than 5 minutes already counts as parking",
+    "Yes: unloading is stopping, not parking",
+    "Yes, but only for the first 5 minutes, then you must leave",
+    "No: sign 3.28 also prohibits stopping for trucks"
+   ],
+   "answer": 1,
+   "explain": "Stopping is ceasing to move for up to 5 minutes, or longer if this is needed for boarding or alighting passengers, or for loading or unloading. Unloading counts as stopping, not parking, so sign 3.28 does not prohibit it."
+  },
+  {
+   "id": "m14-n040",
+   "q": "An acquaintance asks for a ride standing on the step by the cab door of your tractor. Can you do this?",
+   "options": [
+    "Yes, if he holds tightly onto a handrail",
+    "Yes, but only on a field track, never on a paved highway",
+    "No: passengers are not carried outside a tractor's cab at all",
+    "Yes, if you drive at less than 20 km/h"
+   ],
+   "answer": 2,
+   "explain": "The Rules prohibit carrying passengers outside the cab of a tractor or self-propelled machine. A person could fall off the step under the wheels, especially on an uneven road."
+  },
+  {
+   "id": "m14-n041",
+   "q": "Where on a bus may load and passengers' luggage be carried?",
+   "options": [
+    "In the aisle, if it does not block the exit",
+    "Only in the luggage compartment",
+    "On the back seats, if they are free",
+    "Anywhere, as long as the load is secured"
+   ],
+   "answer": 1,
+   "explain": "Loads are carried on vehicles designed for that purpose, and on buses a load, including luggage, is not carried outside the luggage compartment. Bags in the aisle get in the way of evacuation and fly onto people during braking."
+  },
+  {
+   "id": "m14-n042",
+   "q": "Both drivers have stopped at the right-hand edge to let passengers out. Which of them stopped in accordance with the Rules?",
+   "options": [
+    "Only the blue one",
+    "Only the red one",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "The red vehicle stopped past sign 3.27 “No stopping”, that is, within its zone, where you may not even let a passenger out. The blue vehicle stands before the sign, where stopping is allowed. Passengers are let on and off only where stopping is not prohibited."
+  },
+  {
+   "id": "m14-n043",
+   "q": "In which of these cases may passengers be carried outside a car's cab?",
+   "options": [
+    "On a goods trailer with high sides and seats",
+    "In a caravan trailer, if it has seats with belts",
+    "In the load body of a goods motorcycle, if it has sides",
+    "In the load body of a flatbed truck or in a box body"
+   ],
+   "answer": 3,
+   "explain": "Para. 156 prohibits carrying passengers outside a vehicle's cab. An exception is made only for the flatbed load body of a truck and for a box body, and even then only if the requirements for fitting out the load body and for the driver are met. People are not carried on a goods trailer, in a caravan trailer or in the load body of a goods motorcycle."
+  },
+  {
+   "id": "m14-n044",
+   "q": "While driving, you notice that the load in the load body has shifted and is covering the rear lights. This cannot be fixed on the spot: a forklift is needed. What should you do?",
+   "options": [
+    "Keep driving with the hazard warning lights switched on",
+    "Keep driving, but only during daylight",
+    "Stop and not continue driving until the violation is corrected",
+    "Drive on to your destination without overtaking"
+   ],
+   "answer": 2,
+   "explain": "A load must not cover the external lights. If how the load is positioned does not meet the requirements, the driver must correct the violation, and if that is not possible, must not continue driving. Stop in a safe place and call for help."
+  },
+  {
+   "id": "m14-n045",
+   "q": "Which identification sign is mandatory on a vehicle carrying dangerous goods, and where is it fitted?",
+   "options": [
+    "The “Oversized load” sign, at the rear only",
+    "The “Long vehicle” sign, at the rear",
+    "The “Dangerous goods” sign, at the front and rear",
+    "The “Road train” sign, on the roof of the cab"
+   ],
+   "answer": 2,
+   "explain": "A vehicle carrying dangerous goods is marked with the “Dangerous goods” sign at the front and rear. This is an orange retroreflective rectangle, 300×400 mm, with a black border and markings showing the goods' hazardous properties. The procedure for carrying dangerous goods itself is set by the authorised transport authority."
+  },
+  {
+   "id": "m14-n046",
+   "q": "A bus with an amber flashing beacon is travelling ahead. It has yellow square signs with a red border and a picture of children at the front and rear. What does this mean?",
+   "options": [
+    "The bus is broken down and is on its way to be repaired",
+    "The bus is carrying an organised group of children: be especially careful",
+    "The bus is on an urgent mission and must be given priority, like an ambulance",
+    "It is a learner bus, and the driver is still learning"
+   ],
+   "answer": 1,
+   "explain": "Buses carrying organised groups of children are fitted with an amber flashing beacon, and the “Carriage of children” identification sign is fitted at both the front and rear. This does not give the bus priority the way a vehicle with a blue beacon and siren has, but children may appear on the road near such a bus."
+  },
+  {
+   "id": "m14-n047",
+   "q": "Ahead is sign 3.15 “Length limit” (10 m). The length of your road train with its load is 12 m. Can you continue?",
+   "options": [
+    "No: sign 3.15 counts the overall length with the load, which is over 10 m",
+    "Yes: without the load, the road train is shorter than 10 m",
+    "Yes, if you drive slowly with dipped headlights on",
+    "No: this sign prohibits the movement of all trucks and road trains"
+   ],
+   "answer": 0,
+   "explain": "This is sign 3.15 “Length limit”. It prohibits the movement of vehicles and combinations whose overall length, with or without a load, exceeds the figure shown on the sign. Yours is 12 m against a 10 m limit, so you need a detour. Other trucks shorter than 10 m may pass here."
+  },
+  {
+   "id": "m14-n048",
+   "q": "Ahead is sign 3.11 “Weight limit” (3.5 t). You are driving a car with a mass of 1.8 t, towing a loaded trailer with a mass of 1.9 t. Can you continue?",
+   "options": [
+    "Yes: both the car and the trailer are lighter than 3.5 t on their own",
+    "Yes, if you drive no faster than 40 km/h",
+    "No: this sign prohibits the movement of any car towing a trailer",
+    "No: the sign counts the combination's total actual mass, which is 3.7 t"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.11 prohibits the movement of vehicles, including combinations, whose total actual mass exceeds the figure shown on the sign. The vehicle is counted together with the trailer and its load: 1.8 + 1.9 = 3.7 t, which is more than 3.5 t. Look for a detour."
+  },
+  {
+   "id": "m14-n049",
+   "q": "You hold a licence with subcategory “D1”. You are 21 years old and have worked as a driver for 3 years, including 14 months on a subcategory “C1” truck. Can you be allowed to carry passengers on a subcategory “D1” minibus?",
+   "options": [
+    "No: passengers may be carried only from age 25",
+    "No: at least one year of experience specifically on “D1” is required first",
+    "Yes: your age, overall experience and “C1” experience meet the requirements",
+    "No: 5 years of experience in category “C” is required first"
+   ],
+   "answer": 2,
+   "explain": "Carrying passengers on subcategory “D1” vehicles (more than 8 but not more than 16 seats, not counting the driver) is allowed from age 21, with at least 3 years of experience working as a driver, including at least one year on “C1”. All the conditions are met here. The requirements for category “D” are different: from age 23, with at least one year on “D1”."
+  }
+ ]
+}

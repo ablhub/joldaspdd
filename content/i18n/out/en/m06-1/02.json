@@ -1,0 +1,234 @@
+{
+ "questions": [
+  {
+   "id": "m06-01",
+   "q": "You have turned right into a new street. When must you switch off the direction indicator?",
+   "options": [
+    "50-100 m after the turn",
+    "Immediately after completing the manoeuvre",
+    "When you reach the next intersection",
+    "You need not switch it off if there is another right turn ahead"
+   ],
+   "answer": 1,
+   "explain": "A signal is given in good time before the manoeuvre begins and cancelled immediately after it is completed. An indicator left on misleads other road users."
+  },
+  {
+   "id": "m06-02",
+   "q": "A car's direction indicators are not working. The driver has put their left arm out of the window and bent it upwards at the elbow at a right angle. What is the driver signalling?",
+   "options": [
+    "A left turn",
+    "Braking",
+    "A stop to pick up a passenger",
+    "A right turn"
+   ],
+   "answer": 3,
+   "explain": "The signal for a manoeuvre to the right is the right arm extended to the side, or the left arm extended to the side and bent upwards at the elbow at a right angle. Braking is shown by a raised arm."
+  },
+  {
+   "id": "m06-03",
+   "q": "You have switched on the left direction indicator to move into the left lane. Another car is travelling in that lane in the same direction without changing lanes. Who must give way?",
+   "options": [
+    "You: a turn signal gives no priority",
+    "The car in the left lane: you signalled first",
+    "The one driving more slowly",
+    "The one further to the left"
+   ],
+   "answer": 0,
+   "explain": "When changing lanes, a driver gives way to vehicles travelling in the same direction without changing direction. A switched-on direction indicator does not give priority."
+  },
+  {
+   "id": "m06-04",
+   "q": "You are driving in the left lane of a road with three lanes in one direction and moving into the middle lane. At the same time, a green car is moving into the middle lane from the right lane. Who gives way?",
+   "options": [
+    "The green car: you are on its left",
+    "The one driving faster",
+    "You: the green car is on your right",
+    "The one who switched on the indicator later"
+   ],
+   "answer": 2,
+   "explain": "When vehicles travelling in the same direction change lanes at the same time, the driver gives way to the vehicle on the right. Here the green car is on your right, so you give way."
+  },
+  {
+   "id": "m06-05",
+   "q": "You are turning right off the road into a yard. Pedestrians are walking across the pavement you are crossing. What should you do?",
+   "options": [
+    "Go first: pedestrians must let the car through",
+    "Give way to pedestrians whose path you cross",
+    "Sound the horn and drive slowly between them",
+    "Give way only to pedestrians with children"
+   ],
+   "answer": 1,
+   "explain": "When leaving a road, a driver gives way to vehicles and pedestrians whose path they cross.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m06-06",
+   "q": "On your left there are tram tracks for the same direction, level with the carriageway. There are no signs 5.8.1 or 5.8.2. You want to turn left at the intersection. Where should you turn from?",
+   "options": [
+    "From the tram tracks, giving way to the tram",
+    "From the left lane of the carriageway, without entering the tracks",
+    "From the right lane, after letting everyone go first",
+    "From the tram tracks: the tram must give way to you"
+   ],
+   "answer": 0,
+   "explain": "If there are tram tracks for the same direction on the left, level with the road, and signs 5.8.1 or 5.8.2 do not set lane directions, left turns and U-turns are made from these tracks. In doing so, the driver gives way to trams."
+  },
+  {
+   "id": "m06-07",
+   "q": "You want to make a U-turn outside an intersection, but the road is narrow and a U-turn from the far left position is not possible. What should you do?",
+   "options": [
+    "Turn from the far left position, giving way only to oncoming vehicles",
+    "Turn from the left-hand shoulder, giving way only to vehicles going your way",
+    "Turn from the middle of the road, with the hazard warning lights on",
+    "Turn from the right-hand shoulder, giving way to vehicles going both ways"
+   ],
+   "answer": 3,
+   "explain": "If the carriageway is too narrow for a U-turn from the far left position outside an intersection, the U-turn may be made only from the right edge (from the right-hand shoulder), and the driver gives way to vehicles travelling in the same direction and to oncoming vehicles."
+  },
+  {
+   "id": "m06-08",
+   "q": "In which of these places is a U-turn permitted if there are no prohibitory signs or markings?",
+   "options": [
+    "Under an overpass where visibility is good",
+    "At the location of a bus stop",
+    "On a straight road with 300 m visibility",
+    "In a tunnel with good lighting"
+   ],
+   "answer": 2,
+   "explain": "U-turns are prohibited on pedestrian crossings, in tunnels, on bridges, overpasses and flyovers and under them, on level crossings, where visibility is less than 100 m, and at bus (tram) stops. A straight road with 300 m visibility is not on this list."
+  },
+  {
+   "id": "m06-09",
+   "q": "You have driven past the turning you need at an intersection. May you reverse a little to make the turn?",
+   "options": [
+    "No, reversing at intersections is prohibited",
+    "Yes, if you switch on the hazard warning lights",
+    "Yes, if there are no vehicles behind you",
+    "Yes, but no more than 5 m"
+   ],
+   "answer": 0,
+   "explain": "Reversing is prohibited at intersections and in places where U-turns are prohibited. Drive on to a place where you can make a U-turn safely and legally."
+  },
+  {
+   "id": "m06-10",
+   "q": "You are about to turn right, and a deceleration lane begins before the turn. Where should you slow down?",
+   "options": [
+    "In the main lane, then move into the deceleration lane",
+    "Move into the deceleration lane in good time and slow down only there",
+    "During the turn itself",
+    "The deceleration lane is for trucks only; cars may brake in the main lane"
+   ],
+   "answer": 1,
+   "explain": "Where there is a deceleration lane, a driver intending to turn moves into it in good time and slows down only in that lane. This way you do not hold up the traffic in the main lane."
+  },
+  {
+   "id": "m06-11",
+   "q": "You are driving on a two-way road with two lanes in each direction. There is a slow truck ahead, and the left lane in your direction is occupied. May you overtake the truck using the oncoming side?",
+   "options": [
+    "Yes, if the oncoming side is clear for 300 m",
+    "Yes, if there is no solid line 1.1 on the road",
+    "Yes, if you do not exceed 90 km/h while overtaking",
+    "No: you must not enter the oncoming side here"
+   ],
+   "answer": 3,
+   "explain": "There are two lanes in each direction here, four in total. On such roads, driving onto the side for oncoming traffic is prohibited whatever the markings, so wait until the left lane in your direction is free."
+  },
+  {
+   "id": "m06-12",
+   "q": "You are driving outside a built-up area on a road with three lanes in your direction. Traffic is light, and you are not overtaking anyone or turning. Which lane should you use?",
+   "options": [
+    "The far left lane: it is the fastest",
+    "Any lane: the choice is the driver's",
+    "The far right lane, close to the right edge",
+    "The middle lane, so as not to impede those leaving the road"
+   ],
+   "answer": 2,
+   "explain": "Outside built-up areas, vehicles are driven close to the right edge, and the left lanes are not used while the right lanes are free. The far left lane is used only in heavy traffic, for overtaking, turning left or making a U-turn."
+  },
+  {
+   "id": "m06-13",
+   "q": "You are driving in town in the left lane, slower than the permitted speed. A faster car is approaching from behind and giving a warning signal. What should you do?",
+   "options": [
+    "Carry on: in town you may drive in any lane",
+    "Move to the right and free the lane",
+    "Speed up beyond the permitted speed so as not to hold it up",
+    "Slow down so that it drops back"
+   ],
+   "answer": 1,
+   "explain": "In built-up areas, you may drive in any lane, but a driver travelling in the left lane slower than the permitted speed must free it by moving to the right for a vehicle approaching from behind at a higher speed and giving warning signals."
+  },
+  {
+   "id": "m06-14",
+   "q": "A truck with a maximum authorised mass of 12 t is travelling on a road with three lanes in one direction. When may it use the far left lane?",
+   "options": [
+    "Only to turn left or make a U-turn",
+    "For overtaking and in heavy traffic",
+    "At any time, if the lane is free",
+    "Never"
+   ],
+   "answer": 0,
+   "explain": "On roads with three or more lanes in one direction, trucks with a maximum authorised mass of more than 3500 kg may use the far left lane only to turn left or make a U-turn."
+  },
+  {
+   "id": "m06-15",
+   "q": "You are stuck in a traffic jam in town. On the right there is a clear shoulder along which you could reach the turning you need. May you do this?",
+   "options": [
+    "Yes, if you switch on the hazard warning lights",
+    "Yes, if you drive no faster than 20 km/h",
+    "No, driving on shoulders is prohibited",
+    "Yes, if there are no pedestrians on the shoulder"
+   ],
+   "answer": 2,
+   "explain": "Driving vehicles on shoulders, pavements and footpaths is prohibited, except in cases expressly provided for by the Rules. Driving around a traffic jam is not one of them."
+  },
+  {
+   "id": "m06-16",
+   "q": "You are driving a car with a trailer (the combination is 9 m long) on a two-lane out-of-town road with two-way traffic. Traffic is light, and you do not intend to overtake. What distance should you keep to the vehicle in front?",
+   "options": [
+    "The minimum, so that nobody overtakes you",
+    "At least 50 m, whatever your speed",
+    "Any distance: for combinations, only lateral clearance matters",
+    "Enough for an overtaking car to pull in ahead of you"
+   ],
+   "answer": 3,
+   "explain": "Your combination is longer than 7 m, you are not preparing to overtake, and traffic is light. In this case, outside built-up areas on a two-lane road, you keep enough distance ahead for overtaking vehicles to move back into the lane they occupied before without hindrance."
+  },
+  {
+   "id": "m06-n001",
+   "q": "There are no signs or markings that set lane directions. You are driving in the right lane. On which paths may you drive through the intersection?",
+   "options": [
+    "Path B only",
+    "Paths A and B",
+    "Paths B and C",
+    "Any of the three"
+   ],
+   "answer": 1,
+   "explain": "You are in the far right lane: from here you may go straight on (A) and turn right (B). To turn left, you must take up the far left position in advance, that is, the left lane, so path C is not allowed ⟦69⟧."
+  },
+  {
+   "id": "m06-n002",
+   "q": "There are no signs or markings that set lane directions. You are driving in the left lane. On which paths may you drive through the intersection?",
+   "options": [
+    "Paths A and B",
+    "Path B only",
+    "Paths B and C",
+    "Any of the three"
+   ],
+   "answer": 0,
+   "explain": "From the far left lane, you may go straight on (A) and turn left (B). Right turns are made only from the far right position, so turn C across the right lane is prohibited ⟦70⟧."
+  },
+  {
+   "id": "m06-n003",
+   "q": "You are turning left from the far left lane. Which path must you follow for the turn?",
+   "options": [
+    "Path A",
+    "Either path",
+    "Path B"
+   ],
+   "answer": 2,
+   "explain": "A turn is made into the lane that corresponds to the one you occupy: from the far left lane you must end up in the far left lane of the road you are turning onto (B). Path A takes you straight into the right lane ⟦71⟧."
+  }
+ ]
+}

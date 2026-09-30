@@ -1,0 +1,221 @@
+{
+ "questions": [
+  {
+   "id": "m03-01",
+   "q": "You are approaching an uncontrolled pedestrian crossing. A pedestrian has just stepped onto the carriageway for your direction. What must you do?",
+   "options": [
+    "Drive through before they reach your lane",
+    "Sound the horn so that they stop",
+    "Give way to the pedestrian",
+    "Drive around behind them"
+   ],
+   "answer": 2,
+   "explain": "At an uncontrolled pedestrian crossing, the driver must give way to pedestrians crossing the carriageway for the driver's direction of travel."
+  },
+  {
+   "id": "m03-02",
+   "q": "You are driving in the left lane. In the right lane, a truck has stopped before an uncontrolled pedestrian crossing and is blocking your view. What should you do?",
+   "options": [
+    "Keep your speed: your lane is clear",
+    "Proceed only after making sure no pedestrians are in front of the truck",
+    "Move in behind the truck and wait until it has driven over the crossing",
+    "Sound the horn and drive over the crossing without slowing down"
+   ],
+   "answer": 1,
+   "explain": "If a vehicle has stopped or slowed down before an uncontrolled crossing, drivers in the adjacent lanes may continue only after making sure that there are no pedestrians in front of it."
+  },
+  {
+   "id": "m03-03",
+   "q": "Before an uncontrolled crossing, a car in the adjacent lane has slowed down. You can clearly see that there is no one in front of it or on the crossing. May you continue?",
+   "options": [
+    "Yes, since you have made sure no one is in front of it",
+    "No, you must stop without fail, like that car",
+    "No, you must wait until that car has gone through first"
+   ],
+   "answer": 0,
+   "explain": "The rule requires not a compulsory stop but a check: you may continue once you have made sure that there are no pedestrians in front of the vehicle that has stopped or slowed down."
+  },
+  {
+   "id": "m03-04",
+   "q": "At a controlled pedestrian crossing, your light has turned green. A pedestrian is still finishing crossing the carriageway for your direction. What should you do?",
+   "options": [
+    "Move off: your light is green",
+    "Sound the horn so that the pedestrian hurries up",
+    "Drive around behind the pedestrian without waiting for them to finish",
+    "Let the pedestrian finish crossing"
+   ],
+   "answer": 3,
+   "explain": "At a controlled crossing, when the signal permitting you to go comes on, the driver must give way to pedestrians finishing crossing the carriageway for the driver's direction."
+  },
+  {
+   "id": "m03-05",
+   "q": "You are approaching a pedestrian crossing on a green light. Right beyond the crossing, vehicles are stationary: there is a traffic jam and no room for you beyond the crossing. What should you do?",
+   "options": [
+    "Drive onto the crossing and wait there",
+    "Drive onto it if there are no pedestrians on the crossing",
+    "Do not drive onto the crossing; stop before it",
+    "Drive onto it with your hazard warning lights switched on"
+   ],
+   "answer": 2,
+   "explain": "Driving onto a pedestrian crossing is prohibited if there is a traffic jam beyond it that would force you to stop on the crossing."
+  },
+  {
+   "id": "m03-06",
+   "q": "Away from a pedestrian crossing, a person with a white cane starts crossing the road in front of you. What should you do?",
+   "options": [
+    "Drive on: away from a crossing, pedestrians must give way to vehicles",
+    "Sound the horn to warn them",
+    "Drive around them without slowing down",
+    "Let the pedestrian cross, stopping if necessary"
+   ],
+   "answer": 3,
+   "explain": "In all cases, including away from pedestrian crossings, the driver must give way to totally blind pedestrians signalling with a white cane."
+  },
+  {
+   "id": "m03-07",
+   "q": "A tram is standing at a stop without a boarding platform, and passengers are getting off directly onto the carriageway. You are travelling in the same direction. What must you do?",
+   "options": [
+    "Give way to pedestrians walking to and from the tram",
+    "Drive between the tram and the pavement, sounding the horn",
+    "Drive past slowly if no one is standing right in front of your car",
+    "Drive around the tram on the left in the oncoming lane"
+   ],
+   "answer": 0,
+   "explain": "The driver must give way to pedestrians walking to or from a route vehicle standing at a stop on the door side, if boarding and alighting take place from the carriageway.",
+   "scene": {
+    "labels.0.text": "tram"
+   }
+  },
+  {
+   "id": "m03-08",
+   "q": "You are approaching a stationary bus with the “Carriage of children” sign. There are children near it. What must you do?",
+   "options": [
+    "Drive past at the same speed, keeping a lateral clearance",
+    "Slow down, stop if necessary and let the children pass",
+    "Sound the horn and drive past",
+    "Stop only if the bus has its hazard warning lights on"
+   ],
+   "answer": 1,
+   "explain": "When approaching a stationary vehicle with the “Carriage of children” sign, the driver must slow down, stop if necessary and let the group of children pass."
+  },
+  {
+   "id": "m03-09",
+   "q": "You are driving on a road outside a built-up area with no pavements or shoulders. A pedestrian is walking along the edge of the carriageway. How must they walk under the Rules?",
+   "options": [
+    "Facing oncoming traffic",
+    "In the direction of traffic",
+    "On either side, whichever is more convenient",
+    "In the middle of the lane, so as to be more visible"
+   ],
+   "answer": 0,
+   "explain": "Outside built-up areas, when moving on the carriageway, pedestrians walk facing oncoming traffic."
+  },
+  {
+   "id": "m03-10",
+   "q": "Outside a built-up area, a person is pushing a bicycle along the edge of the carriageway. On which side and in which direction must they walk?",
+   "options": [
+    "On the left-hand side, facing oncoming traffic",
+    "On either side: they count as a pedestrian",
+    "On the right-hand side, in the direction of traffic"
+   ],
+   "answer": 2,
+   "explain": "A person pushing a motorcycle, moped or bicycle along the edge of the carriageway keeps to the right-hand side of the road in the direction of traffic. The “facing oncoming traffic” rule does not apply to them."
+  },
+  {
+   "id": "m03-11",
+   "q": "An organised group of pedestrians with escorts is walking on the right-hand side of the carriageway. You need to turn right, and the group is just passing the turning. What should you do?",
+   "options": [
+    "Drive through the group if there is a gap in it",
+    "Wait for the group to pass: crossing it is prohibited",
+    "Sound the horn so that the group stops",
+    "Join the group and move along with it up to the turning"
+   ],
+   "answer": 1,
+   "explain": "Drivers are prohibited from crossing organised convoys and organised groups of pedestrians, and from joining them."
+  },
+  {
+   "id": "m03-12",
+   "q": "A city street has a central reservation. A pedestrian wants to cross the street far from a pedestrian crossing. Is this allowed?",
+   "options": [
+    "Yes, if they cross at right angles and the road is clearly visible",
+    "Yes, if there are no vehicles nearby and they impede no one",
+    "Yes, if they wait on the central reservation for traffic to pass",
+    "No: with a central reservation in town, only at a crossing"
+   ],
+   "answer": 3,
+   "explain": "Crossing the carriageway away from a pedestrian crossing is not allowed where there is a central reservation in a built-up area, or where barriers are installed."
+  },
+  {
+   "id": "m03-13",
+   "q": "You have stopped by the pavement on the right to let a passenger out. Which side must they get out on?",
+   "options": [
+    "On the pavement side, and only after a full stop",
+    "On either side, as the car has already stopped",
+    "On the carriageway side, if that is closer for them",
+    "On the pavement side, even before a full stop if the speed is low"
+   ],
+   "answer": 0,
+   "explain": "Passengers get in and out on the pavement or shoulder side, and only after the vehicle has come to a full stop."
+  },
+  {
+   "id": "m03-14",
+   "q": "While the car is moving, the front-seat passenger wants to open the door slightly to free some clothing caught in it. Is this allowed?",
+   "options": [
+    "Yes, if the speed is low and the door is opened only a little",
+    "No: opening doors while the vehicle is moving is prohibited",
+    "Yes, if the driver does not object and is driving slowly",
+    "Yes, if there are no other vehicles behind or to the right"
+   ],
+   "answer": 1,
+   "explain": "Passengers are prohibited from opening the doors and from leaning out of windows and roof hatches while the vehicle is moving."
+  },
+  {
+   "id": "m03-n001",
+   "q": "A person is walking across an uncontrolled pedestrian crossing in front of you, pushing a bicycle beside them. What should you do?",
+   "options": [
+    "Drive on: a cyclist must give way to vehicles",
+    "Give way: they count as a pedestrian",
+    "Drive on if they have not yet reached the middle of your lane",
+    "Sound the horn so that they stop"
+   ],
+   "answer": 1,
+   "explain": "The person is walking across the zebra crossing in your lane. Someone pushing a bicycle is treated as a pedestrian, and the driver must give way to pedestrians at an uncontrolled crossing."
+  },
+  {
+   "id": "m03-n002",
+   "q": "The traffic light at a pedestrian crossing is flashing amber. A pedestrian has stepped off the pavement onto the crossing. What should you do?",
+   "options": [
+    "Drive on: a flashing amber light permits movement without restrictions",
+    "Give way: such a crossing counts as uncontrolled",
+    "Drive on if the pedestrian has not yet reached the middle of your lane",
+    "Stop only if the pedestrian signals with their hand"
+   ],
+   "answer": 1,
+   "explain": "A flashing amber signal means that the crossing is not controlled by the traffic light. So the rule for uncontrolled crossings applies: you must give way to a pedestrian who is crossing your carriageway."
+  },
+  {
+   "id": "m03-n003",
+   "q": "On a street with a central reservation, a pedestrian is walking across an uncontrolled crossing. Must you give way to them?",
+   "options": [
+    "Yes: they are crossing the carriageway for your direction",
+    "No: they have not yet reached your lane",
+    "No: they are crossing the carriageway for oncoming traffic",
+    "Yes, but only if they signal with their hand"
+   ],
+   "answer": 0,
+   "explain": "The pedestrian is already on the carriageway for your direction, to the right of the central reservation, and is walking towards your lane. You must give way to them, even if for now they are in the adjacent lane."
+  },
+  {
+   "id": "m03-n004",
+   "q": "On a street with a central reservation, a pedestrian is walking across an uncontrolled crossing. Must you give way to them?",
+   "options": [
+    "Yes: they are crossing the carriageway for your direction",
+    "No: they have not yet reached your lane",
+    "No: they are crossing the carriageway for oncoming traffic",
+    "Yes, but only if they signal with their hand"
+   ],
+   "answer": 2,
+   "explain": "The pedestrian is walking on the carriageway for oncoming traffic, beyond the central reservation, and is moving away from you. They are not crossing the carriageway for your direction, so you may continue without impeding them. It is the white car that must give way to them."
+  }
+ ]
+}

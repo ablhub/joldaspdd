@@ -1,0 +1,268 @@
+{
+ "questions": [
+  {
+   "id": "m04-n009",
+   "q": "The main signal is green, and the additional section with the right arrow is not lit. There are no signs at the intersection. In which directions may you go?",
+   "options": [
+    "All, including a right turn",
+    "Only to the right",
+    "Any except a right turn",
+    "Straight ahead only"
+   ],
+   "answer": 2,
+   "explain": "An unlit signal in the additional section prohibits movement in the direction it controls, that is, to the right. The other directions are permitted by the green main signal."
+  },
+  {
+   "id": "m04-n010",
+   "q": "The main signal is red. A left arrow is lit in an additional section, and the section with the right arrow is off. There are no signs. What are you permitted to do?",
+   "options": [
+    "Right turn, giving way to vehicles from other directions",
+    "Left and right turns, giving way to vehicles from other directions",
+    "Any direction, since one of the arrows is lit",
+    "Left turn and U-turn, giving way to vehicles from other directions"
+   ],
+   "answer": 3,
+   "explain": "A green left filter arrow permits a left turn and a U-turn, unless a sign prohibits the U-turn. The unlit section with the right arrow prohibits a right turn. The main signal is red, so you give way to vehicles coming from other directions."
+  },
+  {
+   "id": "m04-n011",
+   "q": "You are going straight ahead. A round green signal is lit for you, and the pedestrian traffic light next to it shows a red human silhouette. Which signal applies to you?",
+   "options": [
+    "The round green: a pedestrian silhouette is for pedestrians only",
+    "The red silhouette: it prohibits movement for both drivers and pedestrians",
+    "Both: you must first wait for the green silhouette",
+    "Neither: with two traffic lights, priority signs apply"
+   ],
+   "answer": 0,
+   "explain": "If a traffic light signal is in the form of a pedestrian silhouette, it applies only to pedestrians. The driver follows their own traffic light with round signals.",
+   "scene": {
+    "items.0.label": "for you",
+    "items.1.label": "pedestrian"
+   }
+  },
+  {
+   "id": "m04-n012",
+   "q": "Lane-control signals hang above the two lanes for your direction, as shown in the diagram. In which lane may you continue?",
+   "options": [
+    "The left lane only",
+    "Either lane",
+    "The right lane only",
+    "Neither lane"
+   ],
+   "answer": 2,
+   "explain": "A lane-control signal showing a red “X” prohibits movement in the lane it is placed above, and one showing a green arrow pointing down permits it. So you may drive only in the right lane.",
+   "scene": {
+    "items.0.label": "above the left lane",
+    "items.1.label": "above the right lane"
+   }
+  },
+  {
+   "id": "m04-n013",
+   "q": "You are driving in a lane where the lane-control signal above has switched to an amber arrow pointing diagonally down to the left. What does it mean?",
+   "options": [
+    "A left turn is permitted",
+    "You must stop under the signal",
+    "The lane stays open; the arrow only warns of road repairs ahead",
+    "The signal is about to change: change lanes to the left"
+   ],
+   "answer": 3,
+   "explain": "An amber arrow pointing diagonally indicates that the lane-control signal is about to change. You need to change lanes to the lane the arrow points to, that is, to the left one.",
+   "scene": {
+    "items.0.label": "above your lane"
+   }
+  },
+  {
+   "id": "m04-n014",
+   "q": "You are driving a tram. On the tram traffic light, the bottom signal and the top middle signal are lit. Where are you permitted to go?",
+   "options": [
+    "To the left",
+    "Straight ahead",
+    "To the right",
+    "Movement is prohibited"
+   ],
+   "answer": 1,
+   "explain": "A tram traffic light with four lunar white signals permits movement only when the bottom signal and at least one top signal are lit. The top middle signal permits movement straight ahead."
+  },
+  {
+   "id": "m04-n015",
+   "q": "You are driving a tram. On the tram traffic light, the top middle and top right signals are lit, but the bottom one is off. What should you do?",
+   "options": [
+    "Go straight ahead or right: two top signals are lit",
+    "Turn right only: the right signal takes precedence",
+    "Go straight ahead only: the middle signal takes precedence",
+    "Stay where you are: the bottom signal is not lit"
+   ],
+   "answer": 3,
+   "explain": "With this type of traffic light, movement is permitted only when the bottom signal is lit together with one or more top signals. The bottom one is not lit, so you may not go."
+  },
+  {
+   "id": "m04-n016",
+   "q": "You are driving a bus in a lane for route vehicles (bus lane). On the traffic light for this lane, the bottom and top left lunar white signals are lit. What does this mean?",
+   "options": [
+    "This signal is for trams only; a bus ignores it",
+    "Straight ahead and left are permitted",
+    "Only a left turn is permitted",
+    "Movement is prohibited"
+   ],
+   "answer": 2,
+   "explain": "Traffic lights with lunar white signals arranged in the shape of the letter “T” control not only trams but also public transport in a lane for route vehicles. The bottom and top left signals are lit, so only a left turn is permitted."
+  },
+  {
+   "id": "m04-n017",
+   "q": "You are in a passenger car. The light is red for you, while on the traffic light with lunar white signals arranged in the shape of the letter “T”, the bottom and top middle signals have come on. May you go straight ahead?",
+   "options": [
+    "No: your light is red; the “T” light is not for you",
+    "Yes: a lunar white signal takes precedence over a normal red",
+    "Yes, if no tram or bus is behind you",
+    "Yes, if you let the tram go first"
+   ],
+   "answer": 0,
+   "explain": "Single-colour traffic lights with four lunar white signals arranged in the shape of the letter “T” control trams, and also public transport in a lane for route vehicles. You are in an ordinary lane, so you obey the signals of your own traffic light.",
+   "scene": {
+    "items.0.label": "for you",
+    "items.1.label": "“T” light"
+   }
+  },
+  {
+   "id": "m04-n018",
+   "q": "You are approaching a level crossing. The traffic light is showing a flashing lunar white signal, and the red signals are not lit. What does this mean?",
+   "options": [
+    "The crossing is closed; a train is approaching",
+    "Movement over the crossing is permitted",
+    "The traffic light is faulty; wait for the attendant",
+    "Only trucks may drive over the crossing"
+   ],
+   "answer": 1,
+   "explain": "A round flashing lunar white signal at a level crossing permits vehicles to drive over the crossing.",
+   "scene": {
+    "items.0.label": "lunar white flashing"
+   }
+  },
+  {
+   "id": "m04-n019",
+   "q": "The traffic light at the level crossing is off: neither the red nor the lunar white signals are lit. There is no barrier and no attendant. When may you drive over the crossing?",
+   "options": [
+    "Never; you must look for another crossing",
+    "At any moment: the traffic light prohibits nothing",
+    "When you have made sure no train is approaching",
+    "Only after the train sounds its horn"
+   ],
+   "answer": 2,
+   "explain": "When the flashing lunar white and red signals are off, you may drive over the crossing if no train (locomotive, draisine) approaching the crossing is in sight. So look both ways before the tracks."
+  },
+  {
+   "id": "m04-n020",
+   "q": "At a level crossing, the red traffic light signals are flashing, but the barrier is still raised. No train is in sight yet. May you drive across?",
+   "options": [
+    "Yes, you may go while the barrier is up",
+    "Yes, if no train is visible in either direction",
+    "Yes, if you switch on the hazard warning lights",
+    "No: flashing red prohibits entering the crossing"
+   ],
+   "answer": 3,
+   "explain": "A flashing red signal prohibits movement. You must not drive over a level crossing when the traffic light shows a prohibiting signal, whether or not there is a barrier and whatever its position: the barrier may start to come down at any moment."
+  },
+  {
+   "id": "m04-n021",
+   "q": "Before a level crossing, an audible signal sounds together with the flashing red traffic light. What does it mean?",
+   "options": [
+    "The crossing is clear; you may go",
+    "It is meant for the train driver, not for motorists",
+    "It is an additional warning that movement is prohibited",
+    "The barrier is about to go up"
+   ],
+   "answer": 2,
+   "explain": "At level crossings, an audible signal may be given together with the flashing red traffic light signal. It additionally informs road users that movement over the crossing is prohibited.",
+   "scene": {
+    "items.0.label": "audible signal"
+   }
+  },
+  {
+   "id": "m04-n022",
+   "q": "Next to the green traffic light there is a digital display showing the number 5. What does it show?",
+   "options": [
+    "How many vehicles will get through the intersection on this green",
+    "How many seconds are left until the green goes out",
+    "The number of the traffic light installation",
+    "The recommended speed in tens of km/h"
+   ],
+   "answer": 1,
+   "explain": "The digital display tells drivers and pedestrians how many seconds are left before the green signal goes out. This helps you decide in advance whether you can get through or should stop smoothly.",
+   "scene": {
+    "labels.0.text": "display"
+   }
+  },
+  {
+   "id": "m04-n023",
+   "q": "Where are additional sections with green arrows placed on a traffic light with round signals?",
+   "options": [
+    "Above the red signal",
+    "Level with the amber signal",
+    "Under the traffic light, below all the main signals",
+    "Level with the round green signal"
+   ],
+   "answer": 3,
+   "explain": "Traffic lights with round signals may have one or two additional sections with green arrow signals. They are placed level with the round green signal, as in the diagram."
+  },
+  {
+   "id": "m04-n024",
+   "q": "A traffic light is mounted horizontally. Where is its red signal?",
+   "options": [
+    "On the right",
+    "On the left",
+    "In the middle",
+    "It varies from one traffic light to another"
+   ],
+   "answer": 1,
+   "explain": "When the signals are arranged horizontally, red is on the left and green on the right. On a vertical traffic light, red is at the top and green at the bottom. The order is fixed, so you can understand the signal even in bad weather."
+  },
+  {
+   "id": "m04-n025",
+   "q": "A round red traffic light signal has a black outline arrow pointing right on it. What does this mean?",
+   "options": [
+    "A right turn is permitted; the other directions are prohibited",
+    "The traffic light is faulty",
+    "You may turn right if you give way to pedestrians",
+    "It prohibits a right turn, just like a red arrow pointing right"
+   ],
+   "answer": 3,
+   "explain": "Instead of red and amber arrows, round red and amber signals with black outline arrows on them may be used. The meaning is the same as that of an arrow: red with a black arrow pointing right prohibits movement to the right."
+  },
+  {
+   "id": "m04-n026",
+   "q": "The main green signal has a black outline arrow pointing left, and next to it there is an additional section with a right arrow. What does the black arrow on the green tell you?",
+   "options": [
+    "You may not turn left while the right arrow is lit",
+    "Left is permitted by the main green, right by the section arrow",
+    "You may turn left only when the additional section is switched off",
+    "Nothing: it is just a decorative part of the signal"
+   ],
+   "answer": 1,
+   "explain": "A black outline arrow on the main green signal tells you that the traffic light has an additional section, and it shows permitted directions other than the one controlled by that section. Here the main signal permits a left turn, while the right turn is controlled by the additional section."
+  },
+  {
+   "id": "m04-n027",
+   "q": "You are about to turn left on a green signal. The traffic light is also showing a green signal in the shape of a “+”. What does it tell you?",
+   "options": [
+    "The signal for oncoming traffic is red",
+    "Oncoming traffic also has green; give way to it",
+    "Only a U-turn is permitted",
+    "There is a first aid station nearby"
+   ],
+   "answer": 0,
+   "explain": "A green “+”-shaped signal indicates that oncoming vehicles have a prohibiting red signal. Oncoming vehicles will not move now, but you must still give way to pedestrians on the carriageway you are crossing."
+  },
+  {
+   "id": "m04-n028",
+   "q": "You are turning left on green. The green “+” signal on the traffic light is not lit. What does this mean for you?",
+   "options": [
+    "Oncoming traffic has red, so you need not watch it",
+    "The traffic light is faulty; the intersection is now uncontrolled",
+    "Turning left is now prohibited",
+    "Oncoming traffic has green: give way to those going straight or right"
+   ],
+   "answer": 3,
+   "explain": "An unlit “+”-shaped signal indicates that oncoming traffic has a permitting green signal. So oncoming vehicles may move, and when turning left you give way to them."
+  }
+ ]
+}

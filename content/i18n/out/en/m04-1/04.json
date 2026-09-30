@@ -1,0 +1,235 @@
+{
+ "questions": [
+  {
+   "id": "m04-n029",
+   "q": "Why are the light signals of a traffic light at a pedestrian crossing sometimes supplemented by an audible signal?",
+   "options": [
+    "So that blind pedestrians know when they may cross",
+    "To hurry slow drivers along",
+    "To warn that a train is approaching",
+    "To draw the traffic controller's attention to the crossing"
+   ],
+   "answer": 0,
+   "explain": "To inform pedestrians who are completely blind that they may cross the carriageway, the light signals of a traffic light may be supplemented by an audible signal. When you hear it, be especially careful: there may be a blind person on the crossing.",
+   "scene": {
+    "items.0.label": "for vehicles",
+    "items.1.label": "for pedestrians"
+   }
+  },
+  {
+   "id": "m04-n030",
+   "q": "A separate traffic light with arrows is installed for turning left. It shows an amber arrow, while the main traffic light shows a round green signal. What are you permitted to do?",
+   "options": [
+    "Any direction, since the main signal is green",
+    "Only a left turn",
+    "Straight ahead and right, but not left for now",
+    "Nothing: amber prohibits everything"
+   ],
+   "answer": 2,
+   "explain": "An arrow has the same meaning as a round signal of the same colour, but only for its own direction. The amber arrow prohibits a left turn, while the main green permits going straight ahead and right.",
+   "scene": {
+    "items.0.label": "main",
+    "items.1.label": "left"
+   }
+  },
+  {
+   "id": "m04-n031",
+   "q": "The main signal is green, and a red arrow is lit on the separate traffic light for turning right. You want to turn right. What should you do?",
+   "options": [
+    "Turn: the main green signal takes precedence over the arrow",
+    "Wait: the red arrow prohibits the right turn specifically",
+    "Turn, giving way to pedestrians",
+    "Turn if there are no vehicles on the left"
+   ],
+   "answer": 1,
+   "explain": "A red arrow signal has the meaning of a red signal, but only for the direction of the arrow. A right turn is prohibited now, although you may go straight ahead.",
+   "scene": {
+    "items.0.label": "main",
+    "items.1.label": "right"
+   }
+  },
+  {
+   "id": "m04-n032",
+   "q": "The main signal is red, and the green filter arrow pointing right in the additional section has started flashing. What does this mean?",
+   "options": [
+    "A right turn is already prohibited; you must wait",
+    "Movement is now permitted in all directions",
+    "The arrow is flashing, which means the traffic light is faulty",
+    "A right turn is still permitted, but the arrow will soon go out"
+   ],
+   "answer": 3,
+   "explain": "Arrows have the same meaning as round signals of the same colour, but only for their own direction. A flashing green arrow still permits a right turn and warns that it will soon go out. With a red main signal, you give way to vehicles from other directions.",
+   "scene": {
+    "items.0.label": "arrow flashing"
+   }
+  },
+  {
+   "id": "m04-n033",
+   "q": "A red signal is lit for you, and a green arrow pointing right is lit in the additional section. On which path may you continue?",
+   "options": [
+    "Path A only",
+    "Paths A and B",
+    "Any path",
+    "None of them"
+   ],
+   "answer": 0,
+   "explain": "The main signal is red for you, and it prohibits going straight ahead and turning left. The green arrow in the additional section permits only a right turn, that is, path A, and you must give way to vehicles from other directions."
+  },
+  {
+   "id": "m04-n034",
+   "q": "You are cycling straight across an intersection. The light for vehicles is green, but the traffic light with smaller round signals and a white plate showing a black bicycle is red. What should you do?",
+   "options": [
+    "Stop: this traffic light is for cyclists",
+    "Go: the main green signal applies to everyone",
+    "Go, but give way to all motor vehicles",
+    "Go if there is no one at the intersection"
+   ],
+   "answer": 0,
+   "explain": "A traffic light with smaller round signals and a white plate showing a black bicycle controls cyclists ⟦51⟧. You are on a bicycle, so you obey its red signal, not the main green signal for vehicles."
+  },
+  {
+   "id": "m04-n035",
+   "q": "The main signal is red for you, and you are turning right on the green filter arrow. To whom must you give way?",
+   "options": [
+    "Only the green car",
+    "Only the white car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 3,
+   "explain": "To give way means not to impede those whose path you cross. The green car is turning right into the street you are coming from, and the white car is going straight ahead on the far half of the road. Neither of them crosses your path, so you may turn."
+  },
+  {
+   "id": "m04-n037",
+   "q": "Your light is green, and you are going straight ahead. On the right, a tram is turning right onto your road on a green filter arrow, while its main signal is red. Who goes first?",
+   "options": [
+    "The tram: it has priority whatever its direction",
+    "You: a tram on a filter arrow with red gives way",
+    "The tram: it is approaching from your right",
+    "Whoever enters the intersection first"
+   ],
+   "answer": 1,
+   "explain": "Normally a tram has priority if the signal permits both the tram and trackless vehicles to move. But when a tram moves on a filter arrow shown together with a red or amber signal, it gives way to vehicles from other directions ⟦52⟧. You have the main green, so you go first."
+  },
+  {
+   "id": "m04-n038",
+   "q": "The light has just turned green for you. The white car has not yet finished crossing the intersection. What should you do?",
+   "options": [
+    "Go: the green signal gives you priority",
+    "Sound the horn and go",
+    "Let the white car through, then go",
+    "Wait for the next green signal"
+   ],
+   "answer": 2,
+   "explain": "When a permitting signal comes on, the driver gives way to vehicles finishing their movement through the intersection. The white car entered the intersection earlier, so let it leave."
+  },
+  {
+   "id": "m04-n039",
+   "q": "The light has turned green for you. A pedestrian has not yet finished crossing right in front of your car. What should you do?",
+   "options": [
+    "Go: the pedestrian's light is already red",
+    "Sound the horn to hurry them up",
+    "Drive around behind the pedestrian",
+    "Wait until the pedestrian has passed"
+   ],
+   "answer": 3,
+   "explain": "When a permitting signal comes on, the driver gives way to pedestrians who have not finished crossing the carriageway for that direction. The pedestrian is right in front of you, so wait until they have left your lane."
+  },
+  {
+   "id": "m04-n041",
+   "q": "The traffic controller is standing with their back to you, right arm extended forward. On which paths may you continue?",
+   "options": [
+    "Path C only",
+    "Paths B and C",
+    "Any of the three",
+    "None of them"
+   ],
+   "answer": 3,
+   "explain": "You can see the traffic controller's back. With the right arm extended forward, all vehicles approaching from the back and the right side are prohibited from moving, and this includes turning right."
+  },
+  {
+   "id": "m04-n042",
+   "q": "The traffic controller is facing you, right arm extended forward. On which paths may you continue?",
+   "options": [
+    "Path C only",
+    "Paths B and C",
+    "Any of the three",
+    "None of them"
+   ],
+   "answer": 0,
+   "explain": "With the right arm extended forward, all vehicles approaching from the chest may only turn right. The controller is facing you with the arm pointing in your direction, so you may only take path C."
+  },
+  {
+   "id": "m04-n043",
+   "q": "The traffic controller is standing with their left side towards you, right arm extended forward. You are turning right. What should you do?",
+   "options": [
+    "Turn without stopping: all directions are permitted for you",
+    "Stop: a right turn is prohibited from the left side",
+    "Turn right, giving way to pedestrians",
+    "Sound the horn at pedestrians and turn"
+   ],
+   "answer": 2,
+   "explain": "From the controller's left side, you may go in any direction. But at this time pedestrians are permitted to cross the carriageway behind the controller's back, and that is exactly where you are turning. When turning, a driver gives way to pedestrians crossing the carriageway they are turning into."
+  },
+  {
+   "id": "m04-n044",
+   "q": "The traffic controller is standing with their right side towards you, arms extended to the sides. You are turning right. What should you do?",
+   "options": [
+    "Stop: turns are prohibited with this signal",
+    "Turn without giving way: pedestrians may not cross now",
+    "First sound the horn, then turn",
+    "Turn right, giving way to pedestrians"
+   ],
+   "answer": 3,
+   "explain": "When the controller's side is towards you and the arms are extended to the sides, you may go straight ahead and right, and at this time pedestrians are also permitted to cross the carriageway. When turning right, you drive across the crossing where pedestrians are walking, and you give way to them."
+  },
+  {
+   "id": "m04-n045",
+   "q": "The traffic controller is facing the blue car, right arm extended forward. Which drivers does the controller permit to move?",
+   "options": [
+    "Only you",
+    "You and the blue car",
+    "You and the green car",
+    "Everyone"
+   ],
+   "answer": 1,
+   "explain": "You are approaching from the controller's left side, so you may go in any direction. The blue car faces the controller's chest, so it may only turn right, and it is turning right. The green car (right side) and the white car (back) are prohibited from moving, even turning right."
+  },
+  {
+   "id": "m04-n046",
+   "q": "The traffic controller is facing the blue car, arms extended to the sides. Which drivers does the controller permit to move?",
+   "options": [
+    "Only you",
+    "You and the blue car",
+    "You and the green car",
+    "Everyone"
+   ],
+   "answer": 2,
+   "explain": "The arms are extended to the sides. From the left and right sides, straight ahead and right are permitted: that means you and the green car, both going straight ahead. The blue car faces the controller's chest and the white car the controller's back, so they are prohibited from moving, even turning right."
+  },
+  {
+   "id": "m04-n047",
+   "q": "A traffic controller is directing traffic at the intersection, standing with their right side towards you, arms extended to the sides. There is a “Give way” sign in front of you. Who will go through the intersection first?",
+   "options": [
+    "You: the controller permits you to move",
+    "The blue car: it is driving on the main road",
+    "Both at once: your paths do not cross",
+    "Whoever reached the intersection first"
+   ],
+   "answer": 0,
+   "explain": "The traffic controller is standing side-on to you with arms extended to the sides, so you may go straight ahead and right. The blue car sees the controller's back, so it is prohibited from moving. A traffic controller's signals must be obeyed even if they contradict road signs, so priority signs do not determine who goes first here."
+  },
+  {
+   "id": "m04-n048",
+   "q": "The light is red for you, but the traffic controller is standing with their left side towards you, right arm extended forward. What should you do?",
+   "options": [
+    "Wait: the red traffic light prohibits movement for you",
+    "Go, but only to the right",
+    "Go in any direction: the controller's signal prevails",
+    "Wait until the traffic controller lowers their arm"
+   ],
+   "answer": 2,
+   "explain": "From the left side, with the right arm extended forward, trackless vehicles may go in all directions. Drivers obey a traffic controller's signals even if they contradict traffic light signals."
+  }
+ ]
+}

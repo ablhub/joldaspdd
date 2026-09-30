@@ -1,0 +1,197 @@
+{
+"meta": {
+ "title": "Trucks (C, C1)",
+ "pdd": "Rules: Chapters 2, 8-13, 15-17, 19, 20, 22, 23, 26 and Annex 1; Basic Provisions on Admitting Vehicles to Operation; List of Defects; Road Traffic Act, arts. 73-74; CAO arts. 590, 593; Examination Rules",
+ "summary": "You will learn which rules of the Road Traffic Rules apply specifically to trucks: speed, lanes, overtaking, weight and dimension limit signs, parking, level crossings, people in the load body, loads, identification signs, technical condition and the practical test for categories C and C1."
+},
+"lesson": [
+ {
+  "h": "Categories C and C1: which vehicles and trailers",
+  "p": [
+   "Subcategory C1 covers motor cars with a maximum authorised mass of more than 3500 kg but not more than 7500 kg (except buses of category D). Category C covers all motor cars heavier than 3500 kg, except buses. With both you may tow a trailer with a maximum authorised mass of not more than 750 kg. For a heavier trailer you need C1E or CE. A category C licence also entitles you to drive C1 ⟦19⟧.",
+   "You can get subcategory C1 from the age of 18. Category C is available from the age of 21, if you have at least three years of work experience as a driver, including at least one year on vehicles of subcategory C1 ⟦20⟧.",
+   "Almost all the rules for trucks are based on the maximum authorised mass. This is the mass of the vehicle in running order with its load, driver and passengers that the manufacturer has set as the maximum permitted. It is written in the documents and does not change whether the load body is empty or full. For a combination (a tractor unit with a trailer), the maximum authorised mass is the sum of the maximum authorised masses of all the units ⟦21⟧."
+  ],
+  "tip": "“3.5 t” in the Rules is almost always the maximum authorised mass, not what the vehicle weighs at the moment. The exception is signs 3.11 and 3.12: they refer to the actual mass."
+ },
+ {
+  "h": "Truck speed",
+  "p": [
+   "From 23 November 2025, trucks in built-up areas may go no faster than 50 km/h, like buses. Mass does not matter: the rule also covers a light van. Special modes set by signs (up to 90 km/h) are allowed by para. 73 only for the other vehicles, so a 3.24 sign showing 70 does not raise a truck’s limit in a built-up area ⟦22⟧.",
+   "Out of town, the limit depends on the mass and the type of road ⟦23⟧. A 3.24 sign with a higher number does not allow you to drive faster than these limits: it only restricts. If the number on the sign is lower than your limit, obey the sign.",
+   "A 3.24 sign placed before a built-up area applies only up to the 5.22 sign; after that a truck is limited to 50 km/h. And in a village whose entrance is marked by the 5.24 sign on a blue background, the rules for built-up areas do not apply on that road: a truck there drives by the out-of-town limits ⟦24⟧."
+  ],
+  "list": [
+   "Trucks up to 3.5 t: motorway 110, road with a central reservation 100, other roads 90 km/h.",
+   "Trucks over 3.5 t: 90 / 80 / 70 km/h.",
+   "People in the load body: no more than 60 km/h on any road, and 50 in a built-up area ⟦25⟧.",
+   "Towing a motor vehicle: no more than 50 km/h ⟦26⟧.",
+   "An overweight, oversized or dangerous load: no faster than the speed prescribed when the carriage is approved ⟦27⟧.",
+   "You must not exceed the maximum speed given in the technical specifications of your vehicle, or the number on the “Speed limit” identification sign, if one is fitted to the vehicle ⟦28⟧."
+  ],
+  "tip": "Three numbers for a heavy truck: built-up area 50, ordinary out-of-town road 70, motorway 90."
+ },
+ {
+  "h": "Lanes: where a heavy vehicle belongs",
+  "list": [
+   "On any road with three or more lanes in one direction, a truck heavier than 3500 kg uses the far left lane only to turn left or make a U-turn. It may not use it for overtaking or in heavy traffic in the right-hand lanes. Other vehicles are allowed to do this in heavy traffic ⟦29⟧.",
+   "If there are two lanes in your direction, this restriction does not apply: you may use the left lane for overtaking or driving around an obstacle, if it is safe ⟦30⟧.",
+   "On a motorway and on a road with the 5.3 “Road for motor vehicles” sign, trucks heavier than 3.5 t may not go beyond the second lane. Vehicles that by their technical specifications or condition cannot reach 40 km/h do not enter such roads at all ⟦31⟧.",
+   "A vehicle that drives no faster than 40 km/h or cannot go faster keeps to the far right lane, except when driving around an obstacle, overtaking and changing lanes before a left turn, a U-turn or a permitted stop on the left ⟦32⟧.",
+   "If because of its dimensions you cannot turn from the far position, you may move partly or fully into the adjacent lane, but only if it is safe and impedes nobody ⟦33⟧. Driving onto the pavement is prohibited ⟦34⟧."
+  ]
+ },
+ {
+  "h": "Overtaking and long vehicles",
+  "p": [
+   "The 3.22 “No overtaking by trucks” sign prohibits trucks with a maximum authorised mass of more than 3.5 t from overtaking all vehicles except single vehicles that are going slower than 30 km/h. A tractor going 35 km/h may no longer be overtaken. Driving faster than the adjacent lane within your own lane is not overtaking, and the sign does not prohibit it ⟦35⟧. In this zone, tractors may overtake only horse-drawn carts and bicycles ⟦36⟧.",
+   "The sign applies up to the nearest intersection (an exit from an adjacent area does not count as an intersection), and in a built-up area with no intersections, up to its end. The zone ends earlier at signs 3.23 or 3.31 or plate 7.2.1. A light truck up to 3.5 t is not affected by sign 3.22, but the 3.20 “No overtaking” sign applies to everyone."
+  ],
+  "list": [
+   "Outside built-up areas on two-lane roads, vehicles and combinations longer than 7 m, and vehicles for which a speed limit has been set, keep such a distance ahead that overtaking vehicles can return to their own lane in front of them. This is not required if you are preparing to overtake yourself, in heavy traffic, and in an organised convoy ⟦37⟧.",
+   "If you are in a slow-moving or oversized vehicle and it is hard to overtake you, out of town move as far right as possible and, if necessary, stop and let the vehicles that have gathered behind you pass ⟦38⟧.",
+   "When you are being overtaken, do not speed up and do not obstruct the overtaking ⟦39⟧."
+  ]
+ },
+ {
+  "h": "Signs for heavy and large vehicles",
+  "list": [
+   "3.4 “No trucks” - prohibited for trucks and combinations with a maximum authorised mass of more than 3.5 t (or more than the mass shown on the sign), and for tractors and self-propelled machines. For a combination, the sum of the maximum authorised masses of the towing vehicle and the trailer is counted. It does not apply to trucks with a slanted white stripe on the sides or to those designed to carry people.",
+   "3.7 “No vehicles with trailers” - prohibited for trucks and tractors with any trailers and for towing motor vehicles. It does not apply to a passenger car with a trailer.",
+   "3.11 “Weight limit” - prohibited if the total actual mass of the vehicle or combination is greater than the mass shown. 3.12 “Axle load limit” - prohibited if the actual load on at least one axle is greater than the value shown.",
+   "3.13 “Height limit”, 3.14 “Width limit”, 3.15 “Length limit” - the dimensions with the load are counted (for length, of the whole combination). 3.16 “Minimum distance” - you must not drive closer than the distance shown to the vehicle ahead.",
+   "3.32 - prohibited for vehicles with “Dangerous goods” signs. 3.33 - prohibited for those of them that are designed for explosive and flammable goods (classes 1, 2.2-2.4, 3.1, 3.2, 5.2). 4.4 “Passenger cars only” - trucks heavier than 3.5 t may not enter. Signs 5.30.1-5.30.5 show trucks a detour if one of the directions at an intersection is prohibited for them, and indicator 5.20.1 shows a detour around a section with signs 3.11-3.15.",
+   "Signs 3.2-3.8 and 4.4 do not apply to vehicles that serve businesses and citizens within the zone of the sign. Enter the zone and leave it at the intersection nearest to your destination.",
+   "Plate 7.4.1 with a truck silhouette extends the sign to trucks. For example, sign 3.16 with this plate requires a truck to keep its distance from any vehicle ahead, and does not apply to passenger cars.",
+   "With an amber or yellow beacon switched on (for example, when carrying an oversized load) you may, while observing safety, depart from signs and markings, except for signs 2.2, 2.4-2.6, 3.11-3.14, 3.17.2 and 3.20, and from paras. 63-67 and 118 ⟦40⟧."
+  ],
+  "tip": "3.4 looks at the documents (maximum authorised mass), and 3.11 looks at the scales (the actual mass right now)."
+ },
+ {
+  "h": "Stopping and parking a truck",
+  "list": [
+   "On the left side of a one-way road, a truck heavier than 3.5 t may only stop for loading or unloading; parking there is prohibited. To stand on the left for unloading, it may also use the far left lane ⟦41⟧. A truck up to 3.5 t may also park on the left. And in a built-up area on a two-way road with one lane in each direction and no tram tracks, parking on the left is also allowed for heavy trucks ⟦42⟧.",
+   "Only passenger cars, motorcycles, mopeds and bicycles may be placed on the edge of the pavement. A truck may not, even a light van ⟦43⟧.",
+   "In a residential zone and in residential courtyards, parking of trucks heavier than 3500 kg and of buses is allowed only in specially designated places marked by signs or road markings ⟦44⟧.",
+   "Out of town, for a long rest or an overnight stay, stop only on special areas or off the road ⟦45⟧.",
+   "On a motorway you may stop only at areas with signs 5.15 or 6.11 ⟦46⟧.",
+   "In a built-up area, do not stand with the engine running if it disturbs residents ⟦47⟧.",
+   "When leaving the vehicle, make sure it cannot move by itself ⟦48⟧. A truck heavier than 3.5 t must carry at least two wheel chocks ⟦49⟧."
+  ]
+ },
+ {
+  "h": "Level crossing",
+  "p": [
+   "A long vehicle needs a lot of room beyond a crossing. If there is a traffic jam beyond it and you may have to stop on the tracks, you must not enter, even if the barrier is raised ⟦50⟧. Before entering, work out whether the whole vehicle will fit beyond the tracks.",
+   "Machines and mechanisms in a non-transport position (for example, a mobile crane with the boom not stowed) may be moved across a crossing only with the permission of the head of the track section. The same subparagraph of para. 115 names slow-moving machines that go slower than 8 km/h and tractor-drawn skid sledges: they too may not cross a crossing on their own without such permission.",
+   "Driving around a queue in front of a crossing using the oncoming lane is prohibited, and so is overtaking within 100 m of the crossing ⟦51⟧. If your vehicle gets stuck on a crossing, immediately get the people out, clear the crossing, send helpers along the tracks for 1000 m and give the general alarm signal: one long and three short sounds of the horn ⟦52⟧."
+  ]
+ },
+ {
+  "h": "People in the load body",
+  "p": [
+   "People in a load body with a flatbed may be carried by a driver aged at least 25 who holds category C and has more than five years of experience on vehicles of this category. If there are more than 8 people, counting passengers in the cab, categories C and D are required ⟦53⟧.",
+   "The body is fitted with seats at a height of 0.3-0.5 m above the floor and no lower than 0.3 m below the top edge of the side. Seats next to the tailboard and the side boards are made with strong backrests. If children travel in the body, the sides must be at least 0.8 m above the floor (Basic Provisions, para. 5)."
+  ],
+  "list": [
+   "Before the journey, explain how to get in and out, and warn people that they must not stand or sit on the sides while the vehicle is moving ⟦54⟧.",
+   "In an unequipped load body, only people accompanying the load or travelling to collect it may ride, and only if they have a seat below the level of the sides ⟦55⟧.",
+   "Carry no more people than there are seats fitted in the body. People may not be carried on a goods trailer at all ⟦56⟧. Carrying passengers outside the cab in breach of the rules is punished by a fine of 10 MCI (CAO art. 593(1)-(2)).",
+   "When a truck is being towed on a coupling, nobody may be in its load body ⟦57⟧.",
+   "Organised groups of children are carried by buses ⟦58⟧."
+  ]
+ },
+ {
+  "h": "The load: mass, securing, dimensions",
+  "list": [
+   "The mass of the load and passengers and the axle loads must not exceed the manufacturer’s values ⟦59⟧.",
+   "The placement, securing and covering of the load are checked both before departure and on the way ⟦60⟧.",
+   "The load must not block the view, the lights or the number plates, hinder control or reduce the stability of the vehicle. If the placement cannot be corrected, you may not drive on ⟦61⟧. The fine for breaking the rules on the carriage of goods is 5 MCI (CAO art. 593(1)).",
+   "A projection of more than 1 m at the front or rear, or more than 0.4 m at the side from the outer edge of the position lamp, is marked with “Oversized load” signs: a 400x400 mm plate with red and white diagonal stripes. In the dark, a white lamp is added at the front and a red lamp or reflector at the rear ⟦62⟧.",
+   "Overweight, oversized and dangerous goods are carried under a special procedure. A vehicle carrying dangerous goods displays “Dangerous goods” signs at the front and rear ⟦63⟧.",
+   "Vehicles that carry such loads or escort them switch on an amber or yellow flashing beacon ⟦64⟧."
+  ]
+ },
+ {
+  "h": "Identification signs and number plate",
+  "list": [
+   "“Road train”: three amber lamps in a row on the cab roof with gaps of 150-300 mm. It is fitted to trucks and wheeled tractors (class 1.4 t and above) with trailers, and to articulated buses and trolleybuses (Basic Provisions, para. 9).",
+   "The “Road train” sign is switched on while driving, and in the hours of darkness and in poor visibility also while stopped or parked ⟦65⟧.",
+   "“Long vehicle”: a yellow rectangle with a red border at the rear. It is required if the length with one trailer is more than 20 m or there are two or more trailers (Basic Provisions, para. 9).",
+   "“Speed limit” (a reduced-size 3.24 sign) is fitted at the rear left on vehicles carrying an overweight or oversized load and on vehicles that are slow-moving by their technical specifications (Basic Provisions, para. 9).",
+   "The registration number is repeated on the rear wall of the load body of a truck, of a trailer (except trailers for passenger cars and motorcycles) and of a bus: the digits are at least 300 mm high (Basic Provisions, para. 3).",
+   "The side and rear outlines of vehicles of categories M2, M3, N2, N3, O2, O3, O4 are marked with retroreflective material ⟦66⟧. Without this marking, operation is prohibited ⟦67⟧."
+  ]
+ },
+ {
+  "h": "Technical condition: what to check",
+  "list": [
+   "With a non-working service braking system or steering, or a faulty road train coupling, you may not drive at all, even to a repair shop ⟦68⟧. The fine is 15 MCI (CAO art. 590(6)).",
+   "If another defect from the List of Defects appears on the way, fix it, and if you cannot, drive carefully to the place of parking or repair ⟦69⟧.",
+   "Tread: trucks - at least 1 mm (for a trailer, the same as the towing vehicle), buses - 2 mm, passenger cars - 1.6 mm. Steering wheel free play on a truck - no more than 25 degrees.",
+   "Brakes: from 40 km/h the braking distance is no more than 18.3 m for a truck and 19.5 m for a truck with a trailer. Air brakes: with the engine off, the pressure drops by no more than 0.05 MPa in 15 minutes, and the pressure gauge works.",
+   "The parking brake must hold a laden vehicle on a gradient of up to 16%, and a truck or road train in running order (unladen) on a gradient of up to 31%.",
+   "Mandatory: mudguards and a rear underrun protection device where provided by the design, a working speedometer, tachograph and body side locks, a first aid kit, a fire extinguisher, a warning triangle and, on trucks heavier than 3.5 t, two wheel chocks.",
+   "A trailer must be designed to work with your vehicle. A truck may not be driven without the mandatory technical inspection: the exception is made only for passenger cars (M1) up to 7 years old that are not used in business activity ⟦70⟧.",
+   "Carry a waybill and a document for the goods carried (a consignment note), unless they are registered in the unified transport documents management system ⟦71⟧."
+  ],
+  "tip": "Figures from the List of Defects for a truck: tread 1 mm, steering wheel free play 25 degrees, parking brake - 31% unladen."
+ },
+ {
+  "h": "Blind spots and turning a long vehicle",
+  "p": [
+   "From a high cab you cannot see what is directly under it and to the right side. A cyclist or a passenger car can hide entirely in the blind spot. Before changing lanes and turning, check all the mirrors and give way to those who are going the same direction without changing lanes. If you change lanes at the same time as another vehicle, the one who has the other vehicle on the right gives way ⟦72⟧.",
+   "In a turn, the rear wheels and the trailer follow a shorter arc than the cab and “cut” the corner. So enter the turn later and slower, and watch the inside of the turn in the mirror."
+  ],
+  "list": [
+   "When turning, give way to pedestrians crossing the carriageway you are turning into and to cyclists crossing it ⟦73⟧.",
+   "Do not enter an intersection if there is a traffic jam beyond it and your vehicle would be left standing in the intersection: a road train needs space for its whole length ⟦74⟧.",
+   "Reverse only if it is safe and impedes nobody. It is prohibited at intersections and where U-turns are prohibited. When reversing, switch on the hazard warning lights ⟦75⟧. If you are not sure that the way behind is clear, get out and look."
+  ]
+ },
+ {
+  "h": "Driving in an organised convoy",
+  "p": [
+   "If trucks travel in a convoy, for example when vehicles are led under escort in a snowstorm, the rules of Chapter 26 apply. The speed and the following distance are set by the convoy leader or the lead vehicle. The convoy drives in a single file nearer to the right edge, and without an escort it is divided into groups of no more than 5 vehicles with a gap in which a group can be overtaken ⟦76⟧."
+  ],
+  "list": [
+   "A convoy of more than 10 vehicles is escorted by at least two vehicles with blue or blue-and-red beacons ⟦77⟧.",
+   "Participants of the convoy may not overtake, leave it or stop on their own, except for a forced stop ⟦78⟧.",
+   "Before the start, everyone starts their engine and switches on dipped headlights or daytime running lights ⟦79⟧.",
+   "When the convoy stops on the road, everyone switches on the hazard warning lights. In poor visibility, and in the dark on an unlit road, position lamps are also on, and a road train also displays the “Road train” sign ⟦80⟧.",
+   "If you need to make an emergency stop, tell the leader by voice, gesture, radio and (or) by flashing the main-beam headlights and sounding the horn, then reduce speed smoothly ⟦81⟧."
+  ]
+ },
+ {
+  "h": "Practical test for C and C1",
+  "p": [
+   "The practical test is taken at the State Corporation’s automated test ground in a vehicle of the category for which the licence is issued. For C and C1 this is a truck with a maximum authorised mass of over 3500 kg ⟦82⟧.",
+   "For categories C and C1, the test ground zones are equipped to the same requirements as for B, B1, D, D1 ⟦83⟧. The exercises are the same: Start, Stopping and moving off on a slope, Crossing a pedestrian crossing, 90-degree turns, Snake, U-turn and parking, Reverse parallel parking, Passing a controlled intersection, Passing an uncontrolled level crossing, Acceleration lane, Emergency stop, Finish. The exact set and order are set by the layout of your test ground.",
+   "The automatic system assesses by penalty points: wheels touching control lines, stopping place, speed, direction indicators, seat belt and time ⟦84⟧. Each exercise is covered in detail in the “Test ground” section."
+  ],
+  "tip": "In a truck the rear axle is far from the cab: in the “Snake” and “90-degree turns” start turning the steering wheel later than in a car, and watch the rear wheels in the mirrors."
+ }
+],
+"keyFacts": [
+ "Trucks in built-up areas: no more than 50 km/h whatever the mass; a 3.24 sign with a higher number does not raise this limit, and in a village with the 5.24 sign the out-of-town limits apply ⟦1⟧",
+ "Out of town, trucks over 3.5 t: motorway 90, road with a central reservation 80, other roads 70 km/h; up to 3.5 t - 110 / 100 / 90 km/h ⟦2⟧",
+ "People in the load body: a driver aged at least 25 with category C and more than 5 years of experience on it, more than 8 people including the cab - categories C and D, speed no more than 60 km/h ⟦3⟧",
+ "With three or more lanes in one direction, for a truck over 3500 kg the far left lane is only for turning left and making a U-turn, even in heavy traffic ⟦4⟧",
+ "On a motorway and on a road with the 5.3 sign, trucks over 3.5 t may not go beyond the second lane ⟦5⟧",
+ "Sign 3.22 prohibits trucks over 3.5 t from overtaking all vehicles except single ones going slower than 30 km/h; it applies up to the nearest intersection, in a village without intersections up to its end, or up to signs 3.23, 3.31 ⟦6⟧",
+ "Sign 3.4 refers to the maximum authorised mass (for a combination, the sum), signs 3.11 and 3.12 refer to the actual mass and the axle load, 3.13-3.15 refer to the dimensions with the load ⟦7⟧",
+ "On the left side of a one-way road, a truck over 3.5 t may only stop for loading or unloading; a truck is not placed on the edge of the pavement ⟦8⟧",
+ "In a residential zone and in a residential courtyard, parking of trucks over 3500 kg is only in places designated for it ⟦9⟧",
+ "A load projecting more than 1 m at the front or rear, or more than 0.4 m at the side, is marked with the “Oversized load” sign ⟦10⟧",
+ "The “Road train” sign is lit while driving, and in the dark and in poor visibility also while parked; the “Long vehicle” sign is for a length of more than 20 m or two trailers ⟦11⟧",
+ "Truck tread - at least 1 mm, steering wheel free play - no more than 25 degrees, the parking brake holds an unladen truck on a gradient of up to 31% ⟦12⟧"
+],
+"mistakes": [
+ "“A light truck, or a 3.24 sign showing 70, lets you drive faster than 50 in a built-up area.” No: since 23.11.2025 all trucks in built-up areas are limited to 50 km/h, and the sign only restricts ⟦13⟧.",
+ "“A 3.24 sign showing 90 out of town allows a truck to drive at 90.” No: the sign only restricts, and a heavy truck on an ordinary road may go no more than 70 km/h ⟦14⟧.",
+ "“Sign 3.11 is checked against the mass in the vehicle registration certificate.” No: 3.11 counts the actual mass of the vehicle with its load right now, while the maximum authorised mass is taken into account by sign 3.4 ⟦15⟧.",
+ "“A load projecting 50 cm at the rear must be marked.” No: at the front and rear the sign is needed for a projection of more than 1 m, and 40 cm is the limit for a projection at the side ⟦16⟧.",
+ "“In heavy traffic, a heavy truck may move into the far left lane.” No: with three or more lanes, for it this lane is only for turning left and making a U-turn, and on a motorway it may not go beyond the second lane ⟦17⟧.",
+ "“With a faulty coupling you can carefully drive to a repair shop.” No: with a faulty service braking system, steering or road train coupling you may not drive at all ⟦18⟧."
+]
+}

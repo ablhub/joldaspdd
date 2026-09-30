@@ -1,0 +1,244 @@
+{"questions": [
+{
+"id": "m24-024",
+"q": "You are driving a passenger car with a trailer past sign 3.22. Ahead, a passenger car is driving at about 50 km/h, the oncoming lane is free and the marking is broken. May you overtake it?",
+"options": [
+"No: the sign prohibits overtaking for all combinations",
+"Yes: the sign applies only to trucks heavier than 3.5 t",
+"No: with a trailer you may overtake only slow-moving vehicles",
+"Yes, but only if the trailer is lighter than 750 kg"
+],
+"answer": 1,
+"explain": "Sign 3.22 “No overtaking by trucks” applies to trucks with a maximum authorised mass of more than 3.5 t and to tractors. A passenger car with a trailer is not covered by it, so overtaking is possible under the general rules, if it is safe."
+},
+{
+"id": "m24-026",
+"q": "You are driving an articulated bus 18 m long along a city street with one lane in each direction. A passenger car behind you is waiting for a chance to overtake. Must you keep a gap in front of you so that it can move in ahead of you?",
+"options": [
+"No: this requirement applies only outside built-up areas",
+"Yes: this rule is for all vehicles longer than 7 metres",
+"Yes, but only in the dark and in fog",
+"No: this applies only to goods road trains"
+],
+"answer": 0,
+"explain": "Para. 70 requires a gap for overtaking vehicles to be kept outside built-up areas on two-way roads that have two lanes. You are driving in a built-up area, so this requirement does not apply to you. You must still keep a safe following distance to the vehicle ahead ⟦70⟧."
+},
+{
+"id": "m24-027",
+"q": "The actual load on each axle of your towing vehicle is no more than 5 t, and on the trailer axle it is 7 t. May you pass this sign?",
+"options": [
+"You may: only the load on the axles of the towing vehicle counts",
+"You may: the average load per axle is less than 6 t",
+"You may not: the trailer axle carries more than 6 t",
+"You may, if the total mass of the combination is less than 20 t"
+],
+"answer": 2,
+"explain": "Sign 3.12 “Axle load limit” prohibits passing if the actual load on even one axle is greater than the figure on the sign. The trailer axle counts too, so with a load of 7 t you may not pass."
+},
+{
+"id": "m24-028",
+"q": "You are driving a passenger car with a caravan. May you pass this sign?",
+"options": [
+"No: the sign prohibits any car with a trailer",
+"Yes, but only if the trailer is lighter than 750 kg",
+"No, if the combination is longer than 7 metres",
+"Yes: it is for trucks and tractors with a trailer"
+],
+"answer": 3,
+"explain": "Sign 3.7 “No vehicles with trailers” applies to trucks and tractors with trailers of any type, and to towing motor vehicles. It does not prohibit a passenger car with a caravan from passing."
+},
+{
+"id": "m24-029",
+"q": "You are driving a tractor unit with a semi-trailer in transit through this area. May you pass this sign?",
+"options": [
+"Yes: under the Rules a semi-trailer is not considered a trailer",
+"Yes, if the semi-trailer is empty",
+"No: the sign applies to trailers of any type",
+"Yes, but only in daylight"
+],
+"answer": 2,
+"explain": "Sign 3.7 prohibits trucks and tractors with trailers of any type, and under the Rules a semi-trailer is also a trailer. The only exception is for those who serve businesses or citizens in this zone, and you are driving in transit."
+},
+{
+"id": "m24-030",
+"q": "You are taking goods to a warehouse in a truck with a trailer. The warehouse is in a zone at whose start stands sign 3.7 “No vehicles with trailers”. What should you do?",
+"options": [
+"You must not enter: reload the goods onto a vehicle without a trailer",
+"You may enter from any intersection along the way",
+"You may enter by choosing the intersection nearest to the warehouse",
+"You may enter only with police permission"
+],
+"answer": 2,
+"explain": "Signs 3.2-3.8 do not apply to vehicles that serve businesses in the marked zone. But you must enter and leave the zone at the intersection nearest to your destination, and not drive through the whole zone.",
+"ref": "Annex 1, sign 3.7 (exceptions for signs 3.2-3.8)"
+},
+{
+"id": "m24-031",
+"q": "The service brake is tested on flat dry asphalt when braking from 40 km/h. What is the greatest braking distance permitted for a passenger car with a trailer?",
+"options": [
+"14.7 m",
+"18.3 m",
+"19.5 m",
+"25 m"
+],
+"answer": 0,
+"explain": "According to the table in the List of Defects, the braking distance from 40 km/h must not exceed 14.7 m for passenger cars, including those with a trailer. 18.3 m is the norm for trucks and buses, and 19.5 m for trucks with a trailer.",
+"ref": "List of Defects, ch. 1, table and para. 1"
+},
+{
+"id": "m24-032",
+"q": "Your road train is driving empty: the actual mass of the tractor unit with the semi-trailer is 15 t, and the maximum authorised mass of the combination is 40 t. May you pass this sign?",
+"options": [
+"You may not: the authorised mass of the combination is more than 20 t",
+"You may: the actual mass counts, which is 15 t",
+"You may not: the sign prohibits all road trains",
+"You may, but only if you uncouple the semi-trailer"
+],
+"answer": 1,
+"explain": "Sign 3.11 “Weight limit” prohibits passing if the total actual mass of the vehicle or combination is greater than the figure on the sign. Right now your combination weighs 15 t, so you may pass. The maximum authorised mass is taken into account by other signs, for example 3.4."
+},
+{
+"id": "m24-033",
+"q": "You are driving a passenger car with a trailer and want to park the combination where this sign with a plate stands. May you?",
+"options": [
+"You may: the prohibition applies only to trucks",
+"You may not: the sign prohibits parking of any combinations",
+"You may not, if the trailer is heavier than 750 kg",
+"You may, but only for up to 5 minutes"
+],
+"answer": 0,
+"explain": "Plate 7.4.1 limits the application of sign 3.28 “No parking” to trucks. A passenger car with a trailer is not a truck, so parking is not prohibited for it here, if there are no other prohibitions."
+},
+{
+"id": "m24-034",
+"q": "You are turning right in a road train. What should you do?",
+"options": [
+"Turn: pedestrians give way to a long combination themselves",
+"Let the pedestrians pass and only then turn",
+"Turn, sounding the horn at the pedestrians",
+"Turn while the pedestrians are in the middle of the road"
+],
+"answer": 1,
+"explain": "Pedestrians are crossing the road you are turning into, so you must give way to them. On a turn the trailer goes closer to the corner than the towing vehicle, so begin the turn only when the crossing is clear, and watch the trailer in the right-hand mirror."
+},
+{
+"id": "m24-035",
+"q": "You have subcategory C1. A trailer with a maximum authorised mass of 700 kg is coupled to your truck, whose maximum authorised mass is 6 t. Which licence is enough for this combination?",
+"options": [
+"C1E",
+"CE",
+"BE",
+"C1"
+],
+"answer": 3,
+"explain": "With subcategory C1, as with category C, you may pull a trailer with a maximum authorised mass of no more than 750 kg. A 700 kg trailer fits this norm, so C1E is not needed."
+},
+{
+"id": "m24-036",
+"q": "You are turning left in an articulated bus at an intersection of roads of equal status. Whom must you give way to?",
+"options": [
+"The blue car only",
+"The white car only",
+"Both",
+"Neither"
+],
+"answer": 2,
+"explain": "The white car is approaching from the right, and at an intersection of roads of equal status you give way to it. The blue car is driving straight ahead towards you, and when turning left you give way to oncoming vehicles that are going straight ahead or turning right. So you must give way to both."
+},
+{
+"id": "m24-037",
+"q": "An intersection of roads of equal status, and everyone is going straight ahead. In what order will the articulated bus, the white car and the blue car cross the intersection?",
+"options": [
+"Articulated bus, white car, blue car",
+"Blue car, articulated bus, white car",
+"White car, blue car, articulated bus",
+"Articulated bus, blue car, white car"
+],
+"answer": 1,
+"explain": "At an intersection of roads of equal status you give way to the vehicle approaching from the right. There is nobody to the right of the blue car, so it goes first. The bus gives way to the blue car, which is on its right, and the white car gives way to the bus. The order is: blue car, bus, white car."
+},
+{
+"id": "m24-038",
+"q": "You are reversing with a trailer, holding the steering wheel by the bottom of the rim. Where will the trailer go if you smoothly move your hand to the right?",
+"options": [
+"To the left",
+"To the right",
+"Straight: the trailer does not respond to the wheel"
+],
+"answer": 1,
+"explain": "The hand at the bottom of the wheel moves to the right, which means the wheel turns to the left, the coupling goes left and the rear of the trailer goes right. Hence a simple rule: the trailer goes where you move your hand at the bottom of the wheel. Move slowly and turn the wheel a little at a time.",
+"ref": "Test ground for combinations: reversing with a trailer (Brenderup guide)"
+},
+{
+"id": "m24-039",
+"q": "You have fitted a factory-made tow bar to your passenger car. Is this considered a conversion that needs approval?",
+"options": [
+"No: a factory-made tow bar is not a conversion",
+"Yes: any new equipment fitted counts as a conversion",
+"Yes, if the trailer will be heavier than 750 kg",
+"No, but only if an official dealer fitted it"
+],
+"answer": 0,
+"explain": "The List of Defects defines conversion as fitting or removing parts that affect safety, but expressly excludes the fitting of factory-made luggage racks and towing devices. A vehicle converted without approval must not be operated, while a factory-made tow bar can be fitted without it."
+},
+{
+"id": "m24-040",
+"q": "You need to move a tractor unit with a maximum authorised mass of 18 t without a semi-trailer. Which category is enough for this?",
+"options": [
+"CE",
+"C1",
+"C",
+"C1E"
+],
+"answer": 2,
+"explain": "Without a semi-trailer the tractor unit is an ordinary truck with a maximum authorised mass of more than 3500 kg, and category C is enough for it. CE is needed when a semi-trailer heavier than 750 kg is coupled to the tractor unit, and C1 suits only vehicles up to 7500 kg."
+},
+{
+"id": "m24-041",
+"q": "You are approaching a level crossing in a passenger car with a trailer. Do you need special permission to cross it?",
+"options": [
+"You need the permission of the head of the railway track section",
+"You do, if the combination is longer than 10 m",
+"You do, if the trailer is heavier than 750 kg",
+"You do not: the combination crosses under the general rules"
+],
+"answer": 3,
+"explain": "The special conditions of para. 115 concern machines and mechanisms in the non-transport position (they are moved with the permission of the head of the railway track section), slow-moving machines slower than 8 km/h and tractor-drawn sledges. A car with a trailer crosses under the general rules: following the signs, the traffic light and the barrier, and making sure that no train is approaching."
+},
+{
+"id": "m24-042",
+"q": "A D1 minibus weighs 3000 kg unladen. A goods trailer with a maximum authorised mass of 3500 kg is to be coupled to it. Which category do you need for this combination?",
+"options": [
+"DE",
+"D1E",
+"D1",
+"CE"
+],
+"answer": 0,
+"explain": "The trailer (3500 kg) is heavier than the unladen minibus (3000 kg), so the combination does not fit D1E. A minibus with more than 8 seats other than the driver’s also belongs to category D, and DE allows a trailer heavier than 750 kg."
+},
+{
+"id": "m24-043",
+"q": "You are driving a road train: a tractor unit heavier than 3.5 t with a semi-trailer. You want to leave it for 2 hours at the left edge of this one-way street. May you?",
+"options": [
+"You may: on a one-way street parking on the left is allowed",
+"You may not: on the left you may only stop for loading or unloading",
+"You may, if you switch on the hazard warning lights and position lamps",
+"You may not: road trains are prohibited from parking anywhere in a built-up area"
+],
+"answer": 1,
+"explain": "On the left side of a road with one-way traffic, a truck with a maximum authorised mass of more than 3.5 t may only stop for loading or unloading. For parking for 2 hours, look for a place on the right or a designated parking place."
+},
+{
+"id": "m24-044",
+"q": "You are driving a passenger car with a trailer and want to leave the combination for 2 hours at the left edge of this one-way street. May you?",
+"options": [
+"You may: parking is allowed here for a passenger car with a trailer",
+"You may not: on the left, combinations may only unload",
+"You may, but only if the trailer is lighter than 750 kg",
+"You may not: with a trailer parking is possible only on the right"
+],
+"answer": 0,
+"explain": "In a built-up area on a road with one-way traffic, stopping and parking are allowed at the left edge too. The restriction “only for loading or unloading” applies to trucks heavier than 3.5 t, not to a passenger car with a trailer."
+}
+]}

@@ -1,0 +1,184 @@
+{
+ "questions": [
+  {
+   "id": "m05-n021",
+   "q": "You are driving on a roundabout. An ambulance with its beacons and siren on is approaching the entry on the right. Who do you give way to?",
+   "options": [
+    "Only the ambulance",
+    "The ambulance and the green car",
+    "Only the green car",
+    "Nobody: you are already on the roundabout"
+   ],
+   "answer": 0,
+   "explain": "Normally, drivers entering a roundabout with sign 2.4 let those already driving round it go first. But everyone gives way to a vehicle with beacons and a siren on. The green car faces sign 2.4 and lets you go first."
+  },
+  {
+   "id": "m05-n022",
+   "q": "What should you do with the warning triangle if the hazard warning lights are faulty and the Rules require a triangle?",
+   "options": [
+    "Place the triangle immediately",
+    "Repair the hazard warning lights first, then place the triangle",
+    "No triangle is needed, since there are no hazard warning lights",
+    "Place the triangle only when it gets dark"
+   ],
+   "answer": 0,
+   "explain": "The warning triangle (or a flashing red lamp) is placed immediately: after the hazard warning lights are switched on, or straight away if they are faulty or missing. Without hazard warning lights, the triangle is especially important."
+  },
+  {
+   "id": "m05-n023",
+   "q": "An ambulance is going to a call with its beacon on but without a siren, and it crosses a solid line to drive around a traffic jam. Is the driver entitled to do this?",
+   "options": [
+    "No: without a siren the driver must obey all the Rules",
+    "Yes, if it is safe, but the ambulance has no priority",
+    "Yes, and all drivers must give way to it",
+    "No: emergency vehicles may never break the road markings"
+   ],
+   "answer": 1,
+   "explain": "With a flashing blue and (or) red beacon on during an urgent assignment, the driver of an emergency service may deviate from the requirements of Chapters 8-18 and from road markings, provided it is safe. To get priority over others, the driver must also switch on the siren."
+  },
+  {
+   "id": "m05-n024",
+   "q": "A road maintenance vehicle with its amber beacon on wants to drive around a section under repair via the oncoming lane, crossing a solid line, but a white car is already approaching close by from the opposite direction. May it perform the manoeuvre now?",
+   "options": [
+    "Yes: with an amber beacon the markings may be ignored",
+    "Yes: the white car must give way to it",
+    "No: it must let the white car pass first",
+    "Yes, if it switches on the hazard warning lights in advance"
+   ],
+   "answer": 2,
+   "explain": "A driver with an amber beacon may deviate from road markings, but only if it is safe and after making sure that this does not impede anyone. An amber beacon gives no priority, and the white car is not obliged to give way."
+  },
+  {
+   "id": "m05-n025",
+   "q": "Which requirements may the driver of an emergency vehicle with a blue beacon on deviate from during an urgent assignment, provided safety is ensured?",
+   "options": [
+    "Most rules and signs, but not the traffic controller's signals",
+    "Only speed limits, but not signs or road markings",
+    "Any requirements, including the traffic controller's signals",
+    "None: the beacon only warns that the vehicle is approaching"
+   ],
+   "answer": 0,
+   "explain": "Drivers of emergency and special services on an urgent assignment with a beacon on may deviate from the requirements of Chapter 5 (except the traffic controller's signals), Chapters 8-18 and Annexes 1-3, that is, from signs and road markings. There is one condition: they must ensure road safety."
+  },
+  {
+   "id": "m05-n026",
+   "q": "An ambulance driver has switched on the beacons and siren. When may the driver make use of the priority?",
+   "options": [
+    "Straight after switching on the siren, without waiting for a reaction",
+    "Only on a green traffic light",
+    "Only outside built-up areas, where speeds are higher",
+    "After making sure that others are giving way"
+   ],
+   "answer": 3,
+   "explain": "The beacon and siren give priority, but the driver of an emergency vehicle may use it only after making sure that others are giving way. Other drivers may not have heard the siren."
+  },
+  {
+   "id": "m05-n027",
+   "q": "What must the driver of an emergency vehicle switch on to get priority over other road users?",
+   "options": [
+    "Only a flashing blue or red beacon",
+    "A flashing blue and (or) red beacon and a siren",
+    "Only a siren, without a beacon",
+    "The hazard warning lights and main-beam headlights"
+   ],
+   "answer": 1,
+   "explain": "To get priority, the driver switches on a flashing blue and (or) red beacon and a siren. A beacon alone is not enough for this."
+  },
+  {
+   "id": "m05-n028",
+   "q": "Which of these signs must the driver of a vehicle with an amber beacon on obey even while working?",
+   "options": [
+    "3.27 “No stopping”",
+    "3.28 “No parking”",
+    "2.4 “Give way”",
+    "3.19 “No U-turn”"
+   ],
+   "answer": 2,
+   "explain": "With an amber beacon, the driver may deviate from most signs and road markings, but not from signs 2.2, 2.4, 2.5, 2.6, 3.11-3.14, 3.17.2 and 3.20. Such vehicles comply with the priority rules, the mass and dimension limits and the ban on overtaking."
+  },
+  {
+   "id": "m05-n029",
+   "q": "What colour flashing beacon are buses carrying organised groups of children fitted with?",
+   "options": [
+    "Amber",
+    "Blue",
+    "Red",
+    "Blue and red"
+   ],
+   "answer": 0,
+   "explain": "Buses carrying organised groups of children are fitted with an amber (yellow) flashing beacon, and “Carriage of children” signs are fitted at the front and rear. The amber beacon warns others but gives no priority in traffic."
+  },
+  {
+   "id": "m05-n030",
+   "q": "May you switch on the hazard warning lights in cases that are not on the list in para. 44?",
+   "options": [
+    "No, only in the cases on that list",
+    "Yes, to thank a driver who has let you through",
+    "Yes, to warn of a danger your car may create",
+    "Yes, to allow yourself to stop where it is not permitted"
+   ],
+   "answer": 2,
+   "explain": "Besides the listed cases, hazard warning lights are also switched on in other situations to warn road users of a danger that your vehicle may create. For example, when braking sharply at the back of a sudden traffic jam on a highway."
+  },
+  {
+   "id": "m05-n031",
+   "q": "Under the Rules, what may be placed instead of a warning triangle?",
+   "options": [
+    "Any bright object",
+    "The spare wheel",
+    "A phone torch switched on",
+    "A flashing red lamp"
+   ],
+   "answer": 3,
+   "explain": "Instead of a warning triangle, you may place a flashing red lamp. Its light must be clearly visible both in the daytime in sunny weather and in poor visibility."
+  },
+  {
+   "id": "m05-n032",
+   "q": "In which of these cases does para. 44 not require you to switch on the hazard warning lights?",
+   "options": [
+    "When reversing",
+    "When dazzled by headlights",
+    "When turning right at an intersection",
+    "On a motor vehicle that is being towed"
+   ],
+   "answer": 2,
+   "explain": "Hazard warning lights are mandatory in a road traffic accident, in a forced stop where stopping is prohibited, when reversing, when dazzled, on a towed vehicle, when stopping on an unlit section with faulty position lamps, and on a narrow shoulder outside a built-up area. For turning, there are direction indicators."
+  },
+  {
+   "id": "m05-n033",
+   "q": "In which cases is it mandatory to place a warning triangle?",
+   "options": [
+    "In an accident; in a forced stop where stopping is prohibited or visibility is under 100 m",
+    "In any forced stop, and outside built-up areas also whenever you stop on the shoulder",
+    "Only in accidents with casualties, and also in any stop during the hours of darkness",
+    "When reversing, when dazzled by headlights, and whenever you stop during the night"
+   ],
+   "answer": 0,
+   "explain": "A warning triangle or a flashing red lamp is mandatory in a road traffic accident and in a forced stop in places where stopping is prohibited or visibility of the road is less than 100 m in at least one direction."
+  },
+  {
+   "id": "m05-n034",
+   "q": "On which side of the car is the warning triangle placed?",
+   "options": [
+    "Always in front of the car, so that oncoming drivers can see it",
+    "Only on the shoulder, so as not to obstruct traffic",
+    "To the side of the car, next to the pavement or shoulder",
+    "On the side of greatest danger, on the carriageway"
+   ],
+   "answer": 3,
+   "explain": "The triangle is placed on the carriageway on the side of greatest danger. This is usually behind the car, where traffic travelling in the same direction comes from. If the car is standing beyond a bend, the triangle is placed so that it can be seen even before the bend."
+  },
+  {
+   "id": "m05-n035",
+   "q": "How do your duties differ when a vehicle with blue and red beacons is standing by the road and when it is approaching you with its siren on?",
+   "options": [
+    "They do not: in both cases you must stop at once",
+    "You may ignore the stationary one and give way to the moving one",
+    "Slow down for the stationary one and give way to the moving one",
+    "Give way to the stationary one; the moving one need not be let through"
+   ],
+   "answer": 2,
+   "explain": "When approaching a stationary vehicle with a flashing blue and (or) red beacon switched on, the driver slows down so as to be able to stop immediately if necessary. You give way to a vehicle that is approaching with a beacon and siren on."
+  }
+ ]
+}

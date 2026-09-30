@@ -1,0 +1,250 @@
+{
+ "questions": [
+  {
+   "id": "m25-001",
+   "q": "You are driving a tram. These signals have come on at the tram traffic light. What do they permit?",
+   "options": [
+    "Straight ahead and right",
+    "Movement is prohibited",
+    "Left and straight ahead",
+    "Straight ahead only"
+   ],
+   "answer": 2,
+   "explain": "The bottom signal and two top signals, the left and the middle one, are lit. On a T-shaped traffic light, the top left signal together with the bottom one permits a left turn and the middle one permits going straight ahead; the right one is not lit, so you may not turn right."
+  },
+  {
+   "id": "m25-002",
+   "q": "You are driving a tram. Which directions does this traffic light signal permit?",
+   "options": [
+    "Left and right",
+    "Straight ahead only",
+    "All directions",
+    "Movement is prohibited"
+   ],
+   "answer": 0,
+   "explain": "The bottom signal and the top left and top right signals are lit. The top left one permits a left turn, the top right one a right turn. The middle one is not lit, so you may not go straight ahead."
+  },
+  {
+   "id": "m25-003",
+   "q": "What registration numbers must a tram have?",
+   "options": [
+    "State number plates at the front and rear",
+    "None: a tram runs only on rails",
+    "The route number on the windscreen",
+    "Numbers assigned by the relevant authority"
+   ],
+   "answer": 3,
+   "explain": "State registration plates are fitted to motor vehicles, except trams and trolleybuses. Trams and trolleybuses are marked with registration numbers assigned by the relevant authorities (Basic Provisions on Admitting Vehicles, para. 3)."
+  },
+  {
+   "id": "m25-004",
+   "q": "You are driving a tram and intend to turn right. Which traffic light signal permits this?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 3,
+   "explain": "A right turn is permitted by the top right signal lit together with the bottom one: that is D. Signal A permits straight ahead only, B permits a left turn only, and C, without the bottom signal, does not permit movement.",
+   "scene": {
+    "items.0.label": "A",
+    "items.1.label": "B",
+    "items.2.label": "C",
+    "items.3.label": "D"
+   }
+  },
+  {
+   "id": "m25-005",
+   "q": "You are driving a trolleybus in a dedicated lane for route vehicles. This traffic light is installed for the lane. May you go straight ahead?",
+   "options": [
+    "Yes, since the bottom signal is lit",
+    "No: only a right turn is permitted now",
+    "Yes: a trolleybus need not obey this type of traffic light",
+    "No: movement is prohibited in all directions"
+   ],
+   "answer": 1,
+   "explain": "Traffic lights with lunar white signals arranged in the shape of the letter “T” are also used for public transport in a dedicated lane. The bottom and top right signals are lit: only a right turn is permitted."
+  },
+  {
+   "id": "m25-006",
+   "q": "Who are traffic lights with four lunar white signals arranged in the shape of the letter “T” used for?",
+   "options": [
+    "Pedestrians and cyclists at controlled crossings",
+    "All vehicles at level crossings",
+    "Trams and public transport in a dedicated lane",
+    "All vehicles in lanes with reversible traffic"
+   ],
+   "answer": 2,
+   "explain": "Such traffic lights control the movement of trams and public transport in a dedicated lane ⟦48⟧. The flashing lunar white signal at a level crossing belongs to a different traffic light ⟦49⟧, and reversible lanes use traffic lights with a red X-shaped signal and a green arrow pointing down ⟦50⟧."
+  },
+  {
+   "id": "m25-007",
+   "q": "You are driving a tram. The traffic controller is standing with their chest towards you, with the right arm extended forward. Where may you go?",
+   "options": [
+    "Straight ahead only",
+    "Left only",
+    "Right only",
+    "Movement is prohibited"
+   ],
+   "answer": 2,
+   "explain": "When the traffic controller's right arm is extended forward, all vehicles approaching from the chest side, including trams, may only turn right. From the right side and the back, movement is prohibited, and from the left side a tram may turn left."
+  },
+  {
+   "id": "m25-008",
+   "q": "You are driving a tram. The traffic controller is standing with their right side towards you, with the right arm extended forward. Where are you allowed to go?",
+   "options": [
+    "Movement is prohibited",
+    "Left only",
+    "Straight ahead only",
+    "Straight ahead and right"
+   ],
+   "answer": 0,
+   "explain": "The right arm is extended forward: from the traffic controller's right side and back, all vehicles are prohibited from moving. If you were approaching from the controller's left side, a tram would be allowed to turn left."
+  },
+  {
+   "id": "m25-009",
+   "q": "An intersection of roads of equal status. You are driving a tram straight ahead, and a green car is approaching from the right. Who goes first?",
+   "options": [
+    "The green car: it is on the right",
+    "The tram",
+    "Whoever arrived first",
+    "The tram, but only if it sounds its horn"
+   ],
+   "answer": 1,
+   "explain": "At an intersection of roads of equal status, a tram has priority over trackless vehicles regardless of its direction of travel. The “give way to the right” rule applies between trackless vehicles and between trams."
+  },
+  {
+   "id": "m25-010",
+   "q": "You are driving a tram straight ahead. There is a 2.4 “Give way” sign for your direction before the intersection. A green car is approaching from the right on the main road. Who goes first?",
+   "options": [
+    "The tram: it always has priority",
+    "Whoever arrived first",
+    "The tram, if the car is turning",
+    "The green car"
+   ],
+   "answer": 3,
+   "explain": "A tram's priority applies at an intersection of roads of equal status and when one signal permits both it and trackless vehicles to go. At an intersection of roads of unequal status, whoever is on the minor road gives way to vehicles on the main road, and a tram is no exception."
+  },
+  {
+   "id": "m25-011",
+   "q": "You are driving a tram straight ahead on the main road. In what order will the vehicles pass through the intersection?",
+   "options": [
+    "Tram, white, blue",
+    "White, tram, blue",
+    "Tram, blue, white",
+    "Blue, tram, white"
+   ],
+   "answer": 0,
+   "explain": "The blue car on the minor road gives way to everyone on the main road. The white car on the main road is turning left and gives way to the oncoming tram going straight ahead. So the tram goes first, then the white car, and the blue car last."
+  },
+  {
+   "id": "m25-012",
+   "q": "The light is green for you and for oncoming traffic. You are driving a tram straight ahead, and an oncoming white car is turning left. Who goes first?",
+   "options": [
+    "The white car",
+    "Both at the same time",
+    "The tram",
+    "Whoever entered the intersection first"
+   ],
+   "answer": 2,
+   "explain": "If a traffic light signal permits a tram and trackless vehicles to move at the same time, the tram has priority. Besides, a car turning left gives way to oncoming traffic."
+  },
+  {
+   "id": "m25-013",
+   "q": "You are driving a tram and turning right on the green filter arrow, while the main signal is red. Who has priority?",
+   "options": [
+    "You: a tram always has priority",
+    "No one: all vehicles go at the same time",
+    "Vehicles from other directions: you give way",
+    "Pedestrians, but not cars"
+   ],
+   "answer": 2,
+   "explain": "When moving in the direction of a filter arrow lit together with a red or amber signal, a tram gives way to vehicles coming from other directions. The tram's priority does not apply here."
+  },
+  {
+   "id": "m25-014",
+   "q": "You are driving a tram out of the depot. The tracks cross the carriageway outside an intersection, and cars are moving along it. Who has priority?",
+   "options": [
+    "The cars: a tram leaving the depot gives way",
+    "The tram: outside intersections it has priority in any case",
+    "Whoever sounded the horn first",
+    "The tram, but only with its headlights on"
+   ],
+   "answer": 0,
+   "explain": "Outside intersections, where tram tracks cross the carriageway, a tram has priority over trackless vehicles. The exception is leaving the depot: then the tram driver lets the traffic on the road go first."
+  },
+  {
+   "id": "m25-015",
+   "q": "You are driving a tram on its route. Ahead, the tracks cross the carriageway outside an intersection, and a car is approaching the crossing point at the same time as you. Who goes first?",
+   "options": [
+    "The car: it is on the carriageway",
+    "Whoever is on the right",
+    "Whoever sounds the horn",
+    "The tram"
+   ],
+   "answer": 3,
+   "explain": "Outside intersections, where tram tracks cross the carriageway, a tram has priority over trackless vehicles. You are not leaving the depot, so you have priority."
+  },
+  {
+   "id": "m25-016",
+   "q": "You are driving a tram. Ahead there is an uncontrolled pedestrian crossing, and a pedestrian is walking across it. What should you do?",
+   "options": [
+    "Sound the horn and drive on: the tram has priority",
+    "Give way to the pedestrian",
+    "Drive on if the pedestrian has not yet reached the tracks",
+    "Drive on: the pedestrian must let the tram pass"
+   ],
+   "answer": 1,
+   "explain": "At an uncontrolled pedestrian crossing, a driver gives way to pedestrians crossing the carriageway in the driver's direction of travel. This also applies to a tram driver: a tram has priority only over trackless vehicles."
+  },
+  {
+   "id": "m25-017",
+   "q": "The light is green for you. An ambulance with its flashing beacons and siren on is approaching the intersection from the left. Who goes first?",
+   "options": [
+    "The tram: it has a green light and priority",
+    "Both at the same time",
+    "The ambulance",
+    "Whoever is closer to the intersection"
+   ],
+   "answer": 2,
+   "explain": "When a vehicle with blue and (or) red flashing beacons and a siren switched on is approaching, drivers give way to it, including the tram driver. The tram's priority does not cancel this."
+  },
+  {
+   "id": "m25-018",
+   "q": "An oncoming blue car is standing on the tram tracks and turning left. You are driving a tram straight ahead. Who goes first?",
+   "options": [
+    "The blue car: it is already on the tracks",
+    "Both at the same time",
+    "Whoever signalled the turn first",
+    "The tram"
+   ],
+   "answer": 3,
+   "explain": "When turning left from the tram tracks, the driver of a trackless vehicle gives way to the tram. But do not count on the driver letting you through: slow down and be ready to stop."
+  },
+  {
+   "id": "m25-019",
+   "q": "All lanes in the same direction are occupied, and a car is driving along the tram tracks ahead of your tram. The track is on the left, level with the carriageway. Is the car driver breaking the Rules?",
+   "options": [
+    "No, if the driver does not impede the tram",
+    "Yes: driving on tram tracks is always prohibited",
+    "No, and the tram must follow it indefinitely",
+    "Yes: tram tracks may be used only for turning"
+   ],
+   "answer": 0,
+   "explain": "Driving on tram tracks for the same direction, located on the left and level with the carriageway, is permitted when all lanes in that direction are occupied. The driver must not impede the tram while doing so."
+  },
+  {
+   "id": "m25-020",
+   "q": "A car going around a traffic jam is driving along the tram tracks towards your tram. Is its driver breaking the Rules?",
+   "options": [
+    "No, if the driver quickly returns to their own lane",
+    "Yes: entering the oncoming tram tracks is prohibited",
+    "No, if the oncoming tram is still far away",
+    "No: going around a jam on the tracks is allowed"
+   ],
+   "answer": 1,
+   "explain": "Trackless vehicles may use only tram tracks for the same direction located on the left. Entering tracks for the oncoming direction is prohibited, since trams come the other way on them."
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "questions": [
+  {
+   "id": "m06-n040",
+   "q": "You are pulling out from a dirt road onto an asphalt road and turning right. A pedestrian is walking along the shoulder of the asphalt road towards the exit. What should you do?",
+   "options": [
+    "Pull out first: the pedestrian is not on a crossing",
+    "Sound the horn and pull out",
+    "Give way to vehicles only: the pedestrian can wait",
+    "Let the pedestrian go first, then pull out"
+   ],
+   "answer": 3,
+   "explain": "An asphalt road is the main road in relation to a dirt road ⟦22⟧. When coming out of a minor road, a driver gives way to both vehicles and pedestrians moving along the main road ⟦23⟧."
+  },
+  {
+   "id": "m06-n041",
+   "q": "You are driving in a town, and a sign permits 90 km/h here. The right lane is free, and you do not intend to turn. On which path must you continue?",
+   "options": [
+    "Path A",
+    "Path B",
+    "Either path: in a town you may drive in any lane"
+   ],
+   "answer": 1,
+   "explain": "In a town you may usually drive in any lane, but where more than 80 km/h is permitted, the rule for roads outside built-up areas applies: keep closer to the right-hand edge and do not occupy the left lanes when the right ones are free ⟦24⟧. So move into the right lane (B)."
+  },
+  {
+   "id": "m06-n042",
+   "q": "You are driving in a town in the left lane at the permitted speed. The right lane is free, and no one is catching up with you from behind. On which path may you continue?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths"
+   ],
+   "answer": 2,
+   "explain": "In built-up areas where no more than 80 km/h is permitted, you may drive in any lane ⟦25⟧. You have to vacate the left lane only if you are driving slower than permitted and a faster vehicle approaching from behind gives a light signal ⟦26⟧."
+  },
+  {
+   "id": "m06-n043",
+   "q": "You are driving outside a built-up area in the left lane and have just overtaken a truck. The right lane ahead is free, and you do not intend to turn. On which path must you continue?",
+   "options": [
+    "Path B",
+    "Path A",
+    "Either path"
+   ],
+   "answer": 0,
+   "explain": "The overtaking is complete, and the right lane is free. Outside built-up areas, drivers keep closer to the right-hand edge and do not occupy the left lanes when the right ones are free, so return to the right lane (B) when it is safe ⟦27⟧."
+  },
+  {
+   "id": "m06-n044",
+   "q": "The traffic is heavy: the right and middle lanes are filled with dense traffic. On which paths may you continue?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths"
+   ],
+   "answer": 2,
+   "explain": "The extreme left of three lanes in one direction may be used in heavy traffic, when the other lanes are occupied ⟦28⟧. So you may either stay in the middle lane (B) or move into the left lane (A)."
+  },
+  {
+   "id": "m06-n045",
+   "q": "You are driving a truck with a maximum authorised mass of 12 t and overtaking a slow truck in the middle lane. There are no turns ahead. On which paths may you continue?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths"
+   ],
+   "answer": 0,
+   "explain": "On roads with three or more lanes in one direction, trucks with a maximum authorised mass of more than 3500 kg may occupy the extreme left lane only to turn left or make a U-turn ⟦29⟧. There is no turn, so continue overtaking in the middle lane (A)."
+  },
+  {
+   "id": "m06-n046",
+   "q": "You are driving a truck with a maximum authorised mass of 12 t. In 150 m you need to turn left. On which path must you continue?",
+   "options": [
+    "Path B: turn later from the middle lane",
+    "Path A: move into the left lane",
+    "A truck may not use the left lane, so you cannot turn left here"
+   ],
+   "answer": 1,
+   "explain": "A truck with a mass of more than 3500 kg may occupy the left of three lanes in one direction precisely to turn left or make a U-turn ⟦30⟧. And a left turn must be made from the extreme left position ⟦31⟧."
+  },
+  {
+   "id": "m06-n048",
+   "q": "A two-way road has three lanes. You are overtaking a truck in the middle lane. On which paths may you continue?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths"
+   ],
+   "answer": 0,
+   "explain": "On two-way roads with three lanes, it is prohibited to move into the extreme left lane, which is intended for oncoming traffic ⟦32⟧. Overtake in the middle lane (A)."
+  },
+  {
+   "id": "m06-n049",
+   "q": "A truck ahead of you is travelling at 60 km/h. On which path may you continue?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths"
+   ],
+   "answer": 1,
+   "explain": "The road has two lanes separated by solid line marking 1.1, and sign 3.20 is in place. On such roads, moving onto the side intended for oncoming traffic is prohibited, except in cases provided for by the Rules ⟦33⟧. Overtaking a truck travelling at 60 km/h is not one of these cases."
+  },
+  {
+   "id": "m06-n050",
+   "q": "The road has two lanes in each direction, the centre line is broken, there are no prohibitory signs and there are no oncoming vehicles. On which paths may you continue?",
+   "options": [
+    "Path B only: on such roads, moving onto the oncoming side is prohibited",
+    "Path A only",
+    "Both paths"
+   ],
+   "answer": 2,
+   "explain": "On roads with four or more lanes, you may not drive on the oncoming side, but left turns and U-turns are permitted at intersections and in other places where they are not prohibited by the Rules, signs or markings ⟦34⟧. There are no prohibitions here."
+  },
+  {
+   "id": "m06-n051",
+   "q": "You are driving a tractor whose top speed is no more than 30 km/h. You do not intend to turn or overtake. On which path must you continue?",
+   "options": [
+    "Path A",
+    "Path B",
+    "Either path"
+   ],
+   "answer": 1,
+   "explain": "Vehicles that travel at no more than 40 km/h, or cannot reach that speed for technical reasons, drive in the extreme right lane ⟦35⟧. So move into the right lane (B)."
+  },
+  {
+   "id": "m06-n052",
+   "q": "You are driving a tractor whose top speed is no more than 30 km/h. In 100 m you need to turn left. On which path must you continue?",
+   "options": [
+    "Path B: change lanes in advance to turn left",
+    "Path A: slow vehicles always drive in the right lane",
+    "Either path"
+   ],
+   "answer": 0,
+   "explain": "Slow-moving vehicles keep to the extreme right lane, but they are allowed to change lanes before turning left or making a U-turn ⟦36⟧. A left turn must be made from the extreme left position ⟦37⟧."
+  },
+  {
+   "id": "m06-n053",
+   "q": "Sign 3.20 “No overtaking” is in force. You are driving in the left lane for your direction faster than a truck in the right lane. Are you breaking the prohibition?",
+   "options": [
+    "Yes: passing in the adjacent lane also counts as overtaking",
+    "Yes, if the truck is travelling faster than 30 km/h",
+    "No, but only if you are in a built-up area",
+    "No: driving faster in your own lane is not overtaking"
+   ],
+   "answer": 3,
+   "explain": "You do not leave your lane and do not return to it. Driving in one lane at a higher speed than in the adjacent lane is not considered overtaking ⟦38⟧."
+  },
+  {
+   "id": "m06-n054",
+   "q": "All the lanes in your direction are occupied. On the left there are tram tracks for the same direction, level with the carriageway. There is no tram, and there are no signs 5.8.1 or 5.8.2. May you continue along the tram tracks?",
+   "options": [
+    "No, driving on tram tracks is not allowed",
+    "Yes, and the tram must give way to you",
+    "Yes, but you may not cross an intersection on the tracks",
+    "Yes, provided you do not impede the tram"
+   ],
+   "answer": 3,
+   "explain": "You may drive on tram tracks for the same direction, located on the left and level with the carriageway, when all the lanes in that direction are occupied. You must not impede the tram ⟦39⟧. Driving across an intersection on the tracks is prohibited only if signs 5.8.1 or 5.8.2 are in place."
+  },
+  {
+   "id": "m06-n055",
+   "q": "In which case is driving onto tram tracks prohibited?",
+   "options": [
+    "Onto tracks for the same direction, to drive around an obstacle",
+    "Onto tracks for the same direction, to turn left",
+    "Onto tracks for the same direction, when all lanes are occupied",
+    "Onto tram tracks for oncoming traffic"
+   ],
+   "answer": 3,
+   "explain": "Driving onto tram tracks for oncoming traffic is prohibited ⟦40⟧. You may drive onto tram tracks for the same direction, located on the left and level with the carriageway, to drive around an obstacle, to overtake, to turn left or make a U-turn, and when all the lanes are occupied, without impeding the tram."
+  }
+ ]
+}

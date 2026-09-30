@@ -1,0 +1,305 @@
+{
+ "questions": [
+  {
+   "id": "m10-01",
+   "q": "You are approaching a level crossing. The traffic light has not come on yet, but the barrier has started to come down. What should you do?",
+   "options": [
+    "Try to get through before the barrier closes completely",
+    "Stop before the crossing",
+    "Drive on if there is no train visible in either direction",
+    "Drive on: the traffic light does not yet prohibit anything"
+   ],
+   "answer": 1,
+   "explain": "Entering a level crossing is prohibited when the barrier is closed or beginning to close, regardless of the traffic light signal."
+  },
+  {
+   "id": "m10-02",
+   "q": "What do the Rules call a level crossing?",
+   "options": [
+    "An intersection of a road with railway tracks at the same level",
+    "Any bridge or tunnel where a road passes over or under the tracks",
+    "A stretch of road 100 m before the railway tracks",
+    "Only a place with a barrier and a traffic light by the tracks"
+   ],
+   "answer": 0,
+   "explain": "A level crossing is an intersection of a road with railway tracks at the same level. Its boundary is an imaginary line 10 m from the nearest rail. A level crossing may have no barrier and no traffic light at all."
+  },
+  {
+   "id": "m10-03",
+   "q": "The level crossing attendant is standing with their back to you, arms extended to the sides. May you drive across the crossing?",
+   "options": [
+    "No: this is a prohibiting signal",
+    "Yes: the attendant is standing with their back to you",
+    "Yes, if there is no train in sight",
+    "Yes, but only at low speed"
+   ],
+   "answer": 0,
+   "explain": "The attendant's prohibiting signal: they face the driver with their chest or back while holding up a baton, a red lamp or a flag, or they stand with their arms extended to the sides."
+  },
+  {
+   "id": "m10-04",
+   "q": "There is a queue of vehicles before a closed level crossing, and the oncoming lane is clear. What do you do?",
+   "options": [
+    "Drive around the queue using the oncoming lane and take first place",
+    "Join the queue behind the last vehicle",
+    "Sound the horn so the queue moves over to the right"
+   ],
+   "answer": 1,
+   "explain": "It is prohibited to drive around vehicles stopped before a level crossing by moving into the oncoming lane."
+  },
+  {
+   "id": "m10-05",
+   "q": "Your car has stalled right on a level crossing, with passengers inside. What must you do first?",
+   "options": [
+    "Stay in the car with the passengers and call a tow truck",
+    "Switch on the hazard warning lights and wait for the level crossing attendant",
+    "Keep trying to start the engine until it works",
+    "Immediately get everyone out of the car and clear the crossing"
+   ],
+   "answer": 3,
+   "explain": "At a forced stop on a level crossing, the driver must immediately get everyone out of the car and take steps to clear the crossing."
+  },
+  {
+   "id": "m10-06",
+   "q": "You are stuck on a level crossing and cannot clear it yet. You have two passengers with you. How do the Rules say you should use their help?",
+   "options": [
+    "Send them along the tracks in both directions from the crossing for 1000 m",
+    "Send both of them 100 m in the direction of better visibility",
+    "Send them along the tracks in both directions for 300 m",
+    "Ask them to stay in the car and call the police"
+   ],
+   "answer": 0,
+   "explain": "If possible, you should send two people along the tracks in both directions from the crossing for 1000 m (if there is only one person, in the direction of worse visibility of the track) and explain to them how to give the train driver a stop signal."
+  },
+  {
+   "id": "m10-07",
+   "q": "You have been driving on a motorway for a long time and want to rest. Where may you stop?",
+   "options": [
+    "On the shoulder anywhere, having switched on the hazard warning lights",
+    "In the right-hand lane, having put out the warning triangle",
+    "At a parking area marked with sign 5.15 or 6.11",
+    "In a service gap in the central reservation"
+   ],
+   "answer": 2,
+   "explain": "On a motorway, stopping anywhere other than special parking areas marked with sign 5.15 or 6.11 is prohibited."
+  },
+  {
+   "id": "m10-08",
+   "q": "A moped is riding ahead of you on a road marked with sign 5.3 “Road for motor vehicles”. Is it allowed to be there?",
+   "options": [
+    "Yes, if it keeps to the far right edge of the road",
+    "No: mopeds are not allowed on such a road",
+    "Yes, if the moped has its headlight on",
+    "Yes, but only during daylight hours"
+   ],
+   "answer": 1,
+   "explain": "Sign 5.3 marks a road for motor cars and motorcycles only, and the rules for motorways apply on it. Riding mopeds, bicycles or tractors there is prohibited.",
+   "scene": {
+    "labels.0.text": "moped"
+   }
+  },
+  {
+   "id": "m10-09",
+   "q": "On a motorway, your tyre has gone flat and your car has stopped on the carriageway. What must you do?",
+   "options": [
+    "Leave the car in the lane and walk off to get help",
+    "Mark the car and move it beyond the edge of the carriageway",
+    "Switch on the hazard warning lights and reverse to the exit",
+    "Put out the warning triangle and change the tyre right there in your lane"
+   ],
+   "answer": 1,
+   "explain": "At a forced stop on the carriageway, the driver marks the car under the rules of Chapter 7: switches on the hazard warning lights and puts out the warning triangle. Then the driver takes steps to move the car onto the strip to the right of the line marking the edge of the carriageway."
+  },
+  {
+   "id": "m10-10",
+   "q": "Because of a gearbox fault, your car cannot go faster than 35 km/h. May you drive it onto a motorway?",
+   "options": [
+    "Yes, if you keep to the right-hand lane with the hazard warning lights on",
+    "Yes, if you drive on the shoulder and do not obstruct the traffic flow",
+    "Yes, but only during daylight hours",
+    "No: its speed is below 40 km/h"
+   ],
+   "answer": 3,
+   "explain": "On motorways, vehicles whose speed, by technical specification or condition, is below 40 km/h are prohibited from travelling."
+  },
+  {
+   "id": "m10-11",
+   "q": "You have arrived in the yard of an apartment block, and all the places by the edge of the driveway are taken. May you park on the lawn by the entrance?",
+   "options": [
+    "Yes, if the car does not obstruct pedestrians",
+    "Yes, if only the right-hand wheels are on the lawn",
+    "Yes, at night, when there are no children in the yard",
+    "No: parking on lawns in yards is prohibited"
+   ],
+   "answer": 3,
+   "explain": "The rules for a residential zone also apply in residential courtyards. Parking there is prohibited on pavements, lawns, or children's and sports playgrounds, even if the car is not in anyone's way."
+  },
+  {
+   "id": "m10-13",
+   "q": "There is a traffic jam on the street, and you want to cut your route short by driving straight through a residential zone. May you do this?",
+   "options": [
+    "Yes, if you do not exceed 20 km/h",
+    "Yes, but only during daytime hours",
+    "No: through traffic there is prohibited",
+    "Yes, if you do not sound the horn on the way"
+   ],
+   "answer": 2,
+   "explain": "Through traffic is prohibited in a residential zone."
+  },
+  {
+   "id": "m10-14",
+   "q": "You are entering the yard of a residential building, and there is no “Residential zone” sign. What is the highest speed you may drive here?",
+   "options": [
+    "20 km/h",
+    "30 km/h",
+    "40 km/h",
+    "60 km/h"
+   ],
+   "answer": 0,
+   "explain": "The 20 km/h limit applies both in residential zones and in residential courtyards. The other requirements of the residential zone chapter also extend to yards."
+  },
+  {
+   "id": "m10-n001",
+   "q": "At a level crossing without a barrier, the red traffic light signals are flashing. There is no train in sight either to the left or to the right. What should you do?",
+   "options": [
+    "Drive on: without a barrier, the red signal is only a warning",
+    "Drive on slowly, having looked both ways once more",
+    "Stop at the stop line and wait until the red signals go off",
+    "Drive on, sounding a long blast of the horn"
+   ],
+   "answer": 2,
+   "explain": "A red signal, including a flashing one, prohibits movement. You must not enter a level crossing when the traffic light shows a prohibiting signal, regardless of whether there is a barrier or what position it is in, even if no train is visible yet."
+  },
+  {
+   "id": "m10-n002",
+   "q": "The barrier is closed, but the traffic light at the crossing is off, and there is no train in sight. May you drive across?",
+   "options": [
+    "Yes, if there is no train visible in either direction",
+    "You may drive around the barrier using the oncoming lane",
+    "No: entry is prohibited when the barrier is closed",
+    "Yes, if the traffic light has not come on for several minutes"
+   ],
+   "answer": 2,
+   "explain": "Entering a level crossing when the barrier is closed or beginning to close is prohibited, whatever the traffic light shows. Driving around the barrier is even less permitted."
+  },
+  {
+   "id": "m10-n003",
+   "q": "At a level crossing without a barrier, a lunar white signal is flashing. What should you do?",
+   "options": [
+    "Drive across the crossing after making sure no train is approaching",
+    "Stop: any flashing signal at a level crossing prohibits movement",
+    "Stop and wait for the level crossing attendant"
+   ],
+   "answer": 0,
+   "explain": "A flashing lunar white signal at a level crossing permits movement. But even so, the driver must make sure that no train is approaching the crossing."
+  },
+  {
+   "id": "m10-n004",
+   "q": "A passenger asks you to stop right on the level crossing so they can get out quickly. There is no train in sight. May you do this?",
+   "options": [
+    "Yes, if the stop takes less than a minute",
+    "No: stopping on a level crossing is prohibited",
+    "Yes, if you switch on the hazard warning lights",
+    "Yes, if the barrier is up and the traffic light is off"
+   ],
+   "answer": 1,
+   "explain": "Stopping on level crossings is prohibited in any case, even for a minute and even when there is no train in sight. Drop the passenger off beyond the crossing, where stopping is allowed."
+  },
+  {
+   "id": "m10-n005",
+   "q": "The traffic light at the crossing is off, there is no barrier, and a train is approaching the crossing from the left. What should you do?",
+   "options": [
+    "Drive across quickly before the train arrives",
+    "Sound the horn and drive across",
+    "Drive across: the traffic light is off, so movement is permitted",
+    "Stop before the crossing and let the train pass"
+   ],
+   "answer": 3,
+   "explain": "Entering a level crossing is prohibited if a train is approaching it within sight, even when the traffic light is off and there is no barrier. A train cannot turn aside or stop quickly."
+  },
+  {
+   "id": "m10-n006",
+   "q": "The traffic light permits movement, but there are vehicles standing right beyond the crossing, and there is no room for you beyond the tracks. May you enter the crossing?",
+   "options": [
+    "Yes: the traffic light permits movement, and the barrier is up",
+    "No, as long as there is no room for you beyond the crossing",
+    "Yes, if you switch on the hazard warning lights",
+    "Yes, if you stop right at the edge of the crossing"
+   ],
+   "answer": 1,
+   "explain": "Entering a level crossing is prohibited if a jam has formed beyond it that would force you to stop on the tracks. Wait before the crossing until room clears beyond it."
+  },
+  {
+   "id": "m10-n008",
+   "q": "A lunar white signal is flashing at the crossing, but the level crossing attendant is facing you with arms extended to the sides. What should you do?",
+   "options": [
+    "Drive on: the lunar white signal permits movement",
+    "Stop: the attendant's signal prohibits entering the crossing",
+    "Drive on slowly if there is no train in sight",
+    "Drive on, sounding the horn at the attendant"
+   ],
+   "answer": 1,
+   "explain": "The level crossing attendant is a traffic controller, and a traffic controller's signals must be obeyed even if they contradict the traffic light. An attendant facing the driver with arms extended to the sides is prohibiting entry to the crossing."
+  },
+  {
+   "id": "m10-n009",
+   "q": "The level crossing attendant is facing you and has raised an arm holding a baton. May you enter the crossing?",
+   "options": [
+    "Yes, if the barrier is open and the traffic light is off",
+    "Yes, if there is no train visible in either direction",
+    "Yes, but only at low speed",
+    "No: this is the attendant's prohibiting signal"
+   ],
+   "answer": 3,
+   "explain": "An attendant facing the driver with their chest or back, holding up a baton, a red lamp or a flag, is prohibiting entry to the crossing. An open barrier does not cancel this."
+  },
+  {
+   "id": "m10-n010",
+   "q": "The barrier is closed. Where must you stop?",
+   "options": [
+    "At the stop line",
+    "Right up against the barrier",
+    "At the nearest rail",
+    "50 m before the crossing"
+   ],
+   "answer": 0,
+   "explain": "When movement across a level crossing is prohibited, the driver stops at the stop line, sign 2.5 or the traffic light. Here there is a stop line."
+  },
+  {
+   "id": "m10-n011",
+   "q": "There is no stop line, sign 2.5 or traffic light here. A train is approaching the crossing. Where must you stop?",
+   "options": [
+    "Right at the rail, so you can drive across faster afterwards",
+    "3 m from the nearest rail, at the edge of the decking",
+    "100 m from the crossing, right at the warning sign",
+    "At the boundary of the crossing, 10 m from the nearest rail"
+   ],
+   "answer": 3,
+   "explain": "If there is no stop line, sign 2.5 or traffic light, the driver stops at the boundary of the crossing. It runs along an imaginary line 10 m from the nearest rail."
+  },
+  {
+   "id": "m10-n012",
+   "q": "Sign 2.5 is installed before the crossing, and there is no stop line. There is no train in sight. What should you do?",
+   "options": [
+    "Drive across without stopping: there is no train in sight, and no traffic light either",
+    "Stop before the sign, then drive on if there is no train",
+    "Stop right at the rail and look both ways",
+    "Slow down to 20 km/h and drive across without stopping"
+   ],
+   "answer": 1,
+   "explain": "Sign 2.5 before a level crossing requires you to stop in any case: before the stop line, or, if there is none, before the sign. Then, after making sure there is no train, you may go on."
+  },
+  {
+   "id": "m10-n013",
+   "q": "Your car has stalled on the crossing, and you cannot clear it yet. You have one passenger with you. Where should you send them?",
+   "options": [
+    "Along the tracks for 100 m, in the direction where the track is more visible",
+    "Along the tracks for 1000 m, in the direction where the track is less visible",
+    "To the nearest house to call for help",
+    "Nowhere: let them stay in the car and wait"
+   ],
+   "answer": 1,
+   "explain": "Everyone must be got out of the car straight away. If only one person can help, they are sent along the tracks for 1000 m in the direction of worse visibility, and told how to give the train driver a stop signal."
+  }
+ ]
+}

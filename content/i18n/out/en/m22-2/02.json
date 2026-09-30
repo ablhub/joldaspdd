@@ -1,0 +1,305 @@
+{
+ "questions": [
+  {
+   "id": "m22-054",
+   "q": "You are in a truck with a maximum authorised mass of 12 t on a city street with one lane in each direction and no tram tracks. May you park the vehicle at the left edge, as shown?",
+   "options": [
+    "Yes: on such a street parking on the left is allowed for trucks too",
+    "No: for a truck heavier than 3.5 t, only unloading is allowed on the left",
+    "No: stopping at the left edge in a city is prohibited for everyone",
+    "Yes, but only if you will be loading or unloading"
+   ],
+   "answer": 0,
+   "explain": "In a built-up area, on a road with one lane for each direction and no tram tracks in the middle, stopping and parking on the left are allowed. The restriction “stopping only for loading or unloading” for trucks heavier than 3.5 t applies only to one-way roads."
+  },
+  {
+   "id": "m22-055",
+   "q": "You are driving a goods van with a maximum authorised mass of 3 t on a one-way city street. May you leave it at the left edge, as shown, for an hour while you have lunch?",
+   "options": [
+    "No: trucks may only load or unload on the left",
+    "No: at the left edge you may stop for no more than 5 minutes",
+    "Yes, but only if you switch on the hazard warning lights",
+    "Yes: this prohibition applies to trucks heavier than 3.5 t"
+   ],
+   "answer": 3,
+   "explain": "In a built-up area on a one-way road, stopping and parking are allowed at the left edge too. The restriction “stopping only for loading or unloading” applies to trucks with a maximum authorised mass of more than 3.5 t, and your van is 3 t."
+  },
+  {
+   "id": "m22-056",
+   "q": "A goods van with a maximum authorised mass of 2.5 t and a blue passenger car are parked at the edge of the pavement, as in the diagram. There is enough room for pedestrians. Who is allowed to park like this?",
+   "options": [
+    "Blue only",
+    "Van only",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "Parking at the edge of the pavement with the vehicle driven onto it is allowed only for passenger cars, motorcycles, mopeds and bicycles. A van is a truck, and a mass of less than 3.5 t does not change that."
+  },
+  {
+   "id": "m22-057",
+   "q": "You have delivered furniture to the residential courtyard of an apartment building in a truck with a maximum authorised mass of 10 t and want to leave it there overnight. Where may you do this?",
+   "options": [
+    "At any entrance, if the vehicle does not obstruct the passage of others",
+    "On the lawn or pavement, to leave the way clear",
+    "Only in a place designated by signs and (or) markings",
+    "Anywhere in the courtyard, if the engine is switched off"
+   ],
+   "answer": 2,
+   "explain": "In courtyards the rules of a residential zone apply. Parking of trucks with a maximum authorised mass of more than 3500 kg is allowed there only in specially designated places marked by signs and (or) markings. Parking on pavements and lawns in a residential zone is prohibited for everyone."
+  },
+  {
+   "id": "m22-058",
+   "q": "Your truck with a maximum authorised mass of 5 t is two years old, and you do not use it in business activity. Must it undergo the mandatory technical inspection?",
+   "options": [
+    "No: vehicles no older than 7 years do not need a technical inspection",
+    "Yes: only passenger cars (M1) no older than 7 years are exempt",
+    "No, if the truck does not carry goods for payment",
+    "Yes, but only after 5 years from the year of manufacture"
+   ],
+   "answer": 1,
+   "explain": "Only M1 vehicles (passenger cars) no older than 7 years, including the year of manufacture, that are not used in business activity may be driven without the mandatory technical inspection. A truck does not fall under this exception, and driving a vehicle without a technical inspection is prohibited."
+  },
+  {
+   "id": "m22-059",
+   "q": "At what total play in the steering is the use of a truck (not built on a passenger car base) prohibited?",
+   "options": [
+    "More than 10 degrees",
+    "More than 25 degrees",
+    "More than 20 degrees",
+    "More than 35 degrees"
+   ],
+   "answer": 1,
+   "explain": "Total play must not exceed 25 degrees for trucks, 20 for buses and 10 for passenger cars and for trucks and buses built on their base. If it is more, use is prohibited."
+  },
+  {
+   "id": "m22-060",
+   "q": "On a slope of up to what percentage inclusive must the parking brake hold an unladen truck (in running order)?",
+   "options": [
+    "Up to 31%",
+    "Up to 16%",
+    "Up to 23%",
+    "Up to 40%"
+   ],
+   "answer": 0,
+   "explain": "The parking braking system must hold trucks and road trains in running order on a slope of up to 31% inclusive, passenger cars and buses without load up to 23%, and any vehicles with a full load up to 16%."
+  },
+  {
+   "id": "m22-061",
+   "q": "Your truck has pneumatic brake actuation. After the actuator was fully applied with the engine off, the pressure dropped by 0.08 MPa in 15 minutes. May you set off?",
+   "options": [
+    "Yes: a drop of up to 0.1 MPa in 15 minutes is allowed if the pressure gauge works",
+    "No: a drop of no more than 0.05 MPa in 15 minutes is allowed",
+    "Yes, if the pressure recovers after the engine is started",
+    "No: the pressure in the actuator must not drop at all"
+   ],
+   "answer": 1,
+   "explain": "Use is prohibited if, because of a leak in the pneumatic actuator, the pressure with the engine off drops by more than 0.05 MPa (0.5 kgf/cm2) in 15 minutes after the actuator has been fully applied. Yours dropped by 0.08 MPa, so you may not set off. A pressure gauge that does not work also prohibits use."
+  },
+  {
+   "id": "m22-062",
+   "q": "The remaining tread depth on the tyres of your road train's trailer is 1.2 mm. May such a trailer be used?",
+   "options": [
+    "No: for trailers the standard is 1.6 mm, as for passenger cars, so 1.2 mm is too little",
+    "No: for trailers the standard is 2 mm, as for buses, so 1.2 mm is too little",
+    "Yes, at any tread depth, as long as the tyres have no cuts or bulges",
+    "Yes: for a truck's trailer the standard is that of the towing vehicle, 1 mm"
+   ],
+   "answer": 3,
+   "explain": "The same standards apply to trailer tyres as to the tyres of the towing vehicle. For a truck, use is prohibited if the remaining tread depth is less than 1 mm, so 1.2 mm is acceptable. For comparison: passenger cars 1.6 mm, buses 2 mm."
+  },
+  {
+   "id": "m22-063",
+   "q": "Which of these vehicles must have at least two wheel chocks?",
+   "options": [
+    "A truck with a maximum authorised mass of 3 t",
+    "A truck with a maximum authorised mass of 6 t",
+    "A passenger car with a trailer of up to 750 kg",
+    "A motorcycle with a sidecar"
+   ],
+   "answer": 1,
+   "explain": "At least two wheel chocks are mandatory on trucks with a maximum authorised mass of over 3.5 t and on buses. Without them, use is prohibited. A first aid kit, a fire extinguisher and a warning triangle are needed on all motor cars."
+  },
+  {
+   "id": "m22-064",
+   "q": "The service braking system is tested on level dry asphalt when braking from 40 km/h. What is the greatest braking distance permitted for a truck with a trailer (semi-trailer)?",
+   "options": [
+    "18.3 m",
+    "14.7 m",
+    "19.5 m",
+    "25 m"
+   ],
+   "answer": 2,
+   "explain": "Under the List of Defects, from an initial speed of 40 km/h the braking distance must not exceed 18.3 m for trucks and 19.5 m for trucks with a trailer or semi-trailer, and the steady deceleration must be at least 5.0 m/s2. 14.7 m is the standard for passenger cars.",
+   "ref": "List of Defects, ch. 1, table and para. 1"
+  },
+  {
+   "id": "m22-065",
+   "q": "On a journey the rear protective device fitted by design has come off your truck. It cannot be repaired on the spot. What should you do?",
+   "options": [
+    "Continue the journey along the route: this part does not affect safety",
+    "Stop driving altogether and call a recovery vehicle",
+    "Continue the journey if you drive no faster than 50 km/h",
+    "Proceed with precautions to the place of parking or repair"
+   ],
+   "answer": 3,
+   "explain": "Use is prohibited without the rear protective device, splash guards and mud flaps provided by the design. If such a fault arises on the road and cannot be repaired, proceed with precautions to a place of parking or repair. You may not drive at all with non-working service brakes, steering or a faulty coupling device ⟦9⟧."
+  },
+  {
+   "id": "m22-066",
+   "q": "Before setting off you notice that the tachograph fitted by design is not working on your truck. May you set off on the trip?",
+   "options": [
+    "Yes: the tachograph does not affect admission to operation",
+    "Yes, if the speedometer works: it shows the speed",
+    "Yes, but the tachograph must be repaired within a month",
+    "No: use is prohibited with a non-working tachograph"
+   ],
+   "answer": 3,
+   "explain": "Use of a vehicle is prohibited if the speedometer, tachograph, load platform side locks, tank filler-neck locks and other devices listed in para. 35 of the List of Defects that are provided by the design do not work in the specified mode. Repair it before setting off."
+  },
+  {
+   "id": "m22-067",
+   "q": "A driver drove a road train with a faulty towing coupling device. What penalty does the CAO provide?",
+   "options": [
+    "A fine of 5 MCI",
+    "A fine of 15 MCI",
+    "A fine of 10 MCI",
+    "A warning"
+   ],
+   "answer": 1,
+   "explain": "For driving a vehicle with faults in the braking system, steering or towing coupling device, the fine is 15 MCI (64 875 tenge in 2026). For other faults with which use is prohibited, it is 5 MCI. The Rules prohibit driving with a faulty coupling device altogether ⟦10⟧."
+  },
+  {
+   "id": "m22-068",
+   "q": "Where on a truck is its registration number repeated, and how large are the characters?",
+   "options": [
+    "On the cab doors on both sides, characters at least 100 mm high",
+    "On the rear wall of the body, characters at least 300 mm high",
+    "On the cab roof so it can be seen from above, characters 500 mm high",
+    "Nowhere: the number plates at the front and rear are enough"
+   ],
+   "answer": 1,
+   "explain": "The digits and letters of the registration plate are repeated on the rear wall of the bodies of trucks, trailers (except trailers for passenger cars and motorcycles) and buses. The digits must be at least 300 mm high and at least 120 mm wide, and the letters are 2/3 of the size of the digits."
+  },
+  {
+   "id": "m22-069",
+   "q": "What does the “Road train” identification sign, fitted to a truck with a trailer, look like?",
+   "options": [
+    "A yellow rectangle with a red border on the rear board of the trailer",
+    "A 400x400 mm panel with red and white stripes at the rear of the trailer",
+    "Two red lamps on the rear board that flash when braking",
+    "Three orange lamps in a row on the cab roof"
+   ],
+   "answer": 3,
+   "explain": "The “Road train” sign is three orange lamps arranged horizontally on the cab roof with gaps of 150 to 300 mm. A yellow triangle with a side of 250 mm with internal lighting is also permitted. A yellow rectangle with a red border is the “Long vehicle” sign, and a striped panel is “Oversized load”."
+  },
+  {
+   "id": "m22-070",
+   "q": "Your road train, made up of a towing vehicle and two trailers, is 18 m long. Is the “Long vehicle” identification sign needed at the rear?",
+   "options": [
+    "No: this sign is needed only for lengths over 20 m",
+    "Yes: any road train with two or more trailers needs it",
+    "No: the “Road train” sign on the cab roof is enough",
+    "Yes, but only in hours of darkness and in poor visibility"
+   ],
+   "answer": 1,
+   "explain": "The “Long vehicle” sign is fitted at the rear of vehicles whose length with one trailer is more than 20 m, and on road trains with two or more trailers regardless of length. You have two trailers, so the sign is needed. The “Road train” sign on the cab is also mandatory."
+  },
+  {
+   "id": "m22-071",
+   "q": "You are carrying an oversized load with an amber beacon switched on. The height of the vehicle with its load is 4.3 m. May you drive on past this sign?",
+   "options": [
+    "Yes: with an amber beacon you may depart from the requirements of signs",
+    "Yes, if you drive slowly with the hazard warning lights on",
+    "Yes, if an escort vehicle is travelling ahead of you",
+    "No: the beacon does not exempt you from the requirements of sign 3.13"
+   ],
+   "answer": 3,
+   "explain": "Drivers of vehicles with an amber beacon switched on may depart from the requirements of signs, but not from signs 2.2, 2.4-2.6, 3.11-3.14, 3.17.2 and 3.20. Sign 3.13 prohibits vehicles whose overall height with the load is more than the figure shown, and 4.3 m is more than 4 m. You need another route."
+  },
+  {
+   "id": "m22-072",
+   "q": "You are 30 years old and obtained category C 7 years ago. 6 workers will travel in the equipped body, and two more with you in the cab. Which categories are needed for such carriage?",
+   "options": [
+    "Categories C and D are needed",
+    "Category C is enough",
+    "Category D is needed",
+    "Category CE is needed"
+   ],
+   "answer": 1,
+   "explain": "Categories C and D are needed if more than 8 people are carried, counting passengers in the cab. You have 6 + 2 = 8 people, which is not more than 8, so category C is enough. You also meet the age requirement (from 25 years) and have more than 5 years of experience in category C."
+  },
+  {
+   "id": "m22-073",
+   "q": "Which of these drivers may carry people in the equipped body of a truck?",
+   "options": [
+    "A 24-year-old driver with category C obtained 3 years ago",
+    "A 40-year-old driver with category C obtained 4 years ago",
+    "A 35-year-old driver with category B and 15 years of driving experience",
+    "A 28-year-old driver with category C obtained 6 years ago"
+   ],
+   "answer": 3,
+   "explain": "People may be carried in the body by a driver aged at least 25 with category C and more than 5 years of experience of driving vehicles of this category. Only the 28-year-old driver with six years on C qualifies. Experience in a passenger car does not count."
+  },
+  {
+   "id": "m22-074",
+   "q": "The body of a flatbed truck is being equipped for carrying workers. Which seats must have solid backs?",
+   "options": [
+    "Only the seats on which children will travel",
+    "Only the seats at the front board, next to the cab",
+    "None: it is enough to fix the seats securely",
+    "Those located along the rear or side boards"
+   ],
+   "answer": 3,
+   "explain": "Seats in the body are fixed at a height of 0.3-0.5 m from the floor and at least 0.3 m below the top edge of the board, and seats along the rear or side boards must have solid backs. If children are carried, the boards must be at least 0.8 m above the floor."
+  },
+  {
+   "id": "m22-075",
+   "q": "Sheets of plywood project beyond the right side of the body by 45 cm from the outer edge of the position lamp. Must this projection be marked?",
+   "options": [
+    "No: a side projection is marked only if it is more than 1 m",
+    "No: only what projects at the front and rear needs marking",
+    "Yes, but only in hours of darkness and only with a red lamp",
+    "Yes: at the side, a projection over 40 cm needs a sign"
+   ],
+   "answer": 3,
+   "explain": "A load that projects at the side by more than 40 cm from the outer edge of the position lamp is marked with the “Oversized load” identification sign, a 400x400 mm panel with red and white stripes. At the front and rear the limit is 1 m. In darkness and poor visibility a white lamp is added at the front and a red lamp or retroreflector at the rear."
+  },
+  {
+   "id": "m22-076",
+   "q": "You are carrying rolls on an open flatbed. The load was well secured before you set off. When else must you check its position and securing?",
+   "options": [
+    "You need not: the load was checked and secured before departure",
+    "Also while driving, so that the load does not fall or hinder others",
+    "Only at weight and transport control points on the way",
+    "Only if the journey lasts longer than 4 hours without a break"
+   ],
+   "answer": 1,
+   "explain": "The driver monitors the position, securing, covering and condition of the load both before setting off and while driving, so that the load does not fall or cause obstruction. If the load has shifted and this cannot be corrected, you may not drive on ⟦11⟧."
+  },
+  {
+   "id": "m22-077",
+   "q": "The load in the body has shifted and covered the rear lamps and direction indicators, and the driver drove on. What fine is provided for failing to comply with the rules for carrying goods?",
+   "options": [
+    "10 MCI",
+    "15 MCI",
+    "20 MCI",
+    "5 MCI"
+   ],
+   "answer": 3,
+   "explain": "Failing to comply with the rules for carrying passengers and goods carries a fine of 5 MCI (21 625 tenge in 2026), and 10 MCI if repeated within a year. The load must not cover lights ⟦12⟧: correct its position, and if that is impossible, stop driving."
+  },
+  {
+   "id": "m22-078",
+   "q": "You are escorting a truck with an oversized load in a passenger car. Which flashing beacon must be switched on in your car?",
+   "options": [
+    "Blue",
+    "Blue and red",
+    "Amber",
+    "None: a beacon is needed only on the truck"
+   ],
+   "answer": 2,
+   "explain": "An amber flashing beacon is switched on both on vehicles carrying overweight, oversized and dangerous loads and on vehicles escorting such transport. Blue and red beacons are only for emergency services."
+  }
+ ]
+}

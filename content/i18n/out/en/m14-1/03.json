@@ -1,0 +1,244 @@
+{
+ "questions": [
+  {
+   "id": "m14-n013",
+   "q": "You are 30 years old. You obtained category “C” 4 years ago, and before that you drove a car for 6 years. Can you carry people in a truck's load body?",
+   "options": [
+    "No: you need more than 5 years of experience specifically in category “C”",
+    "Yes: your overall driving experience is more than 5 years",
+    "Yes, if there are no more than 8 people in the load body",
+    "No: people in a load body may only be carried by drivers aged 35 or over"
+   ],
+   "answer": 0,
+   "explain": "What counts is experience specifically in category “C”, and it must be more than five years. You meet the age requirement (25 or over) and hold the category, but you do not yet have enough experience in it."
+  },
+  {
+   "id": "m14-n014",
+   "q": "How are seats fitted in the load body of a flatbed truck that carries people?",
+   "options": [
+    "Fixed at a height of 0.1-0.2 m above the floor, with no backrests needed",
+    "Fixed level with the top edge of the sides, so people have a view",
+    "Fixed at 0.3-0.5 m from the floor, at least 0.3 m below the top of the side",
+    "Fixed at a height of at least 1 m from the floor, with backrests"
+   ],
+   "answer": 2,
+   "explain": "Under the Basic Provisions, seats are fixed at a height of 0.3-0.5 m from the floor and at least 0.3 m below the top edge of the side. Seats along the rear or side must have sturdy backrests. This way a person sits securely and will not be thrown out over the side."
+  },
+  {
+   "id": "m14-n015",
+   "q": "Children need to be carried in the load body of a flatbed truck. How high must the sides be?",
+   "options": [
+    "At least 0.5 m from the floor",
+    "At least 0.8 m from floor level",
+    "At least 1.5 m from the ground",
+    "The height of the sides does not matter if there is a tarpaulin cover"
+   ],
+   "answer": 1,
+   "explain": "For carrying children, besides the usual seating arrangement, the load body's sides must be at least 0.8 m high from floor level. The driver must also meet the requirements of para. 151."
+  },
+  {
+   "id": "m14-n016",
+   "q": "The load body of a flatbed truck is not fitted out for carrying people. Who is allowed to ride in it?",
+   "options": [
+    "No one: people are not carried in a load body that is not fitted out",
+    "Any passengers, if there are no more than 8 and they sit on the floor",
+    "Loaders, if they stand and hold on to the front side",
+    "Those escorting the load or travelling to collect it, sitting below the sides"
+   ],
+   "answer": 3,
+   "explain": "Only people who are escorting a load or travelling to collect it may ride in a load body that is not fitted out. The essential condition is a seat below the level of the sides."
+  },
+  {
+   "id": "m14-n017",
+   "q": "You are carrying furniture in a load body that is not fitted out. The loader escorting it can only sit on a sofa, and the sofa is higher than the sides. Can he ride like that?",
+   "options": [
+    "Yes: he is escorting the load, and that is the main condition",
+    "Yes, if he holds on tightly to the side the whole time",
+    "No: he must sit below the level of the sides",
+    "Yes, if you drive no faster than 40 km/h and do not overtake"
+   ],
+   "answer": 2,
+   "explain": "A person escorting a load may ride in a load body that is not fitted out only in a seat below the level of the sides. On a sofa higher than the sides, he could be thrown out during braking or on a bend. Have him ride in the cab instead."
+  },
+  {
+   "id": "m14-n018",
+   "q": "How many people may be carried in the fitted-out load body of a truck?",
+   "options": [
+    "As many as will fit, provided no one stands by the rear side",
+    "No more than the number of seats fitted in the load body",
+    "No more than 8 people, in any case",
+    "No more than 20 people"
+   ],
+   "answer": 1,
+   "explain": "The Rules prohibit carrying more people than there are seats fitted for sitting in the load body. Any extra passengers would have to stand or sit on the sides, which is prohibited."
+  },
+  {
+   "id": "m14-n019",
+   "q": "When may a truck driver move off with people in the load body?",
+   "options": [
+    "As soon as the last passenger has climbed into the load body",
+    "When the passengers knock on the cab",
+    "At any time, as long as you drive slowly and smoothly",
+    "After making sure that the conditions for safe carriage have been met"
+   ],
+   "answer": 3,
+   "explain": "Before setting off, the driver instructs passengers on boarding, alighting and settling in the load body. But the driver may move off only after making sure that the conditions for safe carriage really have been met."
+  },
+  {
+   "id": "m14-n020",
+   "q": "You are travelling with a caravan trailer. The children want to sit on the sofa in the trailer during the trip. Can they?",
+   "options": [
+    "No: people are not carried in a caravan trailer",
+    "Yes, if the trailer has seats with belts",
+    "Yes, on a road outside a built-up area at up to 50 km/h",
+    "Yes, if an adult travels in the trailer together with the children"
+   ],
+   "answer": 0,
+   "explain": "The Rules directly prohibit carrying people on a goods trailer or in a caravan trailer. Nothing holds a person in place in a trailer, and the driver cannot see or hear what is happening there."
+  },
+  {
+   "id": "m14-n021",
+   "q": "Which car must not be used to provide taxi services?",
+   "options": [
+    "One with an automatic gearbox",
+    "One with right-hand drive",
+    "One with a diesel engine",
+    "An estate car with a roof rack"
+   ],
+   "answer": 1,
+   "explain": "Para. 151 prohibits using vehicles with right-hand drive, or with special controls including fully manual controls, as taxis."
+  },
+  {
+   "id": "m14-n022",
+   "q": "According to the manufacturer, your pickup truck's load capacity is 1 t. Can you load 1.4 t into it if “the springs can take it”?",
+   "options": [
+    "Yes: the excess is less than half the load capacity",
+    "Yes, if you drive more slowly and brake gently",
+    "Yes, if the load is securely fastened and covered",
+    "No: this is more than the manufacturer's figure"
+   ],
+   "answer": 3,
+   "explain": "The mass of the load and passengers, and the distribution of the load across the axles, must not exceed the manufacturer's figures. An overloaded vehicle takes longer to brake, handles worse, and its tyres and brakes overheat faster."
+  },
+  {
+   "id": "m14-n023",
+   "q": "The whole load has been placed by the rear side. The total mass is within limits, but the load on the rear axle exceeds the manufacturer's permitted figure. Can you drive?",
+   "options": [
+    "Yes: only the total mass matters, and it is within limits",
+    "Yes, if you reduce your speed and brake gently",
+    "No: the load must first be redistributed across the axles",
+    "Yes, if you pump the rear tyres up to the maximum"
+   ],
+   "answer": 2,
+   "explain": "Para. 160 limits not only the mass but also the distribution of the load across the axles. An overloaded rear axle takes weight off the front one, and the vehicle steers and brakes worse."
+  },
+  {
+   "id": "m14-n024",
+   "q": "When must a driver check how the load is positioned, secured and covered?",
+   "options": [
+    "Before setting off and while driving",
+    "Only while loading",
+    "Only if the load extends beyond the vehicle's dimensions",
+    "Only on roads outside built-up areas"
+   ],
+   "answer": 0,
+   "explain": "The driver checks the load's position, fastening, covering and condition both before the trip and on the way. If a strap has come loose or the load has shifted, stop in a safe place and fix it."
+  },
+  {
+   "id": "m14-n025",
+   "q": "You are carrying long boards inside the car. They lie on the front passenger seat and cover the right-hand window and the right-hand door mirror. Can you drive like this?",
+   "options": [
+    "No: a load must not restrict the driver's view",
+    "Yes: the left mirror and the interior mirror are still visible",
+    "Yes, if the boards are securely tied to the seat",
+    "Yes, if you drive slowly and do not change lanes to the right"
+   ],
+   "answer": 0,
+   "explain": "A load may be carried only if it does not restrict the driver's view or visibility. Without the right-hand window and mirror, you will not see a vehicle or motorcycle on your right when changing lanes or turning."
+  },
+  {
+   "id": "m14-n026",
+   "q": "You have put bicycles on a rack mounted on the tow bar. The rear lights are visible, but the bicycles cover the rear number plate. Can you drive?",
+   "options": [
+    "Yes: the rear lights and direction indicators are visible",
+    "Yes, in daylight, if the bicycles are secured",
+    "Yes, if the number plate is partly visible between the wheels",
+    "No: a load must not cover the number plate"
+   ],
+   "answer": 3,
+   "explain": "A load must not cover the external lights, retroreflectors or number plates. Position the bicycles so that the number plate is visible."
+  },
+  {
+   "id": "m14-n027",
+   "q": "You are carrying a heavy boat on a roof rack. On bends, the car leans heavily and pulls to one side. What should you do?",
+   "options": [
+    "Keep driving, but more carefully and more slowly on bends",
+    "Carry the boat a different way: it is affecting the vehicle's stability",
+    "Switch on the hazard warning lights and drive on to your destination",
+    "Pump the tyres up harder, so the car leans less"
+   ],
+   "answer": 1,
+   "explain": "A load must not make a vehicle harder to control or affect its stability. A heavy load high on the roof raises the centre of gravity and can cause the vehicle to roll over. Also check the permitted roof load according to the manufacturer's figures."
+  },
+  {
+   "id": "m14-n028",
+   "q": "You are carrying dry sand in the open load body of a tipper truck. It is blowing onto the vehicles behind you. What must you do?",
+   "options": [
+    "Nothing: the sand is dry and light, so it causes no harm",
+    "Drive faster to pull away from the other vehicles",
+    "Stop and cover the load so it stops blowing away",
+    "Switch on the hazard warning lights and drive more slowly"
+   ],
+   "answer": 2,
+   "explain": "The driver controls how a load is positioned, secured and covered, and a load must not create avoidable inconvenience. Sand in a motorcyclist's eyes or on a windscreen is a direct crash risk."
+  },
+  {
+   "id": "m14-n029",
+   "q": "You have put boards on the roof rails without tying them down: “it's not far to go”. Can you drive like this?",
+   "options": [
+    "Yes, for a short distance along quiet streets",
+    "Yes, if the boards are heavy and will not shift on their own",
+    "No: an unsecured load can fall onto the road",
+    "Yes, if you do not go faster than 40 km/h"
+   ],
+   "answer": 2,
+   "explain": "At the first braking or gust of wind, unsecured boards will fly off onto the road or onto the vehicle behind. A load is positioned and, if necessary, secured so that it does not endanger people or damage property."
+  },
+  {
+   "id": "m14-n030",
+   "q": "Which of these loads must always be marked with the “Oversized load” sign?",
+   "options": [
+    "Extends 1.2 m beyond the front",
+    "Extends 0.8 m beyond the rear",
+    "Extends 40 cm beyond the side, from the outer edge of a position lamp",
+    "Extends 30 cm beyond the side"
+   ],
+   "answer": 0,
+   "explain": "The sign is needed if a load extends more than 1 m beyond the front or rear, or more than 40 cm beyond the side, from the outer edge of a position lamp. Exactly 40 cm is not yet “more than 40 cm”."
+  },
+  {
+   "id": "m14-n031",
+   "q": "At night, a load extends 1.5 m beyond the vehicle's dimensions at the front. What must be fitted on it at the front, in addition to the “Oversized load” sign?",
+   "options": [
+    "A red lamp or retroreflector",
+    "A white lamp or retroreflector",
+    "An amber flashing beacon",
+    "Nothing, if the dipped headlights are switched on"
+   ],
+   "answer": 1,
+   "explain": "During hours of darkness and in poor visibility, a projecting load is additionally marked: with a white lamp or retroreflector at the front, and a red one at the back."
+  },
+  {
+   "id": "m14-n032",
+   "q": "What does the “Oversized load” identification sign look like?",
+   "options": [
+    "A yellow rectangle with a red border and a retroreflective surface",
+    "An orange rectangle, 300×400 mm, with a black border",
+    "A yellow square with a red border and silhouettes of children",
+    "A 400×400 mm panel with red and white diagonal stripes"
+   ],
+   "answer": 3,
+   "explain": "It is a 400×400 mm panel with diagonal red and white stripes 50 mm wide, on a retroreflective surface, fitted at the front, rear and sides of an oversized load. A yellow rectangle with a red border is the “Long vehicle” sign, an orange rectangle is the “Dangerous goods” sign, and a yellow square with children on it is the “Carriage of children” sign."
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "title": "Speed",
+  "pdd": "Chapter 10 of the Rules",
+  "summary": "You will learn how fast different vehicles may travel in built-up areas, outside them and on motorways, which limits apply when towing and when carrying people in the load body of a truck, and what else drivers are prohibited from doing where speed is concerned."
+ },
+ "lesson": [
+  {
+   "h": "The main rule: a speed that suits the conditions",
+   "p": [
+    "The number on a sign is an upper limit, not a required speed. The Rules require you to choose your speed taking into account traffic density, the condition of the vehicle and its load, the road, the weather and especially visibility ahead.",
+    "If an obstacle or a traffic hazard appears that the driver is able to notice, the driver must reduce speed, even to a complete stop, or drive around the obstacle in a way that is safe for others."
+   ],
+   "tip": "In questions about a sudden obstacle, the correct answer is almost always “reduce speed, even to a stop”, not “sound the horn” or “change lanes abruptly”."
+  },
+  {
+   "h": "In built-up areas",
+   "p": [
+    "Built-up areas are marked with signs 5.22-5.25. The limits for built-up areas apply from sign 5.22 to sign 5.23 (white background). If sign 5.24 on a blue background stands at the entrance, the requirements of the Rules for driving in built-up areas do not apply on that road: the out-of-town limits apply there, and sign 5.25 marks the end of such a place. Inside a built-up area, the limits are:"
+   ],
+   "list": [
+    "All vehicles: no more than 60 km/h.",
+    "Signs may set a special speed regime, but even then no more than 90 km/h.",
+    "Buses and trucks: no more than 50 km/h.",
+    "Residential zones and yards: no more than 20 km/h."
+   ],
+   "tip": "In a yard, the 20 km/h limit applies even without the “Residential zone” sign."
+  },
+  {
+   "h": "New since November 2025: 50 km/h for trucks",
+   "p": [
+    "Previously, trucks could travel at up to 60 km/h in towns, like cars. For buses, the 50 km/h limit in built-up areas was introduced in May 2024, and from 23 November 2025 para. 73 extends it to trucks as well.",
+    "The rule does not divide trucks by mass, so it also covers light vans that can be driven with a category B licence. A heavy vehicle needs a longer braking distance, and hitting a pedestrian at 60 km/h is far more dangerous than at 50 km/h."
+   ]
+  },
+  {
+   "h": "Outside built-up areas: three groups of vehicles",
+   "p": [
+    "Outside built-up areas, the limit depends on the type of vehicle and the type of road. Roads are divided into motorways, roads with a central reservation and all other roads."
+   ],
+   "list": [
+    "Passenger cars and motorcycles: motorway - as shown on sign 3.24 “Maximum speed limit”, but no more than 140 km/h; road with a central reservation - 110 km/h; other roads - 100 km/h.",
+    "Trucks with a maximum authorised mass of no more than 3.5 t, intercity buses and minibuses: 110 / 100 / 90 km/h.",
+    "Other buses (including those carrying organised groups of children), passenger cars with a trailer, trucks over 3.5 t: 90 / 80 / 70 km/h."
+   ],
+   "tip": "The second and third groups follow a “minus 10” ladder: 110-100-90 and 90-80-70. A car with a trailer moves into the third group."
+  },
+  {
+   "h": "What type of road: motorway, road with a central reservation or ordinary road",
+   "p": [
+    "The limit depends on the type of road, so you need to identify it correctly. A motorway is marked with sign 5.1 “Motorway”, and its end with sign 5.2. Only on a motorway may passenger cars travel at the speed shown on sign 3.24, up to 140 km/h.",
+    "A central reservation is a structurally separate element of the road (a lawn, kerb or barrier) that divides adjacent carriageways. A double solid line is a road marking, not a central reservation: a road with one counts as an “other” road."
+   ],
+   "tip": "For a car: a lawn between the opposing carriageways - up to 110 km/h; a double solid line - up to 100 km/h; sign 5.1 - as shown on sign 3.24, but no more than 140 km/h."
+  },
+  {
+   "h": "Where speed signs apply",
+   "list": [
+    "Sign 3.24 applies from the place where it is installed to the nearest intersection beyond it, and in a built-up area with no intersections, to the end of the built-up area.",
+    "Exits from adjacent areas (yards, filling stations) and places where field and forest tracks join the road do not count as intersections, so the restriction continues beyond them.",
+    "Sign 3.24 installed before a built-up area applies only up to sign 5.22.",
+    "The zone is ended by sign 3.25, sign 3.31 “End of all restrictions”, sign 3.24 with a different value, or plate 7.2.1 “Zone of application”.",
+    "If a new limit differs from the previous speed by more than 20 km/h, the speed is reduced in steps: signs 3.24 are placed one after another in steps of no more than 20 km/h, 100-150 m apart.",
+    "The blue sign 4.7 “Minimum speed” allows driving only at the speed shown or higher; sign 4.8 ends its zone."
+   ],
+   "tip": "Passed an intersection after sign 3.24 and there is no new sign? The general limit for your vehicle applies again."
+  },
+  {
+   "h": "Special cases: towing, people in the load body, special loads",
+   "p": [
+    "These limits apply regardless of what road signs allow. If the general limit for your vehicle is even lower (for example, 50 km/h for a truck in town), keep to the lower value."
+   ],
+   "list": [
+    "Carrying passengers in the load body of a truck: no more than 60 km/h.",
+    "Towing a motor vehicle: no more than 50 km/h.",
+    "Carrying dangerous goods, overweight or oversized loads: no faster than the speed prescribed when the conditions of carriage were agreed."
+   ]
+  },
+  {
+   "h": "What else is prohibited for drivers",
+   "list": [
+    "Exceeding the maximum speed set in the established manner (by signs and by the Rules). From 12 July 2026, the Rules explicitly state that speeding is established through detection, recording or calculation of the average speed by certified devices operating in automatic mode.",
+    "Exceeding the maximum speed allowed by the technical specifications of your vehicle.",
+    "Exceeding the speed shown on the “Speed limit” identification sign if one is fitted to your vehicle.",
+    "Impeding other road users.",
+    "Braking sharply unless this is needed to prevent a road traffic accident: the driver behind may not be able to stop in time."
+   ],
+   "tip": "Average speed cameras “see” the whole section: slowing down only at the camera is not enough."
+  }
+ ],
+ "keyFacts": [
+  "In built-up areas: no more than 60 km/h; signs may set a special speed regime, but no higher than 90 km/h ⟦1⟧",
+  "Buses and trucks in built-up areas: no more than 50 km/h; for trucks this limit has applied since 23 November 2025 ⟦2⟧",
+  "In residential zones and yards: no more than 20 km/h ⟦3⟧",
+  "Passenger cars and motorcycles outside built-up areas: motorway - as shown on sign 3.24, but no more than 140 km/h; road with a central reservation - 110 km/h; other roads - 100 km/h ⟦4⟧",
+  "Trucks of no more than 3.5 t, intercity buses and minibuses outside built-up areas: 110 / 100 / 90 km/h ⟦5⟧",
+  "Other buses, passenger cars with a trailer and trucks over 3.5 t outside built-up areas: 90 / 80 / 70 km/h ⟦6⟧",
+  "Carrying people in the load body of a truck: no more than 60 km/h ⟦7⟧",
+  "Towing a motor vehicle: no more than 50 km/h ⟦8⟧",
+  "You must not exceed the speed shown on your vehicle's “Speed limit” identification sign or the maximum speed set by its technical specifications ⟦9⟧",
+  "From 12.07.2026, speeding is also explicitly established by automatic devices calculating the average speed over a section ⟦10⟧",
+  "You may brake sharply only if this is required to prevent a road traffic accident ⟦11⟧",
+  "Sign 3.24 applies up to the nearest intersection beyond it, and a sign installed before a built-up area applies up to sign 5.22 ⟦12⟧"
+ ],
+ "mistakes": [
+  "Thinking that a light truck may travel at 60 km/h in town. Since 23 November 2025, trucks, like buses, have been allowed no more than 50 km/h in built-up areas.",
+  "Confusing a road with a central reservation with a motorway. For a car, the limit on a road with a central reservation is 110 km/h; up to 140 km/h is allowed only on a motorway.",
+  "Forgetting that a car with a trailer falls into the “slowest” group: 90 / 80 / 70 km/h outside built-up areas.",
+  "Assuming that the usual limits apply when towing. When towing a motor vehicle, you must not drive faster than 50 km/h, even on a highway.",
+  "Braking only in front of a camera. Speeding can also be established from the average speed over the whole section.",
+  "Treating the number on a sign as “drive at exactly this speed”. In fog, on ice or in poor visibility, you must reduce speed to suit the conditions."
+ ]
+}

@@ -1,0 +1,243 @@
+{
+ "questions": [
+  {
+   "id": "m02-01",
+   "q": "A police officer has stopped you. You have left your driving licence, issued in Kazakhstan, at home, but you have your identity card with you. Have you broken the rule on carrying documents?",
+   "options": [
+    "Yes, you must always carry your licence",
+    "No, this is allowed with a Kazakhstani licence",
+    "No, if you can give the licence number from memory",
+    "Yes, if you are driving someone else's car, not your own"
+   ],
+   "answer": 1,
+   "explain": "A driver must carry a driving licence, except for a licence issued in Kazakhstan when the driver has an identity document with them."
+  },
+  {
+   "id": "m02-02",
+   "q": "A uniformed police officer has pointed a baton at your car and at the same time blown a whistle. What must you do?",
+   "options": [
+    "Carry on driving if you have not broken any rules",
+    "Stop only if the officer is at a fixed police post",
+    "Stop your vehicle",
+    "Stop only after the signal is repeated"
+   ],
+   "answer": 2,
+   "explain": "A driver must stop when required to by a uniformed police officer by means of a gesture or a baton pointed at the vehicle, together with a whistle."
+  },
+  {
+   "id": "m02-03",
+   "q": "A police officer has stopped your car and walked back to the patrol car. You need to go to the shop opposite. May you get out and go?",
+   "options": [
+    "No, not without the police officer's permission",
+    "Yes, if you switch off the engine and apply the parking brake",
+    "Yes, if you leave your documents on the dashboard",
+    "Yes, if you switch on the hazard warning lights"
+   ],
+   "answer": 0,
+   "explain": "A driver must not leave a vehicle stopped by a police officer without that officer's permission."
+  },
+  {
+   "id": "m02-04",
+   "q": "All the seats in the car have seat belts. You are wearing yours, but a passenger in the back refuses to fasten their seat belt. What should you do?",
+   "options": [
+    "Drive off: the passenger is responsible for themselves",
+    "Do not drive until they fasten their seat belt",
+    "Drive, but only in town",
+    "Drive if the passenger is sitting in the middle"
+   ],
+   "answer": 1,
+   "explain": "The driver of a vehicle fitted with seat belts must wear a seat belt and must not carry passengers who are not wearing seat belts."
+  },
+  {
+   "id": "m02-05",
+   "q": "How do the Rules allow you to talk on the phone while driving?",
+   "options": [
+    "Holding the phone in your hand, if the call is short",
+    "Holding the phone in your hand, but only at low speed",
+    "Not at all: phones are completely banned while driving",
+    "With headphones or a hands-free speaker"
+   ],
+   "answer": 3,
+   "explain": "While driving, you must not use a phone or a two-way radio, except with headphones or a hands-free speaker."
+  },
+  {
+   "id": "m02-06",
+   "q": "You have taken a medicine whose leaflet says that it slows reactions and reduces attention. May you drive?",
+   "options": [
+    "Yes, it is not alcohol, after all",
+    "Yes, if you drive slowly in the daytime",
+    "No, not while the medicine is working"
+   ],
+   "answer": 2,
+   "explain": "Driving a vehicle under the influence of medicines that impair reaction and attention is prohibited."
+  },
+  {
+   "id": "m02-07",
+   "q": "Your friend has had a glass of wine and asks to drive your car home. He has a driving licence. What should you do?",
+   "options": [
+    "Let him, if you sit next to him",
+    "Let him, if it is not far",
+    "Refuse, even after just one glass",
+    "Let him, if he has long driving experience"
+   ],
+   "answer": 2,
+   "explain": "A driver must not hand over control of the vehicle to a person who is intoxicated, whether or not that person has a driving licence."
+  },
+  {
+   "id": "m02-08",
+   "q": "You have been involved in a road traffic accident. What must you do first?",
+   "options": [
+    "Move the car onto the shoulder so that it does not obstruct others",
+    "Stop, turn on the hazard warning lights, put out a warning triangle",
+    "Drive away if the damage is very minor",
+    "First clear all the debris off the road"
+   ],
+   "answer": 1,
+   "explain": "A driver involved in an accident must stop immediately, not move the vehicle, switch on the hazard warning lights, put out a warning triangle and not move objects related to the accident."
+  },
+  {
+   "id": "m02-09",
+   "q": "A pedestrian has been injured in an accident. You have called an ambulance, but help is needed urgently and there are no passing vehicles. What do the Rules require you to do?",
+   "options": [
+    "Wait for the ambulance without doing anything else",
+    "Take the casualty to hospital yourself, then go about your own business",
+    "Ask passers-by to carry the casualty further away from the road",
+    "Take them to hospital, give your name and car registration, come back"
+   ],
+   "answer": 3,
+   "explain": "In an emergency, casualties are sent in a passing vehicle; if that is impossible, you take them yourself, give your details there and return to the scene of the accident."
+  },
+  {
+   "id": "m02-10",
+   "q": "After an accident, the cars are blocking the road. In the presence of witnesses, you have recorded the position of the cars, the marks and the debris, and cleared the carriageway. What else do the Rules require you to do?",
+   "options": [
+    "Preserve the marks and let traffic get round the scene",
+    "Nothing: after recording everything, you can all go home",
+    "Sweep all the debris and skid marks off the road",
+    "Call your insurance company and wait for its representative"
+   ],
+   "answer": 0,
+   "explain": "When clearing the carriageway, the driver records the position of the vehicles, marks and objects in the presence of witnesses, takes all possible measures to preserve them and arranges for traffic to drive around the scene. You must not leave: next you must report to the police and wait for officers, except in the cases covered by para. 8."
+  },
+  {
+   "id": "m02-11",
+   "q": "You have been involved in an accident and are very shaken. May you drink a little alcohol before the police arrive, since you are not driving anywhere now?",
+   "options": [
+    "Yes, since the car is not moving",
+    "No",
+    "Yes, if the other driver does not object",
+    "Yes, if nobody was injured in the accident"
+   ],
+   "answer": 1,
+   "explain": "After an accident in which you are involved, you must not drink alcohol until you have undergone an examination for intoxication or an authorised person has decided to exempt you from it."
+  },
+  {
+   "id": "m02-12",
+   "q": "It is raining heavily, and your windscreen wiper has stopped working. What should you do?",
+   "options": [
+    "Carry on driving with the hazard warning lights on",
+    "Carry on driving if the windscreen demister works",
+    "Stop driving",
+    "Drive on, but no faster than the traffic flow"
+   ],
+   "answer": 2,
+   "explain": "It is raining and the windscreen wiper is not working: driving with this fault from para. 12(9) is prohibited, so you must stop. The rule in para. 11 about driving to a place of repair applies only to other faults."
+  },
+  {
+   "id": "m02-13",
+   "q": "A medical worker who is going your way to see a patient asks you for a lift so that they can give medical help. What should you do?",
+   "options": [
+    "You may refuse: it is your private car",
+    "It is enough to call them a taxi",
+    "You must help only if a police officer asks",
+    "You must provide them with your vehicle"
+   ],
+   "answer": 3,
+   "explain": "A driver must provide the vehicle to a medical worker travelling in the same direction to provide medical assistance."
+  },
+  {
+   "id": "m02-14",
+   "q": "You want to leave your petrol car for half an hour in a space equipped with an electric vehicle charging station. Is this allowed?",
+   "options": [
+    "No, unless you are charging the car",
+    "Yes, if there are no electric cars nearby",
+    "Yes, if you switch on the hazard warning lights",
+    "Yes, if you stay in the car"
+   ],
+   "answer": 0,
+   "explain": "A driver must not park in places equipped with electric vehicle charging stations without charging."
+  },
+  {
+   "id": "m02-n001",
+   "q": "The registration certificate for your car was issued in Kazakhstan. Must you carry it with you?",
+   "options": [
+    "Yes, you may not drive without it in any circumstances",
+    "Only when travelling outside your own town",
+    "No, you need not carry one issued in Kazakhstan",
+    "Only if you are driving someone else's car"
+   ],
+   "answer": 2,
+   "explain": "A driver must carry the vehicle registration certificate or a document confirming ownership, but a certificate issued in Kazakhstan is an exception."
+  },
+  {
+   "id": "m02-n002",
+   "q": "You are carrying goods in a truck. The consignment note is registered in the unified transport document management system. Do you need to carry a paper copy?",
+   "options": [
+    "Yes, a paper consignment note is always required",
+    "Yes, if the load is heavier than 3.5 t",
+    "Only when carrying goods abroad",
+    "No, as it is in the unified system"
+   ],
+   "answer": 3,
+   "explain": "A driver must have the waybill, the document for the goods and other documents for the vehicle, except those registered in the unified transport document management system."
+  },
+  {
+   "id": "m02-n003",
+   "q": "A patrol car is driving behind you, and a police officer is telling you through a loudspeaker to stop. What should you do?",
+   "options": [
+    "Stop: this is a lawful way to require you to stop",
+    "Do not stop: a stop may only be required with a baton",
+    "Stop only if the patrol car overtakes you",
+    "Speed up so as not to get in its way"
+   ],
+   "answer": 0,
+   "explain": "A uniformed police officer may require you to stop through a loudspeaker, or by a hand gesture or a baton pointed at the vehicle, together with a whistle. Stop in a safe place at the edge of the carriageway."
+  },
+  {
+   "id": "m02-n004",
+   "q": "What must a police officer who has stopped your car do?",
+   "options": [
+    "Check your documents first; the reason need not be explained",
+    "Come up, explain the reason and show their ID on request",
+    "Hand you their official ID so that you can check it",
+    "Wait for you to come to the patrol car yourself"
+   ],
+   "answer": 1,
+   "explain": "Persons entitled to check a driver's documents, on stopping a vehicle, come up to it without delay, explain the reason for stopping it and, at the driver's request, show their official ID for inspection without handing it over to the driver."
+  },
+  {
+   "id": "m02-n005",
+   "q": "You have been stopped for a violation that was recorded automatically by a special device. What must the officer present to you for review?",
+   "options": [
+    "Materials confirming the recorded violation",
+    "Nothing: a verbal explanation is enough",
+    "Only the article number in the Code of Administrative Offences",
+    "Written permission from their superior to stop you"
+   ],
+   "answer": 0,
+   "explain": "If a violation has been detected or recorded automatically, the officer who stops you presents the relevant materials to you for review. This is the wording of para. 7 in force from 12.07.2026."
+  },
+  {
+   "id": "m02-n006",
+   "q": "You have stopped on the shoulder of a steep descent and want to leave the car for a short while. What must you do?",
+   "options": [
+    "Nothing, if you are away for less than 5 minutes",
+    "Only switch on the hazard warning lights",
+    "Take measures to stop the car rolling away",
+    "Leave the engine running at idle"
+   ],
+   "answer": 2,
+   "explain": "A driver must not leave the vehicle without taking measures to prevent it from moving on its own: for example, apply the parking brake and engage a gear. On a descent, this is especially important."
+  }
+ ]
+}

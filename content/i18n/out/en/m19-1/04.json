@@ -1,0 +1,280 @@
+{
+ "questions": [
+  {
+   "id": "m19-n036",
+   "q": "You are in the left lane and have already passed the marking arrows. Which paths may you continue along?",
+   "options": [
+    "Only A and B",
+    "Only B",
+    "All three",
+    "Only B and C"
+   ],
+   "answer": 2,
+   "explain": "The arrow in your lane allows ahead and left. Marking 1.18, where it allows a left turn from the far left lane, also allows a U-turn from it. So you may take any of the three paths."
+  },
+  {
+   "id": "m19-n037",
+   "q": "Arrow 1.18 with a dead-end symbol is marked on the lane: its branch to the right ends at a short transverse bar. What does it mean?",
+   "options": [
+    "A right turn is allowed only for route vehicles",
+    "You must stop before turning",
+    "Turning into the nearest carriageway is prohibited",
+    "There is a dead end ahead, with no way through"
+   ],
+   "answer": 2,
+   "explain": "Marking 1.18 with a dead-end symbol is applied to show that turning into the nearest carriageway is prohibited. It does not close off driving straight ahead."
+  },
+  {
+   "id": "m19-n038",
+   "q": "Road works have closed your lane. Sign 4.2.2 “Keep left” shows the way around, but the centre line is solid. What should you do?",
+   "options": [
+    "Wait for the works to finish: a solid line must not be crossed",
+    "Drive around the works on the right, along the shoulder, without crossing the solid line",
+    "Make a U-turn across the solid line and look for another road",
+    "Drive around on the left, as the sign requires: it takes priority over the marking"
+   ],
+   "answer": 3,
+   "explain": "If the meanings of signs, including temporary ones, and marking lines conflict with each other, drivers are guided by the signs. Moreover, single solid line 1.1 may be crossed when driving around an obstruction, if there is no other way round it. The obstruction is on your side, so let oncoming traffic pass ⟦69⟧.",
+   "ref": "Annex 2 (signs take priority over markings), marking 1.1; Annex 1, sign 4.2.2; para. 83"
+  },
+  {
+   "id": "m19-n039",
+   "q": "The lane arrows are covered with snow and cannot be seen. Sign 5.8.1 on the right shows: from the left lane, left only; from the middle lane, ahead; from the right lane, ahead and right. You are in the left lane. Which paths may you continue along?",
+   "options": [
+    "Only A",
+    "Only B",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "If the markings are not clearly visible or conflict with the signs, you are guided by the signs. Sign 5.8.1 allows only a left turn from the left lane, so you may not drive straight ahead from it.",
+   "ref": "Annex 2 (signs take priority over markings); Annex 1, sign 5.8.1"
+  },
+  {
+   "id": "m19-n040",
+   "q": "Which driver is allowed to stop?",
+   "options": [
+    "Only the green car",
+    "Only the blue car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 1,
+   "explain": "Yellow solid line 1.4 prohibits stopping, but only where it is marked. The green car is stopped at this line and is breaking the rule. The blue car has stopped after it ends, where stopping is allowed."
+  },
+  {
+   "id": "m19-n041",
+   "q": "Which driver is allowed to park?",
+   "options": [
+    "Only the green car",
+    "Both",
+    "Only the blue car",
+    "Neither"
+   ],
+   "answer": 2,
+   "explain": "Yellow broken line 1.10 prohibits parking, but only where it is marked. The green car may only stop here: to let a passenger out or wait up to 5 minutes. The blue car is stopped after the line ends, where parking is allowed."
+  },
+  {
+   "id": "m19-n042",
+   "q": "A yellow broken line is marked along the edge. A taxi is waiting for a passenger with the meter running. Who is allowed to park?",
+   "options": [
+    "Only the blue car",
+    "Only the taxi",
+    "Both",
+    "Neither"
+   ],
+   "answer": 1,
+   "explain": "Line 1.10 prohibits parking, but it does not apply, in particular, to taxis with the meter running or to vehicles driven by people with group I or II disability. The blue car may only stop here."
+  },
+  {
+   "id": "m19-n043",
+   "q": "You stopped at a yellow broken line and went into a shop for 20 minutes. Did you break the rules?",
+   "options": [
+    "No, if you leave your phone number behind the windscreen",
+    "Yes: this is already parking, and line 1.10 prohibits it",
+    "No: line 1.10 prohibits only stopping",
+    "No, if you switch on the hazard warning lights"
+   ],
+   "answer": 1,
+   "explain": "Stopping means ceasing movement for up to 5 minutes, or longer if needed for boarding, alighting, loading or unloading. Going off on your own business for 20 minutes is parking, and yellow broken line 1.10 prohibits exactly that: parking."
+  },
+  {
+   "id": "m19-n044",
+   "q": "A yellow solid line is marked not on the asphalt, but along the top of the kerb. May you stop at this edge?",
+   "options": [
+    "Yes: the marking applies only on the carriageway",
+    "Yes, but only for no longer than 5 minutes",
+    "No: on the kerb too, this line prohibits stopping",
+    "Yes, if you switch on the hazard warning lights"
+   ],
+   "answer": 2,
+   "explain": "Marking 1.4 marks places where stopping is prohibited. It is applied at the edge of the carriageway or along the top of the kerb, and used on its own or together with sign 3.27. The meaning is the same in both cases."
+  },
+  {
+   "id": "m19-n045",
+   "q": "What does the inscription “M-36” on the carriageway mean?",
+   "options": [
+    "A permitted speed of 36 km/h",
+    "The number of the traffic lane",
+    "The distance to a built-up area in kilometres",
+    "The road (route) number"
+   ],
+   "answer": 3,
+   "explain": "This is marking 1.22; it shows the road (route) number. It does not impose any restrictions, but helps you stay on the right route, especially at forks.",
+   "scene": {
+    "labels.0.text": "M-36"
+   }
+  },
+  {
+   "id": "m19-n046",
+   "q": "The letter “A” is marked on the right-hand lane. Who is allowed to drive in this lane?",
+   "options": [
+    "The bus, the taxi and the truck",
+    "Everyone, if the lane is clear",
+    "The bus and the taxi",
+    "Only the bus"
+   ],
+   "answer": 2,
+   "explain": "The letter “A” is marking 1.23: a lane for route vehicles, other public transport and other category M3 vehicles. Under the Rules, a taxi counts as public transport. A truck may not drive or stop in this lane ⟦70⟧."
+  },
+  {
+   "id": "m19-n047",
+   "q": "Yellow marking 1.28, in the form of a grid, is marked on the intersection. The light is green for you, but there is a traffic jam right beyond the intersection. What should you do?",
+   "options": [
+    "Do not enter the intersection until there is room beyond it",
+    "Drive around the jam using the oncoming lane",
+    "Enter and wait in the middle of the intersection, since the light is green for you",
+    "Enter if the light for the intersecting road is currently red"
+   ],
+   "answer": 0,
+   "explain": "Marking 1.28 marks the controlled area of an intersection. Entering the intersection is prohibited if there is a jam beyond it and you would have to stop there, obstructing crossing traffic ⟦71⟧. When the signal changes, a car stuck there would block the path of those driving across."
+  },
+  {
+   "id": "m19-n048",
+   "q": "The street is narrow: a car parked at the edge can be driven around only by crossing the centre line. Which driver is allowed to stop?",
+   "options": [
+    "Only the green car",
+    "Only the blue car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 1,
+   "explain": "Stopping is prohibited if less than 3 m remains between the car and a solid marking line (other than the line marking the edge of the carriageway) and this obstructs traffic ⟦72⟧. The green car can only be driven around by crossing a solid line, which is prohibited. The blue car is driven around by crossing a broken line, so it may stop there."
+  },
+  {
+   "id": "m19-n049",
+   "q": "Arrows are marked on your lane, as shown in the diagram, and a “Road narrows on the right” sign stands on the right. What should you do?",
+   "options": [
+    "Stop and wait until the left lane is completely clear",
+    "Drive around the narrowing along the shoulder",
+    "Change lane to the left in good time, giving way to the white car",
+    "Drive to the end of the lane and change lane there, ahead of the white car"
+   ],
+   "answer": 2,
+   "explain": "These are arrows 1.19: they warn that you are approaching a narrowing of the carriageway, and your lane will soon end. Change lane in good time and give way to those already travelling in the left lane in the same direction ⟦73⟧. Driving around along the shoulder is not allowed ⟦74⟧."
+  },
+  {
+   "id": "m19-n050",
+   "q": "You are exiting a yard. The centre line is 1.11; on the side of the lane nearer to you it is broken. Which paths may you continue along?",
+   "options": [
+    "Only A",
+    "Only B",
+    "Both",
+    "Neither"
+   ],
+   "answer": 2,
+   "explain": "When exiting to the left, you cross line 1.11 from the side of the broken line, and that is allowed. Turning right is allowed in any case. When exiting the yard, give way to everyone travelling on the road ⟦75⟧.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m19-n051",
+   "q": "You are exiting a yard. The centre line is 1.11; on the side of the lane nearer to you it is solid. Which paths may you continue along?",
+   "options": [
+    "Only A",
+    "Only B",
+    "Both",
+    "Neither"
+   ],
+   "answer": 1,
+   "explain": "To go left, you would have to cross line 1.11 from the side of the solid line. That is allowed only when completing overtaking or driving around an obstruction, so going left is not allowed. You may exit to the right, giving way to those travelling on the road ⟦76⟧.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m19-n052",
+   "q": "The double solid line breaks opposite a road joining from the left. May you turn left here?",
+   "options": [
+    "No: you may not turn left on a road with a double solid line",
+    "Only if there is sign 5.8.1 with a left-turn arrow",
+    "No: turning left is allowed only at controlled intersections",
+    "Yes: at the gap you do not need to cross the line"
+   ],
+   "answer": 3,
+   "explain": "The prohibition concerns crossing line 1.3 itself. At the junction, the line is interrupted, so a left turn is allowed unless signs prohibit it. Priority is determined by the rules for passing through intersections: you will usually have to let oncoming traffic going straight ahead pass first."
+  },
+  {
+   "id": "m19-n053",
+   "q": "What is the number of the solid line that marks the edge of the carriageway on an ordinary out-of-town road?",
+   "options": [
+    "1.1",
+    "1.2",
+    "1.4",
+    "1.5"
+   ],
+   "answer": 0,
+   "explain": "The edge of the carriageway on ordinary roads is marked with line 1.1. Wide solid line 1.2 marks the edge of the carriageway only on motorways. Both may be crossed to stop on the shoulder."
+  },
+  {
+   "id": "m19-n054",
+   "q": "The centre line is solid before the intersection. May you turn left at the intersection?",
+   "options": [
+    "Only on a green filter arrow",
+    "No: the solid line prohibits a left turn",
+    "Only if a 1.18 “left” arrow is marked on the lane",
+    "Yes: there is no solid line on the intersection itself"
+   ],
+   "answer": 3,
+   "explain": "The marking prohibits crossing the line itself. At the intersection, the solid line is interrupted, and the left turn is made without crossing it. Signs or arrows 1.18 could prohibit the turn, but there are none here."
+  },
+  {
+   "id": "m19-n055",
+   "q": "You need to turn left, but you are in the right lane, and the lanes are separated by a solid line. What should you do?",
+   "options": [
+    "Drive straight ahead or turn right, and make a U-turn where it is allowed",
+    "Change into the left lane across the solid line and turn",
+    "Turn left straight from the right lane, letting vehicles on the left pass first",
+    "Stop and wait for drivers in the left lane to let you in"
+   ],
+   "answer": 0,
+   "explain": "Solid line 1.1 between the lanes prohibits changing lanes, and arrow 1.18 in your lane allows only ahead and right. Turning left from the right lane is not allowed either. Drive as the arrow allows, and make a U-turn or turn where it is possible."
+  },
+  {
+   "id": "m19-n056",
+   "q": "You are a taxi driver. The passenger asks to be set down right at a bus stop, at the yellow zigzag line. May you stop here?",
+   "options": [
+    "Yes: under the Rules a taxi counts as public transport",
+    "Yes, if there is no bus standing at the stop right now",
+    "Yes, but only for a time of no longer than one minute",
+    "No: this place is only for category M2 and M3 vehicles"
+   ],
+   "answer": 3,
+   "explain": "Marking 1.17 marks a route vehicle stop. Stopping at the stopping area and within 15 m of it is prohibited for everyone except category M2 and M3 vehicles ⟦77⟧. A passenger-car taxi is not among them, even though it may drive in the lane for route vehicles."
+  },
+  {
+   "id": "m19-n057",
+   "q": "Alternating black and white stripes are marked on bridge piers, barriers at hazardous bends and kerbs. What is this?",
+   "options": [
+    "Vertical markings: they show the outline of structures",
+    "Temporary markings applied for the duration of repairs",
+    "A warning that a permanent police checkpoint is ahead",
+    "Markings that prohibit parking near these structures"
+   ],
+   "answer": 0,
+   "explain": "Vertical markings 2.1-2.7 are a combination of black and white stripes on road structures and road equipment. For example, 2.1 is applied to hazardous elements of bridges and flyovers, 2.5 to barriers on small-radius bends and steep descents, and 2.7 to kerbs on hazardous sections.",
+   "ref": "Annex 2, Chapter 2, marking 2.1-2.7"
+  }
+ ]
+}

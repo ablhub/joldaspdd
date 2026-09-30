@@ -1,0 +1,1125 @@
+{
+ "meta": {
+  "title": "Traffic light and traffic controller signals",
+  "pdd": "Chapter 5 of the Rules",
+  "summary": "You will learn to read any traffic light signal, including arrows, additional sections (filter arrows) and lane-control signals, and to understand a traffic controller's signals. You will find out whose instructions take precedence and what to do if the amber light catches you right at the stop line."
+ },
+ "lesson": [
+  {
+   "h": "How a traffic light is arranged",
+   "p": [
+    "Traffic lights can be vertical or horizontal. The order of the colours is always the same. So you can understand the signal even in bad weather or if you have difficulty telling colours apart.",
+    "Besides round signals, there are arrows, pedestrian and bicycle silhouettes, and signals in the shape of an “X” and a “+”. The signal colours are green, amber, red and lunar white ⟦19⟧."
+   ],
+   "list": [
+    "Vertical traffic light: red at the top, green at the bottom.",
+    "Horizontal traffic light: red on the left, green on the right.",
+    "Additional sections with green arrows (one or two) are placed level with the round green signal."
+   ],
+   "tip": "If a traffic light hangs vertically, the top signal is always red."
+  },
+  {
+   "h": "Round signals",
+   "p": [
+    "The main idea is simple: green permits, amber and red prohibit. But each signal has its own shade of meaning ⟦20⟧."
+   ],
+   "list": [
+    "Green: movement is permitted.",
+    "Flashing green: movement is still permitted, but the green time is running out and a prohibiting signal will come on soon. A digital display may show how many seconds are left.",
+    "Amber: movement is prohibited (except in the cases covered by para. 37); the signal warns that the signals are about to change.",
+    "Red, including flashing red: movement is prohibited.",
+    "Red together with amber: movement is still prohibited, but green will come on soon.",
+    "Flashing amber: the intersection or pedestrian crossing is not controlled by traffic lights; take care."
+   ],
+   "tip": "“Red + amber” does not permit you to move off. You may start only on green."
+  },
+  {
+   "h": "Flashing amber and switched-off traffic lights",
+   "p": [
+    "If the traffic light is flashing amber or is not working, and there is no traffic controller, the intersection is treated as uncontrolled ⟦21⟧. Then priority signs and the general rules for driving through intersections determine who goes first.",
+    "Flashing amber does not mean “drive as you like”. It warns of danger: slow down and check which signs are placed before the intersection.",
+    "At a pedestrian crossing, flashing amber means the same: the crossing is not controlled by traffic lights. Give way to pedestrians crossing the carriageway for your direction of travel, as at any uncontrolled crossing ⟦22⟧."
+   ]
+  },
+  {
+   "h": "Arrows and additional sections",
+   "p": [
+    "An arrow has the same meaning as a round signal of the same colour, but it applies only to the direction it shows. A red arrow pointing right prohibits only a right turn.",
+    "Instead of a red or amber arrow, a round red or amber signal with a black outline arrow may be lit. The meaning is the same ⟦23⟧."
+   ],
+   "list": [
+    "An arrow permitting a left turn also permits a U-turn, unless a sign prohibits it. A green filter arrow in an additional section works the same way ⟦24⟧.",
+    "An additional section that is switched off prohibits movement in the direction it controls ⟦25⟧.",
+    "A black outline arrow on the main green signal tells you that the traffic light has an additional section, and it shows the other permitted directions ⟦26⟧.",
+    "Driving on a green filter arrow while the main signal is red or amber? Give way to vehicles coming from other directions ⟦27⟧."
+   ],
+   "tip": "A filter arrow shown with a red main signal allows you to go, but you give way to everyone coming from other directions."
+  },
+  {
+   "h": "Pedestrians, cyclists, trams and level crossings",
+   "list": [
+    "A signal in the form of a pedestrian or bicycle silhouette applies only to pedestrians or cyclists: green permits, red prohibits ⟦28⟧.",
+    "For blind pedestrians, a traffic light may be supplemented by an audible signal ⟦29⟧.",
+    "Trams, and public transport in a lane for route vehicles (bus lane), are controlled by lunar white signals arranged in the shape of the letter “T”. They may go when the bottom signal and at least one top signal are lit: the top left one permits a left turn, the top middle one straight ahead, the top right one a right turn ⟦30⟧.",
+    "A flashing lunar white signal at a level crossing permits movement. If neither the lunar white nor the red signals are lit, you may go only when there is no train in sight ⟦31⟧.",
+    "A green “+” signal tells you that oncoming traffic has a red light. If the “+” is off, oncoming traffic has a green light ⟦32⟧.",
+    "A flashing red signal at a level crossing prohibits movement regardless of the position of the barrier. An audible signal may sound at the same time, and it also means that movement is prohibited ⟦33⟧."
+   ]
+  },
+  {
+   "h": "Lane-control signals for reversible lanes",
+   "p": [
+    "In a reversible lane, the direction of traffic can be switched to the opposite: for example, towards the centre in the morning and out of the centre in the evening. Such a lane has its own traffic light above it, a lane-control signal, which controls only that lane ⟦34⟧."
+   ],
+   "list": [
+    "Red “X” signal: driving in this lane is prohibited.",
+    "Green arrow pointing down: driving in this lane is permitted.",
+    "Amber arrow pointing diagonally: the signal will change soon, and you need to change lanes to the one it points to.",
+    "If the signal above a lane marked on both sides with marking 1.9 is switched off, you must not enter that lane."
+   ],
+   "tip": "A switched-off lane-control signal above a lane with marking 1.9 means that entry is prohibited, not “go if the situation allows”."
+  },
+  {
+   "h": "Traffic controller's signals",
+   "p": [
+    "A traffic controller takes the place of a traffic light. The key is to see which side of the controller is towards you. The chest and the back most often mean “stop” ⟦35⟧."
+   ],
+   "list": [
+    "Arms extended to the sides or lowered. From the left and right sides: a tram may go straight ahead, trackless vehicles may go straight ahead and right, and pedestrians may cross the carriageway. From the chest and back: all vehicles and pedestrians are prohibited from moving.",
+    "Right arm extended forward. From the left side: a tram may turn left, trackless vehicles may go in all directions. From the chest: all vehicles may turn right only. From the right side and back: all vehicles are prohibited from moving. Pedestrians cross behind the controller's back.",
+    "Arm raised: all vehicles and pedestrians are prohibited from moving in all directions, except in the cases covered by para. 37.",
+    "For better visibility, the traffic controller may use a baton or a disc with a red signal (retroreflector). The controller may also give other hand signals that are easy to understand.",
+    "When turning on a traffic controller's signal, remember pedestrians: when the arms are extended to the sides, they may cross too, and when the right arm is extended forward, they walk behind the controller's back. Give way to them ⟦36⟧."
+   ],
+   "tip": "Right arm forward: left side - go anywhere, chest - right only, right side and back - stop."
+  },
+  {
+   "h": "Where to stop at a prohibiting signal",
+   "p": [
+    "When a traffic light (other than a lane-control signal) or a traffic controller gives a prohibiting signal, stop before the stop line (sign 5.33). If there is none, where you stop depends on the situation ⟦37⟧:"
+   ],
+   "list": [
+    "at an intersection: before the intersecting carriageway, without impeding pedestrians;",
+    "before a level crossing: in accordance with the rules for driving over level crossings;",
+    "elsewhere: before the traffic light or the traffic controller, without impeding those who are permitted to move."
+   ]
+  },
+  {
+   "h": "If the amber light comes on at the last moment",
+   "p": [
+    "Sometimes the amber light comes on, or the traffic controller raises an arm, when you are already very close to the stop line. Sudden braking is dangerous: the vehicle behind may run into you.",
+    "That is why drivers who cannot stop without emergency braking continue moving ⟦38⟧. For the amber signal, this rule is worded for cases where the green does not flash before going out. A flashing green gives you time to decide in advance whether you will make it or need to brake smoothly.",
+    "Pedestrians caught on the carriageway by the amber signal or by the traffic controller's raised arm must clear it. If that is impossible, they stop on the line dividing the traffic flows in opposite directions."
+   ],
+   "tip": "The key point of para. 37: you may continue only if the only way to stop would be emergency braking."
+  },
+  {
+   "h": "Who takes precedence, and what the whistle is for",
+   "p": [
+    "A traffic controller's signals and instructions must be obeyed even if they contradict traffic lights, road signs or road markings ⟦39⟧. The controller sees the actual situation: a crash, a traffic jam, a convoy passing through.",
+    "To stop a particular vehicle, the traffic controller points an arm or a baton at it while blowing a whistle, or addresses the driver through a loudspeaker ⟦40⟧. A whistle is also used simply to attract attention ⟦41⟧."
+   ],
+   "tip": "If the traffic light and the traffic controller show different things, obey the traffic controller's signal."
+  },
+  {
+   "h": "Green is no reason to drive without looking",
+   "p": [
+    "A permitting signal answers the question “may I go?”, but it does not cancel the duty to give way. These situations often come up in the test:"
+   ],
+   "list": [
+    "The light has turned green: first let through vehicles that are finishing crossing the intersection and pedestrians who have not finished crossing ⟦42⟧.",
+    "Turning left or making a U-turn on green: give way to oncoming vehicles going straight ahead or turning right ⟦43⟧.",
+    "If the signals permit a tram and trackless vehicles to move at the same time, the tram has priority ⟦44⟧.",
+    "You have passed the stop line on a permitting signal: leave the intersection in the intended direction, even if the light at the exit is already red. But if there is a stop line (sign 5.33) in front of the next traffic light on your way through the intersection, obey that traffic light's signal as well ⟦45⟧.",
+    "Traffic jam beyond the intersection: do not enter the intersection even on green, so that you do not get stuck in the middle of it and impede cross traffic ⟦46⟧."
+   ],
+   "tip": "A green arrow or a green circle says “you may go”, and the priority rules say “who to let go first”. In the test you need to remember both."
+  },
+  {
+   "h": "Who can be a traffic controller",
+   "p": [
+    "A traffic controller is not only a police officer. The Rules also treat as traffic controllers military police officers, members of military traffic control units, transport control officers, road maintenance workers, and attendants at level crossings and ferry crossings, provided they have an ID and equipment: a uniform or an armband, a baton, a disc with a red signal or retroreflector, a red lamp or a flag ⟦47⟧."
+   ],
+   "list": [
+    "The signals of such a traffic controller are just as binding as those of a police officer ⟦48⟧.",
+    "A level crossing attendant prohibits movement if they stand with their chest or back towards you, raise an arm holding a baton, a red lamp or a flag, or extend their arms to the sides ⟦49⟧."
+   ]
+  }
+ ],
+ "keyFacts": [
+  "Vertical traffic light: red at the top, green at the bottom; horizontal: red on the left, green on the right ⟦1⟧.",
+  "Flashing green permits movement but warns that a prohibiting signal will come on soon ⟦2⟧.",
+  "Amber prohibits movement, except in the cases covered by para. 37; red, including flashing red, prohibits movement ⟦3⟧.",
+  "Red and amber together: movement is prohibited, green will come on soon ⟦4⟧.",
+  "Flashing amber or traffic lights switched off, and no traffic controller: the intersection is uncontrolled, and priority signs apply ⟦5⟧.",
+  "A left arrow also permits a U-turn unless a sign prohibits it; an additional section that is switched off prohibits movement in its direction ⟦6⟧.",
+  "When moving on a filter arrow with a red or amber main signal, you give way to vehicles from other directions ⟦7⟧.",
+  "Lane-control signal: red “X” - prohibited, green arrow pointing down - permitted; switched off above a lane with marking 1.9 - entry prohibited ⟦8⟧.",
+  "Traffic controller with arms extended to the sides or lowered: from the chest and back, all vehicles and pedestrians are prohibited from moving ⟦9⟧.",
+  "Right arm forward: from the left side - all directions, from the chest - right only, from the right side and back - movement prohibited ⟦10⟧.",
+  "Arm raised: everyone is prohibited from moving in all directions, except in the cases covered by para. 37 ⟦11⟧.",
+  "A traffic controller's signals take precedence over traffic lights, road signs and road markings ⟦12⟧."
+ ],
+ "mistakes": [
+  "Moving off on “red + amber”. It still prohibits movement; wait for green ⟦13⟧.",
+  "Treating flashing amber as permission to drive without looking. The intersection becomes uncontrolled, and priority signs determine who goes first ⟦14⟧.",
+  "Turning on a filter arrow without giving way to anyone. With a red or amber main signal, you give way to vehicles from other directions ⟦15⟧.",
+  "Mixing up the traffic controller's sides. “Left side” means that the controller is standing with their left shoulder towards you. With the right arm forward, movement from the right side is prohibited ⟦16⟧.",
+  "Driving on a green traffic light when the traffic controller signals “stop”. If the signals differ, the traffic controller prevails ⟦17⟧.",
+  "Emergency braking on amber right at the stop line. If the green did not flash beforehand and you can stop only by emergency braking, the Rules allow you to continue ⟦18⟧."
+ ],
+ "questions": [
+  {
+   "id": "m04-01",
+   "q": "You are approaching an intersection, and the green traffic light starts flashing. What does this signal mean?",
+   "options": [
+    "Movement is prohibited; you must stop immediately",
+    "Movement is permitted, but a prohibiting signal will come on soon",
+    "The traffic light is faulty; the intersection is now uncontrolled",
+    "Only a right turn is permitted"
+   ],
+   "answer": 1,
+   "explain": "Flashing green still permits movement and tells you that its time is running out. It is a prompt to decide in advance whether you can get through or should slow down smoothly."
+  },
+  {
+   "id": "m04-02",
+   "q": "Before a dangerous bend, a traffic light with a single amber signal hangs over the road, and it is flashing. There is no intersection or pedestrian crossing nearby. What should you do?",
+   "options": [
+    "Stop: the amber signal prohibits movement",
+    "Stop and wait for the signal to change",
+    "Drive carefully: the signal warns of danger",
+    "Drive on, giving way to everyone approaching from the right"
+   ],
+   "answer": 2,
+   "explain": "A flashing amber signal does not prohibit movement: it indicates an uncontrolled intersection or crossing and warns of danger ⟦50⟧. Here there is a dangerous bend ahead, so slow down and be especially careful."
+  },
+  {
+   "id": "m04-03",
+   "q": "At the intersection there is neither a stop line nor sign 5.33 “Stop line”. The light is red for you. Where must you stop?",
+   "options": [
+    "Before the intersecting carriageway, without impeding pedestrians",
+    "Right under the traffic light, even if it is at the exit of the intersection",
+    "In the middle of the intersection, so as to get through faster later",
+    "Anywhere, as long as it is no closer than 10 m to the traffic light"
+   ],
+   "answer": 0,
+   "explain": "If there is no stop line at an intersection, the driver stops before the intersecting carriageway without impeding pedestrians. Stopping before the traffic light itself applies to other places, not to intersections."
+  },
+  {
+   "id": "m04-04",
+   "q": "The main traffic light signal is amber, and a green filter arrow pointing right is lit in the additional section. You want to turn right. What should you do?",
+   "options": [
+    "Stop: amber prohibits movement in all directions",
+    "Turn without slowing down: the arrow gives you priority",
+    "Wait for the main signal to turn red, then turn",
+    "Turn, giving way to vehicles from other directions"
+   ],
+   "answer": 3,
+   "explain": "A green filter arrow in the additional section permits a right turn even when the main signal is amber. But when moving in the direction of the arrow while the main signal is amber or red, the driver gives way to vehicles from other directions."
+  },
+  {
+   "id": "m04-05",
+   "q": "The main traffic light signal is a round green, and the additional section with the left arrow is switched off. You want to turn left. May you do so?",
+   "options": [
+    "Yes, the round green main signal permits all directions",
+    "No, you may not turn left until the arrow is lit",
+    "Yes, but only after giving way to oncoming vehicles",
+    "Yes, if you switch on the hazard warning lights"
+   ],
+   "answer": 1,
+   "explain": "An unlit signal in the additional section means that movement is prohibited in the direction it controls. Wait until the arrow comes on."
+  },
+  {
+   "id": "m04-06",
+   "q": "A green arrow pointing left is lit for you. There are no signs prohibiting a U-turn. What are you permitted to do?",
+   "options": [
+    "Only a left turn; a U-turn is prohibited",
+    "Only a U-turn; a left turn is prohibited",
+    "A left turn or a U-turn",
+    "Going straight ahead and left"
+   ],
+   "answer": 2,
+   "explain": "An arrow permitting a left turn also permits a U-turn, unless a sign prohibits it. Such an arrow does not permit you to go straight ahead."
+  },
+  {
+   "id": "m04-07",
+   "q": "A lane-control signal hangs above your lane, showing a red signal in the shape of the letter “X”. What does this mean?",
+   "options": [
+    "Driving in this lane is prohibited",
+    "The lane is for route vehicles only",
+    "You must slow down: there are road works ahead",
+    "You may use this lane only for overtaking"
+   ],
+   "answer": 0,
+   "explain": "A lane-control signal showing a red “X” prohibits movement in the lane it is placed above. A green arrow pointing down, on the other hand, permits it.",
+   "scene": {
+    "items.0.label": "above your lane"
+   }
+  },
+  {
+   "id": "m04-08",
+   "q": "A lane is marked on both sides with marking 1.9. The lane-control signal above it is switched off. May you enter this lane?",
+   "options": [
+    "Yes, if there is no oncoming traffic in it",
+    "Yes, but only for overtaking",
+    "Yes, if you drive no faster than 40 km/h",
+    "No, entry to this lane is prohibited"
+   ],
+   "answer": 3,
+   "explain": "If the lane-control signal above a lane marked on both sides with marking 1.9 is switched off, entry to that lane is prohibited. The direction of traffic in it may have changed.",
+   "scene": {
+    "items.0.label": "signals off"
+   }
+  },
+  {
+   "id": "m04-09",
+   "q": "The traffic controller is standing with their left side towards you, arms extended to the sides. You are driving a passenger car. Where may you go?",
+   "options": [
+    "Straight ahead only",
+    "In all directions",
+    "Straight ahead and right",
+    "Movement is prohibited"
+   ],
+   "answer": 2,
+   "explain": "When the arms are extended to the sides or lowered, trackless vehicles approaching from the left and right sides may go straight ahead and right. A tram in this case may only go straight ahead."
+  },
+  {
+   "id": "m04-10",
+   "q": "The traffic controller is standing with their right side towards you, arms lowered. You are driving a passenger car. Where are you permitted to go?",
+   "options": [
+    "Straight ahead and right",
+    "Only to the right",
+    "In all directions",
+    "Movement is prohibited"
+   ],
+   "answer": 0,
+   "explain": "Lowered arms mean the same as arms extended to the sides. From the left and right sides, trackless vehicles may go straight ahead and right, while from the chest and back movement is prohibited."
+  },
+  {
+   "id": "m04-11",
+   "q": "The traffic controller is standing with their left side towards you, right arm extended forward. You are in a passenger car and want to turn left. May you do so?",
+   "options": [
+    "No, from the left side only straight ahead and right are permitted",
+    "Yes, from the left side all directions are permitted",
+    "No, with this signal only a right turn is permitted",
+    "No, from this side movement is prohibited for everyone"
+   ],
+   "answer": 1,
+   "explain": "If the right arm is extended forward, trackless vehicles approaching from the left side may go in all directions, and a tram may turn left."
+  },
+  {
+   "id": "m04-12",
+   "q": "You are crossing a wide street on foot at a controlled intersection. When you are in the middle of the carriageway, the traffic controller raises an arm. You no longer have time to reach the pavement. What should you do?",
+   "options": [
+    "Keep walking: the vehicles will wait until you get across",
+    "Stop on the line dividing the opposing traffic flows",
+    "Stop right in the lane where the signal caught you",
+    "Run diagonally to the nearest corner of the intersection"
+   ],
+   "answer": 1,
+   "explain": "Pedestrians caught on the carriageway by the traffic controller's raised arm or by an amber signal must clear it. If that is impossible, they stop on the line dividing the traffic flows in opposite directions."
+  },
+  {
+   "id": "m04-13",
+   "q": "The traffic light is green for you, but the traffic controller at the intersection is facing you with arms lowered. What should you do?",
+   "options": [
+    "Go: the green traffic light takes precedence",
+    "Go, but straight ahead only",
+    "Stop: the controller's signals override traffic lights",
+    "Drive on after warning the controller with the horn"
+   ],
+   "answer": 2,
+   "explain": "From the chest, with the arms lowered, movement is prohibited. A traffic controller's signals must be obeyed even if they contradict traffic lights, road signs or road markings."
+  },
+  {
+   "id": "m04-14",
+   "q": "You are driving at 60 km/h a few metres from the stop line. The green signal went out without flashing, and amber came on immediately. You can stop only by emergency braking. What should you do?",
+   "options": [
+    "Continue through the intersection",
+    "Use emergency braking, even with vehicles close behind",
+    "Stop on the pedestrian crossing beyond the stop line",
+    "Stop and reverse back to the stop line"
+   ],
+   "answer": 0,
+   "explain": "If the traffic light does not show a flashing green before the green goes out, and a driver cannot stop without emergency braking when amber comes on, the driver continues moving. This is how the Rules protect you from being hit from behind."
+  },
+  {
+   "id": "m04-n001",
+   "q": "You are approaching an intersection, and the stop line is still a long way off. The green signal for you has started flashing. What is the right thing to do?",
+   "options": [
+    "Speed up sharply to get through in time",
+    "Stop at once, right where the signal caught you",
+    "Slow down and get ready to stop at the stop line",
+    "Carry on as before: flashing green gives you priority over all"
+   ],
+   "answer": 2,
+   "explain": "Flashing green still permits movement, but it tells you that its time is running out and a prohibiting signal will come on soon. You are still far away, so it makes sense to slow down in advance and stop calmly at the stop line rather than speed up.",
+   "scene": {
+    "items.0.label": "flashing"
+   }
+  },
+  {
+   "id": "m04-n002",
+   "q": "The green signal went out without flashing, and amber came on. You are 40 m from the stop line and can stop calmly with normal braking. What must you do?",
+   "options": [
+    "Go through: amber lets you complete the manoeuvre",
+    "Stop before the stop line",
+    "Go through if there are no pedestrians ahead",
+    "Go through with the hazard warning lights on"
+   ],
+   "answer": 1,
+   "explain": "The amber signal prohibits movement and warns that the signals are about to change. The exception in para. 37 applies only to those who cannot stop without emergency braking. You can stop calmly, so you are obliged to do so."
+  },
+  {
+   "id": "m04-n003",
+   "q": "You are first in line at the stop line. The red and amber signals have come on together. May you move off?",
+   "options": [
+    "No: this combination prohibits movement",
+    "Yes: this is the signal to move off",
+    "Yes, but only to turn right",
+    "Yes, if there are no other vehicles at the intersection"
+   ],
+   "answer": 0,
+   "explain": "The combination of red and amber prohibits movement and only tells you that green will come on soon. You may move off only after the green signal comes on."
+  },
+  {
+   "id": "m04-n006",
+   "q": "What does a flashing red traffic light signal mean?",
+   "options": [
+    "The traffic light is faulty; follow the signs",
+    "Movement is permitted with extra caution",
+    "Movement is prohibited",
+    "Only a right turn is permitted"
+   ],
+   "answer": 2,
+   "explain": "A red signal, including a flashing one, prohibits movement. Flashing red signals are most often installed before level crossings.",
+   "scene": {
+    "items.0.label": "flashing"
+   }
+  },
+  {
+   "id": "m04-n007",
+   "q": "A green arrow pointing left is lit for you. Sign 3.19 “No U-turn” is placed before the intersection. What are you permitted to do?",
+   "options": [
+    "A left turn and a U-turn",
+    "Only a left turn",
+    "A left turn and going straight ahead",
+    "Nothing: you must wait for the round green signal"
+   ],
+   "answer": 1,
+   "explain": "An arrow applies only to the direction it shows. A left arrow also permits a U-turn, but only if no sign prohibits it. Here there is sign 3.19, so you may only turn left."
+  },
+  {
+   "id": "m04-n008",
+   "q": "You are in the left lane and want to go straight ahead. The main signal is red, and a green filter arrow pointing right is lit in the additional section. May you go?",
+   "options": [
+    "Yes: the additional section opens all directions",
+    "No: the red signal prohibits going straight ahead",
+    "Yes, if there are no vehicles from other directions",
+    "Yes, if you give way to pedestrians first"
+   ],
+   "answer": 1,
+   "explain": "A green filter arrow permits movement only in its own direction, that is, to the right. For going straight ahead, the red main signal applies, and it prohibits movement."
+  },
+  {
+   "id": "m04-n009",
+   "q": "The main signal is green, and the additional section with the right arrow is not lit. There are no signs at the intersection. In which directions may you go?",
+   "options": [
+    "All, including a right turn",
+    "Only to the right",
+    "Any except a right turn",
+    "Straight ahead only"
+   ],
+   "answer": 2,
+   "explain": "An unlit signal in the additional section prohibits movement in the direction it controls, that is, to the right. The other directions are permitted by the green main signal."
+  },
+  {
+   "id": "m04-n010",
+   "q": "The main signal is red. A left arrow is lit in an additional section, and the section with the right arrow is off. There are no signs. What are you permitted to do?",
+   "options": [
+    "Right turn, giving way to vehicles from other directions",
+    "Left and right turns, giving way to vehicles from other directions",
+    "Any direction, since one of the arrows is lit",
+    "Left turn and U-turn, giving way to vehicles from other directions"
+   ],
+   "answer": 3,
+   "explain": "A green left filter arrow permits a left turn and a U-turn, unless a sign prohibits the U-turn. The unlit section with the right arrow prohibits a right turn. The main signal is red, so you give way to vehicles coming from other directions."
+  },
+  {
+   "id": "m04-n011",
+   "q": "You are going straight ahead. A round green signal is lit for you, and the pedestrian traffic light next to it shows a red human silhouette. Which signal applies to you?",
+   "options": [
+    "The round green: a pedestrian silhouette is for pedestrians only",
+    "The red silhouette: it prohibits movement for both drivers and pedestrians",
+    "Both: you must first wait for the green silhouette",
+    "Neither: with two traffic lights, priority signs apply"
+   ],
+   "answer": 0,
+   "explain": "If a traffic light signal is in the form of a pedestrian silhouette, it applies only to pedestrians. The driver follows their own traffic light with round signals.",
+   "scene": {
+    "items.0.label": "for you",
+    "items.1.label": "pedestrian"
+   }
+  },
+  {
+   "id": "m04-n012",
+   "q": "Lane-control signals hang above the two lanes for your direction, as shown in the diagram. In which lane may you continue?",
+   "options": [
+    "The left lane only",
+    "Either lane",
+    "The right lane only",
+    "Neither lane"
+   ],
+   "answer": 2,
+   "explain": "A lane-control signal showing a red “X” prohibits movement in the lane it is placed above, and one showing a green arrow pointing down permits it. So you may drive only in the right lane.",
+   "scene": {
+    "items.0.label": "above the left lane",
+    "items.1.label": "above the right lane"
+   }
+  },
+  {
+   "id": "m04-n013",
+   "q": "You are driving in a lane where the lane-control signal above has switched to an amber arrow pointing diagonally down to the left. What does it mean?",
+   "options": [
+    "A left turn is permitted",
+    "You must stop under the signal",
+    "The lane stays open; the arrow only warns of road repairs ahead",
+    "The signal is about to change: change lanes to the left"
+   ],
+   "answer": 3,
+   "explain": "An amber arrow pointing diagonally indicates that the lane-control signal is about to change. You need to change lanes to the lane the arrow points to, that is, to the left one.",
+   "scene": {
+    "items.0.label": "above your lane"
+   }
+  },
+  {
+   "id": "m04-n014",
+   "q": "You are driving a tram. On the tram traffic light, the bottom signal and the top middle signal are lit. Where are you permitted to go?",
+   "options": [
+    "To the left",
+    "Straight ahead",
+    "To the right",
+    "Movement is prohibited"
+   ],
+   "answer": 1,
+   "explain": "A tram traffic light with four lunar white signals permits movement only when the bottom signal and at least one top signal are lit. The top middle signal permits movement straight ahead."
+  },
+  {
+   "id": "m04-n015",
+   "q": "You are driving a tram. On the tram traffic light, the top middle and top right signals are lit, but the bottom one is off. What should you do?",
+   "options": [
+    "Go straight ahead or right: two top signals are lit",
+    "Turn right only: the right signal takes precedence",
+    "Go straight ahead only: the middle signal takes precedence",
+    "Stay where you are: the bottom signal is not lit"
+   ],
+   "answer": 3,
+   "explain": "With this type of traffic light, movement is permitted only when the bottom signal is lit together with one or more top signals. The bottom one is not lit, so you may not go."
+  },
+  {
+   "id": "m04-n016",
+   "q": "You are driving a bus in a lane for route vehicles (bus lane). On the traffic light for this lane, the bottom and top left lunar white signals are lit. What does this mean?",
+   "options": [
+    "This signal is for trams only; a bus ignores it",
+    "Straight ahead and left are permitted",
+    "Only a left turn is permitted",
+    "Movement is prohibited"
+   ],
+   "answer": 2,
+   "explain": "Traffic lights with lunar white signals arranged in the shape of the letter “T” control not only trams but also public transport in a lane for route vehicles. The bottom and top left signals are lit, so only a left turn is permitted."
+  },
+  {
+   "id": "m04-n017",
+   "q": "You are in a passenger car. The light is red for you, while on the traffic light with lunar white signals arranged in the shape of the letter “T”, the bottom and top middle signals have come on. May you go straight ahead?",
+   "options": [
+    "No: your light is red; the “T” light is not for you",
+    "Yes: a lunar white signal takes precedence over a normal red",
+    "Yes, if no tram or bus is behind you",
+    "Yes, if you let the tram go first"
+   ],
+   "answer": 0,
+   "explain": "Single-colour traffic lights with four lunar white signals arranged in the shape of the letter “T” control trams, and also public transport in a lane for route vehicles. You are in an ordinary lane, so you obey the signals of your own traffic light.",
+   "scene": {
+    "items.0.label": "for you",
+    "items.1.label": "“T” light"
+   }
+  },
+  {
+   "id": "m04-n018",
+   "q": "You are approaching a level crossing. The traffic light is showing a flashing lunar white signal, and the red signals are not lit. What does this mean?",
+   "options": [
+    "The crossing is closed; a train is approaching",
+    "Movement over the crossing is permitted",
+    "The traffic light is faulty; wait for the attendant",
+    "Only trucks may drive over the crossing"
+   ],
+   "answer": 1,
+   "explain": "A round flashing lunar white signal at a level crossing permits vehicles to drive over the crossing.",
+   "scene": {
+    "items.0.label": "lunar white flashing"
+   }
+  },
+  {
+   "id": "m04-n019",
+   "q": "The traffic light at the level crossing is off: neither the red nor the lunar white signals are lit. There is no barrier and no attendant. When may you drive over the crossing?",
+   "options": [
+    "Never; you must look for another crossing",
+    "At any moment: the traffic light prohibits nothing",
+    "When you have made sure no train is approaching",
+    "Only after the train sounds its horn"
+   ],
+   "answer": 2,
+   "explain": "When the flashing lunar white and red signals are off, you may drive over the crossing if no train (locomotive, draisine) approaching the crossing is in sight. So look both ways before the tracks."
+  },
+  {
+   "id": "m04-n020",
+   "q": "At a level crossing, the red traffic light signals are flashing, but the barrier is still raised. No train is in sight yet. May you drive across?",
+   "options": [
+    "Yes, you may go while the barrier is up",
+    "Yes, if no train is visible in either direction",
+    "Yes, if you switch on the hazard warning lights",
+    "No: flashing red prohibits entering the crossing"
+   ],
+   "answer": 3,
+   "explain": "A flashing red signal prohibits movement. You must not drive over a level crossing when the traffic light shows a prohibiting signal, whether or not there is a barrier and whatever its position: the barrier may start to come down at any moment."
+  },
+  {
+   "id": "m04-n021",
+   "q": "Before a level crossing, an audible signal sounds together with the flashing red traffic light. What does it mean?",
+   "options": [
+    "The crossing is clear; you may go",
+    "It is meant for the train driver, not for motorists",
+    "It is an additional warning that movement is prohibited",
+    "The barrier is about to go up"
+   ],
+   "answer": 2,
+   "explain": "At level crossings, an audible signal may be given together with the flashing red traffic light signal. It additionally informs road users that movement over the crossing is prohibited.",
+   "scene": {
+    "items.0.label": "audible signal"
+   }
+  },
+  {
+   "id": "m04-n022",
+   "q": "Next to the green traffic light there is a digital display showing the number 5. What does it show?",
+   "options": [
+    "How many vehicles will get through the intersection on this green",
+    "How many seconds are left until the green goes out",
+    "The number of the traffic light installation",
+    "The recommended speed in tens of km/h"
+   ],
+   "answer": 1,
+   "explain": "The digital display tells drivers and pedestrians how many seconds are left before the green signal goes out. This helps you decide in advance whether you can get through or should stop smoothly.",
+   "scene": {
+    "labels.0.text": "display"
+   }
+  },
+  {
+   "id": "m04-n023",
+   "q": "Where are additional sections with green arrows placed on a traffic light with round signals?",
+   "options": [
+    "Above the red signal",
+    "Level with the amber signal",
+    "Under the traffic light, below all the main signals",
+    "Level with the round green signal"
+   ],
+   "answer": 3,
+   "explain": "Traffic lights with round signals may have one or two additional sections with green arrow signals. They are placed level with the round green signal, as in the diagram."
+  },
+  {
+   "id": "m04-n024",
+   "q": "A traffic light is mounted horizontally. Where is its red signal?",
+   "options": [
+    "On the right",
+    "On the left",
+    "In the middle",
+    "It varies from one traffic light to another"
+   ],
+   "answer": 1,
+   "explain": "When the signals are arranged horizontally, red is on the left and green on the right. On a vertical traffic light, red is at the top and green at the bottom. The order is fixed, so you can understand the signal even in bad weather."
+  },
+  {
+   "id": "m04-n025",
+   "q": "A round red traffic light signal has a black outline arrow pointing right on it. What does this mean?",
+   "options": [
+    "A right turn is permitted; the other directions are prohibited",
+    "The traffic light is faulty",
+    "You may turn right if you give way to pedestrians",
+    "It prohibits a right turn, just like a red arrow pointing right"
+   ],
+   "answer": 3,
+   "explain": "Instead of red and amber arrows, round red and amber signals with black outline arrows on them may be used. The meaning is the same as that of an arrow: red with a black arrow pointing right prohibits movement to the right."
+  },
+  {
+   "id": "m04-n026",
+   "q": "The main green signal has a black outline arrow pointing left, and next to it there is an additional section with a right arrow. What does the black arrow on the green tell you?",
+   "options": [
+    "You may not turn left while the right arrow is lit",
+    "Left is permitted by the main green, right by the section arrow",
+    "You may turn left only when the additional section is switched off",
+    "Nothing: it is just a decorative part of the signal"
+   ],
+   "answer": 1,
+   "explain": "A black outline arrow on the main green signal tells you that the traffic light has an additional section, and it shows permitted directions other than the one controlled by that section. Here the main signal permits a left turn, while the right turn is controlled by the additional section."
+  },
+  {
+   "id": "m04-n027",
+   "q": "You are about to turn left on a green signal. The traffic light is also showing a green signal in the shape of a “+”. What does it tell you?",
+   "options": [
+    "The signal for oncoming traffic is red",
+    "Oncoming traffic also has green; give way to it",
+    "Only a U-turn is permitted",
+    "There is a first aid station nearby"
+   ],
+   "answer": 0,
+   "explain": "A green “+”-shaped signal indicates that oncoming vehicles have a prohibiting red signal. Oncoming vehicles will not move now, but you must still give way to pedestrians on the carriageway you are crossing."
+  },
+  {
+   "id": "m04-n028",
+   "q": "You are turning left on green. The green “+” signal on the traffic light is not lit. What does this mean for you?",
+   "options": [
+    "Oncoming traffic has red, so you need not watch it",
+    "The traffic light is faulty; the intersection is now uncontrolled",
+    "Turning left is now prohibited",
+    "Oncoming traffic has green: give way to those going straight or right"
+   ],
+   "answer": 3,
+   "explain": "An unlit “+”-shaped signal indicates that oncoming traffic has a permitting green signal. So oncoming vehicles may move, and when turning left you give way to them."
+  },
+  {
+   "id": "m04-n029",
+   "q": "Why are the light signals of a traffic light at a pedestrian crossing sometimes supplemented by an audible signal?",
+   "options": [
+    "So that blind pedestrians know when they may cross",
+    "To hurry slow drivers along",
+    "To warn that a train is approaching",
+    "To draw the traffic controller's attention to the crossing"
+   ],
+   "answer": 0,
+   "explain": "To inform pedestrians who are completely blind that they may cross the carriageway, the light signals of a traffic light may be supplemented by an audible signal. When you hear it, be especially careful: there may be a blind person on the crossing.",
+   "scene": {
+    "items.0.label": "for vehicles",
+    "items.1.label": "for pedestrians"
+   }
+  },
+  {
+   "id": "m04-n030",
+   "q": "A separate traffic light with arrows is installed for turning left. It shows an amber arrow, while the main traffic light shows a round green signal. What are you permitted to do?",
+   "options": [
+    "Any direction, since the main signal is green",
+    "Only a left turn",
+    "Straight ahead and right, but not left for now",
+    "Nothing: amber prohibits everything"
+   ],
+   "answer": 2,
+   "explain": "An arrow has the same meaning as a round signal of the same colour, but only for its own direction. The amber arrow prohibits a left turn, while the main green permits going straight ahead and right.",
+   "scene": {
+    "items.0.label": "main",
+    "items.1.label": "left"
+   }
+  },
+  {
+   "id": "m04-n031",
+   "q": "The main signal is green, and a red arrow is lit on the separate traffic light for turning right. You want to turn right. What should you do?",
+   "options": [
+    "Turn: the main green signal takes precedence over the arrow",
+    "Wait: the red arrow prohibits the right turn specifically",
+    "Turn, giving way to pedestrians",
+    "Turn if there are no vehicles on the left"
+   ],
+   "answer": 1,
+   "explain": "A red arrow signal has the meaning of a red signal, but only for the direction of the arrow. A right turn is prohibited now, although you may go straight ahead.",
+   "scene": {
+    "items.0.label": "main",
+    "items.1.label": "right"
+   }
+  },
+  {
+   "id": "m04-n032",
+   "q": "The main signal is red, and the green filter arrow pointing right in the additional section has started flashing. What does this mean?",
+   "options": [
+    "A right turn is already prohibited; you must wait",
+    "Movement is now permitted in all directions",
+    "The arrow is flashing, which means the traffic light is faulty",
+    "A right turn is still permitted, but the arrow will soon go out"
+   ],
+   "answer": 3,
+   "explain": "Arrows have the same meaning as round signals of the same colour, but only for their own direction. A flashing green arrow still permits a right turn and warns that it will soon go out. With a red main signal, you give way to vehicles from other directions.",
+   "scene": {
+    "items.0.label": "arrow flashing"
+   }
+  },
+  {
+   "id": "m04-n033",
+   "q": "A red signal is lit for you, and a green arrow pointing right is lit in the additional section. On which path may you continue?",
+   "options": [
+    "Path A only",
+    "Paths A and B",
+    "Any path",
+    "None of them"
+   ],
+   "answer": 0,
+   "explain": "The main signal is red for you, and it prohibits going straight ahead and turning left. The green arrow in the additional section permits only a right turn, that is, path A, and you must give way to vehicles from other directions."
+  },
+  {
+   "id": "m04-n034",
+   "q": "You are cycling straight across an intersection. The light for vehicles is green, but the traffic light with smaller round signals and a white plate showing a black bicycle is red. What should you do?",
+   "options": [
+    "Stop: this traffic light is for cyclists",
+    "Go: the main green signal applies to everyone",
+    "Go, but give way to all motor vehicles",
+    "Go if there is no one at the intersection"
+   ],
+   "answer": 0,
+   "explain": "A traffic light with smaller round signals and a white plate showing a black bicycle controls cyclists ⟦51⟧. You are on a bicycle, so you obey its red signal, not the main green signal for vehicles."
+  },
+  {
+   "id": "m04-n035",
+   "q": "The main signal is red for you, and you are turning right on the green filter arrow. To whom must you give way?",
+   "options": [
+    "Only the green car",
+    "Only the white car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 3,
+   "explain": "To give way means not to impede those whose path you cross. The green car is turning right into the street you are coming from, and the white car is going straight ahead on the far half of the road. Neither of them crosses your path, so you may turn."
+  },
+  {
+   "id": "m04-n037",
+   "q": "Your light is green, and you are going straight ahead. On the right, a tram is turning right onto your road on a green filter arrow, while its main signal is red. Who goes first?",
+   "options": [
+    "The tram: it has priority whatever its direction",
+    "You: a tram on a filter arrow with red gives way",
+    "The tram: it is approaching from your right",
+    "Whoever enters the intersection first"
+   ],
+   "answer": 1,
+   "explain": "Normally a tram has priority if the signal permits both the tram and trackless vehicles to move. But when a tram moves on a filter arrow shown together with a red or amber signal, it gives way to vehicles from other directions ⟦52⟧. You have the main green, so you go first."
+  },
+  {
+   "id": "m04-n038",
+   "q": "The light has just turned green for you. The white car has not yet finished crossing the intersection. What should you do?",
+   "options": [
+    "Go: the green signal gives you priority",
+    "Sound the horn and go",
+    "Let the white car through, then go",
+    "Wait for the next green signal"
+   ],
+   "answer": 2,
+   "explain": "When a permitting signal comes on, the driver gives way to vehicles finishing their movement through the intersection. The white car entered the intersection earlier, so let it leave."
+  },
+  {
+   "id": "m04-n039",
+   "q": "The light has turned green for you. A pedestrian has not yet finished crossing right in front of your car. What should you do?",
+   "options": [
+    "Go: the pedestrian's light is already red",
+    "Sound the horn to hurry them up",
+    "Drive around behind the pedestrian",
+    "Wait until the pedestrian has passed"
+   ],
+   "answer": 3,
+   "explain": "When a permitting signal comes on, the driver gives way to pedestrians who have not finished crossing the carriageway for that direction. The pedestrian is right in front of you, so wait until they have left your lane."
+  },
+  {
+   "id": "m04-n041",
+   "q": "The traffic controller is standing with their back to you, right arm extended forward. On which paths may you continue?",
+   "options": [
+    "Path C only",
+    "Paths B and C",
+    "Any of the three",
+    "None of them"
+   ],
+   "answer": 3,
+   "explain": "You can see the traffic controller's back. With the right arm extended forward, all vehicles approaching from the back and the right side are prohibited from moving, and this includes turning right."
+  },
+  {
+   "id": "m04-n042",
+   "q": "The traffic controller is facing you, right arm extended forward. On which paths may you continue?",
+   "options": [
+    "Path C only",
+    "Paths B and C",
+    "Any of the three",
+    "None of them"
+   ],
+   "answer": 0,
+   "explain": "With the right arm extended forward, all vehicles approaching from the chest may only turn right. The controller is facing you with the arm pointing in your direction, so you may only take path C."
+  },
+  {
+   "id": "m04-n043",
+   "q": "The traffic controller is standing with their left side towards you, right arm extended forward. You are turning right. What should you do?",
+   "options": [
+    "Turn without stopping: all directions are permitted for you",
+    "Stop: a right turn is prohibited from the left side",
+    "Turn right, giving way to pedestrians",
+    "Sound the horn at pedestrians and turn"
+   ],
+   "answer": 2,
+   "explain": "From the controller's left side, you may go in any direction. But at this time pedestrians are permitted to cross the carriageway behind the controller's back, and that is exactly where you are turning. When turning, a driver gives way to pedestrians crossing the carriageway they are turning into."
+  },
+  {
+   "id": "m04-n044",
+   "q": "The traffic controller is standing with their right side towards you, arms extended to the sides. You are turning right. What should you do?",
+   "options": [
+    "Stop: turns are prohibited with this signal",
+    "Turn without giving way: pedestrians may not cross now",
+    "First sound the horn, then turn",
+    "Turn right, giving way to pedestrians"
+   ],
+   "answer": 3,
+   "explain": "When the controller's side is towards you and the arms are extended to the sides, you may go straight ahead and right, and at this time pedestrians are also permitted to cross the carriageway. When turning right, you drive across the crossing where pedestrians are walking, and you give way to them."
+  },
+  {
+   "id": "m04-n045",
+   "q": "The traffic controller is facing the blue car, right arm extended forward. Which drivers does the controller permit to move?",
+   "options": [
+    "Only you",
+    "You and the blue car",
+    "You and the green car",
+    "Everyone"
+   ],
+   "answer": 1,
+   "explain": "You are approaching from the controller's left side, so you may go in any direction. The blue car faces the controller's chest, so it may only turn right, and it is turning right. The green car (right side) and the white car (back) are prohibited from moving, even turning right."
+  },
+  {
+   "id": "m04-n046",
+   "q": "The traffic controller is facing the blue car, arms extended to the sides. Which drivers does the controller permit to move?",
+   "options": [
+    "Only you",
+    "You and the blue car",
+    "You and the green car",
+    "Everyone"
+   ],
+   "answer": 2,
+   "explain": "The arms are extended to the sides. From the left and right sides, straight ahead and right are permitted: that means you and the green car, both going straight ahead. The blue car faces the controller's chest and the white car the controller's back, so they are prohibited from moving, even turning right."
+  },
+  {
+   "id": "m04-n047",
+   "q": "A traffic controller is directing traffic at the intersection, standing with their right side towards you, arms extended to the sides. There is a “Give way” sign in front of you. Who will go through the intersection first?",
+   "options": [
+    "You: the controller permits you to move",
+    "The blue car: it is driving on the main road",
+    "Both at once: your paths do not cross",
+    "Whoever reached the intersection first"
+   ],
+   "answer": 0,
+   "explain": "The traffic controller is standing side-on to you with arms extended to the sides, so you may go straight ahead and right. The blue car sees the controller's back, so it is prohibited from moving. A traffic controller's signals must be obeyed even if they contradict road signs, so priority signs do not determine who goes first here."
+  },
+  {
+   "id": "m04-n048",
+   "q": "The light is red for you, but the traffic controller is standing with their left side towards you, right arm extended forward. What should you do?",
+   "options": [
+    "Wait: the red traffic light prohibits movement for you",
+    "Go, but only to the right",
+    "Go in any direction: the controller's signal prevails",
+    "Wait until the traffic controller lowers their arm"
+   ],
+   "answer": 2,
+   "explain": "From the left side, with the right arm extended forward, trackless vehicles may go in all directions. Drivers obey a traffic controller's signals even if they contradict traffic light signals."
+  },
+  {
+   "id": "m04-n049",
+   "q": "You are approaching an intersection, and the traffic controller raises an arm. You are already so close that you can stop before the intersection only by emergency braking. What should you do?",
+   "options": [
+    "Use emergency braking in any case",
+    "Continue moving",
+    "Stop in the middle of the intersection",
+    "Stop and reverse"
+   ],
+   "answer": 1,
+   "explain": "A raised arm prohibits movement for everyone, except in the cases covered by para. 37. Drivers who cannot stop without emergency braking when the traffic controller raises an arm continue moving. Sudden braking would be more dangerous here."
+  },
+  {
+   "id": "m04-n050",
+   "q": "The traffic controller is standing with their back to you, arms extended to the sides. May you turn right?",
+   "options": [
+    "Yes, you may turn right whatever the controller's position",
+    "Yes, if there are no pedestrians",
+    "No: movement from the back is prohibited",
+    "Yes, but only at low speed"
+   ],
+   "answer": 2,
+   "explain": "When the traffic controller's arms are extended to the sides or lowered, all vehicles and pedestrians approaching from the chest and back are prohibited from moving. A right turn is prohibited too."
+  },
+  {
+   "id": "m04-n051",
+   "q": "The traffic controller is standing with their right side towards you, right arm extended forward. May you go straight ahead?",
+   "options": [
+    "Yes, from the right side straight ahead and right are permitted",
+    "No, movement from the right side is prohibited",
+    "No, you may only turn right",
+    "Yes, from the right side you may go in any direction"
+   ],
+   "answer": 1,
+   "explain": "With the right arm extended forward, all vehicles approaching from the right side and back are prohibited from moving. Only those who have the controller's left side towards them may go in any direction."
+  },
+  {
+   "id": "m04-n052",
+   "q": "The traffic controller has raised an arm. Which of the drivers may move?",
+   "options": [
+    "Only you",
+    "Only the blue car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 3,
+   "explain": "A traffic controller's raised arm prohibits all vehicles and pedestrians from moving in all directions. Only those who cannot stop without emergency braking continue moving ⟦53⟧. You and the blue car are stationary at the intersection, so you both wait."
+  },
+  {
+   "id": "m04-n053",
+   "q": "You are driving a tram. The traffic controller is standing with their left side towards you, arms extended to the sides. Where may you go?",
+   "options": [
+    "Straight ahead only",
+    "Straight ahead and right",
+    "Only to the left",
+    "Movement is prohibited"
+   ],
+   "answer": 0,
+   "explain": "With the arms extended to the sides, a tram approaching from either side may only go straight ahead. Trackless vehicles in this case may go straight ahead and right."
+  },
+  {
+   "id": "m04-n054",
+   "q": "You are driving a tram. The traffic controller is standing with their left side towards you, right arm extended forward. Where is the tram permitted to go?",
+   "options": [
+    "Straight ahead only",
+    "Straight ahead and right",
+    "Only to the left",
+    "Movement is prohibited"
+   ],
+   "answer": 2,
+   "explain": "With the right arm extended forward, a tram approaching from the left side may turn left, and trackless vehicles may go in all directions."
+  },
+  {
+   "id": "m04-n055",
+   "q": "The traffic controller has pointed a baton at your car and blown a whistle at the same time. What does this mean?",
+   "options": [
+    "A request to drive faster",
+    "Permission to cross the intersection out of turn",
+    "A greeting; no need to react",
+    "A demand that you stop your car"
+   ],
+   "answer": 3,
+   "explain": "A demand to stop is given by a hand gesture or a baton pointed at the vehicle, together with a whistle signal, or through a loudspeaker. Stop smoothly and safely."
+  },
+  {
+   "id": "m04-n056",
+   "q": "Why does a traffic controller blow a whistle?",
+   "options": [
+    "To permit movement in all directions",
+    "To attract the attention of road users",
+    "To demand that headlights be switched on",
+    "To cancel the traffic light signals"
+   ],
+   "answer": 1,
+   "explain": "A whistle is used as an additional signal to attract the attention of road users. When you hear the whistle, look at the traffic controller and obey their signal."
+  },
+  {
+   "id": "m04-n057",
+   "q": "Why does a traffic controller use a baton or a disc with a red signal (retroreflector)?",
+   "options": [
+    "So that drivers can see the signals better",
+    "Only for stopping trucks",
+    "To show that the traffic light is switched off",
+    "Only for directing trams"
+   ],
+   "answer": 0,
+   "explain": "To make the signals more visible, a traffic controller may use a baton or a disc with a red signal (retroreflector). This does not change the meaning of the signal: what matters is the position of the body and arms."
+  },
+  {
+   "id": "m04-n058",
+   "q": "A level crossing attendant in uniform with a baton is standing at the level crossing. The attendant is facing you with arms extended to the sides. What should you do?",
+   "options": [
+    "Stop: this is a prohibiting signal",
+    "Drive on: a crossing attendant is not a traffic controller",
+    "Drive on if the traffic light at the crossing is off",
+    "Sound the horn and drive on"
+   ],
+   "answer": 0,
+   "explain": "A level crossing attendant with an ID and equipment counts as a traffic controller. If the attendant stands with their chest or back towards the driver, raises an arm holding a baton, lamp or flag, or extends their arms to the sides, movement over the crossing is prohibited."
+  },
+  {
+   "id": "m04-n059",
+   "q": "At a pedestrian crossing away from an intersection, the light is red for you. There is no stop line. Where must you stop?",
+   "options": [
+    "On the pedestrian crossing, right under the traffic light",
+    "Just beyond the crossing",
+    "Before the traffic light, without impeding pedestrians",
+    "Wherever convenient, as long as it is no closer than 5 m to pedestrians"
+   ],
+   "answer": 2,
+   "explain": "If there is no stop line, then away from an intersection the driver stops before the traffic light, without impeding vehicles and pedestrians who are permitted to move. You must not drive onto a crossing that pedestrians are using."
+  },
+  {
+   "id": "m04-n060",
+   "q": "The light is red for you. Before the pedestrian crossing there is a stop line and sign 5.33 “Stop line”. Where must you stop?",
+   "options": [
+    "Before the stop line",
+    "Right before the crossing, past the stop line",
+    "Right by the traffic light, beyond the crossing",
+    "Wherever convenient if there are no pedestrians on the crossing"
+   ],
+   "answer": 0,
+   "explain": "When the traffic light shows a prohibiting signal, the driver stops before the stop line (sign 5.33). The other stopping places listed in para. 36 apply only if there is no stop line."
+  },
+  {
+   "id": "m04-n062",
+   "q": "The traffic lights at the intersection are not working, and there is no traffic controller. To whom must you give way?",
+   "options": [
+    "Only the truck",
+    "Only the blue car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "The traffic lights are off, so the intersection is uncontrolled and priority signs apply. You are on the minor road. The truck is on the main road and is heading into the same road you are turning into, so you must let it go first. The blue car is turning right in the other direction and does not get in your way."
+  },
+  {
+   "id": "m04-n063",
+   "q": "Which of the following may direct traffic if they have an ID and equipment (a uniform or armband, a baton, a disc with a red signal)?",
+   "options": [
+    "Any driver wearing a reflective vest",
+    "A pedestrian, if the traffic light has broken down",
+    "A road maintenance worker",
+    "The driver of a bus standing at a stop"
+   ],
+   "answer": 2,
+   "explain": "A traffic controller may be a police officer, a military police officer or a member of a military traffic control unit, as well as a road maintenance worker or an attendant at a level crossing or ferry crossing, provided they have an ID and equipment. Their signals are binding on everyone."
+  },
+  {
+   "id": "m04-n064",
+   "q": "In which case do the Rules allow you to continue moving if the amber signal comes on in front of you?",
+   "options": [
+    "If you are not exceeding the speed limit and the intersection is clear",
+    "If a vehicle right behind you might not manage to brake in time",
+    "If you are turning right rather than going straight through",
+    "If the green did not flash and you can stop only by emergency braking"
+   ],
+   "answer": 3,
+   "explain": "Drivers who cannot stop without emergency braking may continue moving if the traffic light does not show a flashing green before the green goes out. A flashing green gives you advance warning precisely so that you have time to stop smoothly."
+  },
+  {
+   "id": "m04-n065",
+   "q": "What colours of signals are used in traffic lights?",
+   "options": [
+    "Only red, amber and green",
+    "Red, amber, green and blue",
+    "Green, amber, red and lunar white",
+    "Red, green and white, with white only at level crossings"
+   ],
+   "answer": 2,
+   "explain": "Traffic lights use green, amber, red and lunar white light signals. Lunar white signals are used, for example, by tram traffic lights shaped like the letter “T” and by traffic lights at level crossings."
+  },
+  {
+   "id": "m04-n067",
+   "q": "The red traffic light signals are flashing before a level crossing. Where must you stop?",
+   "options": [
+    "At the stop line",
+    "Right next to the first rail",
+    "Past the stop line, right by the traffic light",
+    "Anywhere, as long as it is not on the tracks"
+   ],
+   "answer": 0,
+   "explain": "If movement over the crossing is prohibited, the driver stops at the stop line, sign 2.5 or the traffic light, and if there are none, at the boundary of the level crossing. Here there is a stop line, so that is where you must stop."
+  }
+ ],
+ "pack": "m04-1"
+}

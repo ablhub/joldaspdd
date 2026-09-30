@@ -1,0 +1,6 @@
+[Unit]
+Description=Install Joldas release uploaded via admin
+
+[Service]
+Type=oneshot
+ExecStart=/bin/bash /opt/joldas/current/deploy/deploy-incoming.sh

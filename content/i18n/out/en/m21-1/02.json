@@ -1,0 +1,273 @@
+{
+ "questions": [
+  {
+   "id": "m21-001",
+   "q": "From what age can you obtain a driving licence of subcategory A1?",
+   "options": ["From 14", "From 16", "From 17", "From 18"],
+   "answer": 1,
+   "explain": "The right to drive vehicles of subcategory A1 is granted from age 16. Category A and subcategory B1 require age 18."
+  },
+  {
+   "id": "m21-002",
+   "q": "Which vehicles belong to subcategory A1?",
+   "options": [
+    "Any motorcycles and quad bikes with an unladen mass of up to 400 kg, and mopeds",
+    "Motorcycles, tricycles and quad bikes of up to 125 cm³ and 11 kW, and mopeds",
+    "Motorcycles, tricycles and quad bikes of up to 250 cm³ and 20 kW, but not mopeds",
+    "Only mopeds and scooters with an engine of up to 50 cm³"
+   ],
+   "answer": 1,
+   "explain": "A1 covers motorcycles, tricycles and quad bikes with a maximum design speed above 50 km/h, an internal combustion engine of up to 125 cm³ and a power of up to 11 kW, and all mopeds."
+  },
+  {
+   "id": "m21-003",
+   "q": "You are 17 and hold an A1 licence. You want to buy a motorcycle with a 250 cm³ engine. Will you be allowed to ride it?",
+   "options": [
+    "No: you need category A, which is issued from age 18",
+    "Yes: A1 allows motorcycles of up to 250 cm³",
+    "Yes, if the engine power is no more than 20 kW",
+    "Yes, but only in built-up areas"
+   ],
+   "answer": 0,
+   "explain": "Subcategory A1 is limited to an engine of up to 125 cm³ and a power of up to 11 kW. A 250 cm³ motorcycle needs category A, and the right to it is granted only from age 18."
+  },
+  {
+   "id": "m21-004",
+   "q": "How do the Rules define a moped?",
+   "options": [
+    "A two- or three-wheeled vehicle: engine of up to 125 cm³ or electric, speed no more than 90 km/h",
+    "Any scooter, whatever its engine size and maximum speed",
+    "A two- or three-wheeled vehicle: engine of up to 50 cm³ or electric, speed no more than 50 km/h",
+    "A three- or four-wheeled vehicle with an unladen mass of up to 400 kg and any engine"
+   ],
+   "answer": 2,
+   "explain": "This is how the Rules define a moped. Mokicks, scooters and other motor vehicles with the same characteristics are treated as mopeds."
+  },
+  {
+   "id": "m21-005",
+   "q": "Under the Rules, a scooter with a 150 cm³ engine is...",
+   "options": ["A moped", "A small electric vehicle", "A motorcycle", "A bicycle"],
+   "answer": 2,
+   "explain": "Scooters with a cylinder capacity above 50 cm³ are treated as motorcycles. A moped is a scooter of up to 50 cm³, or one with an electric motor and a speed of no more than 50 km/h."
+  },
+  {
+   "id": "m21-006",
+   "q": "A quad bike has an unladen mass of 320 kg. Which vehicles' rules must it follow on the road?",
+   "options": [
+    "Those for passenger cars",
+    "Those for motorcycles",
+    "Those for tractors",
+    "Those for mopeds"
+   ],
+   "answer": 1,
+   "explain": "Three- and four-wheeled vehicles whose unladen mass does not exceed 400 kg are treated as motorcycles. So the rules for motorcycles apply to such a quad bike, for example on helmets and speed."
+  },
+  {
+   "id": "m21-007",
+   "q": "Which subcategory do you need to drive a quad bike with a 500 cm³ engine?",
+   "options": ["A1", "C1", "None: no licence is needed for a quad bike", "B1"],
+   "answer": 3,
+   "explain": "Subcategory B1 covers tricycles and quad bikes. A1 includes only light quad bikes with an engine of up to 125 cm³ and a power of up to 11 kW. A B1 licence is issued from age 18, and the right is also confirmed by licences of categories B and A (for A, with a motorcycle-type seating position or handlebars)."
+  },
+  {
+   "id": "m21-008",
+   "q": "You hold a category B licence. Do you need to get a separate category to ride a moped?",
+   "options": [
+    "Yes: you must take separate A1 tests for a moped",
+    "No: no driving licence is needed for a moped at all",
+    "Yes, if the moped's engine is over 25 cm³",
+    "No: a B licence also confirms the right to A1 and B1"
+   ],
+   "answer": 3,
+   "explain": "Since 5 April 2025 a category B licence also confirms the right to drive vehicles of subcategories A1 and B1, and mopeds come under A1. You may not ride a moped with no licence at all."
+  },
+  {
+   "id": "m21-009",
+   "q": "A category A licence confirms the right to drive more than just motorcycles. What else?",
+   "options": [
+    "A1 vehicles, and tricycles and quad bikes with motorcycle-type seating",
+    "Passenger cars with a maximum authorised mass of no more than 3500 kg",
+    "Only mopeds, but not tricycles and quad bikes",
+    "Nothing else: subcategories A1 and B1 are obtained separately"
+   ],
+   "answer": 0,
+   "explain": "Category A includes subcategory A1 and subcategory B1, if the tricycle or quad bike has a motorcycle-type seating position or motorcycle-type handlebars. Passenger cars come under category B."
+  },
+  {
+   "id": "m21-010",
+   "q": "A 15-year-old has been given an electric scooter with a seat, with a maximum speed of 45 km/h. May he ride it on the road?",
+   "options": [
+    "Yes: it is an e-scooter, and you may ride one from age 14",
+    "No: it is a moped: age 16 and an A1 licence",
+    "Yes, if he wears a fastened helmet and rides in daylight",
+    "Yes, but only along the right edge of the carriageway"
+   ],
+   "answer": 1,
+   "explain": "Under the Rules, a scooter with an electric motor and a speed of up to 50 km/h is a moped. The right to drive a moped is granted from age 16, and it requires a driving licence of subcategory A1."
+  },
+  {
+   "id": "m21-011",
+   "q": "From 25 August 2026, motorised bicycles (electric or petrol) are treated as mopeds. What do you now need to ride such a bicycle on the road?",
+   "options": [
+    "Nothing new: registration and a licence are needed only for motorcycles",
+    "Only a helmet and a retroreflective vest; no licence is needed",
+    "Registration with a number plate and a licence of at least subcategory A1",
+    "No number plate is needed, but a category A licence is"
+   ],
+   "answer": 2,
+   "explain": "Law No. 326-VIII moved motorised bicycles into the moped class. The moped requirements apply to them: registration, an A1 licence (or category A or B), a fastened helmet, and pavements are closed to them.",
+   "ref": "Road Traffic Act, art. 1(41), art. 57(6) (as amended by Law No. 326-VIII of 24.06.2026); para. 9"
+  },
+  {
+   "id": "m21-012",
+   "q": "Six months ago you were fined for riding a motorcycle without a fastened helmet. Today you are stopped again without a fastened helmet. What fine does the CAO provide?",
+   "options": [
+    "5 MCI (21 625 tenge)",
+    "20 MCI (86 500 tenge)",
+    "A warning or 3 MCI (12 975 tenge)",
+    "10 MCI (43 250 tenge)"
+   ],
+   "answer": 3,
+   "explain": "The fine for breaching the rules on the use of motorcycle helmets is 5 MCI ⟦61⟧. A repeat offence within a year of the penalty carries 10 MCI, that is 43 250 tenge (part 3). A fastened helmet is compulsory for both the driver and the passenger ⟦62⟧."
+  },
+  {
+   "id": "m21-013",
+   "q": "You have ridden into a residential zone on your motorcycle, and the yard you need is 200 metres away. May you ride this stretch without a helmet?",
+   "options": [
+    "Yes, the speed in a residential zone is only 20 km/h",
+    "Yes, for a distance of up to 500 m",
+    "You may, if the helmet is on but the strap is not fastened",
+    "No: a fastened helmet is required on every journey"
+   ],
+   "answer": 3,
+   "explain": "You have passed sign 5.38, the “Residential zone” sign: the speed here is no more than 20 km/h. But the requirement to ride in a fastened motorcycle helmet does not depend on distance, speed or place."
+  },
+  {
+   "id": "m21-015",
+   "q": "Your son is 14 and has a motorcycle helmet. May you seat him on the back of your motorcycle if the helmet is fastened?",
+   "options": [
+    "Yes: from age 12 it is allowed if the helmet is fastened",
+    "No: only people aged 16 or over may be carried on the back seat",
+    "Yes, if he holds on to the driver with both hands",
+    "Yes, but only in daylight and at no more than 40 km/h"
+   ],
+   "answer": 1,
+   "explain": "The Rules prohibit carrying anyone under 16 on the back seat of a motorcycle or moped. A helmet, daylight and a low speed do not change this."
+  },
+  {
+   "id": "m21-016",
+   "q": "A friend has been drinking at a party and asks you to take him home on the back seat of your motorcycle. You are sober. Is this allowed?",
+   "options": [
+    "Yes: the ban on intoxication applies only to the driver",
+    "Yes, if he wears a fastened helmet and holds on to you",
+    "No: an intoxicated passenger may not be carried",
+    "Yes, if you ride at no more than 40 km/h"
+   ],
+   "answer": 2,
+   "explain": "An intoxicated passenger may lose his balance and topple the motorcycle. That is why the Rules expressly prohibit carrying a passenger in a state of intoxication on the back seat of a motorcycle or moped."
+  },
+  {
+   "id": "m21-017",
+   "q": "Your motorcycle has a seat for the driver only. A friend suggests sitting behind you on the luggage rack. Is this allowed?",
+   "options": [
+    "Yes, if he is light and holds on to the driver",
+    "Yes, if he wears a fastened helmet and puts his feet on the footrests",
+    "Yes, for a short distance, if you ride at no more than 20 km/h",
+    "No: a passenger may sit only in a seat provided by the design"
+   ],
+   "answer": 3,
+   "explain": "Passengers are carried only in the seats provided by the motorcycle's design. A luggage rack is not meant for this: it has no footrests and no support."
+  },
+  {
+   "id": "m21-018",
+   "q": "Before your journey you notice play in the joint between the motorcycle frame and the sidecar frame (side trailer). May you ride?",
+   "options": [
+    "No: it is prohibited to ride with this defect",
+    "Yes, if you ride at no more than 40 km/h",
+    "Yes, if there is no passenger in the sidecar",
+    "Yes: only a fault in the brakes or steering prohibits use"
+   ],
+   "answer": 0,
+   "explain": "Play in the joints between the motorcycle frame and the sidecar frame is on the List of Defects and Conditions Prohibiting Vehicle Use ⟦63⟧. You may ride only after the joint has been repaired."
+  },
+  {
+   "id": "m21-019",
+   "q": "The footrests and the passenger cross handle, which the design provides for, have been removed from your motorcycle. May you ride it?",
+   "options": [
+    "Yes: without a passenger the footrests and handle are not needed",
+    "No: use is prohibited with this defect",
+    "Yes, but only in daylight and in town",
+    "Yes, if a sidecar (side trailer) is fitted in their place"
+   ],
+   "answer": 1,
+   "explain": "The absence of the footrests and passenger cross handles provided by the design is on the List of Defects and Conditions Prohibiting the use of motorcycles and mopeds."
+  },
+  {
+   "id": "m21-020",
+   "q": "At what remaining tread depth of a motorcycle's tyres is its use prohibited?",
+   "options": ["Less than 0.8 mm", "Less than 1.6 mm", "Less than 2 mm", "Less than 3 mm"],
+   "answer": 0,
+   "explain": "For motorcycles and mopeds the limit is 0.8 mm. For passenger cars it is 1.6 mm, and for buses 2 mm."
+  },
+  {
+   "id": "m21-021",
+   "q": "What must a motorcycle with a sidecar (side trailer) carry?",
+   "options": [
+    "A fire extinguisher and a wheel chock",
+    "Nothing: such requirements apply only to cars",
+    "A first aid kit and a warning triangle",
+    "A tow rope and a spare wheel"
+   ],
+   "answer": 2,
+   "explain": "If a motorcycle with a sidecar has no first aid kit and no warning triangle (or flashing red lamp), its use is prohibited. Under this paragraph a fire extinguisher is required for buses, cars and wheeled tractors, not for a motorcycle."
+  },
+  {
+   "id": "m21-022",
+   "q": "Which of these situations prohibits the use of a motorcycle without a sidecar?",
+   "options": [
+    "A remaining tread depth of 1.2 mm",
+    "The safety bars provided by the design have been removed",
+    "No fire extinguisher in the luggage compartment",
+    "No first aid kit"
+   ],
+   "answer": 1,
+   "explain": "The absence of the safety bars provided by the design is on the List of Defects. A tread depth of 1.2 mm is above the limit of 0.8 mm, and a first aid kit and warning triangle are compulsory only on a motorcycle with a sidecar."
+  },
+  {
+   "id": "m21-023",
+   "q": "What do the Rules expressly prohibit for a motorcycle or moped driver?",
+   "options": [
+    "Holding the handlebars with one hand while giving a hand signal",
+    "Riding in gloves",
+    "Riding without holding the handlebars with at least one hand",
+    "Switching on the dipped headlight by day"
+   ],
+   "answer": 2,
+   "explain": "It is prohibited to ride without holding the handlebars with at least one hand. Holding the handlebars with one hand is allowed, for example, when you give a turn signal by hand."
+  },
+  {
+   "id": "m21-024",
+   "q": "On an empty street you want to ride on the rear wheel only, lifting the front one. Is this allowed?",
+   "options": [
+    "Yes, if there are no cars or pedestrians nearby",
+    "Yes, at a speed of no more than 20 km/h",
+    "Yes, but only in a residential zone or a yard",
+    "No: riding on one wheel is prohibited"
+   ],
+   "answer": 3,
+   "explain": "The Rules prohibit driving a motorcycle or moped on one wheel, and sitting outside the place intended for the driver. Such a stunt is not allowed on an empty street or at low speed."
+  },
+  {
+   "id": "m21-025",
+   "q": "You are carrying a board on your motorcycle. It projects 70 cm to the rear and does not interfere with control. May you ride like this?",
+   "options": [
+    "No: a load may project by no more than 50 cm",
+    "Yes, if you hang a red flag on the end of the board",
+    "Yes: a rear projection of up to 1 m is allowed",
+    "Yes, if you ride only in daylight"
+   ],
+   "answer": 0,
+   "explain": "On a motorcycle and a moped a load may project beyond the vehicle's outline by no more than 50 cm in length or width and must not interfere with control. A flag does not make the carriage legal: 70 cm is above the limit."
+  }
+ ]
+}

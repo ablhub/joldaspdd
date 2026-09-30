@@ -1,0 +1,894 @@
+(function(){
+'use strict';
+
+/* ---------- data ---------- */
+var D = JSON.parse(document.getElementById('pdd-data').textContent);
+var ALLMODS = D.modules.slice().sort(function(a,b){return a.order-b.order;});
+var MOD = {}; ALLMODS.forEach(function(m){MOD[m.id]=m; m.qs=m.questions;});
+var Q = {};
+ALLMODS.forEach(function(m){m.questions.forEach(function(q){q.m=m.id; Q[q.id]=q;});});
+var CORE_ALL = Object.keys(Q);
+var CATDATA = D.categories||{groups:[],categories:[],autodrom:{},notes:[]};
+var CATBY = {}; (CATDATA.categories||[]).forEach(function(c){ CATBY[c.code]=c; });
+var CATORDER = ['A1','A','B1','B','BE','C1','C','C1E','CE','D1','D','D1E','DE','Tb','Tm'];
+var CATSHORT = {A1:'легкие мотоциклы и мопеды',A:'мотоциклы',B1:'трициклы и квадроциклы',B:'легковые автомобили',BE:'легковой автомобиль с прицепом',C1:'средние грузовики',C:'грузовые автомобили',C1E:'средний грузовик с прицепом',CE:'грузовик с прицепом, седельный тягач',D1:'микроавтобусы',D:'автобусы',D1E:'микроавтобус с прицепом',DE:'автобус с прицепом, сочлененный автобус',Tb:'троллейбусы',Tm:'трамваи'};
+var CATAGE = {A1:'16 лет',A:'18 лет',B1:'18 лет',B:'18 лет',BE:'после 12 мес. с B',C1:'18 лет',C:'21 год',C1E:'после 12 мес. с C или C1',CE:'после 12 мес. с C',D1:'21 год',D:'23 года',D1E:'после 12 мес. с D или D1',DE:'после 12 мес. с D',Tb:'23 года',Tm:'21 год'};
+var CATEXP = {C:'3 года, из них 1 год на C1',D1:'3 года, из них 1 год на C1',D:'3 года, из них 1 год на D1',Tb:'3 года, из них 1 год на D1'};
+var GSHORT = {A:'мотоциклы, мопеды, трициклы и квадроциклы',B:'легковые автомобили и прицепы к ним',C:'грузовые автомобили и автопоезда',D:'автобусы',T:'трамвай и троллейбус'};
+var MODCATS = {m21:'A1, A, B1',m22:'C1, C, C1E, CE',m23:'D1, D, D1E, DE',m24:'BE, C1E, CE, D1E, DE',m25:'Tb, Tm'};
+function catOptions(sel){ return CATORDER.filter(function(k){ return CATBY[k] || k==='B'; }).map(function(k){ return '<option value="'+k+'"'+(k===sel?' selected':'')+'>'+k+' - '+CATSHORT[k]+'</option>'; }).join(''); }
+var MODS = [], CORE = [], G = 'B';
+function groupOf(code){ var c=CATBY[code]; return c?c.group:'B'; }
+function eligible(q){ return !q.cats || q.cats.indexOf(G)>=0; }
+function mqs(m){ return (m.qs&&m.qs.length)?m.qs:m.questions; }
+function num(m){ var i=MODS.indexOf(m); return i>=0?i+1:m.order; }
+var SIGNS = D.signs; var SIGN = {}; SIGNS.forEach(function(s){SIGN[s.code]=s;});
+var SIGNSVG = {}; SIGNS.forEach(function(s){ SIGNSVG[s.code]=s.svg; });
+var P = D.practice;
+var GROUPS = [];
+var GLABEL = {'Предупреждающие знаки':'Предупреждающие','Знаки приоритета':'Приоритета','Запрещающие знаки':'Запрещающие','Предписывающие знаки':'Предписывающие','Информационно-указательные знаки':'Информационные','Знаки сервиса':'Сервиса','Знаки дополнительной информации (таблички)':'Таблички'};
+SIGNS.forEach(function(s){ if(GROUPS.indexOf(s.group)<0) GROUPS.push(s.group); });
+
+function hash(str){var h=2166136261; for(var i=0;i<str.length;i++){h^=str.charCodeAt(i); h=Math.imul(h,16777619);} return h>>>0;}
+function rng(seed){var s=seed||7; return function(){s^=s<<13; s>>>=0; s^=s>>>17; s^=s<<5; s>>>=0; return s/4294967296;};}
+function shuffle(a,r){r=r||Math.random; a=a.slice(); for(var i=a.length-1;i>0;i--){var j=Math.floor(r()*(i+1)); var t=a[i]; a[i]=a[j]; a[j]=t;} return a;}
+
+/* generated sign-recognition questions (not part of readiness or the exam) */
+SIGNS.forEach(function(s){
+  var r = rng(hash('zn'+s.code));
+  var same = SIGNS.filter(function(x){return x.code!==s.code && x.group===s.group && x.name!==s.name;});
+  var other = SIGNS.filter(function(x){return x.code!==s.code && x.group!==s.group && x.name!==s.name;});
+  var pool = shuffle(same,r).slice(0,3);
+  if(pool.length<3) pool = pool.concat(shuffle(other,r).slice(0,3-pool.length));
+  var opts = shuffle([s].concat(pool), r);
+  var id = 'zn-'+s.code;
+  Q[id] = {id:id, m:'zn', gen:true, sign:s.code, q:'Как называется этот знак?', options:opts.map(function(x){return x.name;}), answer:opts.indexOf(s), explain:s.meaning+(s.note?' '+s.note:''), ref:'Прил. 1, знак '+s.code, difficulty:1};
+});
+
+/* ---------- emblems ---------- */
+var EMB = {m01:'book',m02:'wheel',m03:'5.16.1',m04:'1.8',m05:'tri',m06:'4.1.4',m07:'3.24',m08:'3.20',m09:'3.27',m10:'1.2',m11:'1.6',m12:'5.12',m13:'tow',m14:'cargo',m15:'4.5',m16:'6.1',m17:'law',m18:'2.4',m19:'marking',m20:'1.15',m21:'moto',m22:'truckc',m23:'busc',m24:'trailer',m25:'1.5'};
+var BLUE = "<circle cx='50' cy='50' r='46' fill='#1D5BB8'/>";
+var CUSTOM = {
+  book: "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>"+BLUE+"<path d='M26 34c9-3 17-2 24 3v33c-7-5-15-6-24-3z' fill='#fff'/><path d='M74 34c-9-3-17-2-24 3v33c7-5 15-6 24-3z' fill='#fff'/><path d='M50 37v33' stroke='#1D5BB8' stroke-width='2'/></svg>",
+  wheel: "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>"+BLUE+"<circle cx='50' cy='50' r='25' fill='none' stroke='#fff' stroke-width='7'/><circle cx='50' cy='50' r='6' fill='#fff'/><path d='M27 47h46M50 53v22' stroke='#fff' stroke-width='6'/></svg>",
+  tri: "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M50 10 L94 88 H6 Z' fill='#fff' stroke='#D52B1E' stroke-width='9' stroke-linejoin='round'/><path d='M50 42 L69 76 H31 Z' fill='none' stroke='#D52B1E' stroke-width='6' stroke-linejoin='round'/></svg>",
+  tow: "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>"+BLUE+"<rect x='14' y='44' width='28' height='14' rx='4' fill='#fff'/><rect x='58' y='44' width='28' height='14' rx='4' fill='#fff'/><circle cx='21' cy='60' r='4' fill='#fff'/><circle cx='36' cy='60' r='4' fill='#fff'/><circle cx='65' cy='60' r='4' fill='#fff'/><circle cx='80' cy='60' r='4' fill='#fff'/><path d='M42 51h16' stroke='#fff' stroke-width='3' stroke-dasharray='3 2'/></svg>",
+  cargo: "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>"+BLUE+"<path d='M28 40l22-10 22 10v24l-22 10-22-10z' fill='#fff'/><path d='M28 40l22 10 22-10M50 50v24' stroke='#1D5BB8' stroke-width='2.5' fill='none'/></svg>",
+  law: "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>"+BLUE+"<path d='M50 26v44M36 74h28M28 36h44' stroke='#fff' stroke-width='5' stroke-linecap='round'/><path d='M28 38l-9 18h18zM72 38l-9 18h18z' fill='#fff'/></svg>",
+  marking: "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='6' y='6' width='88' height='88' rx='16' fill='#2A333C'/><path d='M34 12v76' stroke='#fff' stroke-width='5' stroke-dasharray='12 9'/><path d='M66 12v76' stroke='#F2B200' stroke-width='5'/></svg>",
+  moto: "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>"+BLUE+"<circle cx='29' cy='62' r='11' fill='none' stroke='#fff' stroke-width='5'/><circle cx='71' cy='62' r='11' fill='none' stroke='#fff' stroke-width='5'/><path d='M29 62L42 45h17l12 17M42 45l-4-8h-8M59 45l4-10h8' fill='none' stroke='#fff' stroke-width='5' stroke-linecap='round' stroke-linejoin='round'/></svg>",
+  truckc: "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>"+BLUE+"<rect x='16' y='34' width='40' height='26' rx='2' fill='#fff'/><path d='M56 42h14l10 10v8H56z' fill='#fff'/><rect x='60' y='45' width='9' height='7' fill='#1D5BB8'/><circle cx='28' cy='63' r='6' fill='#fff' stroke='#1D5BB8' stroke-width='2.5'/><circle cx='68' cy='63' r='6' fill='#fff' stroke='#1D5BB8' stroke-width='2.5'/></svg>",
+  busc: "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>"+BLUE+"<rect x='27' y='22' width='46' height='50' rx='7' fill='#fff'/><rect x='32' y='28' width='36' height='18' rx='2' fill='#1D5BB8'/><circle cx='36' cy='62' r='4' fill='#1D5BB8'/><circle cx='64' cy='62' r='4' fill='#1D5BB8'/><rect x='31' y='72' width='8' height='7' rx='1.5' fill='#fff'/><rect x='61' y='72' width='8' height='7' rx='1.5' fill='#fff'/></svg>",
+  trailer: "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>"+BLUE+"<rect x='12' y='44' width='36' height='14' rx='4' fill='#fff'/><rect x='19' y='35' width='20' height='11' rx='3' fill='#fff'/><rect x='57' y='38' width='30' height='20' rx='2' fill='#fff'/><path d='M48 53h9' stroke='#fff' stroke-width='3'/><circle cx='22' cy='60' r='5' fill='#fff' stroke='#1D5BB8' stroke-width='2.5'/><circle cx='39' cy='60' r='5' fill='#fff' stroke='#1D5BB8' stroke-width='2.5'/><circle cx='72' cy='60' r='5' fill='#fff' stroke='#1D5BB8' stroke-width='2.5'/></svg>"
+};
+function emblem(mid){ var k=EMB[mid]; if(SIGN[k]) return SIGN[k].svg; return CUSTOM[k]||CUSTOM.book; }
+
+/* ---------- storage ---------- */
+var KEY='joldas-pdd-v1';
+var storageOK = true;
+function fresh(){ return {v:1, profile:{name:'',examDate:'',daily:30,cat:'B'}, q:{}, read:{}, exams:[], days:{}, adone:{}, chk:{}, exam:null}; }
+function load(){
+  try{
+    localStorage.setItem(KEY+'-t','1'); localStorage.removeItem(KEY+'-t');
+    var raw = localStorage.getItem(KEY);
+    if(!raw) return fresh();
+    var o = JSON.parse(raw); var f = fresh();
+    Object.keys(f).forEach(function(k){ if(o[k]===undefined) o[k]=f[k]; });
+    o.profile = Object.assign(f.profile, o.profile||{});
+    return o;
+  }catch(e){ storageOK=false; return fresh(); }
+}
+var S = load();
+if(!S.profile.cat) S.profile.cat='B';
+function setGroup(){
+  G=groupOf(S.profile.cat||'B'); MODS=[]; CORE=[];
+  ALLMODS.forEach(function(m){ m.qs=m.questions.filter(eligible); if(m.qs.length) MODS.push(m); });
+  MODS.forEach(function(m){ m.qs.forEach(function(q){ CORE.push(q.id); }); });
+}
+setGroup();
+function setCat(c){ if(!CATBY[c] && c!=='B') return; S.profile.cat=c; setGroup(); save(); render(false); toast('Категория '+c+': '+CORE.length+' '+plural(CORE.length,'вопрос','вопроса','вопросов')); }
+var saveT = null;
+function save(){ clearTimeout(saveT); saveT=setTimeout(flush,200); }
+function flush(){ clearTimeout(saveT); try{ localStorage.setItem(KEY, JSON.stringify(S)); storageOK=true; }catch(e){ storageOK=false; } }
+window.addEventListener('pagehide', flush);
+
+/* ---------- helpers ---------- */
+var DAY = 86400000;
+var INT = [0,1,3,7,16,35];
+function pad(n){return (n<10?'0':'')+n;}
+function dkey(ts){var d=new Date(ts); return d.getFullYear()+'-'+pad(d.getMonth()+1)+'-'+pad(d.getDate());}
+function today(){return dkey(Date.now());}
+function esc(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+function fmt(t){ return esc(t).replace(/\((?:п\.|пп\.|Прил\.|ст\.|Перечень|ПДД|Закон|ERC|RC UK)[^()]{0,70}\)/g, function(m){return '<span class="ref">'+m+'</span>';}); }
+function plural(n,a,b,c){n=Math.abs(n)%100; var n1=n%10; if(n>10&&n<20) return c; if(n1>1&&n1<5) return b; if(n1===1) return a; return c;}
+function pct(x){return Math.round(x*100);}
+function mmss(sec){sec=Math.max(0,Math.round(sec)); return pad(Math.floor(sec/60))+':'+pad(sec%60);}
+function fdate(ts){var d=new Date(ts); return pad(d.getDate())+'.'+pad(d.getMonth()+1)+'.'+d.getFullYear();}
+var KEYS = ['1','2','3','4'];
+
+function record(id, ok){
+  var now=Date.now(); var r=S.q[id]; var first=!r;
+  if(!r) r = S.q[id] = {a:0,c:0,box:0,due:0,t:0,ok:0};
+  r.a++; r.t=now;
+  if(ok){ r.c++; r.box = first ? 2 : Math.min(5, r.box+1); r.due = now + INT[r.box]*DAY; r.ok=1; }
+  else { r.box=0; r.due=now; r.ok=0; }
+  var k=today(); var d=S.days[k]||(S.days[k]={n:0,c:0}); d.n++; if(ok) d.c++;
+  save();
+}
+function qscore(id){var r=S.q[id]; if(!r) return 0; if(!r.ok) return 0.15; return 0.5+0.5*Math.min(r.box,4)/4;}
+function mastery(mid){var qs=mqs(MOD[mid]), s=0; if(!qs.length) return 0; qs.forEach(function(q){s+=qscore(q.id);}); return s/qs.length;}
+function seen(mid){return mqs(MOD[mid]).filter(function(q){return !!S.q[q.id];}).length;}
+function readiness(){
+  var tot=0,w=0;
+  MODS.forEach(function(m){var n=m.qs.length; tot+=mastery(m.id)*n; w+=n;});
+  var base=w?tot/w:0; var ex=S.exams.slice(-3);
+  if(ex.length){ var avg=ex.reduce(function(a,e){return a+e.c/e.n;},0)/ex.length; base=0.6*base+0.4*avg; }
+  return Math.round(base*100);
+}
+function errorsList(){return Object.keys(S.q).filter(function(id){return Q[id] && S.q[id].a && !S.q[id].ok;});}
+function dueList(){var now=Date.now(); return Object.keys(S.q).filter(function(id){return Q[id] && S.q[id].ok && S.q[id].due<=now;});}
+function answeredCount(){return Object.keys(S.q).filter(function(id){return Q[id] && !Q[id].gen && eligible(Q[id]);}).length;}
+function streak(){
+  var n=0, t=Date.now();
+  if(!S.days[dkey(t)]) t-=DAY;
+  while(S.days[dkey(t)] && S.days[dkey(t)].n>0){ n++; t-=DAY; }
+  return n;
+}
+function isWeak(mid){ return seen(mid)>=4 && mastery(mid)<0.5; }
+function weakest(){
+  var cand = MODS.filter(function(m){return S.read[m.id] || seen(m.id)>0;});
+  if(!cand.length) return null;
+  cand = cand.slice().sort(function(a,b){return mastery(a.id)-mastery(b.id);});
+  return mastery(cand[0].id) < 0.85 ? cand[0] : null;
+}
+function daysLeft(){
+  var ed=S.profile.examDate; if(!ed) return null;
+  var t = new Date(ed+'T00:00:00').getTime(); if(isNaN(t)) return null;
+  var d0 = new Date(today()+'T00:00:00').getTime();
+  return Math.round((t-d0)/DAY);
+}
+
+/* ---------- plan ---------- */
+function plan(){
+  var tasks=[], errs=errorsList(), due=dueList(), k=today();
+  var dayN=(S.days[k]||{n:0}).n, goal=S.profile.daily||30, any=Object.keys(S.q).length>0;
+  if(errs.length||due.length){
+    tasks.push({title:'Работа над ошибками', sub: errs.length+' '+plural(errs.length,'ошибка','ошибки','ошибок')+(due.length?' и '+due.length+' на повторение':''), act:'quiz', kind:'errors'});
+  } else {
+    tasks.push({done:any, title:'Работа над ошибками', sub: any?'Ошибок нет, повторять пока нечего':'Появится после первых ответов'});
+  }
+  var next = MODS.filter(function(m){return !S.read[m.id];})[0];
+  if(next) tasks.push({title:'Урок '+num(next)+'. '+next.title, sub:next.minutes+' мин чтения и 10 вопросов', go:next.id});
+  else tasks.push({done:true, title:'Все '+MODS.length+' уроков пройдены', sub:'Перед экзаменом перечитайте блоки «Запомнить»'});
+  var w = weakest();
+  if(w) tasks.push({title:'Слабая тема: '+w.title, sub:'10 вопросов, освоено '+pct(mastery(w.id))+'%', act:'quiz', kind:'mod', mod:w.id});
+  tasks.push({done:dayN>=goal, title:'Цель дня: '+goal+' '+plural(goal,'вопрос','вопроса','вопросов'), sub:'Решено сегодня: '+dayN, act:'quiz', kind:'smart', prog:Math.min(1,dayN/goal)});
+  var examToday = S.exams.some(function(e){return dkey(e.ts)===k;});
+  var dl = daysLeft();
+  if(readiness()>=40 || examToday || (dl!==null && dl<=5)){
+    tasks.push({done:examToday, title:'Пробный экзамен', sub: examToday?'Сегодня уже решали':'40 вопросов за 40 минут, как в спецЦОН', go:'exam'});
+  }
+  return tasks;
+}
+function scheduleText(){
+  var dl = daysLeft();
+  if(dl===null) return 'Укажите дату экзамена, и план подстроится под ваш срок.';
+  var unread = MODS.filter(function(m){return !S.read[m.id];}).length;
+  var unseen = CORE.filter(function(id){return !S.q[id];}).length;
+  if(dl<0) return 'Дата экзамена прошла. Если пересдаете, укажите новую.';
+  if(dl===0) return 'Экзамен сегодня. Новые темы не начинайте: повторите ошибки и блоки «Запомнить». Удачи!';
+  var studyDays = Math.max(1, dl-2);
+  var lpd = Math.ceil(unread/studyDays), qpd = Math.max(20, Math.ceil(unseen/studyDays));
+  var t = 'До экзамена '+dl+' '+plural(dl,'день','дня','дней')+'. ';
+  if(unread) t += 'Проходите '+lpd+' '+plural(lpd,'урок','урока','уроков')+' и около '+qpd+' вопросов в день. ';
+  else t += 'Все уроки пройдены: решайте пробные экзамены и закрывайте ошибки. ';
+  if(dl>2) t += 'Последние 2 дня оставьте на пробные экзамены.';
+  return t;
+}
+
+/* ---------- routing ---------- */
+var VIEWS = ['plan','learn','signs','train','errors','exam','practice','about'];
+var R = parseHash();
+function parseHash(){ var h=(location.hash||'').slice(1); if(MOD[h]) return {v:'lesson',p:h}; if(VIEWS.indexOf(h)>=0) return {v:h}; return {v:'plan'}; }
+function go(v,p){
+  if(MOD[v]){ p=v; v='lesson'; }
+  R={v:v,p:p||null};
+  var tok = v==='lesson'?p:(VIEWS.indexOf(v)>=0?v:null);
+  if(tok && location.hash.slice(1)!==tok){ try{ location.hash = tok; }catch(e){} }
+  render(); window.scrollTo(0,0);
+}
+window.addEventListener('hashchange', function(){ var r=parseHash(); if(r.v!==R.v || r.p!==R.p){ if(R.v==='quiz'||R.v==='examrun'||R.v==='examres'){ if(r.v===prevV.v && r.p===prevV.p) return; } R=r; render(); window.scrollTo(0,0);} });
+var prevV = {v:'plan',p:null};
+
+/* ---------- state for sessions ---------- */
+var QS = null;       // quiz session
+var RES = null;      // last exam result
+var SG = {g:'all', q:''};
+var PT = 'exam';     // practice tab
+var OPEN = {};       // opened autodrom items
+var ASK = {finish:false, reset:false};
+var OVER = null;     // sign overlay code
+
+/* ---------- icons ---------- */
+var IC = {
+  plan:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 17a8 8 0 1 1 16 0"/><path d="M12 17l4-5"/><circle cx="12" cy="17" r="1.3" fill="currentColor"/></svg>',
+  learn:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M3 5.5C6 4.5 9 4.8 12 7v12c-3-2.2-6-2.5-9-1.5z"/><path d="M21 5.5C18 4.5 15 4.8 12 7v12c3-2.2 6-2.5 9-1.5z"/></svg>',
+  train:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3.5" width="16" height="17" rx="2.5"/><path d="M8 9l2 2 4-4M8 15.5h8"/></svg>',
+  exam:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="13.5" r="7.5"/><path d="M12 9.5v4l2.5 2M9.5 2.5h5"/></svg>',
+  practice:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="2"/><path d="M3.8 10.5h6.2M14 10.5h6.2M12 14v6.5"/></svg>'
+};
+var CHEV = '<svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 9l6 6 6-6"/></svg>';
+
+/* ---------- nav ---------- */
+function navHTML(){
+  var e=errorsList().length;
+  var items=[['plan','Мой план'],['learn','Учебник'],['signs','Знаки'],['train','Тренировка'],['errors','Ошибки'],['exam','Экзамен'],['practice','Практика'],['about','О проекте']];
+  var cur = curNav();
+  document.getElementById('nav').innerHTML = items.map(function(it){
+    return '<button data-go="'+it[0]+'"'+(cur===it[0]?' aria-current="page"':'')+'>'+it[1]+(it[0]==='errors'&&e?' <span class="badge red">'+e+'</span>':'')+'</button>';
+  }).join('');
+  var b=[['plan','План','plan'],['learn','Учебник','learn'],['train','Тесты','train'],['exam','Экзамен','exam'],['practice','Практика','practice']];
+  var bc = cur==='signs'?'learn':(cur==='errors'?'train':cur);
+  document.getElementById('bnav').innerHTML = b.map(function(it){
+    return '<button data-go="'+it[0]+'"'+(bc===it[0]?' aria-current="page"':'')+'>'+IC[it[2]]+'<span>'+it[1]+'</span>'+(it[0]==='train'&&e?'<span class="dot">'+(e>99?'99+':e)+'</span>':'')+'</button>';
+  }).join('');
+}
+function curNav(){
+  if(R.v==='lesson') return 'learn';
+  if(R.v==='quiz') return QS&&QS.from ? QS.from : 'train';
+  if(R.v==='examrun'||R.v==='examres') return 'exam';
+  return R.v;
+}
+
+/* ---------- banners ---------- */
+function liveHTML(){
+  var h='';
+  if(S.exam && R.v!=='examrun'){
+    h+='<div class="live"><span>Идет пробный экзамен. Осталось <b data-timer>'+mmss(examLeft())+'</b></span><button class="btn yellow" data-act="ex-resume">Вернуться к экзамену</button></div>';
+  }
+  if(QS && !QS.done && R.v!=='quiz'){
+    h+='<div class="live"><span>'+esc(QS.title)+': вопрос <b>'+(QS.i+1)+' из '+QS.ids.length+'</b></span><button class="btn yellow" data-act="q-resume">Продолжить</button><button class="btn" data-act="q-drop">Закончить</button></div>';
+  }
+  if(!storageOK) h+='<div class="live"><span>Браузер не дает сохранять данные в этом окне: прогресс пропадет после закрытия страницы.</span></div>';
+  return h;
+}
+
+/* ---------- views ---------- */
+function gauge(v){
+  var cx=110, cy=112, r=88;
+  function pt(p,rr){var a=Math.PI*(1-p/100); return [cx+rr*Math.cos(a), cy-rr*Math.sin(a)];}
+  var s='<svg class="gauge" viewBox="0 0 220 128" role="img" aria-label="Готовность '+v+' процентов">';
+  s+='<path class="track" d="M'+(cx-r)+' '+cy+' A'+r+' '+r+' 0 0 1 '+(cx+r)+' '+cy+'"/>';
+  if(v>0){var e=pt(Math.min(v,100),r); s+='<path class="val" d="M'+(cx-r)+' '+cy+' A'+r+' '+r+' 0 0 1 '+e[0].toFixed(1)+' '+e[1].toFixed(1)+'"/>';}
+  for(var i=0;i<=100;i+=5){ var major=i%20===0; var a=pt(i,r-12), b=pt(i,major?r-24:r-18); s+='<line class="tick'+(major?' major':'')+'" x1="'+a[0].toFixed(1)+'" y1="'+a[1].toFixed(1)+'" x2="'+b[0].toFixed(1)+'" y2="'+b[1].toFixed(1)+'"/>'; if(major){var l=pt(i,r-34); s+='<text class="tl" x="'+l[0].toFixed(1)+'" y="'+(l[1]+3).toFixed(1)+'" text-anchor="middle">'+i+'</text>';} }
+  var p1=pt(80,r-9), p2=pt(80,r+9), pl=pt(80,r+19);
+  s+='<line class="pass" x1="'+p1[0].toFixed(1)+'" y1="'+p1[1].toFixed(1)+'" x2="'+p2[0].toFixed(1)+'" y2="'+p2[1].toFixed(1)+'"/>';
+  s+='<text class="passl" x="'+pl[0].toFixed(1)+'" y="'+(pl[1]+2).toFixed(1)+'" text-anchor="middle">32/40</text>';
+  var n=pt(Math.min(v,100),r-30);
+  s+='<line class="needle" x1="'+cx+'" y1="'+cy+'" x2="'+n[0].toFixed(1)+'" y2="'+n[1].toFixed(1)+'"/><circle class="hub" cx="'+cx+'" cy="'+cy+'" r="6"/>';
+  return s+'</svg>';
+}
+function verdict(v){
+  var last=S.exams[S.exams.length-1];
+  if(!answeredCount()) return 'Начните с первого урока: стрелка поползет вверх';
+  if(v>=80 && last && last.c>=32) return 'Готовы к экзамену. Держите форму';
+  if(v>=80) return 'Почти готовы. Сдайте пробный экзамен';
+  if(v>=55) return 'Хороший темп. Закройте слабые темы';
+  return 'Идет подготовка. Решайте каждый день';
+}
+
+function viewPlan(){
+  var v=readiness(), any=answeredCount()>0, dl=daysLeft();
+  var h='';
+  h+='<section class="hero'+(any?' compact':'')+'">';
+  if(any){
+    h+='<h1>'+(S.profile.name?'Сәлем, '+esc(S.profile.name)+'!':'Сәлем!')+' Продолжаем подготовку</h1>';
+    h+='<p style="margin-top:6px">Категория '+esc(S.profile.cat)+' · '+CORE.length+' '+plural(CORE.length,'вопрос','вопроса','вопросов')+' · <button class="linkbtn" data-act="edit-profile">сменить</button></p>';
+  } else {
+    h+='<p class="eyebrow" style="color:#F5C33B">ПДД РК 2026 · все категории, от A1 до Tm</p>';
+    h+='<h1>Вся подготовка к экзамену на права. <em>Бесплатно.</em></h1>';
+    h+='<p>Учебник по актуальным ПДД Казахстана, '+CORE_ALL.length+' '+plural(CORE_ALL.length,'вопрос','вопроса','вопросов')+' с разбором и схемами ситуаций, симулятор экзамена спецЦОН, практика автодрома и личный план с работой над ошибками. Без подписок и платных уровней.</p>';
+    h+='<div class="facts"><span class="fact"><b>40</b> вопросов</span><span class="fact"><b>40</b> минут</span><span class="fact">не больше <b>8</b> ошибок</span><span class="fact"><b>15</b> категорий</span></div>';
+    h+='<div class="herocat"><label for="hero-cat">Ваша категория</label><select class="input" id="hero-cat">'+catOptions(S.profile.cat)+'</select><span>'+CORE.length+' '+plural(CORE.length,'вопрос','вопроса','вопросов')+' для этой категории</span></div>';
+    h+='<div class="row"><button class="btn yellow" data-go="m01">Начать с урока 1</button><button class="btn" data-go="exam">Пробный экзамен</button></div>';
+  }
+  h+='</section>';
+
+  h+='<div class="home" style="margin-top:20px">';
+  /* left column */
+  h+='<div class="stack">';
+  h+='<div class="card"><div class="card-h"><h2 class="h2">Готовность</h2>'+(dl!==null&&dl>=0?'<span class="badge yellow">до экзамена '+dl+' '+plural(dl,'день','дня','дней')+'</span>':'')+'</div>';
+  h+='<div class="gauge-wrap">'+gauge(v)+'<div class="gauge-num">'+v+'<small>%</small></div><p class="verdict">'+esc(verdict(v))+'</p><p class="small muted" style="margin-top:4px">Желтая отметка - проходной порог спецЦОН: 32 из 40</p></div></div>';
+
+  var k=today(), dayN=(S.days[k]||{n:0}).n;
+  h+='<div class="kpis">';
+  h+='<div class="kpi"><div class="n">'+dayN+'</div><div class="l">решено сегодня</div></div>';
+  h+='<div class="kpi"><div class="n">'+streak()+'</div><div class="l">'+plural(streak(),'день','дня','дней')+' подряд</div></div>';
+  h+='<div class="kpi"><div class="n">'+answeredCount()+'<span class="muted" style="font-size:.8rem">/'+CORE.length+'</span></div><div class="l">вопросов пройдено</div></div>';
+  var passed=S.exams.filter(function(e){return e.c>=32;}).length;
+  h+='<div class="kpi"><div class="n">'+passed+'<span class="muted" style="font-size:.8rem">/'+S.exams.length+'</span></div><div class="l">экзаменов сдано</div></div>';
+  h+='</div>';
+
+  /* profile */
+  var pr=S.profile, openForm = !pr.examDate;
+  h+='<div class="card flat"><div class="card-h"><h2 class="h3">Мой профиль</h2>'+(openForm?'':'<button class="btn ghost sm" data-act="edit-profile">Изменить</button>')+'</div>';
+  if(openForm || ASK.profile){
+    h+='<form id="pf" class="stack" style="gap:12px"><div class="form-grid">';
+    h+='<div class="field"><label for="pf-name">Имя</label><input class="input" id="pf-name" maxlength="30" autocomplete="given-name" value="'+esc(pr.name)+'" placeholder="Как к вам обращаться"></div>';
+    h+='<div class="field"><label for="pf-date">Дата экзамена</label><input class="input" type="date" id="pf-date" value="'+esc(pr.examDate)+'"></div>';
+    h+='<div class="field"><label for="pf-cat">Категория</label><select class="input" id="pf-cat">'+catOptions(pr.cat)+'</select></div>';
+    h+='<div class="field"><label>Вопросов в день</label><div class="seg" role="group" aria-label="Вопросов в день">'+[20,30,50].map(function(n){return '<button type="button" data-act="pf-daily" data-n="'+n+'" aria-pressed="'+((pr.daily||30)===n)+'">'+n+'</button>';}).join('')+'</div></div>';
+    h+='</div><div class="row"><button class="btn primary" type="submit">Сохранить план</button><span class="small muted">Данные остаются в вашем браузере</span></div></form>';
+  } else {
+    h+='<p>'+(pr.name?esc(pr.name)+' · ':'')+'категория '+esc(pr.cat||'B')+' · экзамен '+esc(pr.examDate.split('-').reverse().join('.'))+' · цель '+(pr.daily||30)+' вопросов в день</p>';
+  }
+  h+='</div>';
+  h+='</div>';
+
+  /* right column */
+  h+='<div class="stack">';
+  h+='<div class="card"><div class="card-h"><h2 class="h2">План на сегодня</h2><span class="small muted">'+esc(fdate(Date.now()))+'</span></div>';
+  h+='<p class="small muted" style="margin-bottom:12px">'+esc(scheduleText())+'</p><div class="tasks">';
+  plan().forEach(function(t){
+    var attrs = t.go?' data-go="'+t.go+'"':(t.act?' data-act="'+t.act+'" data-kind="'+(t.kind||'')+'" data-mod="'+(t.mod||'')+'"':'');
+    h+='<div class="task'+(t.done?' done':'')+'"><span class="chk" aria-hidden="true"></span><div class="t"><b>'+esc(t.title)+'</b><span>'+esc(t.sub)+'</span>'+(t.prog!==undefined&&!t.done?'<div class="bar yellow" style="margin-top:6px;max-width:220px"><i style="width:'+pct(t.prog)+'%"></i></div>':'')+'</div>'+((t.go||t.act)&&!t.done?'<button class="btn sm"'+attrs+'>Начать</button>':((t.go||t.act)?'<button class="btn ghost sm"'+attrs+'>Еще раз</button>':''))+'</div>';
+  });
+  h+='</div></div>';
+
+  h+='<div class="card"><div class="card-h"><h2 class="h2">Темы</h2><button class="btn ghost sm" data-go="learn">Весь учебник</button></div><div class="topics">';
+  MODS.forEach(function(m){
+    var ms=mastery(m.id), weak=isWeak(m.id);
+    h+='<button class="topic" data-go="'+m.id+'"><span class="emb">'+emblem(m.id)+'</span><span class="nm">'+num(m)+'. '+esc(m.title)+(weak?' <span class="badge red">слабая</span>':'')+(S.read[m.id]&&!weak?' <span class="badge">прочитано</span>':'')+'</span><span class="bar'+(ms>=0.8?' green':'')+'"><i style="width:'+pct(ms)+'%"></i></span><span class="pc">'+pct(ms)+'%</span></button>';
+  });
+  h+='</div></div>';
+
+  if(S.exams.length){
+    var ex=S.exams.slice(-12);
+    h+='<div class="card"><div class="card-h"><h2 class="h2">Пробные экзамены</h2><button class="btn ghost sm" data-go="exam">Новый</button></div>';
+    h+='<div class="hist" aria-label="Результаты последних экзаменов"><div class="line" style="bottom:80%"><span>32</span></div>';
+    ex.forEach(function(e){ h+='<div class="b'+(e.c>=32?' ok':'')+'" style="height:'+Math.max(4,pct(e.c/e.n))+'%" title="'+fdate(e.ts)+': '+e.c+' из '+e.n+'"></div>'; });
+    h+='</div><p class="small muted" style="margin-top:8px">Последний: '+ex[ex.length-1].c+' из '+ex[ex.length-1].n+', '+fdate(ex[ex.length-1].ts)+'</p></div>';
+  }
+
+  h+='<details class="card flat"><summary class="h3" style="cursor:pointer">Перенос прогресса и сброс</summary><div class="stack" style="gap:12px;margin-top:14px">';
+  h+='<p class="small muted">Прогресс хранится в этом браузере. Чтобы продолжить на другом устройстве, скопируйте код и вставьте его там.</p>';
+  h+='<div class="row"><button class="btn sm" data-act="export">Показать код прогресса</button><button class="btn sm" data-act="copy">Скопировать</button></div>';
+  h+='<textarea class="input" id="xfer" aria-label="Код прогресса" placeholder="Сюда появится код, или вставьте код с другого устройства"></textarea>';
+  h+='<div class="row"><button class="btn sm" data-act="import">Загрузить код</button>'+(ASK.reset?'<span class="small">Удалить весь прогресс?</span><button class="btn sm danger" data-act="reset-yes">Да, сбросить</button><button class="btn sm" data-act="reset-no">Отмена</button>':'<button class="btn ghost sm" data-act="reset">Сбросить прогресс</button>')+'</div>';
+  h+='</div></details>';
+  h+='</div></div>';
+  return h;
+}
+
+function modCard(m, foreign){
+  var ms=mastery(m.id), n=foreign?m.questions.length:m.qs.length;
+  var tag = m.order<=20 ? esc(m.pdd.toUpperCase()) : 'ОСОБЕННОСТИ КАТЕГОРИИ';
+  var h='<button class="mod'+(foreign?' foreign':'')+'" data-go="'+m.id+'"><div class="top-row"><span class="emb">'+emblem(m.id)+'</span><div><div class="num">'+(foreign?'ДЛЯ '+esc(MODCATS[m.id]||''):'ТЕМА '+num(m)+' · '+tag)+'</div><h3>'+esc(m.title)+'</h3></div></div>';
+  h+='<div class="meta"><span>'+m.minutes+' мин</span><span>·</span><span>'+n+' '+plural(n,'вопрос','вопроса','вопросов')+'</span>'+(S.read[m.id]?'<span class="badge green">прочитано</span>':'')+(!foreign&&isWeak(m.id)?'<span class="badge red">слабая</span>':'')+(!foreign&&m.order>20?'<span class="badge blue">категория '+esc(S.profile.cat)+'</span>':'')+'</div>';
+  if(!foreign) h+='<div class="bar'+(ms>=0.8?' green':'')+'"><i style="width:'+pct(ms)+'%"></i></div>';
+  return h+'</button>';
+}
+function viewLearn(){
+  var cat=S.profile.cat||'B', read=MODS.filter(function(m){return S.read[m.id];}).length;
+  var other=ALLMODS.filter(function(m){return MODS.indexOf(m)<0;}), ad=autodromSet();
+  var h='<div class="stack" style="gap:6px;margin-bottom:22px"><p class="eyebrow">Учебник · категория '+esc(cat)+'</p><h1 class="h1">'+MODS.length+' '+plural(MODS.length,'тема','темы','тем')+' по ПДД РК</h1><p class="lead">Каждая тема - объяснение простыми словами, блок «Запомнить» с цифрами и ссылками на пункты Правил, частые ошибки и вопросы для самопроверки. Для категории '+esc(cat)+' подобрано '+CORE.length+' '+plural(CORE.length,'вопрос','вопроса','вопросов')+'. Прочитано: '+read+' из '+MODS.length+'.</p></div>';
+  h+='<div class="mods">';
+  MODS.forEach(function(m){ h+=modCard(m, false); });
+  h+='<button class="mod" data-go="signs"><div class="top-row"><span class="emb">'+SIGN['2.1'].svg+'</span><div><div class="num">СПРАВОЧНИК · ПРИЛОЖЕНИЕ 1</div><h3>Каталог дорожных знаков</h3></div></div><div class="meta"><span>'+SIGNS.length+' '+plural(SIGNS.length,'знак','знака','знаков')+' с объяснением и тренажером</span></div></button>';
+  h+='<button class="mod" data-go="practice"><div class="top-row"><span class="emb">'+CUSTOM.wheel+'</span><div><div class="num">ПРАКТИКА · КАТЕГОРИЯ '+esc(cat)+'</div><h3>Автодром, город и путь к правам</h3></div></div><div class="meta"><span>'+(ad.list.length?ad.list.length+' '+plural(ad.list.length,'упражнение','упражнения','упражнений')+' автодрома, ':'')+'требования категории, город, чек-листы</span></div></button>';
+  h+='</div>';
+  if(other.length){
+    h+='<h2 class="h2" style="margin:30px 0 6px">Темы для других категорий</h2><p class="small muted" style="margin-bottom:14px">Их можно читать и решать, но в план, шкалу готовности и экзамен они не входят. Категорию можно сменить в профиле на странице «Мой план».</p><div class="mods">';
+    other.forEach(function(m){ h+=modCard(m, true); });
+    h+='</div>';
+  }
+  return h;
+}
+
+function viewLesson(mid){
+  var m=MOD[mid]; if(!m) return viewLearn();
+  var idx=MODS.indexOf(m), foreign=idx<0, prev=idx>0?MODS[idx-1]:null, next=idx>=0?MODS[idx+1]:null, ms=mastery(mid), nq=mqs(m).length;
+  var h='<div class="crumbs"><button data-go="learn">Учебник</button><span>/</span><span>'+(foreign?'Другие категории':'Тема '+num(m))+'</span></div>';
+  h+='<div class="row" style="align-items:flex-start;gap:16px;margin-bottom:8px"><span class="emb" style="width:64px;height:64px;flex:none">'+emblem(mid)+'</span><div style="flex:1;min-width:0"><h1 class="h1">'+esc(m.title)+'</h1><p class="small muted" style="margin-top:6px">'+esc(m.pdd)+' · '+m.minutes+' мин · '+nq+' '+plural(nq,'вопрос','вопроса','вопросов')+' · освоено '+pct(ms)+'%</p></div></div>';
+  if(foreign) h+='<div class="tip" style="margin-bottom:16px"><b>Тема для категорий '+esc(MODCATS[mid]||'')+'</b>В профиле выбрана категория '+esc(S.profile.cat)+'. Тему можно читать и решать, но в план и экзамен она не входит. <button class="btn ghost sm" data-go="plan">Сменить категорию</button></div>';
+  h+='<p class="lead" style="margin-bottom:18px">'+fmt(m.summary)+'</p>';
+  h+='<div class="lesson"><article class="article">';
+  m.lesson.forEach(function(b){
+    h+='<section><h3>'+esc(b.h)+'</h3>';
+    (b.p||[]).forEach(function(p){h+='<p>'+fmt(p)+'</p>';});
+    if(b.list&&b.list.length) h+='<ul>'+b.list.map(function(li){return '<li>'+fmt(li)+'</li>';}).join('')+'</ul>';
+    if(b.tip) h+='<div class="tip"><b>Для экзамена</b>'+fmt(b.tip)+'</div>';
+    h+='</section>';
+  });
+  h+='<section><div class="row"><button class="btn primary" data-act="quiz" data-kind="lesson" data-mod="'+mid+'">Проверить себя: 10 вопросов</button>'+(S.read[mid]?'<span class="badge green">тема прочитана</span>':'<button class="btn" data-act="read" data-mod="'+mid+'">Отметить как прочитанное</button>')+'</div></section>';
+  h+='<section class="row" style="justify-content:space-between">'+(prev?'<button class="btn ghost" data-go="'+prev.id+'">← '+esc(prev.title)+'</button>':'<span></span>')+(next?'<button class="btn ghost" data-go="'+next.id+'">'+esc(next.title)+' →</button>':'')+'</section>';
+  h+='</article><aside class="aside">';
+  h+='<div class="infosign"><h4>Запомнить</h4><ul>'+m.keyFacts.map(function(k){return '<li>'+esc(k)+'</li>';}).join('')+'</ul></div>';
+  if(m.mistakes&&m.mistakes.length) h+='<div class="warnbox"><h4>Частые ошибки</h4><ul>'+m.mistakes.map(function(k){return '<li>'+fmt(k)+'</li>';}).join('')+'</ul></div>';
+  h+='<div class="card flat stack" style="gap:10px"><button class="btn primary" data-act="quiz" data-kind="lesson" data-mod="'+mid+'">10 вопросов по теме</button><button class="btn" data-act="quiz" data-kind="modall" data-mod="'+mid+'">Все вопросы темы ('+nq+')</button>'+(mid==='m18'?'<button class="btn" data-go="signs">Каталог знаков</button><button class="btn" data-act="quiz" data-kind="signs">Тренажер знаков</button>':'')+'</div>';
+  h+='</aside></div>';
+  return h;
+}
+
+function signCard(s){ return '<button class="sg" data-act="sign" data-code="'+esc(s.code)+'"><span class="pic">'+s.svg+'</span><span class="cd">'+esc(s.code)+'</span><span class="nm">'+esc(s.name)+'</span></button>'; }
+function signsGrid(){
+  var q=SG.q.trim().toLowerCase();
+  var list=SIGNS.filter(function(s){ return (SG.g==='all'||s.group===SG.g) && (!q || (s.code+' '+s.name+' '+s.meaning).toLowerCase().indexOf(q)>=0); });
+  if(!list.length) return '<p class="muted">Ничего не найдено. Попробуйте номер знака, например 2.4.</p>';
+  return '<div class="signs">'+list.map(signCard).join('')+'</div>';
+}
+function viewSigns(){
+  var h='<div class="stack" style="gap:6px;margin-bottom:18px"><p class="eyebrow">Справочник</p><h1 class="h1">Дорожные знаки</h1><p class="lead">'+SIGNS.length+' знаков, которые чаще всего встречаются в экзаменационных вопросах. Нажмите на знак, чтобы прочитать, что он требует и где действует.</p></div>';
+  h+='<div class="row" style="margin-bottom:14px"><input class="input" id="sg-q" type="search" placeholder="Поиск: номер или название" value="'+esc(SG.q)+'" style="max-width:320px" aria-label="Поиск знака"><button class="btn primary" data-act="quiz" data-kind="signs">Тренажер знаков: 15 вопросов</button></div>';
+  h+='<div class="chips" style="margin-bottom:18px"><button class="chip" data-act="sgroup" data-g="all" aria-pressed="'+(SG.g==='all')+'">Все</button>'+GROUPS.map(function(g){return '<button class="chip" data-act="sgroup" data-g="'+esc(g)+'" aria-pressed="'+(SG.g===g)+'">'+esc(GLABEL[g]||g)+'</button>';}).join('')+'</div>';
+  h+='<div id="sg-grid">'+signsGrid()+'</div>';
+  return h;
+}
+function overlayHTML(){
+  if(!OVER) return '';
+  var s=SIGN[OVER]; if(!s) return '';
+  var r=S.q['zn-'+s.code];
+  return '<div class="overlay" data-act="close"><div class="sheet" role="dialog" aria-modal="true" aria-label="'+esc(s.name)+'"><span class="pic" style="display:block">'+s.svg+'</span><p class="eyebrow" style="text-align:center">'+esc(s.group)+' · '+esc(s.code)+'</p><h2 class="h2" style="text-align:center;margin:6px 0 12px">'+esc(s.name)+'</h2><p>'+fmt(s.meaning)+'</p>'+(s.note?'<p class="small muted" style="margin-top:10px">'+fmt(s.note)+'</p>':'')+(r?'<p class="small" style="margin-top:10px">В тренажере: '+(r.ok?'<span class="badge green">узнаете</span>':'<span class="badge red">была ошибка</span>')+'</p>':'')+'<div class="row" style="margin-top:16px;justify-content:flex-end"><button class="btn" data-act="close">Закрыть</button></div></div></div>';
+}
+
+function viewTrain(){
+  var e=errorsList().length, d=dueList().length;
+  var h='<div class="stack" style="gap:6px;margin-bottom:20px"><p class="eyebrow">Тренировка</p><h1 class="h1">Решайте с разбором каждого ответа</h1><p class="lead">После ответа сразу видно, почему он верный, и ссылку на пункт Правил. Ошибки попадают в работу над ошибками и возвращаются, пока не закрепятся.</p></div>';
+  h+='<div class="three" style="margin-bottom:26px">';
+  h+='<div class="card stack" style="gap:10px"><h2 class="h3">Умная тренировка</h2><p class="small muted">20 вопросов: ваши ошибки, вопросы на повторение и слабые темы в одной сессии.</p><button class="btn primary" data-act="quiz" data-kind="smart" style="margin-top:auto">Начать</button></div>';
+  h+='<div class="card stack" style="gap:10px"><h2 class="h3">Работа над ошибками</h2><p class="small muted">'+(e||d?e+' '+plural(e,'ошибка','ошибки','ошибок')+' и '+d+' на повторение.':'Пока пусто. Ошибки появятся здесь автоматически.')+'</p><div class="row" style="margin-top:auto"><button class="btn primary" data-act="quiz" data-kind="errors"'+(e||d?'':' disabled')+'>Прорешать</button><button class="btn ghost" data-go="errors">Список</button></div></div>';
+  h+='<div class="card stack" style="gap:10px"><h2 class="h3">Знаки и сложные вопросы</h2><p class="small muted">Тренажер на узнавание '+SIGNS.length+' знаков и подборка ситуационных вопросов уровня 3.</p><div class="row" style="margin-top:auto"><button class="btn" data-act="quiz" data-kind="signs">Знаки</button><button class="btn" data-act="quiz" data-kind="hard">Сложные</button></div></div>';
+  h+='</div>';
+  h+='<div class="card"><div class="card-h"><h2 class="h2">По темам</h2><span class="small muted">'+answeredCount()+' из '+CORE.length+' '+plural(CORE.length,'вопроса','вопросов','вопросов')+' пройдено</span></div><div class="topics">';
+  MODS.forEach(function(m){
+    var ms=mastery(m.id);
+    h+='<div class="topic" style="grid-template-columns:32px minmax(0,1fr) auto"><span class="emb">'+emblem(m.id)+'</span><span class="nm" style="white-space:normal">'+num(m)+'. '+esc(m.title)+' <span class="small muted">'+seen(m.id)+'/'+m.qs.length+' · '+pct(ms)+'%</span></span><span class="row" style="gap:6px;flex-wrap:nowrap"><button class="btn sm" data-act="quiz" data-kind="mod" data-mod="'+m.id+'">10</button><button class="btn ghost sm" data-act="quiz" data-kind="modall" data-mod="'+m.id+'">Все</button></span></div>';
+  });
+  h+='</div></div>';
+  return h;
+}
+
+function viewErrors(){
+  var errs=errorsList(), due=dueList();
+  var h='<div class="stack" style="gap:6px;margin-bottom:20px"><p class="eyebrow">Работа над ошибками</p><h1 class="h1">'+(errs.length?errs.length+' '+plural(errs.length,'вопрос ждет','вопроса ждут','вопросов ждут')+' исправления':'Ошибок нет')+'</h1><p class="lead">Неверный ответ попадает сюда сразу. Когда ответите верно, вопрос вернется на повторение через 1, 3, 7, 16 и 35 дней: так правило переходит в долгую память.</p></div>';
+  h+='<div class="row" style="margin-bottom:22px"><button class="btn primary" data-act="quiz" data-kind="errors"'+(errs.length||due.length?'':' disabled')+'>Прорешать '+Math.min(20,errs.length+due.length)+' вопросов</button><span class="badge red">ошибок: '+errs.length+'</span><span class="badge blue">на повторение: '+due.length+'</span></div>';
+  if(!errs.length){ h+='<div class="card flat"><p>Здесь появятся вопросы, на которые вы ответили неверно. Начните с <button class="btn ghost sm" data-act="quiz" data-kind="smart">умной тренировки</button>.</p></div>'; return h; }
+  var by={}; errs.forEach(function(id){var m=Q[id].m; (by[m]=by[m]||[]).push(id);});
+  var order = ALLMODS.map(function(m){return m.id;}).concat(['zn']);
+  order.forEach(function(mid){
+    if(!by[mid]) return;
+    var title = mid==='zn'?'Тренажер знаков':MOD[mid].title;
+    h+='<div class="card-h" style="margin-top:18px"><h2 class="h3">'+esc(title)+' <span class="badge red">'+by[mid].length+'</span></h2>'+(mid!=='zn'?'<button class="btn ghost sm" data-go="'+mid+'">Урок</button>':'')+'</div><div class="errs">';
+    by[mid].slice(0,40).forEach(function(id){
+      var q=Q[id];
+      h+='<div class="rv">'+qMedia(q,true)+'<div class="q">'+esc(q.q)+'</div><div class="a ok">Верно: '+esc(q.options[q.answer])+'</div><div class="e">'+fmt(q.explain)+' <span class="plate">'+esc(q.ref)+'</span></div>'+rvReplay(q)+'</div>';
+    });
+    h+='</div>';
+  });
+  return h;
+}
+
+/* quiz */
+function startQuiz(kind, mod, ids0){
+  var ids=[], title='', from='train';
+  if(kind==='lesson'||kind==='mod'){ var m=MOD[mod]; if(!m) return; ids=pickFrom(mqs(m).map(function(q){return q.id;}),10); title=m.title; if(kind==='lesson'){ if(!S.read[mod]){S.read[mod]=Date.now(); save();} from='learn'; } }
+  else if(kind==='modall'){ ids=shuffle(mqs(MOD[mod]).map(function(q){return q.id;})); title='Все вопросы: '+MOD[mod].title; }
+  else if(kind==='errors'){ ids=shuffle(errorsList()).slice(0,20); if(ids.length<20) ids=ids.concat(shuffle(dueList()).slice(0,20-ids.length)); title='Работа над ошибками'; }
+  else if(kind==='smart'){ ids=smartPick(20); title='Умная тренировка'; }
+  else if(kind==='signs'){ ids=pickFrom(SIGNS.map(function(s){return 'zn-'+s.code;}),15); title='Тренажер знаков'; }
+  else if(kind==='hard'){ ids=pickFrom(CORE.filter(function(id){return Q[id].difficulty===3;}),15); title='Сложные вопросы'; }
+  else if(kind==='list'){ ids=(ids0||[]).slice(); title='Ошибки экзамена'; from='exam'; }
+  ids = ids.filter(function(id){return Q[id];});
+  if(!ids.length){ toast('Здесь пока нет вопросов'); return; }
+  QS={kind:kind, mod:mod, title:title, ids:ids, i:0, picked:{}, done:false, from:from};
+  go('quiz');
+}
+function pri(id){var r=S.q[id]; if(!r) return 1; if(!r.ok) return 0; if(r.due<=Date.now()) return 2; return 3+r.box;}
+function pickFrom(ids,n){ var s=shuffle(ids).sort(function(a,b){return pri(a)-pri(b);}).slice(0,n); return shuffle(s); }
+function smartPick(n){
+  var chosen=[]; function add(id){ if(chosen.indexOf(id)<0 && chosen.length<n) chosen.push(id); }
+  shuffle(errorsList().filter(function(id){return eligible(Q[id]);})).slice(0,6).forEach(add);
+  shuffle(dueList().filter(function(id){return eligible(Q[id]);})).slice(0,4).forEach(add);
+  var order = MODS.slice().sort(function(a,b){
+    var pa=(S.read[a.id]||seen(a.id))?0:1, pb=(S.read[b.id]||seen(b.id))?0:1;
+    if(pa!==pb) return pa-pb; if(pa===1) return num(a)-num(b); return mastery(a.id)-mastery(b.id);
+  });
+  for(var i=0;i<order.length && chosen.length<n;i++){
+    pickFrom(order[i].qs.map(function(q){return q.id;}),4).forEach(function(id){ var r=S.q[id]; if(!r||r.box<3) add(id); });
+  }
+  if(chosen.length<n) shuffle(CORE).forEach(add);
+  return shuffle(chosen);
+}
+function sceneSVG(q){ try{ return (q && q.scene && window.PDDScene) ? PDDScene.render(q.scene, SIGNSVG) : ''; }catch(e){ return ''; } }
+function hasAnim(q){ return !!(q && q.scene && q.scene.anim && q.scene.anim.length && window.pddAnimate); }
+function qMedia(q, small){
+  var svg=sceneSVG(q);
+  if(svg){
+    var cap = small ? '' : ((window.PDDScene && PDDScene.caption) ? PDDScene.caption(q.scene) : '');
+    return '<div class="qmedia'+(small?' sm':'')+'" data-'+(small?'rq':'q')+'="'+esc(q.id)+'">'+svg+'</div>'+(cap?'<p class="qcap">'+esc(cap)+'</p>':'');
+  }
+  if(q.sign && SIGN[q.sign]) return '<span class="qsign'+(small?' sm':'')+'">'+SIGN[q.sign].svg+'</span>';
+  return '';
+}
+function rvReplay(q){ return hasAnim(q) ? '<button class="btn ghost sm" data-act="replay-rv" data-id="'+esc(q.id)+'" style="margin-top:6px">Показать проезд</button>' : ''; }
+var REDUCED = false; try{ REDUCED = !!(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches); }catch(e){}
+var ANIM = null;
+function playAnim(q, box){
+  if(!hasAnim(q)) return;
+  box = box || document.querySelector('.qmedia[data-q="'+q.id+'"]'); if(!box) return;
+  if(ANIM && ANIM.stop){ try{ ANIM.stop(); }catch(e){} }
+  box.innerHTML = sceneSVG(q);
+  var svg = box.querySelector('svg'); if(!svg) return;
+  try{ ANIM = pddAnimate(svg, q.scene.anim, {dur:1400, gap:220}); }catch(e){ ANIM = null; }
+}
+function viewQuiz(){
+  if(!QS) return viewTrain();
+  if(QS.done) return quizSummary();
+  var id=QS.ids[QS.i], q=Q[id], pk=QS.picked[id], ans=pk!==undefined, n=QS.ids.length;
+  var h='<div class="quiz"><div class="qhead"><div><p class="eyebrow">'+esc(QS.title)+'</p><p class="small muted">Вопрос '+(QS.i+1)+' из '+n+(q.m!=='zn'&&MOD[q.m]&&MOD[q.m].title!==QS.title?' · '+esc(MOD[q.m].title):'')+'</p></div><button class="btn ghost sm" data-act="q-drop">Закончить</button></div>';
+  h+='<div class="qprog"><i style="width:'+pct((QS.i+(ans?1:0))/n)+'%"></i></div>';
+  h+='<div class="qcard">'+qMedia(q)+'<p class="qtext">'+esc(q.q)+'</p><div class="opts" role="group" aria-label="Варианты ответа">';
+  q.options.forEach(function(o,i){
+    var cls='opt'; if(ans){ if(i===q.answer) cls+=' ok'; else if(i===pk) cls+=' bad'; else cls+=' dim'; }
+    h+='<button class="'+cls+'" data-act="ans" data-i="'+i+'"'+(ans?' disabled':'')+'><span class="k">'+(i+1)+'</span><span>'+esc(o)+'</span></button>';
+  });
+  h+='</div>';
+  if(ans){
+    var ok=pk===q.answer;
+    h+='<div class="explain" aria-live="polite"><p class="vr '+(ok?'ok':'bad')+'">'+(ok?'Верно':'Неверно. Верный ответ отмечен зеленым')+'</p><p>'+fmt(q.explain)+'</p><div class="row"><span class="plate">'+esc(q.ref)+'</span>'+(hasAnim(q)?'<button class="btn sm" data-act="replay">Показать проезд</button>':'')+(q.m!=='zn'&&MOD[q.m]?'<button class="btn ghost sm" data-go="'+q.m+'">Открыть урок</button>':'<button class="btn ghost sm" data-act="sign" data-code="'+esc(q.sign)+'">О знаке</button>')+'</div></div>';
+  }
+  h+='</div><div class="qfoot"><span class="kbd">Клавиши 1-4 - ответ, Enter - дальше</span>'+(ans?'<button class="btn primary" id="q-next" data-act="next">'+(QS.i<n-1?'Следующий вопрос':'Итоги')+'</button>':'')+'</div></div>';
+  return h;
+}
+function quizSummary(){
+  var ids=QS.ids.filter(function(id){return QS.picked[id]!==undefined;});
+  var wrong=ids.filter(function(id){return QS.picked[id]!==Q[id].answer;});
+  var c=ids.length-wrong.length;
+  var h='<div class="quiz"><div class="qcard result"><p class="eyebrow">'+esc(QS.title)+'</p><div class="score" style="margin-top:10px">'+c+'<small> из '+ids.length+'</small></div><p class="muted" style="margin-top:8px">'+(ids.length?pct(c/ids.length)+'% верных ответов':'Вы не ответили ни на один вопрос')+'</p>';
+  h+='<div class="row" style="justify-content:center;margin-top:18px">'+(wrong.length?'<button class="btn primary" data-act="q-wrong">Прорешать '+wrong.length+' '+plural(wrong.length,'ошибку','ошибки','ошибок')+'</button>':'')+'<button class="btn" data-act="q-again">Еще подборка</button><button class="btn ghost" data-go="plan">К плану</button></div></div>';
+  if(wrong.length){
+    h+='<h2 class="h3" style="margin:24px 0 12px">Разбор ошибок</h2><div class="review">';
+    wrong.forEach(function(id){var q=Q[id]; h+='<div class="rv">'+qMedia(q,true)+'<div class="q">'+esc(q.q)+'</div><div class="a bad">Ваш ответ: '+esc(q.options[QS.picked[id]])+'</div><div class="a ok">Верно: '+esc(q.options[q.answer])+'</div><div class="e">'+fmt(q.explain)+' <span class="plate">'+esc(q.ref)+'</span></div>'+rvReplay(q)+'</div>';});
+    h+='</div>';
+  }
+  return h+'</div>';
+}
+function answer(i){
+  if(!QS||QS.done) return; var id=QS.ids[QS.i]; if(QS.picked[id]!==undefined) return;
+  if(i<0||i>=Q[id].options.length) return;
+  QS.picked[id]=i; record(id, i===Q[id].answer); render(false);
+  var b=document.getElementById('q-next'); if(b){ try{b.focus({preventScroll:true});}catch(e){} }
+}
+function nextQ(){ if(!QS) return; if(QS.i<QS.ids.length-1){ QS.i++; } else { QS.done=true; } render(); scrollTopQuiz(); }
+function scrollTopQuiz(){ var el=document.querySelector('.qhead'); if(el && el.getBoundingClientRect().top<0) window.scrollTo(0,0); }
+
+/* exam */
+var EXAM_SEC = 2400;
+var SPEC_N = 8;
+function isSpec(q){ return G!=='B' && q.cats && q.cats.indexOf(G)>=0; }
+function buildExam(){
+  var spec = shuffle(CORE.filter(function(id){ return isSpec(Q[id]); })).slice(0, G==='B'?0:SPEC_N);
+  var need = 40-spec.length;
+  var pools = MODS.map(function(m){ return {m:m, qs:m.qs.filter(function(q){ return !isSpec(q); })}; }).filter(function(x){ return x.qs.length; });
+  var total = pools.reduce(function(a,x){ return a+x.qs.length; },0);
+  pools.forEach(function(x){ x.ex=need*x.qs.length/total; x.n=Math.floor(x.ex); });
+  var rem = need - pools.reduce(function(a,x){return a+x.n;},0);
+  pools.slice().sort(function(a,b){return (b.ex-b.n)-(a.ex-a.n);}).slice(0,rem).forEach(function(x){x.n++;});
+  var ids=spec.slice(); pools.forEach(function(x){ ids=ids.concat(shuffle(x.qs).slice(0,x.n).map(function(q){return q.id;})); });
+  return shuffle(ids);
+}
+function examCatNote(){
+  var t = G==='B' ? 'Билет собирается из общих вопросов по ПДД и вопросов для легковых автомобилей (B, BE).' : 'В билете '+SPEC_N+' из 40 вопросов - по особенностям вашей группы категорий ('+GSHORT[G]+'), остальные - общие по ПДД.';
+  return t+' Официально база вопросов и ее состав по категориям не опубликованы: Правила приема экзаменов подтверждают один тест из 40 вопросов на все открываемые категории (п. 11, 16). Поэтому это наша модель подготовки.';
+}
+function examLeft(){ return S.exam ? EXAM_SEC - (Date.now()-S.exam.start)/1000 : 0; }
+function startExam(){ S.exam={ids:buildExam(), ans:{}, start:Date.now(), cur:0, sel:null}; ASK.finish=false; flush(); go('examrun'); }
+function viewExamIntro(){
+  var h='<div class="stack" style="gap:6px;margin-bottom:20px"><p class="eyebrow">Пробный экзамен</p><h1 class="h1">Как в спецЦОН: 40 вопросов за 40 минут</h1><p class="lead">'+(G==='B'?'Вопросы из всех '+MODS.length+' тем в той же пропорции, что и в учебнике.':SPEC_N+' вопросов по особенностям категории '+esc(S.profile.cat)+' и '+(40-SPEC_N)+' общих из всех тем.')+' Проходной результат - минимум 32 правильных ответа, то есть не больше 8 ошибок.</p></div>';
+  h+='<div class="three" style="margin-bottom:22px">';
+  h+='<div class="card flat"><div class="big">40</div><p class="small muted" style="margin-top:6px">вопросов, у каждого один правильный ответ (п. 16 Правил приема экзаменов)</p></div>';
+  h+='<div class="card flat"><div class="big">40:00</div><p class="small muted" style="margin-top:6px">минут на все вопросы, по истечении времени экзамен завершается (п. 17, 20)</p></div>';
+  h+='<div class="card flat"><div class="big">32+</div><p class="small muted" style="margin-top:6px">правильных ответов нужно для «сдал» (п. 23)</p></div>';
+  h+='</div>';
+  h+='<div class="card flat" style="margin-bottom:22px"><div class="card-h"><h2 class="h3">Категория '+esc(S.profile.cat)+'</h2><button class="btn ghost sm" data-act="edit-profile">Сменить</button></div><p class="small">'+examCatNote()+'</p></div>';
+  h+='<div class="card flat" style="margin-bottom:22px"><h2 class="h3" style="margin-bottom:8px">Правила симулятора</h2><ul class="small" style="display:flex;flex-direction:column;gap:6px"><li>Отвечать можно в любом порядке, пропускать и возвращаться (п. 18).</li><li>Ответ нужно подтвердить: выберите вариант и нажмите «Подтвердить». После этого изменить его нельзя (п. 19).</li><li>Правильные ответы и результат вы увидите только в конце (п. 20).</li><li>Все ответы попадут в статистику и в работу над ошибками.</li></ul></div>';
+  h+='<div class="row">'+(S.exam?'<button class="btn yellow" data-act="ex-resume">Продолжить начатый экзамен</button>':'<button class="btn primary" data-act="ex-start">Начать экзамен</button>')+'</div>';
+  if(S.exams.length){
+    h+='<h2 class="h3" style="margin:26px 0 10px">История</h2><div class="review">';
+    S.exams.slice().reverse().slice(0,10).forEach(function(e,i){
+      h+='<div class="rv row" style="justify-content:space-between"><span>'+fdate(e.ts)+' · '+e.c+' из '+e.n+' · '+mmss(e.dur)+'</span><span class="row" style="gap:8px">'+(e.c>=32?'<span class="badge green">сдал</span>':'<span class="badge red">не сдал</span>')+'<button class="btn ghost sm" data-act="ex-open" data-i="'+(S.exams.length-1-i)+'">Разбор</button></span></div>';
+    });
+    h+='</div>';
+  }
+  return h;
+}
+function viewExamRun(){
+  var E=S.exam; if(!E) return viewExamIntro();
+  var id=E.ids[E.cur], q=Q[id], conf=E.ans[id]!==undefined, sel=conf?E.ans[id]:E.sel;
+  var done=Object.keys(E.ans).length, left=examLeft();
+  var h='<div class="exam"><div>';
+  h+='<div class="qhead"><div><p class="eyebrow">Пробный экзамен</p><p class="small muted">Вопрос '+(E.cur+1)+' из 40 · отвечено '+done+'</p></div><span class="timer'+(left<300?' low':'')+'" data-timer>'+mmss(left)+'</span></div>';
+  h+='<div class="qcard">'+qMedia(q)+'<p class="qtext">'+esc(q.q)+'</p><div class="opts" role="group" aria-label="Варианты ответа">';
+  q.options.forEach(function(o,i){ h+='<button class="opt'+(sel===i?' sel':'')+(conf&&sel!==i?' dim':'')+'" data-act="ex-sel" data-i="'+i+'"'+(conf?' disabled':'')+'><span class="k">'+(i+1)+'</span><span>'+esc(o)+'</span></button>'; });
+  h+='</div>';
+  h+='<div class="qfoot">'+(conf?'<span class="badge blue">Ответ принят</span>':'<span class="kbd">1-4 - выбрать, Enter - подтвердить</span>')+'<span class="row" style="gap:8px">'+(conf?'':'<button class="btn" data-act="ex-skip">Пропустить</button><button class="btn primary" id="ex-ok" data-act="ex-ok"'+(sel===null||sel===undefined?' disabled':'')+'>Подтвердить</button>')+(conf?'<button class="btn primary" data-act="ex-skip">Дальше</button>':'')+'</span></div></div></div>';
+  h+='<aside class="examside"><div class="card flat"><div class="grid40">';
+  E.ids.forEach(function(x,i){ h+='<button class="cell'+(E.ans[x]!==undefined?' ans':'')+(i===E.cur?' cur':'')+'" data-act="ex-go" data-n="'+i+'" aria-label="Вопрос '+(i+1)+'">'+(i+1)+'</button>'; });
+  h+='</div></div>';
+  if(ASK.finish){
+    var un=40-done;
+    h+='<div class="confirm"><b>Завершить экзамен?</b><span class="small">'+(un?'Без ответа: '+un+' '+plural(un,'вопрос','вопроса','вопросов')+'. Они засчитаются как ошибки.':'Все вопросы отвечены.')+'</span><div class="row" style="gap:8px"><button class="btn primary sm" data-act="ex-finish">Завершить</button><button class="btn sm" data-act="ex-nofinish">Вернуться</button></div></div>';
+  } else h+='<button class="btn" data-act="ex-ask">Завершить экзамен</button>';
+  h+='</aside></div>';
+  return h;
+}
+function exSelect(i){ var E=S.exam; if(!E) return; var id=E.ids[E.cur]; if(E.ans[id]!==undefined) return; if(i<0||i>=Q[id].options.length) return; E.sel=i; save(); render(false); var b=document.getElementById('ex-ok'); if(b) try{b.focus({preventScroll:true});}catch(e){} }
+function exConfirm(){ var E=S.exam; if(!E) return; var id=E.ids[E.cur]; if(E.sel===null||E.sel===undefined||E.ans[id]!==undefined) return; E.ans[id]=E.sel; E.sel=null; exNext(); }
+function exNext(){ var E=S.exam; if(!E) return; E.sel=null; for(var k=1;k<=40;k++){ var j=(E.cur+k)%40; if(E.ans[E.ids[j]]===undefined){ E.cur=j; save(); render(); scrollTopQuiz(); return; } } ASK.finish=true; save(); render(); }
+function finishExam(auto){
+  var E=S.exam; if(!E) return;
+  var c=0, wrong=[];
+  E.ids.forEach(function(id){ var a=E.ans[id]; if(a===undefined){ wrong.push([id,-1]); } else { var ok=a===Q[id].answer; if(ok) c++; else wrong.push([id,a]); record(id,ok); } });
+  var res={ts:Date.now(), n:E.ids.length, c:c, dur:Math.min(EXAM_SEC, Math.round((Date.now()-E.start)/1000)), wrong:wrong, auto:!!auto};
+  S.exams.push(res); if(S.exams.length>30) S.exams=S.exams.slice(-30);
+  S.exam=null; ASK.finish=false; flush();
+  RES=res; go('examres');
+}
+function viewExamRes(){
+  var e=RES; if(!e) return viewExamIntro();
+  var ok=e.c>=32, err=e.n-e.c;
+  var h='<div class="quiz"><div class="qcard result"><p class="eyebrow">Результат пробного экзамена · '+fdate(e.ts)+'</p><div class="score" style="margin-top:12px">'+e.c+'<small> из '+e.n+'</small></div><div class="stamp '+(ok?'ok':'bad')+'">'+(ok?'СДАЛ':'НЕ СДАЛ')+'</div>';
+  h+='<p class="muted" style="margin-top:12px">Ошибок: '+err+' (допустимо 8) · время '+mmss(e.dur)+(e.auto?' · время вышло':'')+'</p>';
+  h+='<div class="row" style="justify-content:center;margin-top:18px">'+(e.wrong.length?'<button class="btn primary" data-act="ex-wrong">Прорешать ошибки</button>':'')+'<button class="btn" data-act="ex-start">Новый экзамен</button><button class="btn ghost" data-go="plan">К плану</button></div></div>';
+  if(e.wrong.length){
+    var by={}; e.wrong.forEach(function(w){var m=Q[w[0]]&&Q[w[0]].m; if(m) by[m]=(by[m]||0)+1;});
+    h+='<h2 class="h3" style="margin:24px 0 10px">Где ошибки</h2><div class="chips">';
+    Object.keys(by).sort(function(a,b){return by[b]-by[a];}).forEach(function(m){ h+='<button class="chip" data-go="'+m+'">'+esc(MOD[m].title)+' · '+by[m]+'</button>'; });
+    h+='</div><h2 class="h3" style="margin:24px 0 12px">Разбор</h2><div class="review">';
+    e.wrong.forEach(function(w){ var q=Q[w[0]]; if(!q) return; h+='<div class="rv">'+qMedia(q,true)+'<div class="q">'+esc(q.q)+'</div>'+(w[1]<0?'<div class="a bad">Нет ответа</div>':'<div class="a bad">Ваш ответ: '+esc(q.options[w[1]])+'</div>')+'<div class="a ok">Верно: '+esc(q.options[q.answer])+'</div><div class="e">'+fmt(q.explain)+' <span class="plate">'+esc(q.ref)+'</span></div>'+rvReplay(q)+'</div>'; });
+    h+='</div>';
+  }
+  return h+'</div>';
+}
+
+/* practice */
+function autodromSet(){
+  var c=S.profile.cat||'B', A=CATDATA.autodrom||{};
+  if((c==='A1'||c==='A') && A.A && A.A.length) return {list:A.A, kind:'A'};
+  if(/E$/.test(c) && A.E && A.E.length) return {list:A.E, kind:'E'};
+  if(c==='Tb'||c==='Tm') return {list:[], kind:'T'};
+  return {list:P.autodrom, kind:'base'};
+}
+function listHTML(a){ return (a&&a.length) ? '<ul class="small" style="display:flex;flex-direction:column;gap:6px">'+a.map(function(n){return '<li>'+fmt(n)+'</li>';}).join('')+'</ul>' : ''; }
+function exItem(a,i){
+  var op=!!OPEN[a.id], dn=!!S.adone[a.id];
+  var h='<div class="ex'+(op?' open':'')+(dn?' done':'')+'"><button data-act="aopen" data-id="'+a.id+'" aria-expanded="'+op+'"><span class="no">'+(i+1)+'</span><span class="nm">'+esc(a.name)+'</span>'+CHEV+'</button>';
+  if(op){
+    h+='<div class="body"><p class="small muted">'+fmt(a.goal)+'</p><div><b class="small">Как выполнять</b><ol>'+(a.how||[]).map(function(x){return '<li>'+fmt(x)+'</li>';}).join('')+'</ol></div>'+((a.penalties&&a.penalties.length)?'<div><b class="small" style="color:var(--red)">За что снимают баллы</b><ul>'+a.penalties.map(function(x){return '<li>'+fmt(x)+'</li>';}).join('')+'</ul></div>':'')+(a.tip?'<div class="tip"><b>Совет</b>'+fmt(a.tip)+'</div>':'')+'<div><button class="btn sm'+(dn?'':' primary')+'" data-act="adone" data-id="'+a.id+'">'+(dn?'Снять отметку':'Отработал(а) с инструктором')+'</button></div></div>';
+  }
+  return h+'</div>';
+}
+function catPanel(cat){
+  var c=CATBY[cat], p=c.practical||{}, grp=(CATDATA.groups||[]).filter(function(g){return g.id===c.group;})[0];
+  var h='<div class="two"><div class="card flat stack" style="gap:14px">';
+  h+='<div><p class="eyebrow">Ваша категория</p><h2 class="h2" style="margin-top:4px">'+esc(c.name)+'</h2></div>';
+  [['Какие ТС',c.vehicles],['Возраст',c.age],['Стаж',c.experience],['Теория',c.theory]].forEach(function(r){ if(r[1]) h+='<div><b class="small">'+r[0]+'</b><p class="small" style="margin-top:2px">'+fmt(r[1])+'</p></div>'; });
+  if(grp && grp.note) h+='<div class="tip"><b>Вопросы на сайте</b>'+fmt(grp.note)+'</div>';
+  h+='</div><div class="card flat stack" style="gap:14px"><h2 class="h3">Практический экзамен</h2>';
+  if(p.where) h+='<div><b class="small">Где</b><p class="small" style="margin-top:2px">'+fmt(p.where)+'</p></div>';
+  if(p.vehicle) h+='<div><b class="small">На чем</b><p class="small" style="margin-top:2px">'+fmt(p.vehicle)+'</p></div>';
+  if(p.exercises && p.exercises.length) h+='<div><b class="small">Упражнения</b><ol class="small olist">'+p.exercises.map(function(x){return '<li>'+esc(x)+'</li>';}).join('')+'</ol></div>';
+  h+=listHTML(p.notes);
+  if(autodromSet().list.length) h+='<div><button class="btn sm" data-act="ptab" data-t="autodrom">Как выполнять упражнения</button></div>';
+  h+='</div></div>';
+  h+='<div class="card flat" style="margin-top:16px"><div class="card-h"><h2 class="h2">Все категории</h2><span class="small muted">«Выбрать» переключит учебник, тесты и экзамен</span></div><div class="tscroll"><table class="tbl"><thead><tr><th>Категория</th><th>Что дает</th><th>Возраст</th><th>Стаж</th><th></th></tr></thead><tbody>';
+  CATORDER.forEach(function(k){ if(!CATBY[k]) return; h+='<tr'+(k===cat?' class="cur"':'')+'><td><b>'+k+'</b></td><td>'+esc(CATSHORT[k])+'</td><td>'+esc(CATAGE[k]||'')+'</td><td>'+esc(CATEXP[k]||(/E$/.test(k)?'12 мес. на базовой категории':'не нужен'))+'</td><td>'+(k===cat?'<span class="badge blue">ваша</span>':'<button class="btn ghost sm" data-act="setcat" data-c="'+k+'">Выбрать</button>')+'</td></tr>'; });
+  h+='</tbody></table></div><p class="small muted" style="margin-top:10px">Возраст и стаж по ст. 74 Закона РК «О дорожном движении» в действующей редакции. Удостоверение A включает A1 и B1 (с мотоциклетной посадкой), B включает A1 и B1, C включает C1, D включает D1, CE включает C1E, DE включает D1E (ст. 73 п. 8).</p></div>';
+  if(CATDATA.notes && CATDATA.notes.length) h+='<details class="card flat" style="margin-top:16px"><summary class="h3" style="cursor:pointer">Как устроены экзамены по категориям</summary><div style="margin-top:12px">'+listHTML(CATDATA.notes)+'</div></details>';
+  if(CATDATA.sources && CATDATA.sources.length) h+='<details class="card flat" style="margin-top:16px"><summary class="h3" style="cursor:pointer">Источники по категориям</summary><ul class="small" style="display:flex;flex-direction:column;gap:6px;margin-top:10px">'+CATDATA.sources.map(function(s){return '<li><a href="'+esc(s.url)+'" target="_blank" rel="noopener">'+esc(s.title)+'</a></li>';}).join('')+'</ul></details>';
+  return h;
+}
+function viewPractice(){
+  var ex=P.exam, cat=S.profile.cat||'B', ci=CATBY[cat]||null, ad=autodromSet();
+  var tabs=[['exam','Путь к правам'],['cat','Категория '+cat],['autodrom','Автодром'],['city','Город'],['check','Чек-листы']];
+  if(!ci) tabs.splice(1,1);
+  var pt = (PT==='cat' && !ci) ? 'exam' : PT;
+  var tot=ad.list.length, done=ad.list.filter(function(a){return S.adone[a.id];}).length;
+  var h='<div class="stack" style="gap:6px;margin-bottom:18px"><p class="eyebrow">Практика · категория '+esc(cat)+'</p><h1 class="h1">От медкомиссии до автодрома</h1><p class="lead">Как устроены экзамены в 2026 году, что требуется для категории '+esc(cat)+(tot?', как проходить упражнения автодрома':'')+' и что нужно уметь в городе.</p></div>';
+  h+='<div class="tabs" role="tablist">'+tabs.map(function(t){return '<button role="tab" data-act="ptab" data-t="'+t[0]+'" aria-selected="'+(pt===t[0])+'">'+esc(t[1])+(t[0]==='autodrom'&&tot?' <span class="badge'+(done===tot?' green':'')+'">'+done+'/'+tot+'</span>':'')+'</button>';}).join('')+'</div>';
+  if(pt==='exam'){
+    h+='<div class="two"><div class="card flat"><h2 class="h2" style="margin-bottom:16px">Шаги</h2><div class="steps">';
+    ex.steps.forEach(function(s){ h+='<div class="step"><div><h4>'+esc(s.h.replace(/^\d+\.\s*/,''))+'</h4><p>'+fmt(s.p)+'</p></div></div>'; });
+    h+='</div></div><div class="stack">';
+    h+='<div class="card flat"><h2 class="h3" style="margin-bottom:8px">Теория</h2><p class="small muted" style="margin-bottom:8px">'+ex.theory.questions+' вопросов · '+ex.theory.minutes+' минут · минимум '+ex.theory.passCorrect+' верных · языки: '+esc(ex.theory.languages.join(', '))+'</p><ul class="small" style="display:flex;flex-direction:column;gap:6px">'+ex.theory.notes.map(function(n){return '<li>'+fmt(n)+'</li>';}).join('')+'</ul><p class="small" style="margin-top:8px">'+fmt(ex.theory.validity)+'</p></div>';
+    h+='<div class="card flat"><h2 class="h3" style="margin-bottom:8px">Практика</h2><p class="small" style="margin-bottom:8px">'+fmt(ex.practical.where)+'</p><p class="small" style="margin-bottom:8px">'+fmt(ex.practical.scoring)+'</p><ul class="small" style="display:flex;flex-direction:column;gap:6px">'+ex.practical.notes.map(function(n){return '<li>'+fmt(n)+'</li>';}).join('')+'</ul>'+(ci&&cat!=='B'?'<p class="small" style="margin-top:10px"><button class="btn ghost sm" data-act="ptab" data-t="cat">Что отличается для категории '+esc(cat)+'</button></p>':'')+'</div>';
+    h+='<div class="card flat"><h2 class="h3" style="margin-bottom:8px">Пересдачи</h2><ul class="small" style="display:flex;flex-direction:column;gap:6px">'+ex.retakes.map(function(n){return '<li>'+fmt(n)+'</li>';}).join('')+'</ul></div>';
+    h+='</div></div>';
+    h+='<div class="card flat" style="margin-top:16px"><h2 class="h2" style="margin-bottom:12px">Изменения 2026 года</h2>';
+    ex.changes2026.forEach(function(c){ var st=c.status||''; var cls=st.indexOf('в силе')===0?'green':(st.indexOf('объявлено')===0?'yellow':'blue'); h+='<div class="change"><div class="row" style="gap:8px;margin-bottom:4px"><b>'+esc(c.h)+'</b><span class="badge '+cls+'">'+esc(st)+'</span></div><p class="small muted" style="margin-bottom:4px">'+esc(c.date)+'</p><p class="small">'+fmt(c.p)+'</p></div>'; });
+    h+='</div>';
+    h+='<details class="card flat" style="margin-top:16px"><summary class="h3" style="cursor:pointer">Источники</summary><ul class="small" style="display:flex;flex-direction:column;gap:6px;margin-top:10px">'+ex.sources.map(function(s){return '<li><a href="'+esc(s.url)+'" target="_blank" rel="noopener">'+esc(s.title)+'</a></li>';}).join('')+'</ul></details>';
+  } else if(pt==='cat'){
+    h+=catPanel(cat);
+  } else if(pt==='autodrom'){
+    var pn=(ci&&ci.practical)||{};
+    if(ad.kind==='T'){
+      h+='<div class="card flat stack" style="gap:10px"><h2 class="h3">Практику по категории '+esc(cat)+' принимает учебная организация</h2>'+(pn.where?'<p class="small">'+fmt(pn.where)+'</p>':'')+(pn.vehicle?'<p class="small">'+fmt(pn.vehicle)+'</p>':'')+listHTML(pn.notes)+'<p class="small muted">Упражнения автодрома спецЦОН для '+esc(cat)+' не применяются. Порядок и содержание экзамена уточните в своей учебной организации.</p></div>';
+    } else {
+      var intro = ad.kind==='A' ? 'Упражнения для категорий A и A1 на двухколесном мотоцикле по методике автодрома 2026 года. Правила приема экзаменов (п. 37) задают только разметку зон, поэтому уточните схему своего автодрома. Отмечайте, что уже отработали с инструктором.'
+        : (ad.kind==='E' ? 'Для составов (BE, C1E, CE, D1E, DE) Правила приема экзаменов не публикуют перечень упражнений. Ниже - что известно и как готовиться; схему уточните на своем автодроме.'
+        : 'Упражнения перечислены в порядке п. 38 Правил приема экзаменов. Порядок на конкретном автодроме задает его схема, а штрафы начисляет автоматическая система. Отмечайте, что уже отработали с инструктором.');
+      h+='<p class="small muted" style="margin-bottom:14px">'+intro+'</p>';
+      if(cat!=='B' && pn.notes && pn.notes.length) h+='<div class="card flat" style="margin-bottom:14px"><h2 class="h3" style="margin-bottom:8px">Для категории '+esc(cat)+'</h2>'+(pn.vehicle?'<p class="small" style="margin-bottom:8px"><b>На чем:</b> '+fmt(pn.vehicle)+'</p>':'')+listHTML(pn.notes)+'</div>';
+      h+='<div class="stack" style="gap:10px">'+ad.list.map(exItem).join('')+'</div>';
+      if(ad.kind==='E') h+='<h2 class="h3" style="margin:24px 0 8px">Упражнения базовой категории</h2><p class="small muted" style="margin-bottom:12px">Зоны первого этапа для B, C и D по п. 38 Правил приема экзаменов. Полезная тренировка перед экзаменом на состав.</p><div class="stack" style="gap:10px">'+P.autodrom.map(exItem).join('')+'</div>';
+    }
+  } else if(pt==='city'){
+    h+='<p class="small muted" style="margin-bottom:14px">В 2026 году практический экзамен проходит на автодроме, но водить вам придется в городе. Эти навыки отрабатывайте с инструктором.</p><div class="two">';
+    P.city.forEach(function(c){ h+='<div class="card flat"><h2 class="h3" style="margin-bottom:8px">'+esc(c.h)+'</h2>'+(c.p||[]).map(function(p){return '<p class="small" style="margin-bottom:8px">'+fmt(p)+'</p>';}).join('')+(c.list&&c.list.length?'<ul class="small" style="display:flex;flex-direction:column;gap:5px">'+c.list.map(function(x){return '<li>'+fmt(x)+'</li>';}).join('')+'</ul>':'')+'</div>'; });
+    h+='</div>';
+  } else {
+    var lists=[['beforeExam','Перед экзаменом'],['beforeDrive','Перед каждой поездкой']];
+    h+='<div class="two">';
+    lists.forEach(function(l){ h+='<div class="card flat"><div class="card-h"><h2 class="h3">'+l[1]+'</h2><button class="btn ghost sm" data-act="chk-clear" data-k="'+l[0]+'">Очистить</button></div><div class="checklist">';
+      P.checklists[l[0]].forEach(function(it,i){ var k=l[0]+i; h+='<label><input type="checkbox" data-act="chk" data-k="'+k+'" id="ck-'+k+'"'+(S.chk[k]?' checked':'')+'><span>'+fmt(it)+'</span></label>'; });
+      h+='</div></div>'; });
+    h+='</div>';
+  }
+  return h;
+}
+
+function viewAbout(){
+  var nsc=CORE_ALL.filter(function(id){return Q[id].scene;}).length, nspec=ALLMODS.length-20;
+  var h='<div class="stack" style="gap:6px;margin-bottom:20px"><p class="eyebrow">О проекте</p><h1 class="h1">Знания о дороге должны быть бесплатными</h1><p class="lead">Жолдас - по-казахски «попутчик». Мы собрали всё, что нужно для экзамена на права в Казахстане по всем категориям, и открыли это для всех. Платными не станут ни уроки, ни вопросы, ни экзамены, ни работа над ошибками.</p></div>';
+  h+='<div class="three">';
+  h+='<div class="card flat"><h2 class="h3" style="margin-bottom:6px">Актуально</h2><p class="small">Материал составлен по ПДД РК (Приказ МВД РК от 30.06.2023 № 534 с изменениями по 27.04.2026), Правилам приема экзаменов (ред. 2026), Закону «О дорожном движении» и КоАП РК при МРП 4 325 ₸. Каждое правило в вопросах ссылается на пункт.</p></div>';
+  h+='<div class="card flat"><h2 class="h3" style="margin-bottom:6px">Проверено</h2><p class="small">'+esc(D.verified||'Вопросы сверены с текущим текстом Правил отдельной проверкой: правильный ответ единственный, пункт указан верно, схема совпадает с условием.')+' Нашли неточность - сообщите, исправим.</p></div>';
+  h+='<div class="card flat"><h2 class="h3" style="margin-bottom:6px">Свое</h2><p class="small">Объяснения, '+CORE_ALL.length+' '+plural(CORE_ALL.length,'вопрос','вопроса','вопросов')+' и '+nsc+' '+plural(nsc,'схема','схемы','схем')+' ситуаций написаны и нарисованы заново, простым языком. Формат экзамена повторяет спецЦОН, но это не официальная база вопросов.</p></div>';
+  h+='</div>';
+  h+='<div class="card flat" style="margin-top:16px"><h2 class="h3" style="margin-bottom:8px">Что внутри</h2><ul class="small" style="display:flex;flex-direction:column;gap:6px"><li>'+ALLMODS.length+' тем учебника: 20 общих и '+nspec+' по особенностям категорий</li><li>'+CORE_ALL.length+' '+plural(CORE_ALL.length,'вопрос','вопроса','вопросов')+' с разбором, из них '+nsc+' со схемами ситуаций; во многих можно посмотреть анимацию проезда</li><li>Подготовка по 15 категориям: '+CATORDER.join(', ')+'. Учебник, тесты и экзамен подстраиваются под выбранную категорию</li><li>Каталог из '+SIGNS.length+' '+plural(SIGNS.length,'знака','знаков','знаков')+' и тренажер на их узнавание</li><li>Симулятор экзамена: 40 вопросов, 40 минут, подтверждение ответа</li><li>Личный план по дате экзамена, шкала готовности и интервальное повторение ошибок</li><li>Практика: упражнения автодрома для легковых, грузовых, автобусов и мотоциклов, требования по каждой категории, советы для города и чек-листы</li></ul></div>';
+  h+='<div class="card flat" style="margin-top:16px"><h2 class="h3" style="margin-bottom:8px">Важно</h2><p class="small">Это учебный материал, а не официальное издание. Официальный текст Правил - на <a href="https://adilet.zan.kz/rus/docs/V2300033003" target="_blank" rel="noopener">adilet.zan.kz</a>. Суммы штрафов и порядок экзаменов могут меняться: перед экзаменом сверяйтесь с eGov и спецЦОН. Официальная база вопросов и ее состав по категориям не опубликованы, поэтому распределение вопросов по категориям - наша модель. Прогресс хранится только в вашем браузере.</p><p class="small muted" style="margin-top:8px">Версия материала: сентябрь 2026. Қазақша нұсқасы дайындалуда.</p></div>';
+  return h;
+}
+
+/* ---------- render ---------- */
+function render(keepScroll){
+  navHTML();
+  var app=document.getElementById('app');
+  var v=R.v, html='';
+  if(v!=='quiz'&&v!=='examrun'&&v!=='examres') prevV={v:v,p:R.p};
+  if(v==='plan') html=viewPlan();
+  else if(v==='learn') html=viewLearn();
+  else if(v==='lesson') html=viewLesson(R.p);
+  else if(v==='signs') html=viewSigns();
+  else if(v==='train') html=viewTrain();
+  else if(v==='errors') html=viewErrors();
+  else if(v==='quiz') html=viewQuiz();
+  else if(v==='exam') html=viewExamIntro();
+  else if(v==='examrun') html=viewExamRun();
+  else if(v==='examres') html=viewExamRes();
+  else if(v==='practice') html=viewPractice();
+  else if(v==='about') html=viewAbout();
+  else html=viewPlan();
+  app.innerHTML = liveHTML() + html + overlayHTML();
+  if(v==='quiz' && QS && !QS.done){
+    QS.anim = QS.anim || {}; var cid = QS.ids[QS.i], cq = Q[cid];
+    if(QS.picked[cid]!==undefined && hasAnim(cq) && !QS.anim[cid] && !REDUCED){
+      QS.anim[cid] = 1;
+      setTimeout(function(){ if(R.v==='quiz' && QS && !QS.done && QS.ids[QS.i]===cid) playAnim(cq); }, 380);
+    }
+  }
+}
+
+/* ---------- toast ---------- */
+var toastT=null;
+function toast(msg){ var t=document.getElementById('toast'); if(!t){t=document.createElement('div'); t.id='toast'; t.className='toast'; t.setAttribute('role','status'); document.body.appendChild(t);} t.textContent=msg; t.hidden=false; clearTimeout(toastT); toastT=setTimeout(function(){t.hidden=true;},2600); }
+
+/* ---------- events ---------- */
+document.addEventListener('click', function(e){
+  var g=e.target.closest('[data-go]');
+  if(g){ e.preventDefault(); if(OVER){OVER=null;} go(g.getAttribute('data-go')); return; }
+  var a=e.target.closest('[data-act]'); if(!a) return;
+  var act=a.getAttribute('data-act');
+  if(act==='close'){ if(e.target.closest('.sheet') && !e.target.closest('button[data-act="close"]')) return; OVER=null; render(false); return; }
+  switch(act){
+    case 'quiz': startQuiz(a.getAttribute('data-kind'), a.getAttribute('data-mod')); break;
+    case 'ans': answer(+a.getAttribute('data-i')); break;
+    case 'next': nextQ(); break;
+    case 'replay': if(QS){ var rq=Q[QS.ids[QS.i]]; if(rq) playAnim(rq); } break;
+    case 'replay-rv': var rid=a.getAttribute('data-id'), rq2=Q[rid], rbox=document.querySelector('.qmedia[data-rq="'+rid+'"]'); if(rq2 && rbox) playAnim(rq2, rbox); break;
+    case 'setcat': setCat(a.getAttribute('data-c')); break;
+    case 'q-drop': if(QS){ QS.done=true; } go('quiz'); break;
+    case 'q-resume': go('quiz'); break;
+    case 'q-wrong': var w=QS.ids.filter(function(id){return QS.picked[id]!==undefined && QS.picked[id]!==Q[id].answer;}); QS={kind:'list2', title:'Повтор ошибок', ids:shuffle(w), i:0, picked:{}, done:false, from:QS.from}; go('quiz'); break;
+    case 'q-again': var k=QS.kind; if(k==='list'||k==='list2') k='errors'; startQuiz(k, QS.mod); break;
+    case 'read': S.read[a.getAttribute('data-mod')]=Date.now(); save(); render(false); toast('Тема отмечена как прочитанная'); break;
+    case 'sign': OVER=a.getAttribute('data-code'); render(false); var c=document.querySelector('.sheet button[data-act="close"]'); if(c) try{c.focus({preventScroll:true});}catch(x){} break;
+    case 'sgroup': SG.g=a.getAttribute('data-g'); render(false); break;
+    case 'ex-start': startExam(); break;
+    case 'ex-resume': go('examrun'); break;
+    case 'ex-sel': exSelect(+a.getAttribute('data-i')); break;
+    case 'ex-ok': exConfirm(); break;
+    case 'ex-skip': exNext(); break;
+    case 'ex-go': if(S.exam){ S.exam.cur=+a.getAttribute('data-n'); S.exam.sel=null; save(); render(false);} break;
+    case 'ex-ask': ASK.finish=true; render(false); break;
+    case 'ex-nofinish': ASK.finish=false; render(false); break;
+    case 'ex-finish': finishExam(false); break;
+    case 'ex-wrong': if(RES) startQuiz('list', null, RES.wrong.map(function(x){return x[0];})); break;
+    case 'ex-open': RES=S.exams[+a.getAttribute('data-i')]; go('examres'); break;
+    case 'ptab': PT=a.getAttribute('data-t'); render(false); break;
+    case 'aopen': var id=a.getAttribute('data-id'); OPEN[id]=!OPEN[id]; render(false); break;
+    case 'adone': var id2=a.getAttribute('data-id'); if(S.adone[id2]) delete S.adone[id2]; else S.adone[id2]=Date.now(); save(); render(false); break;
+    case 'chk': var ck=a.getAttribute('data-k'); if(a.checked) S.chk[ck]=1; else delete S.chk[ck]; save(); return;
+    case 'chk-clear': var pre=a.getAttribute('data-k'); Object.keys(S.chk).forEach(function(x){ if(x.indexOf(pre)===0) delete S.chk[x]; }); save(); render(false); break;
+    case 'edit-profile': ASK.profile=true; if(R.v!=='plan'){ go('plan'); } else { render(false); } var pf=document.getElementById('pf'); if(pf){ try{ pf.scrollIntoView({block:'center'}); }catch(x){} var pn=document.getElementById('pf-cat'); if(pn) try{ pn.focus({preventScroll:true}); }catch(x){} } break;
+    case 'pf-daily': S.profile.daily=+a.getAttribute('data-n'); save(); a.parentNode.querySelectorAll('button').forEach(function(b){b.setAttribute('aria-pressed', String(b===a));}); break;
+    case 'export': var ta=document.getElementById('xfer'); ta.value=exportCode(); ta.select(); break;
+    case 'copy': var t2=document.getElementById('xfer'); if(!t2.value) t2.value=exportCode(); t2.select(); try{ navigator.clipboard.writeText(t2.value).then(function(){toast('Код скопирован');},function(){toast('Выделите код и скопируйте вручную');}); }catch(x){ toast('Выделите код и скопируйте вручную'); } break;
+    case 'import': importCode(document.getElementById('xfer').value); break;
+    case 'reset': ASK.reset=true; render(false); break;
+    case 'reset-no': ASK.reset=false; render(false); break;
+    case 'reset-yes': S=fresh(); setGroup(); QS=null; RES=null; ASK.reset=false; flush(); render(false); toast('Прогресс сброшен'); break;
+  }
+});
+document.addEventListener('submit', function(e){
+  if(e.target.id!=='pf') return; e.preventDefault();
+  S.profile.name=(document.getElementById('pf-name').value||'').trim().slice(0,30);
+  S.profile.examDate=document.getElementById('pf-date').value||'';
+  var pc=document.getElementById('pf-cat'); if(pc && pc.value && (CATBY[pc.value]||pc.value==='B')){ S.profile.cat=pc.value; setGroup(); }
+  ASK.profile=false; flush(); render(false); toast('План сохранен');
+});
+document.addEventListener('change', function(e){
+  if(e.target.id==='hero-cat') setCat(e.target.value);
+});
+document.addEventListener('input', function(e){
+  if(e.target.id==='sg-q'){ SG.q=e.target.value; var g=document.getElementById('sg-grid'); if(g) g.innerHTML=signsGrid(); }
+});
+document.addEventListener('keydown', function(e){
+  if(e.target.closest && e.target.closest('input,textarea,select')) return;
+  if(e.key==='Escape' && OVER){ OVER=null; render(false); return; }
+  if(e.metaKey||e.ctrlKey||e.altKey) return;
+  var n=KEYS.indexOf(e.key);
+  if(R.v==='quiz' && QS && !QS.done){
+    if(n>=0){ e.preventDefault(); answer(n); }
+    else if(e.key==='Enter' && e.target.tagName!=='BUTTON' && QS.picked[QS.ids[QS.i]]!==undefined){ e.preventDefault(); nextQ(); }
+  } else if(R.v==='examrun' && S.exam){
+    if(n>=0){ e.preventDefault(); exSelect(n); }
+    else if(e.key==='Enter' && e.target.tagName!=='BUTTON'){ e.preventDefault(); exConfirm(); }
+  }
+});
+
+function exportCode(){ try{ return btoa(unescape(encodeURIComponent(JSON.stringify(S)))); }catch(e){ return ''; } }
+function importCode(code){
+  code=(code||'').trim(); if(!code){ toast('Вставьте код в поле'); return; }
+  try{
+    var o=JSON.parse(decodeURIComponent(escape(atob(code))));
+    if(!o || typeof o!=='object' || !o.q || !o.profile) throw new Error('bad');
+    var f=fresh(); Object.keys(f).forEach(function(k){ if(o[k]===undefined) o[k]=f[k]; });
+    S=o; if(!S.profile.cat) S.profile.cat='B'; setGroup(); sanitizeExam(); flush(); render(false); toast('Прогресс загружен');
+  }catch(e){ toast('Код не распознан. Скопируйте его целиком и попробуйте снова'); }
+}
+
+/* ---------- timer ---------- */
+setInterval(function(){
+  if(!S.exam) return;
+  var left=examLeft();
+  if(left<=0){ finishExam(true); return; }
+  var els=document.querySelectorAll('[data-timer]');
+  for(var i=0;i<els.length;i++){ els[i].textContent=mmss(left); if(left<300) els[i].classList.add('low'); }
+}, 1000);
+
+/* an exam in progress may reference questions removed in a content update: drop them and refill to 40 */
+function sanitizeExam(){
+  var E=S.exam; if(!E || !E.ids) return;
+  var ids=E.ids.filter(function(id){ return !!Q[id]; });
+  if(ids.length===E.ids.length) return;
+  var pool=shuffle(CORE.filter(function(id){ return ids.indexOf(id)<0; }));
+  while(ids.length<40 && pool.length) ids.push(pool.pop());
+  var ans={}; Object.keys(E.ans||{}).forEach(function(k){ if(Q[k] && ids.indexOf(k)>=0) ans[k]=E.ans[k]; });
+  E.ids=ids; E.ans=ans; if(!(E.cur<ids.length)) E.cur=0; E.sel=null; flush();
+}
+sanitizeExam();
+if(S.exam && examLeft()<=0){ finishExam(true); }
+render();
+})();

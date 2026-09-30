@@ -1,0 +1,188 @@
+{"questions": [
+{
+"id": "m24-046",
+"q": "You have finished your shift in an articulated bus and want to leave it overnight in the yard of your home. There are no places designated for buses there. May you?",
+"options": [
+"You may not: buses only in designated, marked places",
+"You may, if you do not obstruct other vehicles",
+"You may, if you switch the engine off for the whole night",
+"You may, if there are no passengers in the passenger compartment"
+],
+"answer": 0,
+"explain": "Yards are subject to the rules of a residential zone: parking of trucks heavier than 3500 kg and of buses is allowed only in specially designated places marked by signs or road markings."
+},
+{
+"id": "m24-047",
+"q": "A team of workers is to be seated in the body of the trailer of your road train: it has benches and high sides. May they be carried like this?",
+"options": [
+"Yes, if you drive no faster than 60 km/h",
+"Yes, if you have more than 5 years of experience on C",
+"Yes, if there are no more people than seats",
+"No: carrying people on a trailer is prohibited"
+],
+"answer": 3,
+"explain": "Carrying passengers on a goods trailer is prohibited in all cases. The conditions about driver experience, 60 km/h and the number of seats concern the body of the truck itself, not the trailer."
+},
+{
+"id": "m24-048",
+"q": "You have bought a trailer. Within what time must it be registered with the internal affairs bodies?",
+"options": [
+"No later than 10 days, or while the “Transit” sign is valid",
+"No later than 30 days from purchase",
+"No later than 3 months, before the first technical inspection",
+"Trailers are not registered: the number of the towing vehicle is enough"
+],
+"answer": 0,
+"explain": "Motor vehicles and trailers are registered with the internal affairs bodies within the validity period of the “Transit” registration sign, or no later than 10 days from acquisition or customs declaration. A trailer must have its own number plate."
+},
+{
+"id": "m24-049",
+"q": "During a journey by day a fault appears. For which of these faults must you not drive on even to the place of repair?",
+"options": [
+"The trailer’s direction indicator has stopped working",
+"The towing vehicle and trailer coupling is faulty",
+"The trailer’s mudguard has been lost",
+"The number plate light of the trailer is not working"
+],
+"answer": 1,
+"explain": "With a faulty coupling device in the combination, as with inoperative brakes or steering, driving is prohibited altogether. Other faults that appear on the way are put right by the driver, and if he cannot, he drives carefully to the place of parking or repair."
+},
+{
+"id": "m24-050",
+"q": "Before setting off you notice that the safety cable (chain) provided by the design of the trailer’s coupling is torn off. May you drive?",
+"options": [
+"You may: the main thing is that the coupling lock is closed",
+"You may not: driving with a trailer without the cable is prohibited",
+"You may, in daylight",
+"You may, if you drive no faster than 50 km/h"
+],
+"answer": 1,
+"explain": "A faulty towing coupling device or fifth-wheel coupling device, and missing or faulty safety cables (chains) provided by their design, are on the list of faults for which operation is prohibited. The cable will hold the trailer if the coupling comes apart on the way."
+},
+{
+"id": "m24-051",
+"q": "What must the remaining tread depth of the tyres of a trailer for a passenger car be?",
+"options": [
+"At least 0.8 mm",
+"At least 1 mm",
+"At least 1.6 mm",
+"At least 2 mm"
+],
+"answer": 2,
+"explain": "For trailer tyres the norms are the same as for the tyres of the towing vehicle. A passenger car needs at least 1.6 mm, so its trailer does too."
+},
+{
+"id": "m24-052",
+"q": "What must the remaining tread depth of the tyres of a trailer for a bus be?",
+"options": [
+"At least 1 mm",
+"At least 1.6 mm",
+"At least 0.8 mm",
+"At least 2 mm"
+],
+"answer": 3,
+"explain": "The tread norms for a trailer are the same as for the towing vehicle. A bus needs at least 2 mm, so the trailer behind it does too, although 1 mm is enough for a truck."
+},
+{
+"id": "m24-053",
+"q": "You have been driving on subcategory C1 for two years and do not have category C. Can you get CE straight away?",
+"options": [
+"Yes: you have more than a year of experience on C1",
+"Yes, if you pass the test on a tractor unit",
+"No: for CE you need a year of the right to drive C",
+"No: combination categories are opened only from the age of 25"
+],
+"answer": 2,
+"explain": "CE is granted to those who have held the right to drive category C for at least 12 months. With C1 you can open C1E: for it you need a year of the right to drive C or C1."
+},
+{
+"id": "m24-054",
+"q": "Must the registration number be repeated in large figures on the rear wall of a trailer for a passenger car?",
+"options": [
+"Yes, in figures at least 300 mm high, as on trucks",
+"Yes, if the trailer is heavier than 750 kg",
+"No: this is not required for trailers of passenger cars",
+"Yes, if the trailer has a flatbed body"
+],
+"answer": 2,
+"explain": "A large number on the rear wall of the body is mandatory for trucks, buses and trailers, except trailers of passenger cars and motorcycles. On a trailer of a passenger car, a number plate in the place provided for it is enough."
+},
+{
+"id": "m24-055",
+"q": "Must the “Road train” identification sign be fitted to such a combination?",
+"options": [
+"Yes: a passenger car with a trailer is also a road train under the Rules",
+"No: it is fitted to trucks and tractors with a trailer",
+"Yes, if the trailer is heavier than 750 kg",
+"Yes, if the combination is longer than 7 metres"
+],
+"answer": 1,
+"explain": "By definition a passenger car with a trailer is a road train, but the “Road train” identification sign is fitted only to trucks and wheeled tractors with trailers, and to articulated buses and trolleybuses."
+},
+{
+"id": "m24-056",
+"q": "In the daytime, in good visibility, you have parked your road train. Must you leave the “Road train” sign switched on?",
+"options": [
+"Yes: the sign is on all the time while the trailer is coupled",
+"Yes, if the parking lasts more than 5 minutes",
+"No: by day it is required only while driving",
+"No: it is switched on only in the dark"
+],
+"answer": 2,
+"explain": "The “Road train” sign is switched on while driving. In the hours of darkness and in poor visibility it is left on while stopped or parked too, but by day in good visibility it can be switched off when parked.",
+"scene": {
+"side.0.text": "parking"
+}
+},
+{
+"id": "m24-057",
+"q": "A driver was fined before for driving with a faulty towing coupling device. Six months later he was stopped again for the same offence. What fine does the CAO now provide?",
+"options": [
+"15 MCI (64 875 tenge)",
+"5 MCI (21 625 tenge)",
+"20 MCI (86 500 tenge)",
+"30 MCI (129 750 tenge)"
+],
+"answer": 2,
+"explain": "For driving a vehicle with a faulty braking system, steering or towing coupling device the fine is 15 MCI. If the offence is repeated within a year after the penalty was imposed, the fine is 20 MCI, which in 2026 is 86 500 tenge."
+},
+{
+"id": "m24-058",
+"q": "At night on an unlit road outside a built-up area, the trailer’s rear position lamps have stopped working. May you drive on?",
+"options": [
+"You may, if you switch on the hazard warning lights",
+"You may, if you drive no faster than 50 km/h",
+"You may, as far as the nearest built-up area",
+"You may not until the lamps work"
+],
+"answer": 3,
+"explain": "In the hours of darkness on roads without lighting you must not drive if the rear position lamps are not working, and for a combination the rear lamps are those of the trailer. Stop and fix the fault; if you cannot, move the combination off the road or mark it with the hazard warning lights and a warning triangle.",
+"scene": {
+"labels.0.text": "lights not working"
+}
+},
+{
+"id": "m24-059",
+"q": "You have driven on category B for two years and are now training for BE and C1 at the same time. How will you take the tests?",
+"options": [
+"Theory and practical test - separately for each category",
+"Theory only: no practical test is taken for BE",
+"Theory once, practical test for each category",
+"Theory once and one practical test on a truck"
+],
+"answer": 2,
+"explain": "If you are opening several categories at once, you take the theory test once, and the practical test separately for each category and on a vehicle of that category: for BE on a passenger car with a trailer, for C1 on a truck."
+},
+{
+"id": "m24-060",
+"q": "How are the start and end of each exercise marked at a test ground for combinations (BE, CE, DE and others)?",
+"options": [
+"A white solid stripe 0.4 m wide",
+"A yellow broken line",
+"A solid line of marking 1.4",
+"Red and white cones"
+],
+"answer": 1,
+"explain": "The start and end of exercises for combinations are marked with a yellow broken line: width 0.10 m, dash 0.15 m, gap 0.10 m. The white stripes 0.4 m wide are the “Start” and “Finish” lines, and marking 1.4 is used for control lines."
+}
+]}

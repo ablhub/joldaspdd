@@ -1,0 +1,739 @@
+{
+ "questions": [
+  {
+   "id": "m22-029",
+   "q": "You are driving a truck with a maximum authorised mass of 20 t on a road marked by this sign. There are three lanes in your direction. May you change lanes along path A to overtake the truck ahead?",
+   "options": [
+    "Yes: the ban on the third lane applies only on motorways",
+    "Yes, if the truck ahead is travelling slower than 40 km/h",
+    "No: motorway rules apply on this road",
+    "Yes, but only in daylight and in good visibility"
+   ],
+   "answer": 2,
+   "explain": "Sign 5.3 marks a road for motor vehicles. The requirements of Chapter 16 apply to it as to a motorway, including the ban on trucks heavier than 3.5 t going beyond the second lane. Path A leads into the third lane."
+  },
+  {
+   "id": "m22-030",
+   "q": "Your heavily laden truck can travel no faster than 35 km/h. You will turn left at the next intersection. Which path should you follow?",
+   "options": [
+    "Path A",
+    "Path B",
+    "Either of them",
+    "Neither: you may not leave the right lane"
+   ],
+   "answer": 0,
+   "explain": "A vehicle travelling no faster than 40 km/h keeps to the far right lane, but changing lanes before a left turn is one of the exceptions. Before the turn you must move in advance to the far left position, so you change lanes along path A."
+  },
+  {
+   "id": "m22-031",
+   "q": "Because of the length of your road train you cannot turn right from the far right lane, so you turn after moving to the adjacent lane on the left. A white car is going straight ahead in the right lane to your right. What should you do?",
+   "options": [
+    "Turn: everyone gives way to a long vehicle at a turn",
+    "Let the white car pass and only then turn",
+    "Turn, switching on the hazard warning lights",
+    "Turn from the right lane, driving onto the pavement"
+   ],
+   "answer": 1,
+   "explain": "You may move to the adjacent lane for a turn only if it is safe and does not impede other vehicles ⟦1⟧. The white car is going straight in the right lane and your turn crosses its path, so let it pass first. Driving onto the pavement is not allowed ⟦2⟧."
+  },
+  {
+   "id": "m22-032",
+   "q": "You are in a truck about to change into the right lane. A white car is coming up behind you on the right and is barely visible in the mirror. What should you do?",
+   "options": [
+    "Give way to the white car: it is going the same way without changing lanes",
+    "Change lanes: a switched-on direction indicator gives you priority",
+    "Change lanes: other vehicles give way to a large vehicle because of its size",
+    "Sound the horn and change lanes at once, before it catches up"
+   ],
+   "answer": 0,
+   "explain": "When changing lanes you give way to vehicles travelling in the same direction without changing their course, and the white car is going straight along its lane. A direction indicator gives no priority ⟦3⟧. From a high cab a vehicle behind on the right is easy to lose sight of: check your mirrors and change lanes once it has passed."
+  },
+  {
+   "id": "m22-033",
+   "q": "You are in a truck driving around an obstacle while a green car is changing lanes to the right at the same time. You both want to move into the middle lane. Who must give way?",
+   "options": [
+    "You: a truck always gives way to a passenger car",
+    "Whoever switched on their direction indicator later",
+    "No one: both may change lanes at the same time",
+    "The green car: you are to its right"
+   ],
+   "answer": 3,
+   "explain": "You and the green car are changing lanes at the same time, and you are to its right. In this case the driver who has another vehicle on their right must give way, that is, the green car. Size and the moment of switching on the indicator play no part here."
+  },
+  {
+   "id": "m22-034",
+   "q": "The barrier is raised and no train is in sight. There are vehicles queuing beyond the crossing with about 8 m of free space there, and your road train is 18 m long. What should you do?",
+   "options": [
+    "Drive on: the barrier is raised and there are no prohibiting signals",
+    "Drive on and wait on the tracks with the hazard warning lights on until the vehicles move away",
+    "Wait before the crossing until there is space for the whole road train beyond it",
+    "Drive on partly, so that only the trailer remains on the tracks"
+   ],
+   "answer": 2,
+   "explain": "It is forbidden to enter a level crossing if there is a traffic jam beyond it that would force you to stop on the crossing, even when the barrier is raised. There are 8 m beyond the tracks and the road train needs 18 m: the trailer would remain on the tracks. Drive on only when the whole vehicle will fit beyond the crossing."
+  },
+  {
+   "id": "m22-035",
+   "q": "You need to move a mobile crane across a level crossing, and because of a fault the boom will not fold into the transport position. What should you do?",
+   "options": [
+    "Cross without stopping if the barrier is raised and no train is in sight",
+    "Cross slowly, at no more than 8 km/h, under the supervision of a duty officer",
+    "Cross only with the permission of the head of the railway track section",
+    "Cross the tracks away from the crossing, where there is no overhead contact wire"
+   ],
+   "answer": 2,
+   "explain": "It is forbidden to move agricultural, road-building, construction and other machines and mechanisms that are not in the transport position across a level crossing without the permission of the head of the railway track section. Crossing the tracks away from a crossing is never allowed ⟦4⟧."
+  },
+  {
+   "id": "m22-036",
+   "q": "What does this sign prohibit?",
+   "options": [
+    "Trucks and tractors with trailers of any kind, and also towing",
+    "Any vehicles with a trailer, including passenger cars with a light trailer",
+    "Only road trains with a maximum authorised mass of more than 3.5 t",
+    "Only vehicles with a semi-trailer; a normal trailer is allowed"
+   ],
+   "answer": 0,
+   "explain": "Sign 3.7 prohibits trucks and tractors with trailers of any type, including a semi-trailer, and also the towing of motor vehicles. It does not apply to a passenger car with a trailer. It applies in both directions."
+  },
+  {
+   "id": "m22-037",
+   "q": "Your truck with a maximum authorised mass of 3 t is towing a trailer with a maximum authorised mass of 1.5 t. May you drive on past this sign?",
+   "options": [
+    "Yes: the truck is lighter than 3.5 t, and the sign does not count the trailer",
+    "Yes, if the actual mass of the combination is currently less than 3.5 t",
+    "No: the authorised mass of the combination is 4.5 t, which is more than 3.5 t",
+    "Yes, but only in daylight and without overtaking"
+   ],
+   "answer": 2,
+   "explain": "Sign 3.4 prohibits trucks and combinations with a maximum authorised mass of more than 3.5 t. For a combination, the authorised masses of the towing vehicle and the trailer are added together: 3 + 1.5 = 4.5 t. The actual load plays no part for this sign."
+  },
+  {
+   "id": "m22-038",
+   "q": "Which truck with a maximum authorised mass of 10 t does this sign not prohibit?",
+   "options": [
+    "A truck that is currently empty",
+    "A truck with its hazard warning lights on",
+    "A truck towing a trailer of no more than 750 kg",
+    "A truck with a diagonal white stripe on its sides"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.4 does not prohibit trucks with a diagonal white stripe on their sides and trucks designed for carrying people. An empty load body does not help: the sign looks at the maximum authorised mass, not the actual mass."
+  },
+  {
+   "id": "m22-039",
+   "q": "Your truck with a maximum authorised mass of 11 t is, according to its documents, designed for carrying people: it has an enclosed body with seats for workers. May you drive past this sign?",
+   "options": [
+    "No: the sign prohibits all trucks heavier than 3.5 t",
+    "Yes, but only if there are no people in the body at the moment",
+    "No, if more than 8 people are travelling in the body",
+    "Yes: the sign does not prohibit trucks designed for carrying people"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.4 prohibits trucks and combinations with a maximum authorised mass of more than 3.5 t, but it names the exceptions directly: trucks with a diagonal white stripe on their sides and trucks designed for carrying people. Your truck is exactly that kind."
+  },
+  {
+   "id": "m22-040",
+   "q": "On an advance direction sign before an intersection there is sign 3.11 “Weight limit” with the figure 10 t and an arrow pointing sideways. You are driving a laden truck with an actual mass of 18 t. What does this direction sign mean?",
+   "options": [
+    "Ahead is a section you may not enter, and the arrow shows the detour",
+    "Trucks heavier than 10 t may not turn in the direction of the arrow",
+    "In 10 km along the arrow there will be a weight check point",
+    "Along the arrow there is a parking area for trucks up to 10 t"
+   ],
+   "answer": 0,
+   "explain": "Sign 5.20.1, the advance direction sign, is also used to show a detour around a section where one of signs 3.11-3.15 is placed. With an actual mass of 18 t you may not enter a section with sign 3.11 “10 t”, so follow the detour arrow."
+  },
+  {
+   "id": "m22-041",
+   "q": "The actual mass of your road train is 28 t, but it is spread over five axles, and the most heavily loaded axle carries 5.8 t. May you drive on past this sign?",
+   "options": [
+    "Yes: no axle carries more than 6 t",
+    "No: the total mass of the road train is far more than 6 t",
+    "No: sign 3.12 prohibits any road trains",
+    "Yes, but only if you uncouple the trailer and haul it separately"
+   ],
+   "answer": 0,
+   "explain": "Sign 3.12 prohibits vehicles whose actual load on any axle is greater than the figure on the sign. The total mass does not matter for this sign: your heaviest axle load is 5.8 t, which is no more than 6 t."
+  },
+  {
+   "id": "m22-042",
+   "q": "Your truck is 9 m long, and pipes in the body project 1.5 m beyond the tailgate. May you drive on past this sign?",
+   "options": [
+    "Yes: the truck itself is 9 m long, and the projecting load is not counted",
+    "No: with the pipes the length is 10.5 m, which is more than 10 m on the sign",
+    "Yes, if the projection is marked with the “Oversized load” sign",
+    "Yes, if you drive slowly and switch on the hazard warning lights"
+   ],
+   "answer": 1,
+   "explain": "Sign 3.15 counts the overall length of the vehicle or combination together with the load: 9 + 1.5 = 10.5 m, which is more than 10 m. A projection at the rear of more than 1 m must be marked with the “Oversized load” sign ⟦5⟧, but this does not allow you to drive past this sign."
+  },
+  {
+   "id": "m22-043",
+   "q": "Before a bridge there is sign 3.16 “50 m” with plate 7.4.1, as in the diagram. You are in a truck, and a passenger car is ahead of you. How must you drive?",
+   "options": [
+    "Keep at least 50 m behind the passenger car",
+    "Keep 50 m only behind trucks; behind passenger cars a shorter distance is allowed",
+    "Drive no faster than 50 km/h to the end of the zone of the sign",
+    "No special way: the plate refers to the vehicle travelling ahead"
+   ],
+   "answer": 0,
+   "explain": "Plate 7.4.1 extends the action of sign 3.16 to trucks, that is, to you. The sign prohibits driving closer than the stated distance to the vehicle ahead, whatever it is, so keep at least 50 m behind the passenger car."
+  },
+  {
+   "id": "m22-044",
+   "q": "You are in a truck with a maximum authorised mass of 16 t and have passed sign 3.22, and then an intersection, as in the diagram. There were no other signs. A truck ahead is travelling at about 60 km/h, and the oncoming lane is clear. May you overtake it?",
+   "options": [
+    "No: the prohibition of sign 3.22 applies until sign 3.23",
+    "Yes: the zone of sign 3.22 ended at the intersection",
+    "No: the truck ahead is travelling faster than 30 km/h",
+    "Yes, but only if the truck ahead moves over to the shoulder"
+   ],
+   "answer": 1,
+   "explain": "The zone of sign 3.22 runs from where it is placed to the nearest intersection beyond it. You have already passed the intersection and there are no other prohibitions, so overtaking is allowed if it is safe ⟦6⟧. Signs 3.23 or 3.31 can end the zone before the intersection."
+  },
+  {
+   "id": "m22-045",
+   "q": "You are in a truck with a maximum authorised mass of 16 t and have passed sign 3.22. The intersection is still ahead, as in the diagram. A truck ahead is travelling at about 60 km/h, and the oncoming lane is clear. May you overtake it?",
+   "options": [
+    "No: until the nearest intersection you are in the zone of sign 3.22",
+    "Yes: the oncoming lane is clear and the marking is broken",
+    "Yes, if you finish overtaking before the intersection",
+    "Yes: sign 3.22 prohibits only the overtaking of passenger cars"
+   ],
+   "answer": 0,
+   "explain": "The zone of sign 3.22 extends to the nearest intersection, and you have not reached it yet. The truck ahead is travelling faster than 30 km/h, so the exception for single slow-moving vehicles does not apply here."
+  },
+  {
+   "id": "m22-046",
+   "q": "In a built-up area you are in a truck with a maximum authorised mass of 16 t and have passed sign 3.22. There are no more intersections, and no signs 3.23 or 3.31 either. Up to what point does the overtaking ban apply to you?",
+   "options": [
+    "To the nearest exit from an adjacent area",
+    "To the end of the built-up area",
+    "To sign 3.21 “End of no-overtaking zone”",
+    "For 500 m from where the sign is placed"
+   ],
+   "answer": 1,
+   "explain": "The zone of sign 3.22 runs to the nearest intersection beyond it, and in a built-up area without intersections, to the end of the built-up area. Signs 3.23, 3.31 or plate 7.2.1 can end it earlier. An exit from an adjacent area does not count as an intersection, and sign 3.21 ends the zone of sign 3.20."
+  },
+  {
+   "id": "m22-047",
+   "q": "You are driving a goods van with a maximum authorised mass of 3 t, without a trailer. May you drive past this sign with no figures?",
+   "options": [
+    "No: the sign prohibits all trucks, whatever their mass",
+    "Yes, but only if the van is empty and not carrying anything",
+    "Yes: with no figures it applies to trucks heavier than 3.5 t",
+    "No: the sign applies to any vans that are carrying a load"
+   ],
+   "answer": 2,
+   "explain": "If sign 3.4 shows no mass, it prohibits trucks and combinations with a maximum authorised mass of more than 3.5 t. Your van is 3 t, so you may drive on. With a trailer, the sum of the authorised masses would be counted."
+  },
+  {
+   "id": "m22-048",
+   "q": "You are in a truck with a maximum authorised mass of 10 t approaching a street with this sign. May you enter it?",
+   "options": [
+    "Yes: the sign allows all motor cars except tractors",
+    "No, unless you are serving an enterprise or residents of the zone",
+    "Yes, if the actual mass of the vehicle with its load is less than 3.5 t",
+    "No, under no circumstances, even to unload in this zone"
+   ],
+   "answer": 1,
+   "explain": "Sign 4.4 allows only passenger cars, buses, motorcycles, route vehicles and trucks with a maximum authorised mass of up to 3.5 t. Other vehicles may enter if they serve enterprises or citizens in this zone, via the intersection nearest to their destination."
+  },
+  {
+   "id": "m22-049",
+   "q": "You are carrying acid, a class 8 dangerous good, and your vehicle displays “Dangerous goods” signs. May you drive past this sign?",
+   "options": [
+    "No: the sign prohibits all vehicles with “Dangerous goods” signs",
+    "Yes, but only if you switch on the amber beacon",
+    "Yes: this sign does not apply to class 8 goods",
+    "No: the sign prohibits all trucks heavier than 3.5 t"
+   ],
+   "answer": 2,
+   "explain": "Sign 3.33 prohibits vehicles with “Dangerous goods” signs that are intended for explosive and flammable goods of classes 1, 2.2-2.4, 3.1, 3.2 and 5.2. Class 8 is not on this list. Another sign, 3.32, prohibits all vehicles with “Dangerous goods” signs."
+  },
+  {
+   "id": "m22-050",
+   "q": "What do signs 5.30.1-5.30.5 “Direction of travel for trucks” mean?",
+   "options": [
+    "The recommended direction for trucks if one of the directions is prohibited to them",
+    "The direction of travel at the nearest intersection that is mandatory for all vehicles heavier than 3.5 t",
+    "The lane in which trucks are allowed to overtake on a motorway",
+    "A place where trucks are allowed to park for a rest or overnight stay"
+   ],
+   "answer": 0,
+   "explain": "Signs 5.30.1-5.30.5 show the recommended direction for trucks, tractors and self-propelled machines if at an intersection their movement in one of the directions is prohibited. This is a hint for a detour, and the prohibition itself is introduced by other signs, for example 3.4."
+  },
+  {
+   "id": "m22-051",
+   "q": "You were driving in the zone of sign 3.22 in a truck with a maximum authorised mass of 16 t and have passed this sign. There were no intersections. May you now overtake a truck travelling at about 60 km/h if the oncoming lane is clear?",
+   "options": [
+    "No: the prohibition of sign 3.22 is cancelled only by sign 3.23",
+    "No: the prohibition applies up to the nearest intersection",
+    "Yes, but only if the truck is travelling slower than 30 km/h",
+    "Yes: this sign also cancels the prohibition of sign 3.22"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.31 “End of all restrictions” cancels several signs at once, including 3.16, 3.20, 3.22 and 3.24. After it the overtaking ban for trucks no longer applies. Overtake if the conditions of para. 77 are met."
+  },
+  {
+   "id": "m22-052",
+   "q": "You are driving a road train 19 m long in an organised convoy on a road outside built-up areas with one lane in each direction. Must you keep a gap ahead so that overtaking vehicles can move in ahead of you?",
+   "options": [
+    "No: this requirement does not apply in an organised convoy",
+    "Yes: on such a road it is mandatory for all combinations longer than 7 m",
+    "Yes, but only in hours of darkness and in poor visibility",
+    "No: it applies only to vehicles longer than 20 m"
+   ],
+   "answer": 0,
+   "explain": "Outside built-up areas on two-lane roads, vehicles longer than 7 m and those subject to a speed limit keep a gap for overtaking vehicles. But the requirement does not apply if the driver is preparing to overtake, in heavy traffic and when driving in an organised convoy."
+  },
+  {
+   "id": "m22-053",
+   "q": "Your truck, 6 m long, is carrying an overweight load, and a “Speed limit” identification sign with the figure 40 is fitted at the rear. It is a road outside built-up areas with one lane in each direction, and traffic is light. What distance must you keep to the vehicle ahead?",
+   "options": [
+    "Any safe distance: the requirement applies only to vehicles longer than 7 m",
+    "At least 40 m, according to the figure on the “Speed limit” sign",
+    "One that lets overtaking vehicles move in ahead of you",
+    "As little as possible, so that those behind can see there is a jam ahead"
+   ],
+   "answer": 2,
+   "explain": "A gap for overtaking vehicles is kept not only by vehicles longer than 7 m but also by vehicles subject to a speed limit. The speed of your vehicle is limited by the identification sign ⟦7⟧ and by the conditions for carrying an overweight load ⟦8⟧, so on a two-lane road outside built-up areas leave room ahead of you for an overtaking vehicle."
+  },
+  {
+   "id": "m22-054",
+   "q": "You are in a truck with a maximum authorised mass of 12 t on a city street with one lane in each direction and no tram tracks. May you park the vehicle at the left edge, as shown?",
+   "options": [
+    "Yes: on such a street parking on the left is allowed for trucks too",
+    "No: for a truck heavier than 3.5 t, only unloading is allowed on the left",
+    "No: stopping at the left edge in a city is prohibited for everyone",
+    "Yes, but only if you will be loading or unloading"
+   ],
+   "answer": 0,
+   "explain": "In a built-up area, on a road with one lane for each direction and no tram tracks in the middle, stopping and parking on the left are allowed. The restriction “stopping only for loading or unloading” for trucks heavier than 3.5 t applies only to one-way roads."
+  },
+  {
+   "id": "m22-055",
+   "q": "You are driving a goods van with a maximum authorised mass of 3 t on a one-way city street. May you leave it at the left edge, as shown, for an hour while you have lunch?",
+   "options": [
+    "No: trucks may only load or unload on the left",
+    "No: at the left edge you may stop for no more than 5 minutes",
+    "Yes, but only if you switch on the hazard warning lights",
+    "Yes: this prohibition applies to trucks heavier than 3.5 t"
+   ],
+   "answer": 3,
+   "explain": "In a built-up area on a one-way road, stopping and parking are allowed at the left edge too. The restriction “stopping only for loading or unloading” applies to trucks with a maximum authorised mass of more than 3.5 t, and your van is 3 t."
+  },
+  {
+   "id": "m22-056",
+   "q": "A goods van with a maximum authorised mass of 2.5 t and a blue passenger car are parked at the edge of the pavement, as in the diagram. There is enough room for pedestrians. Who is allowed to park like this?",
+   "options": [
+    "Blue only",
+    "Van only",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "Parking at the edge of the pavement with the vehicle driven onto it is allowed only for passenger cars, motorcycles, mopeds and bicycles. A van is a truck, and a mass of less than 3.5 t does not change that."
+  },
+  {
+   "id": "m22-057",
+   "q": "You have delivered furniture to the residential courtyard of an apartment building in a truck with a maximum authorised mass of 10 t and want to leave it there overnight. Where may you do this?",
+   "options": [
+    "At any entrance, if the vehicle does not obstruct the passage of others",
+    "On the lawn or pavement, to leave the way clear",
+    "Only in a place designated by signs and (or) markings",
+    "Anywhere in the courtyard, if the engine is switched off"
+   ],
+   "answer": 2,
+   "explain": "In courtyards the rules of a residential zone apply. Parking of trucks with a maximum authorised mass of more than 3500 kg is allowed there only in specially designated places marked by signs and (or) markings. Parking on pavements and lawns in a residential zone is prohibited for everyone."
+  },
+  {
+   "id": "m22-058",
+   "q": "Your truck with a maximum authorised mass of 5 t is two years old, and you do not use it in business activity. Must it undergo the mandatory technical inspection?",
+   "options": [
+    "No: vehicles no older than 7 years do not need a technical inspection",
+    "Yes: only passenger cars (M1) no older than 7 years are exempt",
+    "No, if the truck does not carry goods for payment",
+    "Yes, but only after 5 years from the year of manufacture"
+   ],
+   "answer": 1,
+   "explain": "Only M1 vehicles (passenger cars) no older than 7 years, including the year of manufacture, that are not used in business activity may be driven without the mandatory technical inspection. A truck does not fall under this exception, and driving a vehicle without a technical inspection is prohibited."
+  },
+  {
+   "id": "m22-059",
+   "q": "At what total play in the steering is the use of a truck (not built on a passenger car base) prohibited?",
+   "options": [
+    "More than 10 degrees",
+    "More than 25 degrees",
+    "More than 20 degrees",
+    "More than 35 degrees"
+   ],
+   "answer": 1,
+   "explain": "Total play must not exceed 25 degrees for trucks, 20 for buses and 10 for passenger cars and for trucks and buses built on their base. If it is more, use is prohibited."
+  },
+  {
+   "id": "m22-060",
+   "q": "On a slope of up to what percentage inclusive must the parking brake hold an unladen truck (in running order)?",
+   "options": [
+    "Up to 31%",
+    "Up to 16%",
+    "Up to 23%",
+    "Up to 40%"
+   ],
+   "answer": 0,
+   "explain": "The parking braking system must hold trucks and road trains in running order on a slope of up to 31% inclusive, passenger cars and buses without load up to 23%, and any vehicles with a full load up to 16%."
+  },
+  {
+   "id": "m22-061",
+   "q": "Your truck has pneumatic brake actuation. After the actuator was fully applied with the engine off, the pressure dropped by 0.08 MPa in 15 minutes. May you set off?",
+   "options": [
+    "Yes: a drop of up to 0.1 MPa in 15 minutes is allowed if the pressure gauge works",
+    "No: a drop of no more than 0.05 MPa in 15 minutes is allowed",
+    "Yes, if the pressure recovers after the engine is started",
+    "No: the pressure in the actuator must not drop at all"
+   ],
+   "answer": 1,
+   "explain": "Use is prohibited if, because of a leak in the pneumatic actuator, the pressure with the engine off drops by more than 0.05 MPa (0.5 kgf/cm2) in 15 minutes after the actuator has been fully applied. Yours dropped by 0.08 MPa, so you may not set off. A pressure gauge that does not work also prohibits use."
+  },
+  {
+   "id": "m22-062",
+   "q": "The remaining tread depth on the tyres of your road train's trailer is 1.2 mm. May such a trailer be used?",
+   "options": [
+    "No: for trailers the standard is 1.6 mm, as for passenger cars, so 1.2 mm is too little",
+    "No: for trailers the standard is 2 mm, as for buses, so 1.2 mm is too little",
+    "Yes, at any tread depth, as long as the tyres have no cuts or bulges",
+    "Yes: for a truck's trailer the standard is that of the towing vehicle, 1 mm"
+   ],
+   "answer": 3,
+   "explain": "The same standards apply to trailer tyres as to the tyres of the towing vehicle. For a truck, use is prohibited if the remaining tread depth is less than 1 mm, so 1.2 mm is acceptable. For comparison: passenger cars 1.6 mm, buses 2 mm."
+  },
+  {
+   "id": "m22-063",
+   "q": "Which of these vehicles must have at least two wheel chocks?",
+   "options": [
+    "A truck with a maximum authorised mass of 3 t",
+    "A truck with a maximum authorised mass of 6 t",
+    "A passenger car with a trailer of up to 750 kg",
+    "A motorcycle with a sidecar"
+   ],
+   "answer": 1,
+   "explain": "At least two wheel chocks are mandatory on trucks with a maximum authorised mass of over 3.5 t and on buses. Without them, use is prohibited. A first aid kit, a fire extinguisher and a warning triangle are needed on all motor cars."
+  },
+  {
+   "id": "m22-064",
+   "q": "The service braking system is tested on level dry asphalt when braking from 40 km/h. What is the greatest braking distance permitted for a truck with a trailer (semi-trailer)?",
+   "options": [
+    "18.3 m",
+    "14.7 m",
+    "19.5 m",
+    "25 m"
+   ],
+   "answer": 2,
+   "explain": "Under the List of Defects, from an initial speed of 40 km/h the braking distance must not exceed 18.3 m for trucks and 19.5 m for trucks with a trailer or semi-trailer, and the steady deceleration must be at least 5.0 m/s2. 14.7 m is the standard for passenger cars.",
+   "ref": "List of Defects, ch. 1, table and para. 1"
+  },
+  {
+   "id": "m22-065",
+   "q": "On a journey the rear protective device fitted by design has come off your truck. It cannot be repaired on the spot. What should you do?",
+   "options": [
+    "Continue the journey along the route: this part does not affect safety",
+    "Stop driving altogether and call a recovery vehicle",
+    "Continue the journey if you drive no faster than 50 km/h",
+    "Proceed with precautions to the place of parking or repair"
+   ],
+   "answer": 3,
+   "explain": "Use is prohibited without the rear protective device, splash guards and mud flaps provided by the design. If such a fault arises on the road and cannot be repaired, proceed with precautions to a place of parking or repair. You may not drive at all with non-working service brakes, steering or a faulty coupling device ⟦9⟧."
+  },
+  {
+   "id": "m22-066",
+   "q": "Before setting off you notice that the tachograph fitted by design is not working on your truck. May you set off on the trip?",
+   "options": [
+    "Yes: the tachograph does not affect admission to operation",
+    "Yes, if the speedometer works: it shows the speed",
+    "Yes, but the tachograph must be repaired within a month",
+    "No: use is prohibited with a non-working tachograph"
+   ],
+   "answer": 3,
+   "explain": "Use of a vehicle is prohibited if the speedometer, tachograph, load platform side locks, tank filler-neck locks and other devices listed in para. 35 of the List of Defects that are provided by the design do not work in the specified mode. Repair it before setting off."
+  },
+  {
+   "id": "m22-067",
+   "q": "A driver drove a road train with a faulty towing coupling device. What penalty does the CAO provide?",
+   "options": [
+    "A fine of 5 MCI",
+    "A fine of 15 MCI",
+    "A fine of 10 MCI",
+    "A warning"
+   ],
+   "answer": 1,
+   "explain": "For driving a vehicle with faults in the braking system, steering or towing coupling device, the fine is 15 MCI (64 875 tenge in 2026). For other faults with which use is prohibited, it is 5 MCI. The Rules prohibit driving with a faulty coupling device altogether ⟦10⟧."
+  },
+  {
+   "id": "m22-068",
+   "q": "Where on a truck is its registration number repeated, and how large are the characters?",
+   "options": [
+    "On the cab doors on both sides, characters at least 100 mm high",
+    "On the rear wall of the body, characters at least 300 mm high",
+    "On the cab roof so it can be seen from above, characters 500 mm high",
+    "Nowhere: the number plates at the front and rear are enough"
+   ],
+   "answer": 1,
+   "explain": "The digits and letters of the registration plate are repeated on the rear wall of the bodies of trucks, trailers (except trailers for passenger cars and motorcycles) and buses. The digits must be at least 300 mm high and at least 120 mm wide, and the letters are 2/3 of the size of the digits."
+  },
+  {
+   "id": "m22-069",
+   "q": "What does the “Road train” identification sign, fitted to a truck with a trailer, look like?",
+   "options": [
+    "A yellow rectangle with a red border on the rear board of the trailer",
+    "A 400x400 mm panel with red and white stripes at the rear of the trailer",
+    "Two red lamps on the rear board that flash when braking",
+    "Three orange lamps in a row on the cab roof"
+   ],
+   "answer": 3,
+   "explain": "The “Road train” sign is three orange lamps arranged horizontally on the cab roof with gaps of 150 to 300 mm. A yellow triangle with a side of 250 mm with internal lighting is also permitted. A yellow rectangle with a red border is the “Long vehicle” sign, and a striped panel is “Oversized load”."
+  },
+  {
+   "id": "m22-070",
+   "q": "Your road train, made up of a towing vehicle and two trailers, is 18 m long. Is the “Long vehicle” identification sign needed at the rear?",
+   "options": [
+    "No: this sign is needed only for lengths over 20 m",
+    "Yes: any road train with two or more trailers needs it",
+    "No: the “Road train” sign on the cab roof is enough",
+    "Yes, but only in hours of darkness and in poor visibility"
+   ],
+   "answer": 1,
+   "explain": "The “Long vehicle” sign is fitted at the rear of vehicles whose length with one trailer is more than 20 m, and on road trains with two or more trailers regardless of length. You have two trailers, so the sign is needed. The “Road train” sign on the cab is also mandatory."
+  },
+  {
+   "id": "m22-071",
+   "q": "You are carrying an oversized load with an amber beacon switched on. The height of the vehicle with its load is 4.3 m. May you drive on past this sign?",
+   "options": [
+    "Yes: with an amber beacon you may depart from the requirements of signs",
+    "Yes, if you drive slowly with the hazard warning lights on",
+    "Yes, if an escort vehicle is travelling ahead of you",
+    "No: the beacon does not exempt you from the requirements of sign 3.13"
+   ],
+   "answer": 3,
+   "explain": "Drivers of vehicles with an amber beacon switched on may depart from the requirements of signs, but not from signs 2.2, 2.4-2.6, 3.11-3.14, 3.17.2 and 3.20. Sign 3.13 prohibits vehicles whose overall height with the load is more than the figure shown, and 4.3 m is more than 4 m. You need another route."
+  },
+  {
+   "id": "m22-072",
+   "q": "You are 30 years old and obtained category C 7 years ago. 6 workers will travel in the equipped body, and two more with you in the cab. Which categories are needed for such carriage?",
+   "options": [
+    "Categories C and D are needed",
+    "Category C is enough",
+    "Category D is needed",
+    "Category CE is needed"
+   ],
+   "answer": 1,
+   "explain": "Categories C and D are needed if more than 8 people are carried, counting passengers in the cab. You have 6 + 2 = 8 people, which is not more than 8, so category C is enough. You also meet the age requirement (from 25 years) and have more than 5 years of experience in category C."
+  },
+  {
+   "id": "m22-073",
+   "q": "Which of these drivers may carry people in the equipped body of a truck?",
+   "options": [
+    "A 24-year-old driver with category C obtained 3 years ago",
+    "A 40-year-old driver with category C obtained 4 years ago",
+    "A 35-year-old driver with category B and 15 years of driving experience",
+    "A 28-year-old driver with category C obtained 6 years ago"
+   ],
+   "answer": 3,
+   "explain": "People may be carried in the body by a driver aged at least 25 with category C and more than 5 years of experience of driving vehicles of this category. Only the 28-year-old driver with six years on C qualifies. Experience in a passenger car does not count."
+  },
+  {
+   "id": "m22-074",
+   "q": "The body of a flatbed truck is being equipped for carrying workers. Which seats must have solid backs?",
+   "options": [
+    "Only the seats on which children will travel",
+    "Only the seats at the front board, next to the cab",
+    "None: it is enough to fix the seats securely",
+    "Those located along the rear or side boards"
+   ],
+   "answer": 3,
+   "explain": "Seats in the body are fixed at a height of 0.3-0.5 m from the floor and at least 0.3 m below the top edge of the board, and seats along the rear or side boards must have solid backs. If children are carried, the boards must be at least 0.8 m above the floor."
+  },
+  {
+   "id": "m22-075",
+   "q": "Sheets of plywood project beyond the right side of the body by 45 cm from the outer edge of the position lamp. Must this projection be marked?",
+   "options": [
+    "No: a side projection is marked only if it is more than 1 m",
+    "No: only what projects at the front and rear needs marking",
+    "Yes, but only in hours of darkness and only with a red lamp",
+    "Yes: at the side, a projection over 40 cm needs a sign"
+   ],
+   "answer": 3,
+   "explain": "A load that projects at the side by more than 40 cm from the outer edge of the position lamp is marked with the “Oversized load” identification sign, a 400x400 mm panel with red and white stripes. At the front and rear the limit is 1 m. In darkness and poor visibility a white lamp is added at the front and a red lamp or retroreflector at the rear."
+  },
+  {
+   "id": "m22-076",
+   "q": "You are carrying rolls on an open flatbed. The load was well secured before you set off. When else must you check its position and securing?",
+   "options": [
+    "You need not: the load was checked and secured before departure",
+    "Also while driving, so that the load does not fall or hinder others",
+    "Only at weight and transport control points on the way",
+    "Only if the journey lasts longer than 4 hours without a break"
+   ],
+   "answer": 1,
+   "explain": "The driver monitors the position, securing, covering and condition of the load both before setting off and while driving, so that the load does not fall or cause obstruction. If the load has shifted and this cannot be corrected, you may not drive on ⟦11⟧."
+  },
+  {
+   "id": "m22-077",
+   "q": "The load in the body has shifted and covered the rear lamps and direction indicators, and the driver drove on. What fine is provided for failing to comply with the rules for carrying goods?",
+   "options": [
+    "10 MCI",
+    "15 MCI",
+    "20 MCI",
+    "5 MCI"
+   ],
+   "answer": 3,
+   "explain": "Failing to comply with the rules for carrying passengers and goods carries a fine of 5 MCI (21 625 tenge in 2026), and 10 MCI if repeated within a year. The load must not cover lights ⟦12⟧: correct its position, and if that is impossible, stop driving."
+  },
+  {
+   "id": "m22-078",
+   "q": "You are escorting a truck with an oversized load in a passenger car. Which flashing beacon must be switched on in your car?",
+   "options": [
+    "Blue",
+    "Blue and red",
+    "Amber",
+    "None: a beacon is needed only on the truck"
+   ],
+   "answer": 2,
+   "explain": "An amber flashing beacon is switched on both on vehicles carrying overweight, oversized and dangerous loads and on vehicles escorting such transport. Blue and red beacons are only for emergency services."
+  },
+  {
+   "id": "m22-079",
+   "q": "You are driving a truck in a convoy in dense fog. The truck ahead is going slower than you would like. May you overtake it, as shown?",
+   "options": [
+    "Yes, if the oncoming lane is clear for 300 m",
+    "No: members of a convoy are forbidden to overtake one another",
+    "Yes, if you warn it by flashing your main-beam headlights",
+    "Yes, if you return to the convoy in front of it immediately"
+   ],
+   "answer": 1,
+   "explain": "A member of a convoy does not break its order of movement: you may not overtake other members, leave the convoy or stop on your own, except for a forced stop. The speed is set by the convoy leader or the lead vehicle. If something hinders movement, tell the leading or rear vehicle ⟦13⟧."
+  },
+  {
+   "id": "m22-080",
+   "q": "A convoy of road trains stops on the shoulder at night in a snowstorm on the leader's signal. What must be switched on on your road train during this stop?",
+   "options": [
+    "Hazard warning lights, position lamps and the “Road train” sign",
+    "Only the position lamps: hazard warning lights are not needed in a convoy",
+    "Only the “Road train” sign; the other lights are switched off",
+    "Main-beam headlights, so that the convoy can be seen from far away"
+   ],
+   "answer": 0,
+   "explain": "When a convoy stops on the road, hazard warning lights are switched on on all vehicles ⟦14⟧. At night and in poor visibility, position lamps ⟦15⟧ and the “Road train” sign ⟦16⟧ are lit during the stop. Main beam dazzles other drivers ⟦17⟧."
+  },
+  {
+   "id": "m22-081",
+   "q": "You are turning right in a tractor unit with a semi-trailer. Why can you not start the turn as early and as close to the kerb as in a passenger car?",
+   "options": [
+    "The semi-trailer wheels follow a smaller arc and will cut the corner",
+    "The tractor cab turns along a smaller arc than the semi-trailer wheels",
+    "The Rules prohibit road trains from turning from the right lane",
+    "The semi-trailer always swings into the oncoming lane on a turn"
+   ],
+   "answer": 0,
+   "explain": "In a turn the rear wheels of the tractor unit and semi-trailer follow a shorter arc than the cab and cut the corner. So enter the turn later and slightly wider, moving to the adjacent lane if necessary ⟦18⟧, and watch the inside of the turn in the right-hand mirror: a pedestrian or cyclist may be there.",
+   "ref": "para. 54; safe driving recommendation"
+  },
+  {
+   "id": "m22-083",
+   "q": "The maximum authorised mass of a truck is 7 t. Which licence category (subcategory) is enough to drive it?",
+   "options": [
+    "Category B",
+    "Subcategory C1",
+    "Only category C",
+    "Subcategory C1E"
+   ],
+   "answer": 1,
+   "explain": "Subcategory C1 covers motor cars (except buses) with a maximum authorised mass of more than 3500 kg but not more than 7500 kg. A 7 t truck falls into C1. Category C also suffices because it includes C1, but it is not required."
+  },
+  {
+   "id": "m22-084",
+   "q": "You are 19 years old, obtained subcategory C1 a year ago after an ordinary driving school and have worked as a driver since. When can you obtain category C?",
+   "options": [
+    "Now: one year of experience on C1 is enough for C",
+    "From age 23, with 3 years as a driver, including a year on D1",
+    "From age 25, with 5 years as a driver on any category",
+    "From age 21, with 3 years as a driver, including a year on C1"
+   ],
+   "answer": 3,
+   "explain": "Category C is obtained from age 21 with at least 3 years of work as a driver, including at least 1 year on vehicles of subcategory C1. You are 19, so you need to wait. Age 23 and experience on D1 are the requirements for category D."
+  },
+  {
+   "id": "m22-085",
+   "q": "You hold category C. May you drive your truck with a trailer whose maximum authorised mass is 2 t?",
+   "options": [
+    "Yes: category C allows towing a trailer of any mass",
+    "Yes, if the trailer is empty and weighs less than 750 kg",
+    "No: category C allows a trailer of up to 750 kg; you need CE",
+    "No: any trailer behind a truck needs a separate category E"
+   ],
+   "answer": 2,
+   "explain": "Category C allows towing a trailer with a maximum authorised mass of no more than 750 kg. The authorised mass of your trailer is 2 t, so you need category CE. What counts is the authorised, not the actual, mass of the trailer, so an empty body does not help."
+  },
+  {
+   "id": "m22-086",
+   "q": "You hold a category C licence. Do you need to obtain subcategory C1 separately to drive a truck with a maximum authorised mass of 6 t?",
+   "options": [
+    "No: a C licence also gives the right to C1",
+    "Yes: subcategory C1 is always taken in a separate test",
+    "No, but only if you have more than 3 years of experience",
+    "Yes, if the truck will carry people in the body"
+   ],
+   "answer": 0,
+   "explain": "A category C licence confirms the right to drive vehicles of subcategory C1 as well, just as D includes D1 and CE includes C1E. No separate C1 test is needed."
+  },
+  {
+   "id": "m22-087",
+   "q": "On what vehicle is the practical test for subcategory C1 taken?",
+   "options": [
+    "On a truck with a maximum authorised mass of more than 3500 kg",
+    "On a passenger car, as for the category B test",
+    "On a truck with a maximum authorised mass of exactly 7500 kg",
+    "On a tractor unit with a semi-trailer of any mass"
+   ],
+   "answer": 0,
+   "explain": "The practical test is taken on a vehicle of the category for which the licence is issued. For C and C1 the Examination Rules name one vehicle: a truck with a maximum authorised mass of over 3500 kg. It is taken at an automated test ground."
+  },
+  {
+   "id": "m22-088",
+   "q": "Which of these exercises do the Examination Rules provide for the practical test for category C?",
+   "options": [
+    "Figure of eight",
+    "Track plank",
+    "Slalom",
+    "Coupling to a semi-trailer"
+   ],
+   "answer": 2,
+   "explain": "For categories C and C1 the test ground zones are the same as for B: start, stopping and moving off on a hill, pedestrian crossing, 90-degree turns, slalom, U-turn and parking, parallel reversing parking, controlled intersection, level crossing, acceleration lane, emergency stop, finish. The figure of eight and the track plank are motorcycle exercises. The exact set and order of zones is set by the layout of your test ground."
+  },
+  {
+   "id": "m22-089",
+   "q": "You are driving a truck with a maximum authorised mass of 12 t outside a built-up area on a road with a central reservation (not a motorway) and pass these signs. What is the highest speed at which you may continue?",
+   "options": [
+    "90 km/h",
+    "80 km/h",
+    "70 km/h",
+    "60 km/h"
+   ],
+   "answer": 2,
+   "explain": "The upper sign “90” applies to everyone, and the lower “70” with plate 7.4.1 applies to trucks, that is, to you. Your own limit on such a road is 80 km/h, but of all the restrictions the strictest is observed: 70 km/h."
+  },
+  {
+   "id": "m22-090",
+   "q": "May you use your truck with a trailer that is not designed to travel in a combination with this vehicle?",
+   "options": [
+    "No: this is a condition under which use is prohibited",
+    "Yes, if the coupling device fits in size",
+    "Yes, if the authorised mass of the trailer is no more than 750 kg",
+    "Yes, over a short distance, without leaving the city"
+   ],
+   "answer": 0,
+   "explain": "The Basic Provisions prohibit the use of a motor vehicle with a trailer that is not designed to travel in a combination with it. That the coupling device happens to fit in size does not change this."
+  }
+ ],
+ "pack": "m22-2"
+}

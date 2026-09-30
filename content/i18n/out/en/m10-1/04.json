@@ -1,0 +1,313 @@
+{
+ "questions": [
+  {
+   "id": "m10-n014",
+   "q": "You have not managed to clear the crossing, and a train has appeared in the distance. What must you do?",
+   "options": [
+    "Get into the car and try to start the engine again",
+    "Move away from the crossing and wait",
+    "Stay by the car and flash the headlights",
+    "Run towards the train, giving the driver the stop signal"
+   ],
+   "answer": 3,
+   "explain": "When a train appears, the driver runs towards it and gives the stop signal: circular movements of the arm, by day with a bright piece of cloth or a clearly visible object, by night with a flare or a lamp."
+  },
+  {
+   "id": "m10-n015",
+   "q": "Your car is stuck on the crossing. You have got the passengers out and sent two people along the tracks. What do you do yourself?",
+   "options": [
+    "Go to the nearest house to call for help",
+    "Wait inside the car with my seat belt on",
+    "Also go off along the tracks to look for help",
+    "Stay by the car and give general alarm signals"
+   ],
+   "answer": 3,
+   "explain": "The driver stays by the car and gives general alarm signals: a series of one long and three short sound signals. When a train appears, the driver runs towards it giving the stop signal."
+  },
+  {
+   "id": "m10-n016",
+   "q": "You are driving a slow-moving tractor with a top speed of 6 km/h. May you cross this level crossing on your own?",
+   "options": [
+    "Yes, if there is no train visible in either direction",
+    "Yes, if you switch on an amber beacon",
+    "Yes, if the level crossing attendant does not object",
+    "Not without permission from the head of the track section"
+   ],
+   "answer": 3,
+   "explain": "A slow-moving vehicle stays on the tracks for a long time. That is why crossing a level crossing with a vehicle travelling at less than 8 km/h is prohibited without permission from the head of the track section."
+  },
+  {
+   "id": "m10-n017",
+   "q": "The barrier has been closed for 15 minutes already, the traffic light is off, and there is no train in sight. May you raise the barrier yourself and drive across?",
+   "options": [
+    "Yes, if there is no train visible in either direction",
+    "No: opening the barrier without authorisation is prohibited",
+    "Yes, if there is no level crossing attendant nearby",
+    "Yes, if you lower the barrier again straight after crossing"
+   ],
+   "answer": 1,
+   "explain": "Opening the barrier at a level crossing without authorisation is prohibited, and you must not enter the crossing while the barrier is closed. You must wait for it to be raised."
+  },
+  {
+   "id": "m10-n018",
+   "q": "The nearest level crossing is 3 km away, and there is a worn track leading across the rails nearby. May you cross the railway there?",
+   "options": [
+    "Yes, if there is no train visible in either direction",
+    "Yes, but only in daylight and at low speed",
+    "No: you may cross the tracks only at a level crossing",
+    "Yes, if the track is well worn and even"
+   ],
+   "answer": 2,
+   "explain": "Drivers may cross railway tracks only at a level crossing. Crossing the tracks elsewhere is prohibited: there is neither signalling nor a level surface there."
+  },
+  {
+   "id": "m10-n019",
+   "q": "You have entered the crossing and realised you turned the wrong way. May you make a U-turn right on the crossing or reverse?",
+   "options": [
+    "You may make a U-turn if there is no train in sight",
+    "You may only reverse if there is no one behind you",
+    "No: both a U-turn and reversing are prohibited here",
+    "You may do either with the hazard warning lights on"
+   ],
+   "answer": 2,
+   "explain": "Making a U-turn on level crossings is prohibited, and reversing is not allowed anywhere a U-turn is prohibited. Drive across the crossing and make your U-turn further on, at a permitted place."
+  },
+  {
+   "id": "m10-n021",
+   "q": "There is a traffic jam ahead on the motorway. May you make a U-turn through the gap in the central reservation, as shown?",
+   "options": [
+    "Yes, if the oncoming lane beyond the gap is clear",
+    "Yes, if you switch on the hazard warning lights",
+    "No: this is prohibited on a motorway",
+    "Yes, if the jam has lasted more than 15 minutes"
+   ],
+   "answer": 2,
+   "explain": "Vehicles travel fast on a motorway, and a U-turn across the flow of traffic is very dangerous. That is why both making a U-turn and entering service gaps in the central reservation are prohibited there. Wait for the nearest exit."
+  },
+  {
+   "id": "m10-n022",
+   "q": "You have driven 50 m past the exit you needed. May you go back to it by reversing along the shoulder?",
+   "options": [
+    "Yes, if you switch on the hazard warning lights",
+    "Yes, if there is no one behind you on the shoulder",
+    "Yes, if the missed exit is less than 100 m away",
+    "No: reversing on a motorway is prohibited"
+   ],
+   "answer": 3,
+   "explain": "Reversing on a motorway is prohibited, including along the shoulder. Drive on to the next exit.",
+   "scene": {
+    "labels.0.text": "exit"
+   }
+  },
+  {
+   "id": "m10-n023",
+   "q": "You are driving a truck with a maximum authorised mass of 12 t. May you travel in this lane on the motorway?",
+   "options": [
+    "Yes, if this lane is currently free of other vehicles",
+    "Yes, but only to overtake other trucks",
+    "No: you are not allowed to travel beyond the second lane",
+    "Yes, if you do not exceed 90 km/h"
+   ],
+   "answer": 2,
+   "explain": "You are travelling in the third lane. On a motorway, trucks with a maximum authorised mass over 3.5 t are prohibited from travelling beyond the second lane, even to overtake."
+  },
+  {
+   "id": "m10-n024",
+   "q": "You are driving a truck with a maximum authorised mass of 12 t. May you overtake another truck using the second lane, as shown?",
+   "options": [
+    "Yes: the ban applies only beyond the second lane",
+    "No: trucks are allowed only the far right lane",
+    "Yes, but only at a speed of no more than 60 km/h"
+   ],
+   "answer": 0,
+   "explain": "The prohibition for trucks over 3.5 t on a motorway applies to lanes beyond the second. The second lane may be used, including for overtaking."
+  },
+  {
+   "id": "m10-n025",
+   "q": "A passenger asks you to drop them off on the shoulder of the motorway so they can continue on foot. May you do this?",
+   "options": [
+    "Yes, if you switch on the hazard warning lights and put out the warning triangle",
+    "No: both that kind of stop and pedestrians are prohibited there",
+    "Yes, if they walk along the shoulder facing the oncoming traffic",
+    "Yes, if you drop them off beyond the line marking the edge of the carriageway"
+   ],
+   "answer": 1,
+   "explain": "Two prohibitions are broken here at once. Pedestrians are not allowed on a motorway, and stopping is allowed only at areas marked with sign 5.15 or 6.11."
+  },
+  {
+   "id": "m10-n026",
+   "q": "A tractor is travelling ahead of you on the motorway. Is it allowed to be there?",
+   "options": [
+    "Yes, if it keeps to the far right lane",
+    "No: tractors are prohibited from driving here",
+    "Yes, if it has an amber beacon switched on",
+    "Yes, if it travels at no less than 30 km/h"
+   ],
+   "answer": 1,
+   "explain": "Tractors, self-propelled machines, mopeds, bicycles and other vehicles that cannot travel faster than 40 km/h are prohibited on a motorway. A slow vehicle among fast-moving traffic is very dangerous."
+  },
+  {
+   "id": "m10-n027",
+   "q": "An instructor suggests that a learner practise driving at high speed on a motorway. May they do this?",
+   "options": [
+    "Yes, if the car is fitted with dual controls",
+    "Yes, during daylight hours and in dry weather",
+    "Yes, if they keep to the right-hand lane",
+    "No: learner driving is prohibited here"
+   ],
+   "answer": 3,
+   "explain": "Learner driving is prohibited on motorways, even with an instructor. The high speed of the traffic leaves a beginner no time for a mistake."
+  },
+  {
+   "id": "m10-n028",
+   "q": "You are driving on a road with sign 5.3 and have missed the turning you needed. May you make a U-turn, as shown?",
+   "options": [
+    "Yes: the road markings are broken, so crossing them is allowed",
+    "No: the prohibitions for a motorway apply here",
+    "Yes, if there are no oncoming vehicles nearby"
+   ],
+   "answer": 1,
+   "explain": "Sign 5.3 marks a road for motor vehicles. The requirements of the chapter on motorways also extend to such roads, so making a U-turn here is prohibited, whatever the road markings are."
+  },
+  {
+   "id": "m10-n029",
+   "q": "You are driving in a residential zone, and children are playing on the carriageway. What should you do?",
+   "options": [
+    "Sound the horn so the children move away",
+    "Drive around the children on the pavement, since it is clear",
+    "Drive between the children without slowing down",
+    "Slow down and let the children pass"
+   ],
+   "answer": 3,
+   "explain": "In a residential zone, pedestrians may be on the carriageway and have priority. Sounding the horn is prohibited there, and driving off the carriageway is not allowed."
+  },
+  {
+   "id": "m10-n030",
+   "q": "In a residential zone, you have stopped by the edge of the driveway and have been talking on the phone for 15 minutes without switching off your petrol engine, to keep the air conditioning running. May you do this?",
+   "options": [
+    "Yes, if none of the residents complain about the noise",
+    "Yes, if you switch on the hazard warning lights",
+    "No: parking with the engine running is prohibited here",
+    "Yes, if you do not stand for more than half an hour"
+   ],
+   "answer": 2,
+   "explain": "You have been standing for more than 5 minutes, not to pick up passengers or load goods, so this is parking. Parking with the engine running is prohibited in a residential zone; an exception is made only for electric cars."
+  },
+  {
+   "id": "m10-n031",
+   "q": "You are turning right as you leave a residential zone. Who must you give way to?",
+   "options": [
+    "Only the white car",
+    "Only the pedestrian",
+    "Both",
+    "Neither"
+   ],
+   "answer": 2,
+   "explain": "When leaving a residential zone, the driver gives way to all other road users. First let the pedestrian walking on the pavement pass, and the white car on the street.",
+   "scene": {
+    "side.0.text": "residential zone"
+   }
+  },
+  {
+   "id": "m10-n032",
+   "q": "A white car is pulling out of a yard. Which of you goes first?",
+   "options": [
+    "You",
+    "The white car",
+    "Whoever arrived first"
+   ],
+   "answer": 0,
+   "explain": "The rules for a residential zone also apply in residential courtyards. A driver leaving a yard gives way to everyone, so you go first.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m10-n033",
+   "q": "In a residential zone, the driveway is narrowed by a parked car. May you drive around it by putting your wheels on the pavement?",
+   "options": [
+    "No: driving off the carriageway is prohibited here",
+    "Yes, if there are no pedestrians on the pavement right now",
+    "Yes, if you drive on the pavement at no more than 5 km/h",
+    "Yes, if only your right-hand wheels go onto the pavement"
+   ],
+   "answer": 0,
+   "explain": "Driving vehicles off the carriageway is prohibited in a residential zone. The pavement is meant for pedestrians, even if there is no one on it right now."
+  },
+  {
+   "id": "m10-n034",
+   "q": "Which of the drivers is allowed to stop on the motorway?",
+   "options": [
+    "Only the blue car",
+    "Both",
+    "Neither",
+    "Only the red car"
+   ],
+   "answer": 3,
+   "explain": "On a motorway, you may stop only at special parking areas marked with sign 5.15 or 6.11. The red car has pulled into such an area, while the blue car has stopped on the shoulder.",
+   "scene": {
+    "side.0.text": "parking area"
+   }
+  },
+  {
+   "id": "m10-n035",
+   "q": "A truck with a maximum authorised mass of 8 t and a blue car have been standing in a residential zone for more than an hour. There are no special parking places here. Who is allowed to park like this?",
+   "options": [
+    "Only the 8 t truck",
+    "Both",
+    "Neither",
+    "Only the blue car"
+   ],
+   "answer": 3,
+   "explain": "Parking trucks with a maximum authorised mass over 3.5 t and buses outside specially designated and marked places is prohibited in a residential zone. The blue car is allowed to park by the edge."
+  },
+  {
+   "id": "m10-n036",
+   "q": "Who is allowed to park in the residential zone?",
+   "options": [
+    "Only the red car",
+    "Only the blue car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "Parking on pavements is prohibited in a residential zone, even if the car does not obstruct pedestrians. The blue car has pulled onto the pavement, while the red car is standing by the edge of the carriageway."
+  },
+  {
+   "id": "m10-n037",
+   "q": "A bus is parked at a place marked with sign 5.15, and a truck with a maximum authorised mass of 8 t is by the edge of the carriageway. Who is allowed to park in the residential zone?",
+   "options": [
+    "Only the bus",
+    "Only the truck",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "Buses and trucks over 3.5 t may park in a residential zone only at specially designated places marked with signs or road markings. The bus is at a place marked with sign 5.15, but the truck is not."
+  },
+  {
+   "id": "m10-n038",
+   "q": "A truck with a maximum authorised mass of 8 t has been unloading furniture for 15 minutes, and a bus has been standing here for an hour already. There are no special parking places. Who is this allowed to?",
+   "options": [
+    "Only the truck",
+    "Only the parked bus",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "Unloading counts as stopping, and in a residential zone only parking outside special places is prohibited for trucks. The bus has been standing for an hour, which is parking, and outside marked places this is prohibited for it."
+  },
+  {
+   "id": "m10-n039",
+   "q": "In a residential zone, two cars have been standing with their engines running for 20 minutes: an electric car and a petrol car. Who is this allowed to?",
+   "options": [
+    "Only the electric car",
+    "Only the petrol car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "Parking with the engine running is prohibited in a residential zone. An exception is made only for the electric car."
+  }
+ ]
+}

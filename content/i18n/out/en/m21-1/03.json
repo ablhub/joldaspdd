@@ -1,0 +1,285 @@
+{
+ "questions": [
+  {
+   "id": "m21-026",
+   "q": "It is a clear summer day and you are riding your motorcycle on a country road. Which lights must be on?",
+   "options": [
+    "None: a motorcycle is easily seen by day anyway",
+    "The dipped headlight or daytime running lights",
+    "Only the position lamps and the rear lamp",
+    "The hazard warning lights, so that others notice you"
+   ],
+   "answer": 1,
+   "explain": "In daylight all moving vehicles switch on dipped headlights or daytime running lights. A motorcycle is narrow, and the light helps oncoming drivers to notice it in time. Hazard warning lights are not meant for this."
+  },
+  {
+   "id": "m21-027",
+   "q": "It is night and you are riding your motorcycle along a town street with good street lighting. Which headlight beam must you use?",
+   "options": [
+    "Main beam: it is safer",
+    "Dipped beam",
+    "Only the position lamps",
+    "None: the street is lit"
+   ],
+   "answer": 1,
+   "explain": "In the dark a motorcycle must have position lamps and a main-beam or dipped headlight on. In a built-up area on a lit road you switch from main beam to dipped so as not to dazzle others."
+  },
+  {
+   "id": "m21-028",
+   "q": "You have passed this sign on your motorcycle. There are no other signs. What is the highest speed at which you may ride?",
+   "options": ["50 km/h", "60 km/h", "80 km/h", "90 km/h"],
+   "answer": 1,
+   "explain": "Sign 5.22 marks the start of a built-up area. The general limit applies to motorcycles here: no more than 60 km/h. The limit of 50 km/h in built-up areas is set for buses and trucks."
+  },
+  {
+   "id": "m21-029",
+   "q": "You have left a town on your motorcycle, as in the diagram. There is no central reservation and no speed limit signs. What is the highest speed at which you may ride?",
+   "options": ["70 km/h", "90 km/h", "100 km/h", "110 km/h"],
+   "answer": 2,
+   "explain": "Sign 5.23 marks the end of a built-up area. Outside built-up areas motorcycles are subject to the same limits as passenger cars: on a road without a central reservation, no more than 100 km/h."
+  },
+  {
+   "id": "m21-030",
+   "q": "Your motorcycle's design includes a steering damper, but it is faulty. May you use the motorcycle?",
+   "options": [
+    "You may: a damper is an optional part",
+    "You may, but only in daylight",
+    "You may, if the handlebars do not shake at speeds of up to 60 km/h",
+    "No: it is a steering defect"
+   ],
+   "answer": 3,
+   "explain": "A faulty or missing steering damper on a motorcycle, if the design provides for one, is on the List of Defects in the steering that prohibit use ⟦64⟧."
+  },
+  {
+   "id": "m21-031",
+   "q": "You are approaching this sign on a motorcycle with a 650 cm³ engine. May you continue along this road?",
+   "options": [
+    "No: motorcycles may not enter a motorway",
+    "Yes, but only in the far right lane and at no more than 60 km/h",
+    "Yes: the ban applies to mopeds and vehicles that cannot reach 40 km/h",
+    "Yes, but only without a passenger on the back seat"
+   ],
+   "answer": 2,
+   "explain": "Sign 5.1 marks a motorway. Bicycles, mopeds, tractors, self-propelled machines and vehicles whose speed is below 40 km/h may not use it. A motorcycle may, keeping to the speed given by sign 3.24 but no more than 140 km/h."
+  },
+  {
+   "id": "m21-032",
+   "q": "The red vehicle in the diagram is your moped. You are approaching this sign. May you continue along this road?",
+   "options": [
+    "Yes, but only in the far right lane",
+    "Yes, if your moped can reach 50 km/h",
+    "Yes, but only in daylight",
+    "No: mopeds may not use a motorway"
+   ],
+   "answer": 3,
+   "explain": "It is prohibited to drive bicycles, mopeds, tractors and vehicles whose speed is below 40 km/h on motorways. For a moped the ban applies regardless of its speed."
+  },
+  {
+   "id": "m21-033",
+   "q": "You want to cut through a street on your motorcycle that has this sign in front of it. You neither live nor work on this street. May you enter?",
+   "options": [
+    "No: the sign prohibits motorcycles and mopeds",
+    "Yes: sign 3.5 prohibits only mopeds",
+    "Yes, if you ride at no more than 20 km/h",
+    "Yes, but only in daylight"
+   ],
+   "answer": 0,
+   "explain": "Sign 3.5, the “No motorcycles” sign, prohibits both motorcycles and mopeds. The exception is vehicles that serve businesses in this zone or belong to citizens who live or work there. You are not one of them."
+  },
+  {
+   "id": "m21-034",
+   "q": "There is this sign at the entrance to a street. You are returning home on your motorcycle: you live on this street. May you enter?",
+   "options": [
+    "No: sign 3.5 prohibits motorcycles from entering, with no exceptions",
+    "Yes: the sign does not apply to vehicles of people who live or work here",
+    "Yes, but only in the dark, when the street is empty",
+    "Only with written permission from the police"
+   ],
+   "answer": 1,
+   "explain": "Signs 3.2-3.8, including 3.5, do not apply to vehicles that belong to citizens living or working in the marked zone, or that serve them. You may enter."
+  },
+  {
+   "id": "m21-035",
+   "q": "You have got off your motorcycle, switched off the engine and are wheeling it beside you. What are you considered to be under the Rules?",
+   "options": ["A driver", "A pedestrian", "A passenger", "A cyclist"],
+   "answer": 1,
+   "explain": "People who wheel a bicycle, e-scooter, moped or motorcycle are treated as pedestrians. So you may wheel a motorcycle along the pavement to the entrance: the ban applies to riding on pavements, not to pedestrians."
+  },
+  {
+   "id": "m21-036",
+   "q": "The right lane is for route vehicles and it is clear. May you move into it on your motorcycle and carry on?",
+   "options": [
+    "Yes: a motorcycle is narrow and does not hinder buses in this lane",
+    "Yes, if you return to your own lane before the next intersection",
+    "No: only public transport and category M3 vehicles use it",
+    "Yes, if you ride in it at no more than 40 km/h"
+   ],
+   "answer": 2,
+   "explain": "The lane is marked with sign 5.9 and the letter “A”. Only public transport and category M3 vehicles use it. A motorcycle may neither drive nor stop in it."
+  },
+  {
+   "id": "m21-037",
+   "q": "You need to let a passenger off at the right edge. The right lane is for route vehicles and is separated by a broken line. May you enter it and stop to let the passenger off?",
+   "options": [
+    "Yes: at a broken line you may enter such a lane for boarding and alighting",
+    "Yes, if there are no buses or trolleybuses nearby",
+    "Yes, if you switch on the hazard warning lights",
+    "No: only public transport and M3 vehicles may stop in it"
+   ],
+   "answer": 3,
+   "explain": "After the amendments made by Ministry of Internal Affairs Order No. 305 of 27.04.2026, para. 126 no longer allows you to enter such a lane across a broken line for boarding and alighting. Only public transport and category M3 vehicles may drive and stop in it.",
+   "ref": "para. 126 (Ministry of Internal Affairs Order No. 305 of 27.04.2026)"
+  },
+  {
+   "id": "m21-039",
+   "q": "An intersection of roads of equal status. On your motorcycle you are turning left from tram tracks running in the same direction. A tram is coming straight ahead from the opposite direction. Who goes first?",
+   "options": [
+    "You: you are already on the tracks",
+    "Whoever arrived first",
+    "The tram",
+    "You, if you signalled the turn in advance"
+   ],
+   "answer": 2,
+   "explain": "When turning left from tram tracks, the driver gives way to the tram. Also, at an intersection of roads of equal status a tram has priority over trackless vehicles, whatever the direction of travel."
+  },
+  {
+   "id": "m21-040",
+   "q": "There is a traffic jam: cars are standing in both rows. May you ride forward on your motorcycle between the rows along the marking line?",
+   "options": [
+    "Yes: motorcycles are expressly allowed to",
+    "Yes, if you ride at no more than 20 km/h",
+    "Yes, if you switch on the hazard warning lights",
+    "No: you must keep strictly to the marked lanes"
+   ],
+   "answer": 3,
+   "explain": "If the carriageway is divided into lanes by markings, you drive strictly within the lanes, and you cross broken lines only when changing lanes. Also, between the rows there is no safe lateral clearance: an opened door or a neighbour changing lanes will cause a crash."
+  },
+  {
+   "id": "m21-041",
+   "q": "There is a traffic jam outside the town. May you drive round the standing cars on the right-hand shoulder on your motorcycle?",
+   "options": [
+    "Yes, a motorcycle may use the shoulder",
+    "Yes, if you ride at no more than 20 km/h",
+    "Yes, if you switch on the hazard warning lights",
+    "No: vehicles are prohibited from driving on shoulders"
+   ],
+   "answer": 3,
+   "explain": "Driving vehicles on shoulders, pavements and footpaths is prohibited, except in special cases such as work by road services. A traffic jam is not one of them. Also, a pedestrian or an opened door may appear on the shoulder."
+  },
+  {
+   "id": "m21-042",
+   "q": "You are riding your motorcycle outside a town in the left lane, although the right one is free. Is this correct?",
+   "options": [
+    "No: keep out of the left lane when the right one is free",
+    "Yes: a motorcycle may use any lane if it does not hinder others",
+    "Yes, if your speed is above 90 km/h",
+    "Yes, this is allowed in daylight"
+   ],
+   "answer": 0,
+   "explain": "Outside built-up areas drivers keep closer to the right edge of the carriageway and do not occupy the left lanes if the right ones are free. The left lane is needed for overtaking and turning left."
+  },
+  {
+   "id": "m21-043",
+   "q": "You hold only a category “B” licence. You rode a motorcycle with a 600 cm³ engine, and a police officer stopped you. What fine does the CAO provide?",
+   "options": [
+    "5 MCI (21 625 tenge)",
+    "50 MCI (216 250 tenge)",
+    "20 MCI (86 500 tenge)",
+    "None: category “B” gives the right to ride a motorcycle"
+   ],
+   "answer": 2,
+   "explain": "A motorcycle with a 600 cm³ engine is category “A”, and you do not have it. Driving a vehicle without the right to drive the relevant category is punishable by a fine of 20 MCI ⟦65⟧."
+  },
+  {
+   "id": "m21-046",
+   "q": "The green car behind you has started to overtake you. On your motorcycle you want to accelerate so as not to let it get ahead. Is this allowed?",
+   "options": [
+    "Yes, if you do not exceed the permitted speed on that section",
+    "Yes: a motorcycle is faster and the overtaking will fail anyway",
+    "Yes, if you sound the horn in advance",
+    "No: you must not hinder overtaking, even by accelerating"
+   ],
+   "answer": 3,
+   "explain": "When you are being overtaken, you must not accelerate or hinder the overtaking: the overtaking driver may get stuck in the oncoming lane. Keep to your lane and let him complete the manoeuvre."
+  },
+  {
+   "id": "m21-047",
+   "q": "A car has stopped in the adjacent lane in front of an uncontrolled pedestrian crossing. Your lane is clear. May you ride through the crossing on your motorcycle without slowing down?",
+   "options": [
+    "No: first make sure there are no pedestrians in front of that car",
+    "Yes: your lane is clear and there are no pedestrians in front of you",
+    "Yes, if you sound the horn and keep to the right edge",
+    "Yes, if your speed is no more than 40 km/h"
+   ],
+   "answer": 0,
+   "explain": "The car may have stopped to let a pedestrian cross whom you cannot see because of it. So you may continue only after making sure there are no pedestrians in front of it."
+  },
+  {
+   "id": "m21-049",
+   "q": "A motorcycle with a sidecar is towing another motorcycle with a sidecar on a flexible tow rope. There is no black ice, and a driver is sitting on the towed motorcycle. Is the ban on towing motorcycles breached?",
+   "options": [
+    "Yes: motorcycles may never be towed",
+    "Yes: a motorcycle with a sidecar may be towed only with a rigid tow bar",
+    "No: the ban applies to motorcycles without a sidecar",
+    "Yes: towing is allowed only with a moped"
+   ],
+   "answer": 2,
+   "explain": "Towing with a motorcycle without a sidecar, and towing such a motorcycle, are prohibited. For motorcycles with a sidecar there is no such ban, but the other towing rules still apply, for example a speed of no more than 50 km/h."
+  },
+  {
+   "id": "m21-050",
+   "q": "The red vehicle in the diagram is your moped, and it has stalled. A friend on the green moped offers to tow you home on a rope. Is this allowed?",
+   "options": [
+    "Yes, if the rope is short, no longer than 2 m",
+    "Yes, if both drivers wear fastened helmets and ride slowly",
+    "No: it is prohibited to tow mopeds or to tow with mopeds",
+    "Yes, but only in daylight"
+   ],
+   "answer": 2,
+   "explain": "Since 5 April 2025 the Rules expressly prohibit towing mopeds and towing with a moped. There is one exception: a trailer designed for use with a moped."
+  },
+  {
+   "id": "m21-054",
+   "q": "The red vehicle in the diagram is your moped, travelling at no more than 40 km/h. You are going straight ahead. Which path must you follow?",
+   "options": ["Path A", "Path B", "Either path", "Neither path"],
+   "answer": 0,
+   "explain": "Vehicles travelling at no more than 40 km/h keep to the far right lane. They move further left only to drive around an obstacle, to overtake, to turn left, to make a U-turn or to stop on the left, and you are simply going straight ahead."
+  },
+  {
+   "id": "m21-055",
+   "q": "You are riding your motorcycle in the right lane and want to turn left at the intersection, as the arrow shows. May you do so?",
+   "options": [
+    "No: first move in good time to the far left position",
+    "Yes: a motorcycle is narrow and may turn left from any lane",
+    "Yes, if there are no cars on the left at that moment",
+    "Yes, if you switch on the left indicator in advance"
+   ],
+   "answer": 0,
+   "explain": "Before turning left, the driver must move in good time to the far left position in the lane for that direction. Turning from the right lane crosses the path of those in the left lane."
+  },
+  {
+   "id": "m21-056",
+   "q": "The direction indicators on your motorcycle have stopped working. How do you give a hand signal for a right turn?",
+   "options": [
+    "Extend the left arm to the side, or the right arm bent upward at the elbow",
+    "Extend the right arm to the side, or the left arm bent upward at the elbow",
+    "Raise the right arm and hold it until the turn",
+    "Extend the left arm forward, bent downward at the elbow"
+   ],
+   "answer": 1,
+   "explain": "If the direction indicators are missing or faulty, the signal is given by hand. For a right turn: the right arm out to the side, or the left arm out to the side and bent upward at the elbow. A raised arm means braking."
+  },
+  {
+   "id": "m21-058",
+   "q": "A truck ahead has switched on its right indicator and is beginning to turn. May you pass it on the right on your motorcycle while it turns?",
+   "options": [
+    "Yes: there is enough room to the right of the truck for a motorcycle",
+    "Yes, if you sound the horn in advance",
+    "Yes, if the truck is turning slowly",
+    "No: on the right you may overtake only a vehicle that is turning left"
+   ],
+   "answer": 3,
+   "explain": "Overtaking on the right is allowed only if the driver ahead has signalled a left turn and started the manoeuvre. When turning right, the truck will take the space to its right, and you will be in its blind spot."
+  }
+ ]
+}

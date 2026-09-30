@@ -1,0 +1,187 @@
+{
+ "questions": [
+  {
+   "id": "m06-n056",
+   "q": "Sign 5.8.1 “Lane directions” is installed before the intersection. May you go straight through this intersection on the tram tracks for the same direction?",
+   "options": [
+    "Yes, if all the lanes in your direction are occupied",
+    "Yes, if there is no tram and you impede no one",
+    "No, with this sign it is prohibited",
+    "Yes, but only at up to 20 km/h"
+   ],
+   "answer": 2,
+   "explain": "If signs 5.8.1 or 5.8.2 are installed on the road, driving through the intersection on the tram tracks is prohibited, even when the lanes are occupied ⟦41⟧. Choose your lane according to the sign."
+  },
+  {
+   "id": "m06-n057",
+   "q": "The road is divided into three lanes by broken lines. A driver is driving with a marking line running under the middle of the car, as this makes it easier to change lanes if necessary. Is this correct?",
+   "options": [
+    "Yes: you are allowed to cross broken lines at any moment",
+    "No: you may drive onto the line only to change lanes",
+    "Yes, if the adjacent lane is free right now",
+    "No, but only outside built-up areas"
+   ],
+   "answer": 1,
+   "explain": "Such a driver occupies two lanes at once and gets in the way of traffic in both. If the carriageway is divided into lanes by marking lines, you must drive strictly within the lanes, and driving onto broken lines is allowed only when changing lanes ⟦42⟧."
+  },
+  {
+   "id": "m06-n058",
+   "q": "You have turned onto a road with reversible traffic and taken the extreme right lane. When may you change to a lane further left?",
+   "options": [
+    "Right after the turn, if the adjacent lane on the left is free",
+    "Only 100 m after the intersection",
+    "Once you are sure traffic in your direction may use other lanes",
+    "Not until the very end of the road section with reversible traffic"
+   ],
+   "answer": 2,
+   "explain": "On reversible lanes the direction of traffic can change. So after turning onto such a road, a driver may change lanes only after making sure that traffic in their direction is also allowed in the other lanes ⟦43⟧."
+  },
+  {
+   "id": "m06-n059",
+   "q": "You are delivering goods to a shop whose entrance is directly off the pavement, and there is no other access. May you drive to the entrance along the pavement?",
+   "options": [
+    "No, driving on pavements is always prohibited",
+    "Yes, but only at night",
+    "Yes, if you sound the horn",
+    "Yes, by the shortest route and ensuring safety"
+   ],
+   "answer": 3,
+   "explain": "The Rules allow vehicles delivering goods to premises located by shoulders, pavements or footpaths to approach them by the shortest route if there is no other way to get there. Traffic safety must be ensured ⟦44⟧.",
+   "scene": {
+    "labels.0.text": "shop"
+   }
+  },
+  {
+   "id": "m06-n060",
+   "q": "In a town, to get around a traffic jam, a driver drove across a lawn between the buildings. Did the driver break the Rules?",
+   "options": [
+    "Yes: this is not allowed in built-up areas",
+    "No, if there were no pedestrians near the lawn",
+    "No: a lawn is neither a pavement nor a shoulder",
+    "Yes, but only if there is a prohibitory sign there"
+   ],
+   "answer": 0,
+   "explain": "Besides driving on shoulders, pavements and footpaths, driving off the carriageway is also prohibited in built-up areas ⟦45⟧. A lawn is not part of the carriageway."
+  },
+  {
+   "id": "m06-n061",
+   "q": "A road maintenance vehicle with its amber beacon on is driving slowly along the shoulder. Is its driver breaking the Rules?",
+   "options": [
+    "Yes: driving on shoulders is prohibited for everyone without exception",
+    "No: road maintenance and utility services are allowed to do this",
+    "Yes, if no “Road works” sign is installed nearby",
+    "No, but only during the hours of darkness"
+   ],
+   "answer": 1,
+   "explain": "Driving on shoulders is prohibited, but an exception is made for vehicles of road maintenance and public utility services. Safety must still be ensured ⟦46⟧."
+  },
+  {
+   "id": "m06-n062",
+   "q": "There is a traffic island in the middle of the carriageway of a two-way road without a central reservation. There are no signs or markings showing which side of it to drive on. How should you drive around it?",
+   "options": [
+    "On the right",
+    "On the left",
+    "On either side",
+    "On the side with less traffic"
+   ],
+   "answer": 0,
+   "explain": "Driving around it on the left would take you onto the oncoming side. Traffic islands, bollards and bridge supports in the middle of the carriageway of a two-way road without a central reservation are driven around on the right, unless signs and markings require otherwise ⟦47⟧."
+  },
+  {
+   "id": "m06-n063",
+   "q": "Your direction indicators are not working. Which hand signal by the driver means a manoeuvre to the left?",
+   "options": [
+    "Left arm extended to the side and bent upwards at the elbow",
+    "Arm raised upwards",
+    "Right arm extended to the side",
+    "Left arm extended to the side"
+   ],
+   "answer": 3,
+   "explain": "A manoeuvre to the left is signalled with the left arm extended to the side, or with the right arm extended to the side and bent upwards at the elbow at a right angle. The left arm bent upwards means a manoeuvre to the right, and a raised arm means braking ⟦48⟧."
+  },
+  {
+   "id": "m06-n064",
+   "q": "Which hand signal means braking?",
+   "options": [
+    "Left arm extended downwards",
+    "Right arm bent upwards at the elbow",
+    "Arm raised upwards",
+    "Left arm extended to the side"
+   ],
+   "answer": 2,
+   "explain": "The braking signal is given with the brake lights or with an arm raised upwards ⟦49⟧. The right arm bent upwards means a manoeuvre to the left, and so does the left arm extended to the side."
+  },
+  {
+   "id": "m06-n065",
+   "q": "You are signalling a turn by hand. When may you stop giving this signal?",
+   "options": [
+    "Only immediately after the manoeuvre is fully completed",
+    "Immediately before making the manoeuvre",
+    "5 seconds after starting the turn",
+    "When the manoeuvre is half completed"
+   ],
+   "answer": 1,
+   "explain": "During a turn, your hands are needed on the steering wheel. So a hand signal may be ended immediately before making the manoeuvre, while a signal with the direction indicator is stopped immediately after the manoeuvre ⟦50⟧."
+  },
+  {
+   "id": "m06-n066",
+   "q": "Which of these actions do the Rules also classify as manoeuvring, along with turning and changing lanes?",
+   "options": [
+    "Braking",
+    "Sounding the horn",
+    "Going straight through an intersection without stopping",
+    "Driving in a lane at a constant speed"
+   ],
+   "answer": 0,
+   "explain": "Manoeuvring means moving off after stopping (parking), stopping, turning (making a U-turn), changing lanes, braking and reversing ⟦51⟧. Sounding the horn and driving at a constant speed are not manoeuvres."
+  },
+  {
+   "id": "m06-n067",
+   "q": "Before turning, a driver takes up the appropriate extreme position on the carriageway in advance. In which case do the Rules not require this?",
+   "options": [
+    "When turning right at a controlled intersection",
+    "When turning left from a one-way road",
+    "When turning on an empty road during the hours of darkness",
+    "When turning as you enter a roundabout"
+   ],
+   "answer": 3,
+   "explain": "The requirement to take up the extreme position in advance does not apply to a turn made when entering a roundabout ⟦52⟧. In all other cases, including on a one-way road, you must take up this position."
+  },
+  {
+   "id": "m06-n068",
+   "q": "How must a turn be made?",
+   "options": [
+    "Along the shortest route, cutting the corner across the oncoming lane",
+    "So as to take the least busy lane immediately after the turn",
+    "So as not to end up on the oncoming side on leaving the intersection",
+    "Crossing onto the oncoming side if there are no vehicles there"
+   ],
+   "answer": 2,
+   "explain": "A turn is made so that the vehicle does not end up on the side intended for oncoming traffic when leaving the intersection of carriageways, and it is made into the lane corresponding to the one the vehicle occupied ⟦53⟧. You may not cut the corner across the oncoming lane or pick a “less busy” lane."
+  },
+  {
+   "id": "m06-n069",
+   "q": "The paths of two vehicles cross, and the Rules do not determine who goes first. Who gives way?",
+   "options": [
+    "The one with a vehicle approaching from the right",
+    "The one with a vehicle approaching from the left",
+    "The one who started their manoeuvre later than the other",
+    "The one whose vehicle is smaller in size"
+   ],
+   "answer": 0,
+   "explain": "If paths cross and the Rules do not determine who goes first, the driver who has a vehicle approaching from the right gives way ⟦54⟧. This is the “priority to the right” rule."
+  },
+  {
+   "id": "m06-n070",
+   "q": "A wide road has no markings or signs that define traffic lanes. How is the number of lanes determined?",
+   "options": [
+    "It is assumed that there is only one lane in each direction",
+    "As many lanes as vehicles that fit side by side with no gaps",
+    "By drivers, based on road width, vehicle dimensions and clearances",
+    "It is decided by a police officer who arrives at the scene"
+   ],
+   "answer": 2,
+   "explain": "The number of lanes is determined by road markings or signs 5.8.1, 5.8.2, 5.8.7, 5.8.8, and if there are none, by the drivers themselves, taking into account the width of the carriageway, the dimensions of the vehicles and the necessary clearance between them ⟦55⟧."
+  }
+ ]
+}

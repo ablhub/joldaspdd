@@ -1,0 +1,288 @@
+{
+ "questions": [
+  {
+   "id": "m13-01",
+   "q": "You are about to tow a friend's car on a rope 9 metres long. What should you do?",
+   "options": [
+    "You can drive: a long rope is safer than a short one",
+    "Shorten the rope so that there is 4-6 m between the vehicles",
+    "Shorten the rope to 2 m so that the vehicle does not swerve",
+    "You can drive if you switch on the hazard warning lights"
+   ],
+   "answer": 1,
+   "explain": "When towing on a tow rope, the distance between the towing and towed vehicles must be within 4-6 m. On a rigid tow bar, it must be no more than 4 m.",
+   "scene": {
+    "labels.0.text": "tow rope"
+   }
+  },
+  {
+   "id": "m13-02",
+   "q": "May you tow a passenger car on a tow rope if there is no one at its wheel?",
+   "options": [
+    "Yes, if you drive at a speed of no more than 50 km/h",
+    "Yes, if the distance between the vehicles is no more than 4 metres",
+    "No, there must be a driver at the wheel of the towed vehicle"
+   ],
+   "answer": 2,
+   "explain": "Towing on a tow rope or a rigid tow bar is allowed only when there is a driver at the wheel of the towed vehicle. Without a driver, it is allowed only on a special rigid tow bar that keeps the vehicle on the towing vehicle's path."
+  },
+  {
+   "id": "m13-03",
+   "q": "You are towing a truck on a rigid tow bar. Which statement is correct?",
+   "options": [
+    "Passengers are not allowed in the load body of the towed truck",
+    "Passengers may ride in the load body if the sides are closed",
+    "A driver is never needed in the towed truck on a rigid tow bar",
+    "Passengers may ride in the load body if the speed is no more than 50 km/h"
+   ],
+   "answer": 0,
+   "explain": "When towing on a tow rope or a rigid tow bar, passengers are not allowed in a towed bus (trolleybus) or in the load body of a towed truck. A driver is needed at the wheel of the towed vehicle, except when the design of the rigid tow bar keeps the vehicle exactly on the towing vehicle's path ⟦47⟧."
+  },
+  {
+   "id": "m13-04",
+   "q": "There is black ice outside. You only have a tow rope. May you use it to tow a broken-down car?",
+   "options": [
+    "Yes, if you drive no faster than 30 km/h",
+    "Yes, if the rope is no longer than 4 metres",
+    "Yes, if both vehicles have their hazard warning lights switched on",
+    "No: towing on a rope is prohibited in black ice conditions"
+   ],
+   "answer": 3,
+   "explain": "Towing on a tow rope is prohibited in black ice conditions. In such conditions, you may use a rigid tow bar or partial lifting.",
+   "scene": {
+    "labels.0.text": "tow rope"
+   }
+  },
+  {
+   "id": "m13-05",
+   "q": "The steering of a car has failed. How may it be towed?",
+   "options": [
+    "On a tow rope with a driver at the wheel",
+    "On a rigid tow bar no more than 4 m long",
+    "Only by raising the front or by partial lifting",
+    "By any method, if the speed does not exceed 50 km/h"
+   ],
+   "answer": 2,
+   "explain": "It is prohibited to tow a vehicle with non-functioning steering. Only towing by raising the front or by partial lifting is allowed."
+  },
+  {
+   "id": "m13-06",
+   "q": "The brakes are not working on a passenger car with an actual mass of 1500 kg. It is to be towed by another passenger car with an actual mass of 1800 kg. How can this be done?",
+   "options": [
+    "On a tow rope",
+    "It cannot be done; such towing is prohibited",
+    "On a rigid tow bar",
+    "On any coupling, if you drive no faster than 50 km/h"
+   ],
+   "answer": 1,
+   "explain": "Half of 1800 kg is 900 kg, and the towed vehicle weighs 1500 kg. Towing a vehicle with a non-functioning braking system is prohibited if its actual mass is more than half the actual mass of the towing vehicle. If the mass is less, only a rigid tow bar or partial lifting is allowed."
+  },
+  {
+   "id": "m13-07",
+   "q": "You are about to tow a friend's broken-down car on a rope. An acquaintance of yours who has no driving licence wants to sit at its wheel. May you drive like this?",
+   "options": [
+    "Yes: the engine of the towed car is not running",
+    "No: the towed vehicle needs a licensed driver",
+    "Yes, if the speed does not exceed 50 km/h",
+    "Yes, if he only steers and brakes"
+   ],
+   "answer": 1,
+   "explain": "When towing on a rope, there must be a driver at the wheel of the towed vehicle ⟦48⟧, that is, a person who is driving it ⟦49⟧. You may not drive a vehicle without a driving licence ⟦50⟧, and handing over control to such a person is also prohibited ⟦51⟧.",
+   "scene": {
+    "labels.0.text": "tow rope"
+   }
+  },
+  {
+   "id": "m13-08",
+   "q": "Your car is being towed on a rope. Its hazard warning lights are not working. What should be done?",
+   "options": [
+    "Nothing: hazard warning lights are needed only on the towing vehicle",
+    "Switch on the main-beam headlights",
+    "Switch on the rear fog lamp",
+    "Fix a warning triangle to the rear"
+   ],
+   "answer": 3,
+   "explain": "The towed motor vehicle has its hazard warning lights switched on ⟦52⟧. If it has none, or they are faulty, a warning triangle is fixed to the rear of the towed vehicle."
+  },
+  {
+   "id": "m13-09",
+   "q": "Your friend, an experienced driver with a category B licence, offers to teach you to drive using his car on city streets. Is this allowed?",
+   "options": [
+    "Yes, if your friend has more than 3 years of driving experience and there are no passengers in the car",
+    "Yes, if you put the “Learner vehicle” sign on the car",
+    "No: only a driving instructor may teach on the road",
+    "Yes, if you only drive on streets with light traffic"
+   ],
+   "answer": 2,
+   "explain": "The instructor must have a qualification certificate and a licence of the required category ⟦53⟧. Training on public roads takes place only along routes agreed with the authorised body, and in the presence of a driving instructor ⟦54⟧."
+  },
+  {
+   "id": "m13-10",
+   "q": "Learner driving is taking place in the city, with a driving instructor next to you. An acquaintance asks for a lift on your way. May you take him in the car?",
+   "options": [
+    "No, learner driving allows no passengers",
+    "Yes, if he sits in the back seat of the car",
+    "Yes, if he already has a driving licence"
+   ],
+   "answer": 0,
+   "explain": "Learner driving on the roads is allowed only with an instructor present, once the learner has basic skills, and with no passengers in the vehicle."
+  },
+  {
+   "id": "m13-n001",
+   "q": "What methods of towing motor vehicles do the Rules provide for?",
+   "options": [
+    "Only on a rope or a rigid bar, with a driver",
+    "On a coupling, by raising the front, or by partial lifting",
+    "Only on a rigid tow bar and on a recovery truck's platform",
+    "By any method the towed vehicle can withstand"
+   ],
+   "answer": 1,
+   "explain": "Towing is carried out using a coupling (flexible or rigid), or by raising the front part of the vehicle on a special support device of the towing vehicle, or by partial lifting onto its platform ⟦55⟧."
+  },
+  {
+   "id": "m13-n002",
+   "q": "What does towing by the method of partial lifting mean?",
+   "options": [
+    "The towed vehicle is partly loaded onto the towing vehicle's platform",
+    "The towed vehicle is fully loaded into the load body of a truck",
+    "The towed vehicle is partly unloaded to make it lighter",
+    "Towing two vehicles at once on one coupling"
+   ],
+   "answer": 0,
+   "explain": "With partial lifting, the towed vehicle is partly loaded onto the platform of the towing vehicle. A similar method is raising the front part on a special support device of the towing vehicle ⟦56⟧."
+  },
+  {
+   "id": "m13-n003",
+   "q": "In which case may a car be towed on a rigid tow bar without a driver at the wheel?",
+   "options": [
+    "If the towing speed is no more than 20 km/h",
+    "If the towed car is lighter than the towing car",
+    "In no case: a driver is always needed",
+    "If the tow bar keeps it on the towing vehicle's path"
+   ],
+   "answer": 3,
+   "explain": "Towing on a rigid tow bar or a tow rope is done only with a driver at the wheel of the towed vehicle. There is one exception: the design of the rigid tow bar ensures that the towed vehicle follows the towing vehicle's path when driving in a straight line ⟦57⟧."
+  },
+  {
+   "id": "m13-n004",
+   "q": "Your car is being towed on a rigid tow bar, and the distance between the vehicles is 5 m. Is this allowed?",
+   "options": [
+    "Yes: on a rigid tow bar, 4 to 6 m is allowed",
+    "Yes, if the speed is no more than 50 km/h",
+    "No: on a rigid tow bar the distance must be no more than 4 m",
+    "No: on a rigid tow bar the distance must be at least 6 m"
+   ],
+   "answer": 2,
+   "explain": "Here there are 5 m between the vehicles. On a rigid tow bar, the distance between the towing and towed vehicles must be no more than 4 m, while 4-6 m is the norm for a tow rope ⟦58⟧.",
+   "scene": {
+    "labels.0.text": "tow bar"
+   }
+  },
+  {
+   "id": "m13-n005",
+   "q": "Your car is being towed on a rope, and the distance between the vehicles is about 3 m. Is this allowed?",
+   "options": [
+    "Yes: the shorter the rope, the safer the towing",
+    "Yes, if the rope is marked with flags or panels",
+    "Yes, if the towing speed is no more than 30 km/h",
+    "No: on a tow rope you need 4 to 6 m"
+   ],
+   "answer": 3,
+   "explain": "On a rope at 3 m, the driver of the towed vehicle will not have time to react if the towing vehicle brakes sharply. On a tow rope, the distance between the vehicles must be within 4-6 m ⟦59⟧.",
+   "scene": {
+    "labels.0.text": "tow rope"
+   }
+  },
+  {
+   "id": "m13-n006",
+   "q": "According to the Basic Provisions, how is the flexible connecting link (rope) marked when towing?",
+   "options": [
+    "With at least two red-and-white flags or panels",
+    "With one red flag fixed in the middle of the rope",
+    "With yellow reflective tape along the whole length of the rope",
+    "Not at all: the hazard warning lights on the vehicle are enough"
+   ],
+   "answer": 0,
+   "explain": "Warning devices for flexible connecting links are flags or panels measuring 200 × 200 mm, with alternating red and white diagonal stripes 50 mm wide and a retroreflective surface. At least two such devices are fitted to the flexible link (Basic Provisions, para. 12)."
+  },
+  {
+   "id": "m13-n007",
+   "q": "A broken-down bus is being towed on a rigid tow bar. May passengers stay inside it?",
+   "options": [
+    "Yes, if the towing speed is no more than 50 km/h",
+    "No: passengers are not allowed in a towed bus",
+    "Yes, if there are no more than eight of them",
+    "Yes, if there is a driver at the wheel of the bus"
+   ],
+   "answer": 1,
+   "explain": "When towing on a tow rope or a rigid tow bar, passengers are not allowed in a towed bus (trolleybus) or in the load body of a towed truck ⟦60⟧. A driver is still needed at the wheel of the bus ⟦61⟧."
+  },
+  {
+   "id": "m13-n008",
+   "q": "A broken-down truck is being towed by the method of partial lifting. May a passenger ride in the cab of this truck?",
+   "options": [
+    "Yes, if he is wearing a seat belt",
+    "Yes, if the towing speed is no more than 30 km/h",
+    "No: riding in the cab of a towed vehicle is prohibited",
+    "Yes, but only during daylight hours"
+   ],
+   "answer": 2,
+   "explain": "The towed truck stands at an angle on the platform, and it is dangerous to be in the cab. When towing by raising the front or by partial lifting, passengers are not allowed in the cab or load body of the towed vehicle, or in the load body of the towing vehicle ⟦62⟧."
+  },
+  {
+   "id": "m13-n009",
+   "q": "Where are passengers not allowed to be when towing by raising the front or by partial lifting?",
+   "options": [
+    "Only inside or in the cab of the towing vehicle",
+    "In the towed vehicle and the towing vehicle's load body",
+    "Only in the load body of the towed truck",
+    "Nowhere, if the towing speed is no more than 50 km/h"
+   ],
+   "answer": 1,
+   "explain": "When raising the front or using partial lifting, passengers are not allowed in the cab or load body of the towed vehicle, or in the load body of the towing vehicle ⟦63⟧. Riding in the cab of the towing vehicle is allowed."
+  },
+  {
+   "id": "m13-n010",
+   "q": "A truck is towing two cars at once on ropes, as shown in the diagram. Is this allowed?",
+   "options": [
+    "Yes, if each rope is 4-6 m long",
+    "Yes, if the speed is no more than 30 km/h",
+    "Yes, if there is a driver at the wheel of each car",
+    "No: towing two or more vehicles at once is prohibited"
+   ],
+   "answer": 3,
+   "explain": "In the diagram, the truck is pulling a blue car, and that car is pulling yours. Towing two or more vehicles is prohibited ⟦64⟧: such a “train” is hard to steer and brake.",
+   "scene": {
+    "labels.0.text": "tow rope",
+    "labels.1.text": "tow rope"
+   }
+  },
+  {
+   "id": "m13-n011",
+   "q": "The brakes are not working on your car, which has an actual mass of 1200 kg. You will be towed by a truck with an actual mass of 4000 kg. How can this be done?",
+   "options": [
+    "Only on a rigid tow bar or by the method of partial lifting",
+    "By any method, including on a rope",
+    "It cannot be done: towing with faulty brakes is not allowed",
+    "Only on a rope 4-6 m long"
+   ],
+   "answer": 0,
+   "explain": "Half the mass of the truck is 2000 kg, and your car weighs 1200 kg, that is, less. In that case, towing a vehicle with a non-functioning braking system is allowed, but only on a rigid tow bar or by the method of partial lifting ⟦65⟧."
+  },
+  {
+   "id": "m13-n012",
+   "q": "You are riding a motorcycle without a sidecar, and another motorcycle like it is about to tow you on a rope. Is this allowed?",
+   "options": [
+    "Yes, if the rope is 4 to 6 m long",
+    "Yes, if you use a rigid tow bar",
+    "No: such towing is prohibited",
+    "Yes, if both riders are wearing helmets"
+   ],
+   "answer": 2,
+   "explain": "A two-wheeled motorcycle easily loses balance when a rope jerks it. That is why towing by a motorcycle without a sidecar, and towing of such a motorcycle, is prohibited ⟦66⟧.",
+   "scene": {
+    "labels.0.text": "tow rope"
+   }
+  }
+ ]
+}

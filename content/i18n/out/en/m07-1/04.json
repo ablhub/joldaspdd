@@ -1,0 +1,244 @@
+{
+ "questions": [
+  {
+   "id": "m07-n029",
+   "q": "You are driving a car in town and have passed a sign and then an exit from a yard on the right, as shown in the diagram. There were no intersections. What is the maximum speed you may drive at now?",
+   "options": [
+    "40 km/h",
+    "60 km/h",
+    "50 km/h",
+    "20 km/h"
+   ],
+   "answer": 0,
+   "explain": "The zone of sign 3.24 extends to the nearest intersection. An exit from a yard (from an adjacent area) does not count as an intersection, so the 40 km/h limit still applies."
+  },
+  {
+   "id": "m07-n030",
+   "q": "You are driving a car in town and have passed a sign and then an intersection, as shown in the diagram. There were no other signs. What is the maximum speed you may drive at now?",
+   "options": [
+    "40 km/h",
+    "60 km/h",
+    "50 km/h",
+    "20 km/h"
+   ],
+   "answer": 1,
+   "explain": "The zone of sign 3.24 ends at the nearest intersection beyond it. After the intersection, the general limit for a car in a built-up area applies again: 60 km/h."
+  },
+  {
+   "id": "m07-n031",
+   "q": "You are driving a car on an out-of-town road without a central reservation and have passed the signs shown in the diagram. What is the maximum speed you may drive at now?",
+   "options": [
+    "100 km/h",
+    "70 km/h",
+    "90 km/h",
+    "110 km/h"
+   ],
+   "answer": 0,
+   "explain": "Sign 3.31 “End of all restrictions” also cancels the speed limit set by sign 3.24. Beyond it, the general limit for a car on such an out-of-town road applies: 100 km/h."
+  },
+  {
+   "id": "m07-n032",
+   "q": "You are driving a car outside a built-up area on the road shown in the diagram: two lanes in each direction, with opposing traffic separated by a double solid line. There are no signs. What is your limit?",
+   "options": [
+    "110 km/h",
+    "100 km/h",
+    "90 km/h",
+    "140 km/h"
+   ],
+   "answer": 1,
+   "explain": "A central reservation is a structurally separate element of the road (a lawn, kerb or barrier), not a marking line. A road with a double solid line counts as an “other” road: for a car, no more than 100 km/h."
+  },
+  {
+   "id": "m07-n033",
+   "q": "You are driving a car outside a built-up area on the road shown in the diagram: a lawn separates the opposing carriageways. It is not a motorway, and there are no signs. What is your limit?",
+   "options": [
+    "110 km/h",
+    "100 km/h",
+    "90 km/h",
+    "140 km/h"
+   ],
+   "answer": 0,
+   "explain": "A lawn between carriageways is a central reservation. On out-of-town roads with a central reservation, a car may travel at no more than 110 km/h; up to 140 km/h is allowed only on a motorway."
+  },
+  {
+   "id": "m07-n034",
+   "q": "There is thick fog, and you can see the road for about 50 m. A sign on the out-of-town highway allows 90 km/h. How should you choose your speed?",
+   "options": [
+    "Drive at 90 km/h: the sign allows it, so fog does not matter",
+    "Drive no slower than 70 km/h so as not to hold others up",
+    "Switch on the hazard warning lights and carry on at 90 km/h",
+    "So that you can stop within the distance you can see"
+   ],
+   "answer": 3,
+   "explain": "The number on the sign is only an upper limit. The driver must choose a speed that takes account of road and weather conditions, above all visibility, so as to keep constant control of the vehicle and be able to stop in time."
+  },
+  {
+   "id": "m07-n035",
+   "q": "You are driving along a street. A child has run out from behind parked cars to the edge of the carriageway, as shown in the diagram. What must you do?",
+   "options": [
+    "Carry on: the child is not in your lane yet",
+    "Sound the horn and keep the same speed",
+    "Reduce speed, even to a stop",
+    "Swerve into the oncoming lane without slowing down"
+   ],
+   "answer": 2,
+   "explain": "A child at the edge of the road is a hazard that you can see. In this case, the driver must take measures to reduce speed, even to a stop, or drive around the obstacle in a way that is safe for others."
+  },
+  {
+   "id": "m07-n036",
+   "q": "A blue car is driving right on your tail. May you brake sharply to “teach” its driver a lesson?",
+   "options": [
+    "Yes, they are the ones not keeping a safe distance",
+    "Yes, if you switch on the hazard warning lights first",
+    "No, sharp braking is allowed only to prevent a crash",
+    "Yes, but only outside a built-up area"
+   ],
+   "answer": 2,
+   "explain": "Paragraph 76 prohibits sharp braking unless it is required to prevent a road traffic accident: the driver behind may not be able to stop in time. It is safer to slow down smoothly or let them pass."
+  },
+  {
+   "id": "m07-n037",
+   "q": "A blue car is driving close behind you, and a child suddenly runs out onto the road in front of you, as shown in the diagram. May you brake sharply?",
+   "options": [
+    "Yes, sharp braking is allowed to prevent a crash",
+    "No, the car behind is driving too close",
+    "Only if you switch on the hazard warning lights in advance",
+    "No, you must drive around the child in the oncoming lane"
+   ],
+   "answer": 0,
+   "explain": "Sharp braking is prohibited only when it is not needed to prevent a road traffic accident. Here it saves the child, and it is the driver behind who must keep a following distance that allows a collision to be avoided."
+  },
+  {
+   "id": "m07-n038",
+   "q": "For no reason at all, a driver is doing 40 km/h on a clear out-of-town highway where 100 km/h is allowed, and a queue of vehicles has built up behind. Which prohibition in para. 76 is the driver breaking?",
+   "options": [
+    "The ban on exceeding the maximum speed here",
+    "The ban on unnecessary sharp braking",
+    "The ban on impeding other road users",
+    "None: you may always drive slowly anywhere"
+   ],
+   "answer": 2,
+   "explain": "Paragraph 76 prohibits drivers from impeding other road users. You may drive below the limit, but not in a way that holds up the traffic flow without need."
+  },
+  {
+   "id": "m07-n039",
+   "q": "How do the speed limits outside built-up areas differ for a car with a trailer and for a car towing a broken-down vehicle?",
+   "options": [
+    "With a trailer - up to 90/80/70 km/h, when towing - up to 50 km/h",
+    "With a trailer - up to 110/100/90 km/h, when towing - up to 60 km/h",
+    "With a trailer - up to 70/60/50 km/h, when towing - up to 40 km/h",
+    "The same with a trailer and when towing - up to 90/80/70 km/h"
+   ],
+   "answer": 0,
+   "explain": "Outside built-up areas, a car with a trailer follows the limits of 90 / 80 / 70 km/h (motorway / road with a central reservation / other roads). Towing a motor vehicle is a separate case: no more than 50 km/h on any road."
+  },
+  {
+   "id": "m07-n040",
+   "q": "An intercity bus and a bus carrying an organised group of children are travelling on an out-of-town road without a central reservation. What are their speed limits?",
+   "options": [
+    "Both - 90 km/h",
+    "Intercity - 100 km/h, with children - 80 km/h",
+    "Both - 70 km/h",
+    "Intercity - 90 km/h, with children - 70 km/h"
+   ],
+   "answer": 3,
+   "explain": "Intercity buses are allowed up to 90 km/h on “other” out-of-town roads. Buses carrying organised groups of children belong to the “other buses” group, so for them the limit is 70 km/h."
+  },
+  {
+   "id": "m07-n041",
+   "q": "For which of these vehicles do the limits of 90 / 80 / 70 km/h (motorway / road with a central reservation / other roads) apply outside built-up areas?",
+   "options": [
+    "A passenger car without a trailer",
+    "An intercity bus",
+    "A truck with a maximum authorised mass of 3 t",
+    "A truck with a maximum authorised mass of 8 t"
+   ],
+   "answer": 3,
+   "explain": "The limits of 90 / 80 / 70 km/h are set for trucks heavier than 3.5 t, cars with a trailer and buses other than intercity buses. Cars without a trailer: up to 140 (as shown on the sign) / 110 / 100; intercity buses and trucks up to 3.5 t: 110 / 100 / 90."
+  },
+  {
+   "id": "m07-n042",
+   "q": "You are driving a car along a wide city avenue and have passed the sign shown in the diagram. What is the maximum speed you may drive at?",
+   "options": [
+    "80 km/h",
+    "60 km/h",
+    "90 km/h",
+    "70 km/h"
+   ],
+   "answer": 0,
+   "explain": "In built-up areas the general limit is 60 km/h, but signs may set a special speed regime of no more than 90 km/h. Here the sign sets a limit of 80 km/h."
+  },
+  {
+   "id": "m07-n043",
+   "q": "You are driving a car and have passed this sign. How does it affect the speed limit?",
+   "options": [
+    "It does not: the limit for a car stays at 100 km/h",
+    "Motorway: as shown on sign 3.24, but up to 140 km/h",
+    "Road with a central reservation: no more than 110 km/h",
+    "End of all restrictions: speed is not limited"
+   ],
+   "answer": 1,
+   "explain": "Sign 5.1 marks the entry to a motorway. On it, passenger cars and motorcycles travel no faster than the speed shown on sign 3.24, but no more than 140 km/h. A central reservation on its own does not make a road a motorway."
+  },
+  {
+   "id": "m07-n044",
+   "q": "Under the Rules, what speed must a driver choose?",
+   "options": [
+    "Within the limit, allowing for road, weather and visibility",
+    "Always exactly the one shown on the nearest sign 3.24",
+    "Any speed within the sign's limit if there are no cameras",
+    "At least 60 km/h outside built-up areas, so as not to impede"
+   ],
+   "answer": 0,
+   "explain": "Your speed must not exceed the set limit and must take into account traffic density, the features and condition of the vehicle and its load, and road and weather conditions, in particular visibility. It must allow you to keep constant control of the vehicle."
+  },
+  {
+   "id": "m07-n045",
+   "q": "Two trucks are travelling on an out-of-town road with a central reservation: one with a maximum authorised mass of 3.5 t and one of 3.6 t. What are their speed limits?",
+   "options": [
+    "Both - 100 km/h",
+    "3.5 t - 110 km/h, 3.6 t - 90 km/h",
+    "Both - 80 km/h",
+    "3.5 t - 100 km/h, 3.6 t - 80 km/h"
+   ],
+   "answer": 3,
+   "explain": "The boundary between the groups is 3.5 t inclusive. A truck with a mass of no more than 3.5 t is allowed 100 km/h on a road with a central reservation, while a truck heavier than 3.5 t is allowed only 80 km/h."
+  },
+  {
+   "id": "m07-n046",
+   "q": "In a car, you passed a “40” sign in a village. There were no intersections after it, and then you passed the sign marking the end of the village, as shown in the diagram. What is the maximum speed you may drive at now?",
+   "options": [
+    "40 km/h",
+    "60 km/h",
+    "90 km/h",
+    "100 km/h"
+   ],
+   "answer": 3,
+   "explain": "In a built-up area with no intersections, the zone of sign 3.24 extends to the end of the built-up area. It ended at sign 5.23, and a car on an out-of-town road without a central reservation is allowed up to 100 km/h."
+  },
+  {
+   "id": "m07-n047",
+   "q": "Your bus displays a “Speed limit” identification sign with the number 60. You are driving on a motorway and have passed the signs shown in the diagram. What is the maximum speed you may drive at?",
+   "options": [
+    "110 km/h",
+    "90 km/h",
+    "60 km/h",
+    "70 km/h"
+   ],
+   "answer": 2,
+   "explain": "Exceeding the speed shown on your vehicle's “Speed limit” identification sign is prohibited. This is your own limit, even if a road sign allows more."
+  },
+  {
+   "id": "m07-n048",
+   "q": "You are driving a car in town. Under the “40” sign there was a “Zone of application” plate showing 200 m, as shown in the diagram. You have driven 300 m from the sign, and there were no intersections. What is the maximum speed you may drive at now?",
+   "options": [
+    "40 km/h",
+    "60 km/h",
+    "50 km/h",
+    "20 km/h"
+   ],
+   "answer": 1,
+   "explain": "Plate 7.2.1 “Zone of application” shortened the zone of sign 3.24 to 200 m. You have already driven 300 m, so the 40 km/h limit has ended. The general limit for a car in a built-up area applies: 60 km/h."
+  }
+ ]
+}

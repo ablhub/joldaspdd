@@ -1,0 +1,243 @@
+{
+ "questions": [
+  {
+   "id": "m15-01",
+   "q": "From what age may a cyclist ride at the right-hand edge of the carriageway?",
+   "options": [
+    "From the age of 12",
+    "From the age of 16",
+    "From the age of 14",
+    "From the age of 18"
+   ],
+   "answer": 2,
+   "explain": "Cyclists who have not yet turned 14 must not ride at the right-hand edge of the carriageway, in a lane for route vehicles, or on the shoulder."
+  },
+  {
+   "id": "m15-02",
+   "q": "September 2026. There is no cycle track nearby. A teenager on an e-scooter is riding slowly on the pavement, at about 5 km/h. Is he breaking the rules?",
+   "options": [
+    "No: you may ride on the pavement if your speed is no more than 6 km/h",
+    "Yes: from 25.08.2026, pavements are prohibited for e-scooters",
+    "No, if he has a fastened helmet and a reflector",
+    "Yes, but only if pedestrians are walking on the pavement nearby"
+   ],
+   "answer": 1,
+   "explain": "Law of the Republic of Kazakhstan No. 326-VIII of 24.06.2026 removed from art. 57 of the Road Traffic Act the permission to ride an e-scooter on the pavement at up to 6 km/h. From 25 August 2026, pavements and footpaths are closed to e-scooters, even though para. 168-1 of the Rules still contains this permission: the Act takes precedence.",
+   "ref": "Road Traffic Act, art. 57(5) (as amended by Law No. 326-VIII); para. 168-1"
+  },
+  {
+   "id": "m15-03",
+   "q": "There is no cycle track or cycle lane. Which of these e-scooter riders may ride at the right-hand edge of the carriageway?",
+   "options": [
+    "A 25-year-old with a category B licence, helmet fastened",
+    "A 16-year-old with no licence, wearing a fastened helmet",
+    "A 30-year-old rider with a category B licence, but no helmet",
+    "A 17-year-old with no licence, but wearing a reflective vest"
+   ],
+   "answer": 0,
+   "explain": "You may ride an e-scooter at the right-hand edge of the carriageway only from the age of 18 and if you hold a driving licence of any category ⟦52⟧. On the carriageway, the helmet must be fastened ⟦53⟧."
+  },
+  {
+   "id": "m15-04",
+   "q": "You are riding a moped. A cycle track with sign 4.5 runs alongside the road. May you ride on it so as not to get in the way of vehicles?",
+   "options": [
+    "Yes, if you ride no faster than 20 km/h and give way to cyclists",
+    "Yes, if the moped has an electric engine",
+    "Yes, but only during daylight hours and wearing a helmet",
+    "No: mopeds are forbidden to ride on a cycle track"
+   ],
+   "answer": 3,
+   "explain": "Sign 4.5 permits only bicycles, e-scooters and small electric vehicles, and mopeds are not on that list. The Road Traffic Act (art. 57(4)) expressly forbids mopeds to use cycle tracks, cycle lanes, shoulders, pavements or footpaths."
+  },
+  {
+   "id": "m15-05",
+   "q": "You need to set down a passenger at the right-hand edge. On the right there is a cycle lane with sign 4.5 and plate 7.14, separated by a broken line. May you move into it to set the passenger down?",
+   "options": [
+    "No: stopping on a cycle lane is always prohibited",
+    "Yes: this is allowed for picking up and setting down passengers",
+    "Yes, but only during the hours of darkness, when there are no cyclists",
+    "No: you may move into it only before turning right"
+   ],
+   "answer": 1,
+   "explain": "Stopping on a cycle lane is normally prohibited ⟦54⟧. But if a lane with sign 4.5 and plate 7.14 is separated by a broken line, para. 166 allows you to move into it to turn, to enter the road, or to pick up or set down passengers at the right-hand edge. You must give way to any cyclists on the lane while doing so ⟦55⟧."
+  },
+  {
+   "id": "m15-06",
+   "q": "A cyclist is riding at the right-hand edge of a street that has two lanes in his direction, with no tram traffic. He needs to turn left. What should he do?",
+   "options": [
+    "Dismount and cross the road on a crossing, wheeling the bicycle",
+    "Change into the left-hand lane and turn left, giving a hand signal",
+    "Turn left directly from the right-hand edge, giving way to oncoming traffic",
+    "Ride across the pedestrian crossing without getting off the bicycle"
+   ],
+   "answer": 0,
+   "explain": "On roads with more than one lane for travel in a given direction, cyclists are forbidden to turn left or make a U-turn ⟦56⟧. To get to the left, a cyclist dismounts and crosses the road on a pedestrian crossing, wheeling the bicycle, that is, now as a pedestrian."
+  },
+  {
+   "id": "m15-07",
+   "q": "A driver with a mobility disability, in a vehicle displaying the “Person with a disability” sign, wants to leave it on the pavement in town, in the zone of a sign prohibiting stopping. Under what condition is this allowed?",
+   "options": [
+    "The vehicle stands with two wheels on the pavement, leaving pedestrians 1 m",
+    "The vehicle is entirely on the pavement, leaving pedestrians at least 0.5 m",
+    "The vehicle is at the edge of the carriageway with the hazard warning lights on",
+    "The vehicle is entirely on the pavement, leaving pedestrians at least 1.5 m"
+   ],
+   "answer": 3,
+   "explain": "In a built-up area, such a driver may stop and leave the vehicle in the zone of signs prohibiting stopping or parking, if it stands entirely on the pavement and a clear strip at least 1.5 m wide is left for pedestrians. Where markings prohibit stopping, this rule does not apply."
+  },
+  {
+   "id": "m15-08",
+   "q": "In heavy fog, a convoy of 9 vehicles is being formed without an escort of emergency and special service vehicles. How should it be organised?",
+   "options": [
+    "All 9 vehicles travel as one group, closely following one another",
+    "Divide it into groups of 3 vehicles with a following distance of no more than 10 m",
+    "Divide it into groups of up to 5 vehicles, with a distance for overtaking",
+    "Travel in two rows, so the convoy is shorter and more visible"
+   ],
+   "answer": 2,
+   "explain": "A convoy without an escort of emergency and special service vehicles is divided into groups of no more than 5 vehicles. The distance between groups must allow other vehicles to overtake them."
+  },
+  {
+   "id": "m15-09",
+   "q": "A convoy in poor visibility stops right on the road. What must every member of it do?",
+   "options": [
+    "Switch off all lights, so as not to dazzle oncoming drivers",
+    "Switch on the hazard warning lights",
+    "Get out and put out a warning triangle",
+    "Switch on the main-beam headlights"
+   ],
+   "answer": 1,
+   "explain": "When a convoy stops on the road, the hazard warning lights are switched on in all vehicles."
+  },
+  {
+   "id": "m15-10",
+   "q": "You are travelling in a convoy in a blizzard. The vehicle ahead of you is going too slowly, and you feel the convoy is falling behind. What is correct?",
+   "options": [
+    "Overtake it and take a place closer to the lead vehicle",
+    "Leave the convoy and continue on your own, but carefully",
+    "Stay in your place and inform the lead vehicle of the problem",
+    "Keep sounding your horn so the driver ahead speeds up"
+   ],
+   "answer": 2,
+   "explain": "In a convoy, you must not overtake other members or leave the convoy ⟦57⟧. Speed is set by the convoy commander or the lead vehicle ⟦58⟧, and members inform the lead vehicle or the rear vehicle of any circumstances hindering progress ⟦59⟧."
+  },
+  {
+   "id": "m15-n001",
+   "q": "There is no cycle track on the street. Riding slowly on the pavement, without impeding pedestrians, are a cyclist on a blue bicycle and a rider on a green e-scooter. Which of them is breaking the rules?",
+   "options": [
+    "Only the e-scooter rider",
+    "Only the cyclist",
+    "Both the cyclist and the e-scooter rider",
+    "Neither the cyclist nor the e-scooter rider"
+   ],
+   "answer": 0,
+   "explain": "If there is no cycle track, a cyclist may ride on the pavement, provided this does not endanger pedestrians ⟦60⟧. For e-scooters, this permission was withdrawn from 25.08.2026 (Law No. 326-VIII): they are left with the cycle track, the cycle lane, the right-hand edge of the carriageway, or the shoulder.",
+   "ref": "para. 166; Road Traffic Act, art. 57(5) (as amended by Law No. 326-VIII)"
+  },
+  {
+   "id": "m15-n002",
+   "q": "There is no cycle track or cycle lane. Ahead, at the right-hand edge of the carriageway, a 17-year-old is riding an e-scooter, with the helmet fastened. He has no driving licence. Is he breaking the rules?",
+   "options": [
+    "No: he has the helmet fastened and is riding at the right-hand edge",
+    "No, if his speed is no more than 25 km/h",
+    "Yes, but only during the hours of darkness without a reflector",
+    "Yes: on the carriageway, only from the age of 18 and with a driving licence"
+   ],
+   "answer": 3,
+   "explain": "You may ride an e-scooter at the right-hand edge of the carriageway and in a lane for route vehicles only from the age of 18 and if you hold a driving licence of any category. Either way, you need to keep a safe lateral clearance."
+  },
+  {
+   "id": "m15-n003",
+   "q": "An adult e-scooter rider with a category B driving licence is riding at the right-hand edge of the carriageway. He is wearing a helmet, but the strap is not fastened. Is he breaking the rules?",
+   "options": [
+    "Yes: on the carriageway, the helmet must be fastened",
+    "No: the helmet is on, and fastening it is not required",
+    "No, if he rides no faster than 25 km/h and in daylight",
+    "Yes, but only if he is riding during the hours of darkness"
+   ],
+   "answer": 0,
+   "explain": "Riders of e-scooters and bicycles are forbidden to ride on the carriageway without the helmet fastened. An unfastened helmet will come off at the first impact."
+  },
+  {
+   "id": "m15-n004",
+   "q": "You have ridden up to an intersection on a bicycle. Along which path may you continue?",
+   "options": [
+    "Only along A",
+    "Only along B",
+    "Along either",
+    "Along neither"
+   ],
+   "answer": 1,
+   "explain": "There is tram traffic on this road, and on roads with tram traffic a cyclist must not turn left or make a U-turn. Riding straight ahead (B) is allowed. To get to the left, dismount and cross the road on a crossing, wheeling the bicycle."
+  },
+  {
+   "id": "m15-n005",
+   "q": "You have ridden up to an intersection on a bicycle. Along which path may you continue?",
+   "options": [
+    "Only along A",
+    "Only along B",
+    "Along either",
+    "Along neither"
+   ],
+   "answer": 2,
+   "explain": "Here there is one lane in each direction and no tram tracks, so a left turn is not forbidden for a cyclist. When turning, like any driver, he gives way to those he is required to give way to."
+  },
+  {
+   "id": "m15-n006",
+   "q": "A cycle track crosses a road away from an intersection, and there is no traffic light. Who goes first?",
+   "options": [
+    "The cyclist, then you",
+    "You, then the cyclist",
+    "Whoever arrived first"
+   ],
+   "answer": 1,
+   "explain": "At an uncontrolled crossing of a cycle track with a road away from an intersection, the cyclist gives way to vehicles on that road. But if he moves out onto it anyway, your task is to avoid hitting him."
+  },
+  {
+   "id": "m15-n007",
+   "q": "You are riding a bicycle along a cycle track towards a road. There is no intersection and no traffic light. Who goes first?",
+   "options": [
+    "You, then the blue car",
+    "Whoever arrived first",
+    "The blue car, then you"
+   ],
+   "answer": 2,
+   "explain": "At an uncontrolled crossing of a cycle track with a road away from an intersection, the cyclist gives way to vehicles travelling on that road. Give way to the blue car."
+  },
+  {
+   "id": "m15-n008",
+   "q": "A cycle track runs alongside the road on the right. You are turning right. Who goes first?",
+   "options": [
+    "The cyclist, then you",
+    "You, then the cyclist",
+    "Whoever arrived first"
+   ],
+   "answer": 0,
+   "explain": "When turning right or left, a driver gives way to cyclists who are using a cycle track to cross the road that the driver is turning into. The green cyclist is riding straight along the track, so he goes first."
+  },
+  {
+   "id": "m15-n009",
+   "q": "The right-hand lane is a cycle lane (sign 4.5 with plate 7.14), separated by a broken line. There are no cyclists on it. Both drivers are turning right. Which of them is doing so correctly?",
+   "options": [
+    "Only the red car",
+    "Both",
+    "Neither",
+    "Only the blue car"
+   ],
+   "answer": 3,
+   "explain": "If a cycle lane is separated by a broken line, vehicles change into it before turning. The blue car did this, while the red car is turning from the second lane, crossing the cycle lane right at the turn."
+  },
+  {
+   "id": "m15-n010",
+   "q": "You want to move into the cycle lane (sign 4.5 with plate 7.14, broken line) and stay there for 3-4 minutes while you check your route on your phone. May you?",
+   "options": [
+    "Yes: up to 5 minutes counts as stopping, not parking",
+    "Yes, if you switch on the hazard warning lights",
+    "Yes, if there are currently no cyclists at all on the lane",
+    "No: standing on a cycle lane is prohibited"
+   ],
+   "answer": 3,
+   "explain": "On a cycle lane with sign 4.5 and plate 7.14, other vehicles must not drive or stop. Where the line is broken, you may move into it only to turn, to enter the road, or to pick up or set down passengers, and you must not simply stand on it."
+  }
+ ]
+}

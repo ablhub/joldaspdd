@@ -1,0 +1,212 @@
+{
+ "questions": [
+  {
+   "id": "m08-n050",
+   "q": "The white car ahead has stopped with its left direction indicator on and is waiting for oncoming vehicles to pass. You cannot drive around it on the right within the lane: there is not enough width. May you drive around it on the right-hand shoulder?",
+   "options": [
+    "No: driving on shoulders is prohibited; you must wait",
+    "Yes: a vehicle turning left is overtaken on the right",
+    "Yes, if you switch on your right direction indicator",
+    "Yes, if the shoulder has an asphalt surface"
+   ],
+   "answer": 0,
+   "explain": "A vehicle that has signalled a left turn and started the manoeuvre is overtaken on the right, but on the carriageway. Driving on the shoulders is prohibited, so if there is not enough room in the lane, you must wait."
+  },
+  {
+   "id": "m08-n051",
+   "q": "You have driven past the signs shown in the diagram. A truck is moving slowly ahead, and the oncoming lane is clear. May you overtake it?",
+   "options": [
+    "No: the “No overtaking” sign still applies",
+    "Yes: sign 3.21 marks the end of the no-overtaking zone",
+    "Yes, but only if the truck is travelling slower than 30 km/h",
+    "No, not until the nearest intersection"
+   ],
+   "answer": 1,
+   "explain": "Sign 3.21 “End of no-overtaking zone” cancels sign 3.20. From there on, you may overtake, following the other rules."
+  },
+  {
+   "id": "m08-n052",
+   "q": "You are driving in the zone of the “No overtaking” sign. Which of the signs shown cancels this prohibition?",
+   "options": [
+    "A",
+    "B",
+    "C"
+   ],
+   "answer": 1,
+   "explain": "Sign 3.31 “End of all restrictions” (B) ends the zone of several signs at once, including 3.20. Sign 3.25 (A) cancels only the speed limit, and 3.23 (C) only the no-overtaking rule for trucks.",
+   "scene": {
+    "labels.0.text": "A",
+    "labels.1.text": "B",
+    "labels.2.text": "C"
+   }
+  },
+  {
+   "id": "m08-n053",
+   "q": "A broken-down car is standing in your lane. The oncoming green car is still far away. May you drive around the obstruction now, as shown by the arrow?",
+   "options": [
+    "No: the obstruction is on your side, so you must wait until the oncoming car has passed",
+    "Yes, but only after sounding the horn",
+    "No: driving around an obstruction via the oncoming lane is always prohibited",
+    "Yes, if this will not force the oncoming driver to change speed or direction"
+   ],
+   "answer": 3,
+   "explain": "Giving way means not making a manoeuvre if it would force a road user who has priority to change direction or speed. If the oncoming car is far away and driving around the obstruction will not impede it, you may do so."
+  },
+  {
+   "id": "m08-n054",
+   "q": "The driver of the white car ahead has switched on the right direction indicator to turn into a yard. Does this prohibit you from overtaking it on the left?",
+   "options": [
+    "Yes: you must not overtake a vehicle with any indicator on",
+    "Yes, if the yard is less than 100 m away",
+    "No: the prohibition concerns only a left-turn signal",
+    "No, but you may only overtake it on the right"
+   ],
+   "answer": 2,
+   "explain": "Before overtaking, you must make sure that the driver ahead has not signalled a manoeuvre to the left. A right indicator does not in itself prohibit overtaking on the left, but the lane must be clear and you must not impede that driver’s manoeuvre."
+  },
+  {
+   "id": "m08-n055",
+   "q": "You are approaching a controlled intersection, and the light is green. May you overtake a slow white car in the left lane of your direction, as shown by the arrow, without moving onto the oncoming side of the road?",
+   "options": [
+    "No: overtaking is always prohibited at controlled intersections",
+    "Yes: only overtaking via the oncoming lane is prohibited",
+    "Yes, but only if the car ahead is stationary",
+    "No: you may overtake only up to the stop line"
+   ],
+   "answer": 1,
+   "explain": "At controlled intersections, the Rules prohibit overtaking that involves moving into the oncoming lane, while overtaking in a lane of your own direction is not prohibited by this provision. But at an intersection you must not pass vehicles that block your view, such as a bus ⟦15⟧."
+  },
+  {
+   "id": "m08-n056",
+   "q": "Where must the driver of a slow-moving or oversized vehicle that is difficult to overtake let the vehicles queuing behind pass?",
+   "options": [
+    "Outside built-up areas",
+    "Only on motorways",
+    "Only in built-up areas",
+    "Only on roads with a central reservation"
+   ],
+   "answer": 0,
+   "explain": "The rule in para. 82 concerns driving outside built-up areas: there, the driver of a slow-moving or oversized vehicle moves as far to the right as possible and, if necessary, stops to let the vehicles queuing behind pass."
+  },
+  {
+   "id": "m08-n057",
+   "q": "You are driving a truck with a maximum authorised mass of more than 3.5 t. Whom are you allowed to overtake in the zone of this sign?",
+   "options": [
+    "No one",
+    "Only passenger cars",
+    "Single vehicles travelling slower than 30 km/h",
+    "Any vehicle, if the oncoming lane is clear"
+   ],
+   "answer": 2,
+   "explain": "Sign 3.22 “No overtaking by trucks” prohibits trucks with a maximum authorised mass of more than 3.5 t from overtaking all vehicles except single vehicles travelling at less than 30 km/h."
+  },
+  {
+   "id": "m08-n058",
+   "q": "You are driving a tractor in the zone of this sign. Whom are you allowed to overtake?",
+   "options": [
+    "Any vehicles travelling slower than 30 km/h",
+    "No one",
+    "Only motorcycles",
+    "Only horse-drawn carts and bicycles"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.22 applies not only to trucks over 3.5 t: in its zone, tractors are prohibited from overtaking all vehicles except horse-drawn carts and bicycles."
+  },
+  {
+   "id": "m08-n059",
+   "q": "Which of these is NOT an obstruction to traffic under the Rules?",
+   "options": [
+    "A broken-down car standing in the lane",
+    "A tree that has fallen into the lane",
+    "A traffic jam (tailback) in the lane",
+    "A concrete block lying in the lane"
+   ],
+   "answer": 2,
+   "explain": "An obstruction is a stationary object in a lane that prevents you from continuing along that lane. A traffic jam and a vehicle that has stopped in the lane as required by the Rules (for example, in a queue) do not count as obstructions."
+  },
+  {
+   "id": "m08-n060",
+   "q": "You are driving on a minor road. At which intersection do the Rules not prohibit you from overtaking?",
+   "options": [
+    "At any uncontrolled intersection",
+    "At a roundabout",
+    "At a controlled intersection, by moving into the oncoming lane",
+    "Overtaking at intersections is always prohibited"
+   ],
+   "answer": 1,
+   "explain": "When you are driving on a minor road, overtaking at an uncontrolled intersection is prohibited, but there are exceptions: roundabouts, overtaking two-wheeled vehicles without a sidecar, and permitted overtaking on the right."
+  },
+  {
+   "id": "m08-n061",
+   "q": "You are driving in the right lane faster than a blue car moving in the left lane in the same direction, and you do not change lanes. What is this manoeuvre called?",
+   "options": [
+    "Overtaking",
+    "Driving around an obstruction",
+    "Changing lanes",
+    "Passing"
+   ],
+   "answer": 3,
+   "explain": "Passing means moving faster than vehicles in the adjacent lane going in the same direction. Overtaking always involves leaving your lane and returning to it, and driving in a lane faster than the adjacent one does not count as overtaking."
+  },
+  {
+   "id": "m08-n063",
+   "q": "When is the view of the road considered restricted under the Rules?",
+   "options": [
+    "When the road ahead is visible for less than 100 m",
+    "When the road is visible for less than 300 m in fog or rain",
+    "Only during the hours of darkness on an unlit road",
+    "When sign 1.11.1 “Dangerous bend to the right” stands before the section"
+   ],
+   "answer": 0,
+   "explain": "A restricted view means the road is visible for less than 100 m in the direction of travel because of terrain, bends in the road, vegetation, buildings or other objects, including vehicles. Visibility of less than 300 m in fog, rain, snowfall or at twilight is called poor visibility."
+  },
+  {
+   "id": "m08-n064",
+   "q": "Outside a built-up area, how may you warn the driver ahead of your intention to overtake?",
+   "options": [
+    "By briefly switching on the hazard warning lights",
+    "By switching on the right direction indicator",
+    "With the horn or by flashing the headlights",
+    "You may not: the Rules prohibit signals when overtaking"
+   ],
+   "answer": 2,
+   "explain": "Outside built-up areas, you may use the horn to warn of your intention to overtake. The light signal for this is repeatedly switching the headlights on and off for short periods in daytime, and repeatedly switching from dipped to main-beam headlights at night."
+  },
+  {
+   "id": "m08-n066",
+   "q": "Which of the following do the Rules NOT require you to check before starting to overtake?",
+   "options": [
+    "That the lane for overtaking is clear for a sufficient distance",
+    "That no one behind you in your lane has started overtaking",
+    "That the vehicle being overtaken has its dipped headlights on",
+    "That after overtaking you can return to your lane without impeding the vehicle overtaken"
+   ],
+   "answer": 2,
+   "explain": "Before overtaking, you must make sure that the lane is clear for a sufficient distance, no one behind has started overtaking, the driver ahead has not signalled a left turn, and you will be able to return safely. The headlights of the vehicle being overtaken are not on this list."
+  },
+  {
+   "id": "m08-n067",
+   "q": "You are driving a truck with a maximum authorised mass of 10 t and have driven past this sign. What does it mean for you?",
+   "options": [
+    "End of the zone where overtaking by trucks is prohibited",
+    "Start of the zone where overtaking by trucks is prohibited",
+    "End of the speed limit zone for trucks",
+    "Prohibition of truck traffic"
+   ],
+   "answer": 0,
+   "explain": "Sign 3.23 ends the zone of sign 3.22 “No overtaking by trucks”. After it, a truck may overtake again, following the general rules."
+  },
+  {
+   "id": "m08-n068",
+   "q": "You are driving around a car that has broken down and is standing in your lane, as shown in the diagram. Is this manoeuvre overtaking?",
+   "options": [
+    "Yes: any driving in the oncoming lane is overtaking",
+    "No: this is driving around a stationary obstruction",
+    "Yes, if the manoeuvre crosses a broken line",
+    "No, this is passing"
+   ],
+   "answer": 1,
+   "explain": "Overtaking is passing a moving vehicle ahead by leaving your lane. The broken-down car is stationary and prevents you from driving along the lane: it is an obstruction, and you are driving around it."
+  }
+ ]
+}

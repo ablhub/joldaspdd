@@ -1,0 +1,220 @@
+{
+ "questions": [
+  {
+   "id": "m03-n005",
+   "q": "To your left, a white car has stopped before an uncontrolled crossing. What must you do?",
+   "options": [
+    "Carry on: your lane before the crossing is clear",
+    "Drive over the crossing after slowing to about 20 km/h",
+    "Sound the horn and drive on without changing lanes",
+    "Stop to let the pedestrian heading for your lane cross"
+   ],
+   "answer": 3,
+   "explain": "The white car has stopped to let a pedestrian cross and is hiding them from you. You may drive on only after making sure there are no pedestrians in front of it. Here the pedestrian is walking towards your lane, so you must stop."
+  },
+  {
+   "id": "m03-n006",
+   "q": "You are waiting before a controlled crossing, and your light has just turned green. A pedestrian in the adjacent lane has not yet finished crossing. What should you do?",
+   "options": [
+    "Move off: the pedestrian is not in your lane",
+    "Sound the horn and move off on green",
+    "Let the pedestrian finish crossing",
+    "Move off slowly, driving around behind the pedestrian"
+   ],
+   "answer": 2,
+   "explain": "A green signal does not cancel your duty to give way to pedestrians who are finishing crossing the carriageway for your direction. The pedestrian is walking towards your lane, so you must not move off yet."
+  },
+  {
+   "id": "m03-n007",
+   "q": "There is a traffic jam right beyond an uncontrolled crossing, and there are no pedestrians on the crossing. May you drive onto the crossing and wait there?",
+   "options": [
+    "Yes: there are no pedestrians, and you are not impeding anyone",
+    "Yes, if you switch on your hazard warning lights",
+    "No: you must wait before the crossing",
+    "Yes, if you stay there for no more than a minute"
+   ],
+   "answer": 2,
+   "explain": "There is no room beyond the crossing: the blue car is standing almost at the zebra crossing. The ban on driving onto a crossing when there is a traffic jam beyond it also applies when no pedestrians are in sight. A car standing on the crossing will block it for people who arrive later."
+  },
+  {
+   "id": "m03-n008",
+   "q": "Your light is green. A person with a white cane is slowly walking across the crossing in front of you, although their light is red. What should you do?",
+   "options": [
+    "Drive on: your light is green and the pedestrian is breaking the rules",
+    "Sound the horn to warn them",
+    "Let the pedestrian cross, even though your light is green",
+    "Drive around them in the oncoming lane"
+   ],
+   "answer": 2,
+   "explain": "The driver must give way to a totally blind pedestrian signalling with a white cane in all cases, even when the driver's own light is green. Such a person cannot see the traffic light."
+  },
+  {
+   "id": "m03-n009",
+   "q": "On the opposite side of the road, a bus with the “Carriage of children” sign has stopped. Children are crossing the road in front of it. What should you do?",
+   "options": [
+    "Drive on: the rule only applies to those driving behind the bus",
+    "Drive on closer to the right-hand edge without slowing down",
+    "Sound the horn so that the children stop",
+    "Slow down, stop and let the children cross"
+   ],
+   "answer": 3,
+   "explain": "The requirement to slow down, stop if necessary and let the group of children pass does not depend on which side of the road the bus is on. The children are already stepping into your lane. Such buses are fitted with an amber beacon ⟦48⟧."
+  },
+  {
+   "id": "m03-n010",
+   "q": "A bus is standing at a stop on your right, and passengers are getting off. You are driving past in the adjacent lane. What should you be ready for?",
+   "options": [
+    "Nothing special: the passengers get off onto the pavement",
+    "The bus being obliged to give way to you when it pulls away",
+    "The bus suddenly starting to reverse",
+    "A pedestrian stepping out onto the road from behind the bus"
+   ],
+   "answer": 3,
+   "explain": "Pedestrians are prohibited from stepping onto the road from behind a stationary vehicle without making sure it is safe, but in practice this often happens. When driving past a stationary bus, slow down and be ready to brake. And in a built-up area, it is you who must give way to a bus pulling away from a stop ⟦49⟧."
+  },
+  {
+   "id": "m03-n011",
+   "q": "You are turning right at an uncontrolled intersection. Who must you give way to?",
+   "options": [
+    "Only the pedestrian",
+    "Only the white car",
+    "The pedestrian and the white car",
+    "No one"
+   ],
+   "answer": 0,
+   "explain": "When turning right, you drive across the crossing on the road you are turning into, so you give way to the pedestrian walking across it. The white car is going straight on from the opposite direction and does not cross your path."
+  },
+  {
+   "id": "m03-n012",
+   "q": "You are going straight on through an uncontrolled intersection. Who must you give way to?",
+   "options": [
+    "Only the pedestrian",
+    "Only the white car",
+    "The pedestrian and the white car",
+    "No one"
+   ],
+   "answer": 3,
+   "explain": "You are not turning and do not drive across the crossing on the road to the right, so you do not impede the pedestrian there. The white car is going straight on towards you, and your paths do not cross."
+  },
+  {
+   "id": "m03-n013",
+   "q": "You are turning left at an intersection of roads of equal status. Who must you give way to?",
+   "options": [
+    "Only the pedestrian",
+    "Only the white car",
+    "The pedestrian and the white car",
+    "No one"
+   ],
+   "answer": 2,
+   "explain": "The oncoming white car is going straight on, and when turning left you must give way to oncoming vehicles going straight on or turning right. You must also give way to the pedestrian crossing the road you are turning into."
+  },
+  {
+   "id": "m03-n014",
+   "q": "There is no pedestrian crossing at the intersection. You are turning right, and a pedestrian is crossing the road you are turning into along the line of the pavements. Who must you give way to?",
+   "options": [
+    "No one: the pedestrian is not on a pedestrian crossing",
+    "Only the pedestrian",
+    "Only the green car",
+    "The pedestrian and the green car"
+   ],
+   "answer": 1,
+   "explain": "If there is no crossing nearby, a pedestrian is entitled to cross at an intersection along the line of the pavements. When turning, the driver must give way to pedestrians crossing the carriageway of the road they are turning into, even without a zebra crossing. The green car is turning right onto another road and is not in your way."
+  },
+  {
+   "id": "m03-n016",
+   "q": "Your light is green and you are going straight on. A person with a white cane is walking across the crossing on the road you are entering. Who must you give way to?",
+   "options": [
+    "No one: you have a green light",
+    "Only the pedestrian with the white cane",
+    "Only the white car",
+    "Both the pedestrian and the white car"
+   ],
+   "answer": 1,
+   "explain": "You must give way to a blind pedestrian with a white cane in all cases, even if their light is red. The white car is turning left from the opposite direction and must itself give way to you, since you are going straight on."
+  },
+  {
+   "id": "m03-n017",
+   "q": "The blue car in the right lane has stopped before a pedestrian crossing. You are in the left lane, going straight on. Who must you give way to?",
+   "options": [
+    "Only the blue car",
+    "Only the pedestrian",
+    "No one: your lane is clear",
+    "The blue car and the pedestrian"
+   ],
+   "answer": 1,
+   "explain": "The blue car has stopped to let a pedestrian cross and is hiding them from you. You may continue only after making sure there is no one in front of it. The pedestrian is walking towards your lane, so you must let them cross. The blue car is stationary, and you are not impeding it."
+  },
+  {
+   "id": "m03-n018",
+   "q": "You are coming out of a minor road and turning right. Who must you give way to?",
+   "options": [
+    "Only the green car",
+    "Only the pedestrian",
+    "The green car and the pedestrian",
+    "No one"
+   ],
+   "answer": 2,
+   "explain": "The green car is travelling on the main road in the direction you are turning, and under sign 2.4 you must give way to it. You must also give way to the pedestrian crossing the road you are turning into."
+  },
+  {
+   "id": "m03-n019",
+   "q": "Your light is green and you are turning right. Who must you give way to?",
+   "options": [
+    "Only the white car",
+    "The white car and the pedestrian",
+    "Only the pedestrian",
+    "No one"
+   ],
+   "answer": 2,
+   "explain": "The pedestrian is walking across the crossing on the road you are turning into, and you must give way to them. The white car is turning left from the opposite direction, so it is the one that must give way to you."
+  },
+  {
+   "id": "m03-n020",
+   "q": "The traffic controller is standing with their right side towards you. You are turning right. Who must you give way to?",
+   "options": [
+    "Only the pedestrian",
+    "Only the taxi",
+    "The pedestrian and the taxi",
+    "No one"
+   ],
+   "answer": 0,
+   "explain": "The traffic controller is standing side-on to you and to the taxi: you are both allowed to go straight on and turn right, and pedestrians are allowed to cross the road. The taxi is going straight on and is not in your way, but you must give way to the pedestrian on the road you are turning into. The bus is stationary: the traffic controller has their back to it."
+  },
+  {
+   "id": "m03-n021",
+   "q": "The pavement is narrow and crowded, so a person in a non-motorised wheelchair is moving along the edge of the carriageway to your right. Are they breaking the Rules?",
+   "options": [
+    "No: it is allowed if they would obstruct pedestrians on the pavement",
+    "Yes: pedestrians are never allowed to move on the carriageway",
+    "No, but only if the wheelchair has a light or a flag",
+    "Yes: along the edge of the carriageway they must face oncoming traffic"
+   ],
+   "answer": 0,
+   "explain": "People in non-motorised wheelchairs and people carrying bulky objects may move along the edge of the carriageway if they would obstruct others on the pavement. On the edge of the road, they keep to the right-hand side in the direction of traffic, as here. Leave plenty of room when driving around such a person."
+  },
+  {
+   "id": "m03-n022",
+   "q": "An organised group of pedestrians with escorts is walking along the right-hand edge of a road outside a built-up area, in the same direction as you. The oncoming lane is clear. May you drive around the group?",
+   "options": [
+    "No: you may only follow the group until it leaves the road",
+    "Yes, on the left, with a safe lateral clearance",
+    "No: you must stop and wait until the group has passed",
+    "Yes, but only after sounding a long blast of the horn"
+   ],
+   "answer": 1,
+   "explain": "The Rules prohibit crossing an organised group and joining it, but they do not prohibit driving around it. Drive around slowly and with a wide clearance: people may suddenly step to the side."
+  },
+  {
+   "id": "m03-n023",
+   "q": "During the hours of darkness, an organised group of pedestrians is walking along the road. What lights must the escorts have?",
+   "options": [
+    "Red at the front and rear",
+    "Red at the front, white at the rear",
+    "No lights are needed if the escorts have red flags",
+    "White at the front, red at the rear"
+   ],
+   "answer": 3,
+   "explain": "Escorts with red flags walk at the front and rear of the group on its left-hand side. During the hours of darkness and in poor visibility, they have lights switched on: white for the front escort and red for the rear one, like the lights on a car."
+  }
+ ]
+}

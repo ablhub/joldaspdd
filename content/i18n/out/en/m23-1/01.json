@@ -1,0 +1,170 @@
+{
+ "meta": {
+  "title": "Buses and carriage of passengers (D, D1)",
+  "pdd": "Chapters 4, 5, 8-10, 12-14, 18, 22-24 of the Rules, List of Defects, Road Traffic Act, Rules on the Organisation of Work and Rest of Drivers, Examination Rules",
+  "summary": "Rules for bus drivers: speed, stopping and boarding of passengers, the lane for route vehicles, carriage of children, technical condition, working and rest time, and the practical test for category D."
+ },
+ "lesson": [
+  {
+   "h": "The bus under the Rules and categories D, D1, DE",
+   "p": [
+    "A bus is a motor car for carrying passengers and luggage that has more than 8 seats, not counting the driver's seat ⟦16⟧. So a minibus with 10-16 seats is also a bus under the Rules, and all the rules for buses apply to it.",
+    "Category D covers all buses, subcategory D1 covers buses with more than 8 but not more than 16 seats besides the driver's. An articulated (“accordion”) bus and a bus with a trailer heavier than 750 kg fall under category DE. The trolleybus is a separate category Tb, the tram is Tm ⟦17⟧."
+   ],
+   "list": [
+    "Drivers are admitted to carrying passengers in D1 from the age of 21 with at least 3 years of experience as a driver, at least 1 year of it on vehicles of subcategory C1 ⟦18⟧.",
+    "In D - from the age of 23 with at least 3 years of experience as a driver, at least 1 year of it on vehicles of subcategory D1 ⟦19⟧.",
+    "Organised groups of children are carried by a driver aged at least 25 with at least 5 years of experience as a driver ⟦20⟧."
+   ],
+   "tip": "M2 and M3 are the technical categories of buses: for M2 the technically permissible maximum mass is not more than 5 t, for M3 it is more than 5 t (TR CU 018/2011). In the Rules they matter for stopping and for the lane for route vehicles."
+  },
+  {
+   "h": "Bus speed",
+   "p": [
+    "In built-up areas buses travel at not more than 50 km/h, although passenger cars may do 60 ⟦21⟧. This limit has applied to buses since May 2024, and since November 2025 the same limit has applied to trucks. There is no exception for size: a minibus is also a bus.",
+    "A bus is heavy and tall: its braking distance is longer, and in a sudden manoeuvre standing passengers fall. That is why its limits are lower than for passenger cars.",
+    "Outside built-up areas the limit depends on the type of bus and the road ⟦22⟧:"
+   ],
+   "list": [
+    "Intercity buses and minibuses: motorway - 110, road with a central reservation - 100, other roads - 90 km/h.",
+    "Other buses, including those carrying an organised group of children: 90 / 80 / 70 km/h.",
+    "Blue sign 5.24: there is a built-up area, but the rules for built-up areas do not apply on this road, so you drive at the limits for roads outside built-up areas.",
+    "Sign 3.24 only prohibits exceeding the speed shown. A number lower than your limit always has to be obeyed, while a higher number does not cancel the limits of para. 74 for buses."
+   ],
+   "tip": "The “minus 10” ladder: 110-100-90 for intercity buses and minibuses, 90-80-70 for other buses and for the carriage of children."
+  },
+  {
+   "h": "Boarding, alighting and doors",
+   "p": [
+    "You may let passengers board and alight only where stopping is not prohibited, and only after coming to a full stop. You move off only with the doors closed, and you do not open them until you have come to a full stop ⟦23⟧.",
+    "The driver of a route vehicle lets passengers board and alight only at a designated stop ⟦24⟧. A stop is marked by sign 5.12 and by yellow zigzag marking 1.17."
+   ],
+   "list": [
+    "Stopping on a stop area and within 15 m of it (or of the stop indicator) is prohibited, but since November 2025 this ban does not apply to vehicles of categories M2 and M3. Any bus, for example a tourist bus, may stop at a stop to pick people up ⟦25⟧.",
+    "The “No stopping” sign 3.27 does not apply only to route vehicles. A charter or tourist bus does not stop under it.",
+    "U-turns and reversing are prohibited in the places where stops are located ⟦26⟧.",
+    "Passengers get out on the side of the pavement or shoulder, and if that is not possible, on the carriageway side when it is safe ⟦27⟧."
+   ],
+   "tip": "“Only at a designated stop” is a rule for route vehicles. A charter bus lets people board where stopping is not prohibited, including at a route vehicle stop."
+  },
+  {
+   "h": "Moving off from a stop",
+   "p": [
+    "In built-up areas all drivers give way to buses and trolleybuses that travel on a set route and start moving from a designated stop ⟦28⟧. This makes it easier for city transport to merge into the traffic and keep to the timetable.",
+    "This is not a right to move off “blindly”: the driver of a bus or trolleybus starts moving only after making sure that other drivers are giving way ⟦29⟧. Before moving off, the driver switches on the left direction indicator ⟦30⟧."
+   ],
+   "list": [
+    "Outside built-up areas there is no such priority: moving off from the edge of the road is an ordinary manoeuvre that must not hinder others ⟦31⟧.",
+    "A charter or tourist bus does not have this priority: it belongs only to buses and trolleybuses running on a route.",
+    "If you are driving a bus past a stop yourself, give way to a route bus or trolleybus pulling away from it."
+   ]
+  },
+  {
+   "h": "The lane for route vehicles",
+   "p": [
+    "The lane is marked by signs 5.9, 5.10.1-5.10.3 and marking 1.23 (the letter “A”). Only public transport (which under the Rules includes taxis) and other vehicles of category M3 may drive and stop on it ⟦32⟧. A tourist bus of category M3 may drive on it, a private minibus of category M2 may not.",
+    "By Order No. 305 of the Ministry of Internal Affairs dated 27.04.2026, the exceptions for the broken line were removed from para. 126: other vehicles do not enter this lane before a turn, when entering the road, or to pick up passengers."
+   ],
+   "list": [
+    "Anyone turning right or left across this lane gives way to route vehicles and public transport on it ⟦33⟧.",
+    "Where there is no cycle track or cycle lane, cyclists aged 14 and over may ride along the right edge, including in the lane for route vehicles ⟦34⟧.",
+    "For the lane for route vehicles there are traffic lights with lunar white signals in the shape of the letter “T”. You may proceed only when the lower signal is lit together with the upper one: the left one - to the left, the middle one - straight ahead, the right one - to the right ⟦35⟧."
+   ]
+  },
+  {
+   "h": "Passengers and luggage in the passenger compartment",
+   "p": [
+    "An overloaded bus brakes worse and may lose stability. That is why the number of passengers is limited by the technical specification, and belongings must not lie in the aisles."
+   ],
+   "list": [
+    "You must not carry more passengers than the technical specification of the bus allows. The actual mass must not exceed the maximum authorised mass ⟦36⟧.",
+    "Goods, including luggage, are carried only in the luggage compartment ⟦37⟧.",
+    "If the bus is fitted with seat belts, passengers fasten them, and the driver does not carry passengers who are not belted ⟦38⟧.",
+    "Passengers must not distract the driver, open the doors, or lean out of windows and hatches while the vehicle is moving ⟦39⟧."
+   ]
+  },
+  {
+   "h": "Organised carriage of children",
+   "p": [
+    "A great many children travel in one bus at once, so the requirements here are the strictest ⟦40⟧:"
+   ],
+   "list": [
+    "A bus with at least two doors whose technical condition meets the Rules on the Carriage of Passengers and Luggage.",
+    "An amber beacon and “Carriage of children” identification signs at the front and rear. The sign is a yellow square with a red border and the black symbol of sign 1.21 (Basic Provisions on Admitting Vehicles to Operation).",
+    "A driver aged at least 25, with the required category and at least 5 years of experience as a driver.",
+    "No more children than seats.",
+    "A convoy of two or more buses with children on roads outside built-up areas must be accompanied by special vehicles of the internal affairs bodies.",
+    "Outside built-up areas such a bus travels at not more than 90 / 80 / 70 km/h ⟦41⟧."
+   ],
+   "tip": "Drivers approaching a stopped bus with the “Carriage of children” sign reduce speed, stop if necessary and let the children pass ⟦42⟧."
+  },
+  {
+   "h": "A large bus on the road",
+   "p": [
+    "A bus is long and heavy: it needs more room in turns and more time to brake. Several rules take exactly this into account. At intersections, however, a bus follows the same priority rules as a passenger car: size and passengers give no priority ⟦43⟧."
+   ],
+   "list": [
+    "If you cannot fit into the turn from your own lane, you may move partly or fully into the adjacent lane, if it is safe and does not hinder anyone ⟦44⟧. If you do fit, turn into the lane that corresponds to the one you occupy ⟦45⟧.",
+    "Outside built-up areas, on a two-lane road, the driver of a vehicle more than 7 m long keeps such a following distance that overtaking vehicles can move back in front of it. This requirement does not apply when the driver is preparing to overtake, in heavy traffic and in an organised convoy ⟦46⟧.",
+    "On roads with three or more lanes in one direction, the far left lane is taken in heavy traffic, for overtaking, for turning left or for making a U-turn. The rule is stricter only for trucks over 3.5 t: they may use it only for turning left and making a U-turn ⟦47⟧.",
+    "An articulated bus and a trolleybus carry the “Road train” identification sign - three orange lights on the roof (Basic Provisions on Admitting Vehicles to Operation)."
+   ]
+  },
+  {
+   "h": "Technical condition",
+   "p": [
+    "Check the bus before setting off. With some defects, its operation is prohibited ⟦48⟧:"
+   ],
+   "list": [
+    "The residual tread pattern depth of bus tyres must be at least 2 mm (1.6 mm for passenger cars, 1 mm for trucks).",
+    "Tyres with a retreaded tread must not be fitted on the front axle of an intercity bus or a long-distance bus.",
+    "The following must work: emergency exits and their opening devices, the door drive and the door operation warning system, the emergency door switch, the stop request signal, the interior lighting, the speedometer and the tachograph.",
+    "A bus must carry a first aid kit, a fire extinguisher, a warning triangle and at least two wheel chocks."
+   ],
+   "tip": "An emergency exit that does not open goes unnoticed on an ordinary journey. But in a fire or a rollover, the passengers' lives depend on it."
+  },
+  {
+   "h": "Working and rest time",
+   "p": [
+    "A tired bus driver is a danger to dozens of people at once. The Rules prohibit driving a vehicle in a fatigued state that endangers road safety ⟦49⟧.",
+    "The time limits are set by the Rules on the Organisation of Work and Rest of Drivers and the Use of Tachographs (order of the Acting Minister for Investment and Development of the Republic of Kazakhstan dated 31.12.2015 No. 1288). Buses are fitted with a tachograph on international and intercity inter-oblast carriage of passengers, and on non-scheduled carriage also on inter-district journeys ⟦50⟧."
+   ],
+   "list": [
+    "Daily driving - not more than 9 h, up to 10 h not more than twice a week ⟦51⟧.",
+    "After 4 h 30 min of driving - a break of at least 45 min. It may be split: first at least 15, then at least 30 min ⟦52⟧.",
+    "Daily rest - at least 11 h, weekly rest - at least 45 h ⟦53⟧."
+   ],
+   "tip": "Advice: if you feel sleepy, stop in a safe place and rest. Coffee and an open window help only for a very short time."
+  },
+  {
+   "h": "Practical test for category D",
+   "p": [
+    "The practical test is taken at an automated test ground of the State Corporation, on a vehicle of the category you are applying for (Rules for Taking Examinations and Issuing Driving Licences, paras 27, 40). For D this is a bus with at least 28 seats and a length of at least 7 m, for D1 a bus not longer than 7 m.",
+    "The exercise zones for D and D1 are equipped under the same paragraph as for B and C ⟦54⟧: start, stopping and moving off on a slope, pedestrian crossing, 90-degree turns, slalom, U-turn and parking, parallel reverse parking, controlled intersection, level crossing, acceleration lane, emergency stop and finish. The system records wheels running over marking lines, the stopping place, the time taken and other actions ⟦55⟧."
+   ],
+   "tip": "The rear wheels of a long bus “cut” corners. In 90-degree turns and in the slalom, start turning the steering wheel later than in a passenger car, and watch the rear wheels in the mirrors."
+  }
+ ],
+ "keyFacts": [
+  "A bus is a motor car for passengers and luggage with more than 8 seats, not counting the driver; a minibus is also a bus ⟦1⟧",
+  "In built-up areas buses travel at not more than 50 km/h ⟦2⟧",
+  "Outside built-up areas: intercity buses and minibuses - 110 / 100 / 90 km/h, other buses and carriage of children - 90 / 80 / 70 km/h ⟦3⟧",
+  "Boarding and alighting only after a full stop, moving off only with the doors closed; route vehicles let passengers board and alight only at a designated stop ⟦4⟧",
+  "Stopping on a stop area and within 15 m of it is prohibited for everyone except vehicles of categories M2 and M3 ⟦5⟧",
+  "In built-up areas drivers give way to route buses and trolleybuses pulling away from a designated stop, and their drivers move off only after making sure that they are being given way ⟦6⟧",
+  "The lane for route vehicles is only for public transport (including taxis) and other vehicles of category M3; there are no more exceptions for the broken line ⟦7⟧",
+  "Children: a bus with at least 2 doors, an amber beacon, “Carriage of children” signs, a driver aged 25 or over with at least 5 years of experience, no more children than seats, a convoy of 2 or more buses outside built-up areas - with an escort of the internal affairs bodies ⟦8⟧",
+  "Admission to carrying passengers in D1 from the age of 21, in D from the age of 23, with at least 3 years of experience as a driver ⟦9⟧",
+  "Bus tyres - residual tread pattern depth of at least 2 mm ⟦10⟧",
+  "Driving up to 9 h a day, a break of at least 45 min after 4 h 30 min, daily rest of at least 11 h (Rules on the Organisation of Work and Rest of Drivers, paras 9, 13, 16)",
+  "Practical test for D - on a bus with at least 28 seats and a length of at least 7 m (Examination Rules, para. 40)"
+ ],
+ "mistakes": [
+  "“A tourist bus must not stop at a route vehicle stop.” Since November 2025 the ban on stopping at stop areas does not apply to vehicles of categories M2 and M3 ⟦11⟧.",
+  "“In a city a minibus may do 60 km/h, like a passenger car.” It has more than 8 seats, so it is a bus, and its limit is 50 km/h ⟦12⟧.",
+  "“I am entitled to be given way, so I can move off from the stop at once.” The driver of a route bus starts moving only after making sure that others are giving way ⟦13⟧.",
+  "“Across a broken line I may enter the lane for route vehicles before a turn.” These exceptions were removed from para. 126 in April 2026 ⟦14⟧.",
+  "“A tread depth of 1.8 mm is fine.” For a passenger car yes, but a bus needs at least 2 mm ⟦15⟧.",
+  "“A charter bus also has priority when pulling away from a stop.” Under para. 127 only buses and trolleybuses running on a set route are given way."
+ ]
+}

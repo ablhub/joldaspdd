@@ -1,0 +1,105 @@
+{
+ "meta": {
+  "title": "Level crossings, motorways and residential zones",
+  "pdd": "Chapters 15, 16 and 17 of the Rules",
+  "summary": "You will learn when you must not enter a level crossing and what to do if your car gets stuck on the tracks, what is prohibited on a motorway, and how to behave in a residential zone and in a yard."
+ },
+ "lesson": [
+  {
+   "h": "How to cross a railway",
+   "p": [
+    "You may cross railway tracks only at a level crossing, giving way to a train, locomotive or draisine. A train cannot turn aside or stop quickly: its braking distance is measured in hundreds of metres.",
+    "As you approach a level crossing, watch the signs, the traffic light, the road markings, the position of the barrier and the attendant's instructions. And in any case, make sure yourself that there is no train."
+   ]
+  },
+  {
+   "h": "Traffic light signals at a level crossing",
+   "p": [
+    "A flashing red signal, like any red signal, prohibits movement. An audible signal may sound with it, which also signals the prohibition.",
+    "A flashing lunar white signal permits movement over the crossing. If both the red and the lunar white signals are off, you may go only after making sure that no train is approaching the crossing.",
+    "A permitting signal does not remove the need to check the tracks: if a train is approaching the crossing, you must not enter it. And if the level crossing attendant gives a prohibiting signal, obey it even when the traffic light permits movement."
+   ],
+   "tip": "A flashing red signal at a level crossing prohibits entry even if the barrier is raised or there is no barrier at all."
+  },
+  {
+   "h": "When you must not enter a level crossing",
+   "list": [
+    "The barrier is closed or beginning to close - regardless of the traffic light signal.",
+    "The traffic light shows a prohibiting signal - regardless of whether there is a barrier and what position it is in.",
+    "The attendant gives a prohibiting signal: they stand with their chest or back towards you, holding up a baton, a red lamp or a flag, or with their arms extended to the sides.",
+    "There is a traffic jam beyond the crossing that would force you to stop on the tracks.",
+    "A train, locomotive or draisine is approaching the crossing within sight."
+   ],
+   "tip": "If there is a traffic jam beyond the crossing, wait before it, even when the traffic light permits movement."
+  },
+  {
+   "h": "What else is prohibited at a level crossing",
+   "list": [
+    "Crossing the tracks anywhere except at a level crossing.",
+    "Driving around vehicles stopped before the crossing by moving into the oncoming lane.",
+    "Opening the barrier without authorisation.",
+    "Moving agricultural, road-building or construction machinery in a non-transport configuration, as well as slow-moving vehicles travelling at less than 8 km/h and tractor-drawn sledges, across the crossing without permission from the head of the track section.",
+    "Overtaking on the crossing and within 100 m before it, making a U-turn or reversing on the crossing, stopping on the crossing itself, and parking within 50 m of it."
+   ]
+  },
+  {
+   "h": "Where to stop if you must not go on",
+   "p": [
+    "Stop at the stop line, sign 2.5 “No passing without stopping (Stop)”, or the traffic light. If none of these are present, stop at the boundary of the level crossing. The boundary of the crossing is an imaginary line 10 m from the nearest rail.",
+    "Sign 2.5 before a level crossing always requires you to stop, even if there is no train: at the stop line or, if there is none, before the sign."
+   ]
+  },
+  {
+   "h": "If your car stalls on the crossing",
+   "list": [
+    "Immediately get everyone out of the car and take steps to clear the crossing.",
+    "If possible, send two people along the tracks in both directions for 1000 m. If there is only one person, send them in the direction where the track is less visible. Explain to them how to give the train driver a stop signal.",
+    "Stay by the car yourself and give general alarm signals.",
+    "When a train appears, run towards it, giving the stop signal."
+   ],
+   "tip": "The stop signal is a circular movement of the arm (by day with a bright piece of cloth or another conspicuous object, by night with a flare or a lamp). The general alarm signal is a series of one long and three short sound signals."
+  },
+  {
+   "h": "Motorway: what is prohibited there",
+   "p": [
+    "A motorway (sign 5.1) is designed for fast traffic, so anything that suddenly slows the flow down is prohibited here. A passenger car travels there at the speed shown on sign 3.24, but not more than 140 km/h."
+   ],
+   "list": [
+    "Pedestrians and domestic animals being outside a vehicle, and riding bicycles, mopeds, tractors, self-propelled machines or other vehicles whose speed, by technical specification or condition, is below 40 km/h.",
+    "Trucks over 3.5 t travelling beyond the second lane.",
+    "Stopping anywhere other than special parking areas marked with sign 5.15 “Parking place” or sign 6.11 “Rest area”.",
+    "Making a U-turn and entering service gaps in the central reservation.",
+    "Reversing.",
+    "Learner driving."
+   ],
+   "tip": "Missed your exit - drive on to the next one. Reversing and making a U-turn are prohibited on a motorway."
+  },
+  {
+   "h": "A forced stop on a motorway",
+   "p": [
+    "If your car comes to a forced stop on the carriageway, mark it out: switch on the hazard warning lights and put out the warning triangle. Then try to move it onto the strip to the right of the line marking the edge of the carriageway.",
+    "All these rules also apply on roads marked with sign 5.3 “Road for motor vehicles”. This road is for motor cars and motorcycles only."
+   ]
+  },
+  {
+   "h": "Residential zone: the pedestrian is in charge here",
+   "p": [
+    "A residential zone is marked with sign 5.38 “Residential zone”. Pedestrians may walk both on the pavement and on the carriageway, and they have priority. But they must not obstruct vehicles without reason either.",
+    "The speed in a residential zone and in yards is no more than 20 km/h. A child may suddenly run out from behind a parked car, so the driver must be ready to stop at any moment."
+   ]
+  },
+  {
+   "h": "What is prohibited in a residential zone and how to leave it",
+   "list": [
+    "Through traffic, that is, driving through a residential zone to cut your route short.",
+    "Driving off the carriageway.",
+    "Learner driving.",
+    "Parking with the engine running (an exception is made for electric cars).",
+    "Parking trucks over 3.5 t and buses outside specially marked places.",
+    "Sounding the horn and playing loud music.",
+    "Parking on pavements, lawns, or children's and sports playgrounds."
+   ],
+   "tip": "When leaving a residential zone or a yard, you give way to everyone. The same rules apply in residential courtyards."
+  }
+ ]
+}

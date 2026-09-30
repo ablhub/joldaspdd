@@ -1,0 +1,171 @@
+{
+ "meta": {
+  "title": "Traffic light and traffic controller signals",
+  "pdd": "Chapter 5 of the Rules",
+  "summary": "You will learn to read any traffic light signal, including arrows, additional sections (filter arrows) and lane-control signals, and to understand a traffic controller's signals. You will find out whose instructions take precedence and what to do if the amber light catches you right at the stop line."
+ },
+ "lesson": [
+  {
+   "h": "How a traffic light is arranged",
+   "p": [
+    "Traffic lights can be vertical or horizontal. The order of the colours is always the same. So you can understand the signal even in bad weather or if you have difficulty telling colours apart.",
+    "Besides round signals, there are arrows, pedestrian and bicycle silhouettes, and signals in the shape of an “X” and a “+”. The signal colours are green, amber, red and lunar white ⟦19⟧."
+   ],
+   "list": [
+    "Vertical traffic light: red at the top, green at the bottom.",
+    "Horizontal traffic light: red on the left, green on the right.",
+    "Additional sections with green arrows (one or two) are placed level with the round green signal."
+   ],
+   "tip": "If a traffic light hangs vertically, the top signal is always red."
+  },
+  {
+   "h": "Round signals",
+   "p": [
+    "The main idea is simple: green permits, amber and red prohibit. But each signal has its own shade of meaning ⟦20⟧."
+   ],
+   "list": [
+    "Green: movement is permitted.",
+    "Flashing green: movement is still permitted, but the green time is running out and a prohibiting signal will come on soon. A digital display may show how many seconds are left.",
+    "Amber: movement is prohibited (except in the cases covered by para. 37); the signal warns that the signals are about to change.",
+    "Red, including flashing red: movement is prohibited.",
+    "Red together with amber: movement is still prohibited, but green will come on soon.",
+    "Flashing amber: the intersection or pedestrian crossing is not controlled by traffic lights; take care."
+   ],
+   "tip": "“Red + amber” does not permit you to move off. You may start only on green."
+  },
+  {
+   "h": "Flashing amber and switched-off traffic lights",
+   "p": [
+    "If the traffic light is flashing amber or is not working, and there is no traffic controller, the intersection is treated as uncontrolled ⟦21⟧. Then priority signs and the general rules for driving through intersections determine who goes first.",
+    "Flashing amber does not mean “drive as you like”. It warns of danger: slow down and check which signs are placed before the intersection.",
+    "At a pedestrian crossing, flashing amber means the same: the crossing is not controlled by traffic lights. Give way to pedestrians crossing the carriageway for your direction of travel, as at any uncontrolled crossing ⟦22⟧."
+   ]
+  },
+  {
+   "h": "Arrows and additional sections",
+   "p": [
+    "An arrow has the same meaning as a round signal of the same colour, but it applies only to the direction it shows. A red arrow pointing right prohibits only a right turn.",
+    "Instead of a red or amber arrow, a round red or amber signal with a black outline arrow may be lit. The meaning is the same ⟦23⟧."
+   ],
+   "list": [
+    "An arrow permitting a left turn also permits a U-turn, unless a sign prohibits it. A green filter arrow in an additional section works the same way ⟦24⟧.",
+    "An additional section that is switched off prohibits movement in the direction it controls ⟦25⟧.",
+    "A black outline arrow on the main green signal tells you that the traffic light has an additional section, and it shows the other permitted directions ⟦26⟧.",
+    "Driving on a green filter arrow while the main signal is red or amber? Give way to vehicles coming from other directions ⟦27⟧."
+   ],
+   "tip": "A filter arrow shown with a red main signal allows you to go, but you give way to everyone coming from other directions."
+  },
+  {
+   "h": "Pedestrians, cyclists, trams and level crossings",
+   "list": [
+    "A signal in the form of a pedestrian or bicycle silhouette applies only to pedestrians or cyclists: green permits, red prohibits ⟦28⟧.",
+    "For blind pedestrians, a traffic light may be supplemented by an audible signal ⟦29⟧.",
+    "Trams, and public transport in a lane for route vehicles (bus lane), are controlled by lunar white signals arranged in the shape of the letter “T”. They may go when the bottom signal and at least one top signal are lit: the top left one permits a left turn, the top middle one straight ahead, the top right one a right turn ⟦30⟧.",
+    "A flashing lunar white signal at a level crossing permits movement. If neither the lunar white nor the red signals are lit, you may go only when there is no train in sight ⟦31⟧.",
+    "A green “+” signal tells you that oncoming traffic has a red light. If the “+” is off, oncoming traffic has a green light ⟦32⟧.",
+    "A flashing red signal at a level crossing prohibits movement regardless of the position of the barrier. An audible signal may sound at the same time, and it also means that movement is prohibited ⟦33⟧."
+   ]
+  },
+  {
+   "h": "Lane-control signals for reversible lanes",
+   "p": [
+    "In a reversible lane, the direction of traffic can be switched to the opposite: for example, towards the centre in the morning and out of the centre in the evening. Such a lane has its own traffic light above it, a lane-control signal, which controls only that lane ⟦34⟧."
+   ],
+   "list": [
+    "Red “X” signal: driving in this lane is prohibited.",
+    "Green arrow pointing down: driving in this lane is permitted.",
+    "Amber arrow pointing diagonally: the signal will change soon, and you need to change lanes to the one it points to.",
+    "If the signal above a lane marked on both sides with marking 1.9 is switched off, you must not enter that lane."
+   ],
+   "tip": "A switched-off lane-control signal above a lane with marking 1.9 means that entry is prohibited, not “go if the situation allows”."
+  },
+  {
+   "h": "Traffic controller's signals",
+   "p": [
+    "A traffic controller takes the place of a traffic light. The key is to see which side of the controller is towards you. The chest and the back most often mean “stop” ⟦35⟧."
+   ],
+   "list": [
+    "Arms extended to the sides or lowered. From the left and right sides: a tram may go straight ahead, trackless vehicles may go straight ahead and right, and pedestrians may cross the carriageway. From the chest and back: all vehicles and pedestrians are prohibited from moving.",
+    "Right arm extended forward. From the left side: a tram may turn left, trackless vehicles may go in all directions. From the chest: all vehicles may turn right only. From the right side and back: all vehicles are prohibited from moving. Pedestrians cross behind the controller's back.",
+    "Arm raised: all vehicles and pedestrians are prohibited from moving in all directions, except in the cases covered by para. 37.",
+    "For better visibility, the traffic controller may use a baton or a disc with a red signal (retroreflector). The controller may also give other hand signals that are easy to understand.",
+    "When turning on a traffic controller's signal, remember pedestrians: when the arms are extended to the sides, they may cross too, and when the right arm is extended forward, they walk behind the controller's back. Give way to them ⟦36⟧."
+   ],
+   "tip": "Right arm forward: left side - go anywhere, chest - right only, right side and back - stop."
+  },
+  {
+   "h": "Where to stop at a prohibiting signal",
+   "p": [
+    "When a traffic light (other than a lane-control signal) or a traffic controller gives a prohibiting signal, stop before the stop line (sign 5.33). If there is none, where you stop depends on the situation ⟦37⟧:"
+   ],
+   "list": [
+    "at an intersection: before the intersecting carriageway, without impeding pedestrians;",
+    "before a level crossing: in accordance with the rules for driving over level crossings;",
+    "elsewhere: before the traffic light or the traffic controller, without impeding those who are permitted to move."
+   ]
+  },
+  {
+   "h": "If the amber light comes on at the last moment",
+   "p": [
+    "Sometimes the amber light comes on, or the traffic controller raises an arm, when you are already very close to the stop line. Sudden braking is dangerous: the vehicle behind may run into you.",
+    "That is why drivers who cannot stop without emergency braking continue moving ⟦38⟧. For the amber signal, this rule is worded for cases where the green does not flash before going out. A flashing green gives you time to decide in advance whether you will make it or need to brake smoothly.",
+    "Pedestrians caught on the carriageway by the amber signal or by the traffic controller's raised arm must clear it. If that is impossible, they stop on the line dividing the traffic flows in opposite directions."
+   ],
+   "tip": "The key point of para. 37: you may continue only if the only way to stop would be emergency braking."
+  },
+  {
+   "h": "Who takes precedence, and what the whistle is for",
+   "p": [
+    "A traffic controller's signals and instructions must be obeyed even if they contradict traffic lights, road signs or road markings ⟦39⟧. The controller sees the actual situation: a crash, a traffic jam, a convoy passing through.",
+    "To stop a particular vehicle, the traffic controller points an arm or a baton at it while blowing a whistle, or addresses the driver through a loudspeaker ⟦40⟧. A whistle is also used simply to attract attention ⟦41⟧."
+   ],
+   "tip": "If the traffic light and the traffic controller show different things, obey the traffic controller's signal."
+  },
+  {
+   "h": "Green is no reason to drive without looking",
+   "p": [
+    "A permitting signal answers the question “may I go?”, but it does not cancel the duty to give way. These situations often come up in the test:"
+   ],
+   "list": [
+    "The light has turned green: first let through vehicles that are finishing crossing the intersection and pedestrians who have not finished crossing ⟦42⟧.",
+    "Turning left or making a U-turn on green: give way to oncoming vehicles going straight ahead or turning right ⟦43⟧.",
+    "If the signals permit a tram and trackless vehicles to move at the same time, the tram has priority ⟦44⟧.",
+    "You have passed the stop line on a permitting signal: leave the intersection in the intended direction, even if the light at the exit is already red. But if there is a stop line (sign 5.33) in front of the next traffic light on your way through the intersection, obey that traffic light's signal as well ⟦45⟧.",
+    "Traffic jam beyond the intersection: do not enter the intersection even on green, so that you do not get stuck in the middle of it and impede cross traffic ⟦46⟧."
+   ],
+   "tip": "A green arrow or a green circle says “you may go”, and the priority rules say “who to let go first”. In the test you need to remember both."
+  },
+  {
+   "h": "Who can be a traffic controller",
+   "p": [
+    "A traffic controller is not only a police officer. The Rules also treat as traffic controllers military police officers, members of military traffic control units, transport control officers, road maintenance workers, and attendants at level crossings and ferry crossings, provided they have an ID and equipment: a uniform or an armband, a baton, a disc with a red signal or retroreflector, a red lamp or a flag ⟦47⟧."
+   ],
+   "list": [
+    "The signals of such a traffic controller are just as binding as those of a police officer ⟦48⟧.",
+    "A level crossing attendant prohibits movement if they stand with their chest or back towards you, raise an arm holding a baton, a red lamp or a flag, or extend their arms to the sides ⟦49⟧."
+   ]
+  }
+ ],
+ "keyFacts": [
+  "Vertical traffic light: red at the top, green at the bottom; horizontal: red on the left, green on the right ⟦1⟧.",
+  "Flashing green permits movement but warns that a prohibiting signal will come on soon ⟦2⟧.",
+  "Amber prohibits movement, except in the cases covered by para. 37; red, including flashing red, prohibits movement ⟦3⟧.",
+  "Red and amber together: movement is prohibited, green will come on soon ⟦4⟧.",
+  "Flashing amber or traffic lights switched off, and no traffic controller: the intersection is uncontrolled, and priority signs apply ⟦5⟧.",
+  "A left arrow also permits a U-turn unless a sign prohibits it; an additional section that is switched off prohibits movement in its direction ⟦6⟧.",
+  "When moving on a filter arrow with a red or amber main signal, you give way to vehicles from other directions ⟦7⟧.",
+  "Lane-control signal: red “X” - prohibited, green arrow pointing down - permitted; switched off above a lane with marking 1.9 - entry prohibited ⟦8⟧.",
+  "Traffic controller with arms extended to the sides or lowered: from the chest and back, all vehicles and pedestrians are prohibited from moving ⟦9⟧.",
+  "Right arm forward: from the left side - all directions, from the chest - right only, from the right side and back - movement prohibited ⟦10⟧.",
+  "Arm raised: everyone is prohibited from moving in all directions, except in the cases covered by para. 37 ⟦11⟧.",
+  "A traffic controller's signals take precedence over traffic lights, road signs and road markings ⟦12⟧."
+ ],
+ "mistakes": [
+  "Moving off on “red + amber”. It still prohibits movement; wait for green ⟦13⟧.",
+  "Treating flashing amber as permission to drive without looking. The intersection becomes uncontrolled, and priority signs determine who goes first ⟦14⟧.",
+  "Turning on a filter arrow without giving way to anyone. With a red or amber main signal, you give way to vehicles from other directions ⟦15⟧.",
+  "Mixing up the traffic controller's sides. “Left side” means that the controller is standing with their left shoulder towards you. With the right arm forward, movement from the right side is prohibited ⟦16⟧.",
+  "Driving on a green traffic light when the traffic controller signals “stop”. If the signals differ, the traffic controller prevails ⟦17⟧.",
+  "Emergency braking on amber right at the stop line. If the green did not flash beforehand and you can stop only by emergency braking, the Rules allow you to continue ⟦18⟧."
+ ]
+}

@@ -1,0 +1,21 @@
+# зависимости и кеши
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+# результат сборки (пересоздается командами из README)
+/site/
+/release-out/
+/deploy-out/
+*.signed
+*.tgz
+# ключи и секреты: никогда не кладите в репозиторий
+*.key
+*.pem
+.env
+.env.*
+joldas-release-key/
+# рабочие заметки и отладка
+/STATUS.md
+/preview/
+/dbg.py

@@ -1,0 +1,280 @@
+{
+ "questions": [
+  {
+   "id": "m19-n012",
+   "q": "The lanes in your direction are separated by a solid line. Which paths may you continue along?",
+   "options": [
+    "Only A",
+    "Only B",
+    "Both",
+    "Neither"
+   ],
+   "answer": 1,
+   "explain": "Solid line 1.1 marks not only the centre line but also lane boundaries in hazardous places. You must not change lanes across it. Continue in your own lane; you may change lanes where the line becomes broken."
+  },
+  {
+   "id": "m19-n013",
+   "q": "On which section of the centre line is the approach line 1.6 marked?",
+   "options": [
+    "On section A",
+    "On section B",
+    "On section C",
+    "It is not in the diagram"
+   ],
+   "answer": 1,
+   "explain": "The approach line 1.6 is broken, but its dashes are roughly 3 times longer than the gaps. Section A has an ordinary broken line 1.5, section B has the approach line, and section C has solid line 1.1. Once you see 1.6, you no longer start to overtake: a solid line is ahead.",
+   "scene": {
+    "labels.0.text": "A",
+    "labels.1.text": "B",
+    "labels.2.text": "C"
+   }
+  },
+  {
+   "id": "m19-n014",
+   "q": "You have changed onto the deceleration lane to exit right, but realise this is not your exit. The deceleration lane is separated by wide broken line 1.8. May you return to the main lane?",
+   "options": [
+    "No: you may only exit from the deceleration lane",
+    "Yes: vehicles on the main lane must let you in",
+    "Yes, giving way to vehicles on the main lane",
+    "No: line 1.8 may be crossed in one direction only"
+   ],
+   "answer": 2,
+   "explain": "Lines 1.5-1.8 may be crossed from either side ⟦55⟧, so you may return from the deceleration lane. This is a lane change: give way to those travelling on the main lane without changing direction ⟦56⟧."
+  },
+  {
+   "id": "m19-n016",
+   "q": "Within the intersection, the lane boundaries continue as short dashes with equal gaps. What marking is this?",
+   "options": [
+    "1.6: approach to a solid marking line",
+    "1.7: lane boundaries within an intersection",
+    "1.8: the boundary of an acceleration or deceleration lane",
+    "1.9: the boundaries of lanes with reversible traffic"
+   ],
+   "answer": 1,
+   "explain": "Line 1.7 shows which lane to continue in through the intersection. It is especially helpful when turning from several lanes. Like lines 1.5, 1.6 and 1.8, it may be crossed from either side."
+  },
+  {
+   "id": "m19-n017",
+   "q": "You are driving in town in the far right lane. The adjacent lane to the left is marked with lines 1.9 on both sides, and a green lane-control signal arrow pointing down is lit above it. May you change onto that lane?",
+   "options": [
+    "No: line 1.9 may be crossed only when it is located to your right",
+    "No: you enter a reversible lane only in order to turn left or to make a U-turn",
+    "Yes: with the lane-control signal on, this line may be crossed from either side",
+    "Yes, but only in heavy traffic, when your own lane is occupied"
+   ],
+   "answer": 2,
+   "explain": "A green arrow pointing down permits travel in the lane above which it is lit ⟦57⟧. When the lane-control signals are on, line 1.9, where it separates lanes running in the same direction, may be crossed from either side. The rule “only if the line is on your right” applies when there are no lane-control signals or they are switched off."
+  },
+  {
+   "id": "m19-n018",
+   "q": "You are driving in a lane marked with lines 1.9 on both sides. The lane-control signals have just switched off. What should you do?",
+   "options": [
+    "Immediately change lane to the right, beyond line 1.9",
+    "Continue in this lane to the nearest intersection",
+    "Stop and wait for the signals to come back on",
+    "Change lane to the left, closer to the oncoming flow"
+   ],
+   "answer": 0,
+   "explain": "When the lane-control signals switch off, the driver immediately changes lane to the right, beyond line 1.9. You must not stay in the reversible lane: oncoming traffic may start to use it, and entering such a lane while the signals are off is prohibited ⟦58⟧."
+  },
+  {
+   "id": "m19-n020",
+   "q": "There is no traffic on the main road. Are you required to stop at line 1.13?",
+   "options": [
+    "No, but you must sound the horn before pulling out",
+    "Yes: you must always stop at line 1.13",
+    "No: you stop only if you need to give way",
+    "Yes, if the intersection is outside a built-up area"
+   ],
+   "answer": 2,
+   "explain": "Marking 1.13 shows the place where a driver, if necessary, stops, giving way to traffic on the intersecting road. Sign 2.4 requires you to give way, not to stop, and if there is no one to give way to, you may drive on without stopping. Compare this with sign 2.5 and stop line 1.12: there, stopping is always mandatory."
+  },
+  {
+   "id": "m19-n021",
+   "q": "You are turning right. Where must you stop, if necessary, to let a truck pass?",
+   "options": [
+    "Wherever is convenient: this line requires nothing",
+    "Before line 1.13",
+    "Beyond line 1.13, right at the edge of the main road",
+    "Right on line 1.13"
+   ],
+   "answer": 1,
+   "explain": "Line 1.13, made of triangles, shows the place where a driver, if necessary, stops, giving way to traffic on the intersecting road. The truck is on the main road, and sign 2.4 requires you to give way to it, so wait before the line."
+  },
+  {
+   "id": "m19-n022",
+   "q": "A triangle is marked on the lane before the intersection, as shown in the diagram. What does it warn of?",
+   "options": [
+    "That you are approaching line 1.13, where you give way",
+    "That you are approaching the start of a main road",
+    "That you are approaching a speed hump",
+    "That you are approaching an uncontrolled pedestrian crossing"
+   ],
+   "answer": 0,
+   "explain": "This is marking 1.20. It warns that you are approaching line 1.13, where you stop if necessary, giving way to traffic on the intersecting road. Sign 2.4 is usually placed nearby."
+  },
+  {
+   "id": "m19-n023",
+   "q": "The word “STOP” is written on your lane. What does this mean?",
+   "options": [
+    "Stopping and parking are prohibited here, at the inscription",
+    "There is a dead end ahead and no way through",
+    "You must stop right at this inscription, not further on",
+    "There is a stop line ahead, where you will need to stop"
+   ],
+   "answer": 3,
+   "explain": "The word “STOP” is marking 1.21. It warns that you are approaching stop line 1.12, which is used together with sign 2.5. You stop not at the inscription, but before the stop line.",
+   "scene": {
+    "labels.0.text": "STOP"
+   }
+  },
+  {
+   "id": "m19-n024",
+   "q": "The red signal is on. Which driver has stopped correctly?",
+   "options": [
+    "Only the driver of the blue car",
+    "Only the driver of the white car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 1,
+   "explain": "At a prohibitory traffic light signal, you stop before stop line 1.12 ⟦59⟧. The white car is stopped before it, while the blue car has driven onto the line with its front end. Even if there is still room before the crossing, you must stop before the stop line."
+  },
+  {
+   "id": "m19-n025",
+   "q": "The traffic controller has raised an arm straight up. Where must you stop?",
+   "options": [
+    "Nowhere: if the intersection is empty, you may drive through",
+    "Before the stop line",
+    "Next to the traffic controller",
+    "Right after the stop line, at the edge of the intersecting road"
+   ],
+   "answer": 1,
+   "explain": "An arm raised straight up prohibits movement. At a prohibitory traffic light or traffic controller signal, drivers stop before stop line 1.12 (or sign 5.33), and if there is none, before the intersecting carriageway ⟦60⟧."
+  },
+  {
+   "id": "m19-n026",
+   "q": "There is a “zebra crossing” ahead of you, with no “Pedestrian crossing” signs. A pedestrian is already crossing on it. What should you do?",
+   "options": [
+    "Give way: the “zebra crossing” alone is enough to mark a crossing",
+    "Drive on: without “Pedestrian crossing” signs, this is not a crossing",
+    "Give way only if the pedestrian raises a hand",
+    "Sound the horn at the pedestrian and go first"
+   ],
+   "answer": 0,
+   "explain": "A pedestrian crossing is marked with signs 5.16.1-5.16.3 and (or) marking 1.14.1-1.14.3 ⟦61⟧. So a “zebra crossing” on its own is enough. At an uncontrolled crossing, the driver gives way to pedestrians ⟦62⟧."
+  },
+  {
+   "id": "m19-n027",
+   "q": "Arrows (marking 1.14.2) are marked on the “zebra crossing”, as shown in the diagram. What do they show?",
+   "options": [
+    "The direction for vehicles to drive around the crossing",
+    "That traffic on the crossing is controlled by traffic lights",
+    "A place where vehicles may make a U-turn",
+    "The direction pedestrians walk across the crossing"
+   ],
+   "answer": 3,
+   "explain": "Markings 1.14.1 and 1.14.2 mark an uncontrolled pedestrian crossing, and the arrows of 1.14.2 show the direction pedestrians should walk across it. For the driver, the rules are the same as for any “zebra crossing”: give way to pedestrians ⟦63⟧."
+  },
+  {
+   "id": "m19-n028",
+   "q": "How does a pedestrian crossing marked with 1.14.3 differ from one marked with 1.14.1?",
+   "options": [
+    "Marking 1.14.3 marks an underground pedestrian crossing",
+    "It does not: this is exactly the same marking",
+    "At a 1.14.3 crossing, traffic is controlled by traffic lights",
+    "Marking 1.14.3 marks a cycle track crossing"
+   ],
+   "answer": 2,
+   "explain": "1.14.1 and 1.14.2 mark an uncontrolled crossing, while 1.14.3 marks a crossing where traffic is controlled by traffic lights. There, the driver follows the traffic light signal, but on a permissive signal still gives way to pedestrians who are finishing crossing ⟦64⟧."
+  },
+  {
+   "id": "m19-n029",
+   "q": "Which driver is allowed to stop?",
+   "options": [
+    "Only the blue car",
+    "Only the green car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "Stopping is prohibited on pedestrian crossings and within 5 m before them ⟦65⟧. The green car is stopped only 3 m before the “zebra crossing” and blocks pedestrians from other drivers' view. The blue car has stopped after the crossing, where there is no such restriction."
+  },
+  {
+   "id": "m19-n030",
+   "q": "Where a cycle track crosses the carriageway, a marking made of squares is applied, as shown in the diagram. What is its number?",
+   "options": [
+    "1.14.1",
+    "1.15",
+    "1.16.1",
+    "1.17"
+   ],
+   "answer": 1,
+   "explain": "Marking 1.15 marks the place where a cycle track crosses the carriageway. Outside an intersection, at such an uncontrolled crossing, the cyclist gives way to vehicles on the road ⟦66⟧, but the driver still needs to be ready to brake.",
+   "scene": {
+    "side.0.text": "cycle track",
+    "side.1.text": "cycle track"
+   }
+  },
+  {
+   "id": "m19-n031",
+   "q": "A traffic island is marked in the middle of the road. Which paths may you continue along?",
+   "options": [
+    "Only A",
+    "Only B",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "Marking 1.16.1 marks a traffic island where oncoming flows are divided. Islands and other objects in the middle of the carriageway are passed on the right, unless signs or markings require otherwise ⟦67⟧. Path B leads onto the oncoming side, across solid lines and over the island."
+  },
+  {
+   "id": "m19-n032",
+   "q": "The island in the diagram divides oncoming traffic flows. Which marking 1.16 applies here?",
+   "options": [
+    "1.16.1 - dividing oncoming flows",
+    "1.16.2 - dividing flows in one direction",
+    "1.16.3 - merging flows",
+    "This is not 1.16, but a parking place marking"
+   ],
+   "answer": 0,
+   "explain": "Marking 1.16 marks traffic islands: 1.16.1 where oncoming flows are divided, 1.16.2 where flows in one direction are divided, 1.16.3 where flows merge. Here the island stands between the oncoming lanes, so this is 1.16.1."
+  },
+  {
+   "id": "m19-n033",
+   "q": "Which driver is allowed to stop?",
+   "options": [
+    "The bus and the green car",
+    "Only the bus",
+    "All three",
+    "The bus and the blue car"
+   ],
+   "answer": 3,
+   "explain": "Marking 1.17 marks a route vehicle stop. Stopping at the stopping area and within 15 m of it is prohibited for everyone except category M2 and M3 vehicles, which include the bus ⟦68⟧. The green car is stopped 10 m before the stop and is breaking the rule; the blue car is 20 m after it."
+  },
+  {
+   "id": "m19-n034",
+   "q": "You are in the left lane and have already passed the marking arrows. Which paths may you continue along?",
+   "options": [
+    "Only A",
+    "Only B",
+    "Both",
+    "Neither"
+   ],
+   "answer": 1,
+   "explain": "Arrows 1.18 show where you may drive from each lane. Only the “ahead” arrow is marked in your lane, so turning left from it is prohibited, even though the lane is the far left one and the intersection is clear."
+  },
+  {
+   "id": "m19-n035",
+   "q": "You are in the right lane and have already passed the marking arrows. Which paths may you continue along?",
+   "options": [
+    "Only A",
+    "Only B",
+    "Both",
+    "Neither"
+   ],
+   "answer": 1,
+   "explain": "Arrow 1.18 in your lane allows only a right turn. You may not drive straight ahead from this lane; for that you would have needed to move into the left lane in good time."
+  }
+ ]
+}

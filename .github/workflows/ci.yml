@@ -1,0 +1,36 @@
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  test:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Зависимости
+        run: |
+          npm ci --prefix server
+          pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Сборка сайта на трех языках (строгий режим, ошибки останавливают сборку)
+        run: python3 build.py --verified --api --lang all --strict
+      - name: Готовый первый экран в HTML
+        run: python3 tools/prerender.py
+      - name: Проверки сборки
+        run: |
+          node tools/signs_test.js
+          python3 tools/seo_test.py
+          python3 tools/i18n_build_test.py
+      - name: Проверка в браузере (скорость, знаки, экзамен)
+        run: |
+          python3 -m http.server 3200 --directory site/public --bind 127.0.0.1 >/dev/null 2>&1 &
+          sleep 2
+          python3 tools/e2e_perf.py http://127.0.0.1:3200

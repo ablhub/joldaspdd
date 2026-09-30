@@ -1,0 +1,582 @@
+{
+ "questions": [
+  {
+   "id": "m16-n011",
+   "q": "There are two of you with an adult who is not responding and is not breathing normally. What is the best way to split up the actions?",
+   "options": [
+    "Both of you call different services, and start compressions only after the calls",
+    "One calls 112 and looks for a defibrillator, the other starts compressions straight away",
+    "Both of you wait next to them for the ambulance, so as not to cause harm with unskilled help",
+    "One holds the head, the other spends about five minutes checking for a pulse at the neck and wrist"
+   ],
+   "answer": 1,
+   "explain": "Help must not be delayed: start compressions straight away, while calling for help and looking for an automated defibrillator happen at the same time. Use the defibrillator as soon as it is brought to you ⟦1⟧."
+  },
+  {
+   "id": "m16-n012",
+   "q": "You are alone with an adult who does not respond to your voice or touch. According to the 2025 guidance, what should you do first?",
+   "options": [
+    "Call 112 or 103 on loudspeaker straight away and check breathing",
+    "Give compressions for a minute and only then call an ambulance",
+    "First look through their belongings for documents to give the dispatcher",
+    "Put them in your car and quickly drive them to the nearest hospital"
+   ],
+   "answer": 0,
+   "explain": "RC UK 2025 advises calling straight away as soon as the person stops responding, and checking breathing while the call goes through. If breathing is abnormal, the dispatcher will help you start compressions."
+  },
+  {
+   "id": "m16-n013",
+   "q": "You are on a highway and do not know the exact address. How should you describe the location to the dispatcher?",
+   "options": [
+    "Say “somewhere outside town” and wait for the dispatcher to find you",
+    "Give the highway, the nearest kilometre marker, the direction and landmarks",
+    "Give the town you set off from and roughly how long you have been driving",
+    "Ask the dispatcher to find you using your vehicle's number plate"
+   ],
+   "answer": 1,
+   "explain": "Without an exact location, the crew will lose time. Give the road, the kilometre marker, the direction you were driving in, and what you can see nearby: a filling station, a bridge, a turning to a village (First Aid Rules of the Republic of Kazakhstan, para. 16; Highway Code UK, para. 283)."
+  },
+  {
+   "id": "m16-n014",
+   "q": "How do you check whether a casualty is conscious?",
+   "options": [
+    "Speak to them loudly and gently shake their shoulders",
+    "Slap their cheeks hard several times and pinch them",
+    "Prick their finger with a pin and see whether they pull their hand away",
+    "Let them sniff smelling salts and check whether they pull their head away"
+   ],
+   "answer": 0,
+   "explain": "It is enough to ask loudly, for example “Can you hear me?”, and gently shake their shoulders ⟦2⟧. There is no need to cause pain. If there is no response, call for help straight away and check breathing."
+  },
+  {
+   "id": "m16-n015",
+   "q": "A casualty in a road accident is conscious and answering questions. What should you do until the medics arrive?",
+   "options": [
+    "Help them to their feet and take them to your car, where it is warmer",
+    "Leave them alone and drive to the nearest village for help",
+    "Give them strong sweet tea to drink so they come round more quickly",
+    "Do not move them unless necessary, ask what hurts, and keep watching them"
+   ],
+   "answer": 3,
+   "explain": "In a road accident, hidden injuries are possible, including to the spine. If there is no danger, the person is not moved, and they are given nothing to eat or drink (Highway Code UK). Talk to them, find out what hurts, and keep watching their condition until the medics arrive."
+  },
+  {
+   "id": "m16-n016",
+   "q": "How do you check whether an unconscious person is breathing?",
+   "options": [
+    "Hold a small mirror to their nose and wait 5 minutes to see whether it mists up",
+    "Feel for a pulse at the wrist and count the beats for a whole minute",
+    "Look for chest movement, and listen and feel for breath with your cheek",
+    "Sit them up and see whether they can hold their head up"
+   ],
+   "answer": 2,
+   "explain": "For no more than 10 seconds, look for chest movement, and listen and feel for breath ⟦3⟧. Occasional gasping breaths are not normal breathing - they are a sign of cardiac arrest."
+  },
+  {
+   "id": "m16-n017",
+   "q": "Where do you place your hands for chest compressions on an adult?",
+   "options": [
+    "The heel of your hand - on the stomach, just below the ribs",
+    "The heel of your hand - on the left side of the chest, directly over the heart",
+    "The heel of your hand - in the centre of the chest, on the lower half of the breastbone",
+    "The heel of your hand - on the upper part of the breastbone, near the neck"
+   ],
+   "answer": 2,
+   "explain": "Place the heel of one hand in the centre of the chest, on the lower half of the breastbone, with the other hand on top ⟦4⟧. Keep your arms straight and press using your body weight."
+  },
+  {
+   "id": "m16-n018",
+   "q": "What should you do with your hands between chest compressions?",
+   "options": [
+    "Lift your hands off the chest and clap to keep the rhythm",
+    "Keep the chest slightly pressed down, so as not to lose depth",
+    "Shift your hands slightly each time, so as not to break a single rib",
+    "Let the chest fully recoil, without leaning on it"
+   ],
+   "answer": 3,
+   "explain": "After each compression, the chest must fully recoil - do not lean on it ⟦5⟧. Otherwise the heart does not have time to fill with blood."
+  },
+  {
+   "id": "m16-n019",
+   "q": "You have completed a first aid course and are willing to give rescue breaths. How do you alternate compressions and breaths when resuscitating an adult?",
+   "options": [
+    "30 compressions and 2 breaths",
+    "15 compressions and 1 breath",
+    "5 compressions and 5 breaths",
+    "Breaths only, no compressions"
+   ],
+   "answer": 0,
+   "explain": "A trained rescuer alternates 30 compressions with 2 breaths. If you are not trained or not willing to give breaths, give continuous compressions."
+  },
+  {
+   "id": "m16-n020",
+   "q": "How do you give a rescue breath correctly?",
+   "options": [
+    "Blow as hard as you can to get as much air in as possible, to fill the lungs",
+    "About a second, until the chest starts to rise",
+    "Blow slowly for about 5 seconds, until the chest rises as far as it will go",
+    "Blow into the mouth without pinching the nose, twice in a row within one second"
+   ],
+   "answer": 1,
+   "explain": "Each breath lasts about a second and should be strong enough to make the chest visibly rise ⟦6⟧. Too forceful a breath inflates the stomach and can cause vomiting."
+  },
+  {
+   "id": "m16-n021",
+   "q": "You are giving compressions. Someone you know comes over and asks what happened. What should you do?",
+   "options": [
+    "Answer briefly without stopping the compressions",
+    "Stop and explain everything in detail",
+    "Ask them to wait while you check the pulse",
+    "Stop the resuscitation, since help has already arrived"
+   ],
+   "answer": 0,
+   "explain": "Interruptions in compressions must be as short as possible: while there are no compressions, blood does not reach the brain. It is better to ask the person you know to call 112 or find a defibrillator."
+  },
+  {
+   "id": "m16-n022",
+   "q": "A driver is sitting in a vehicle, unconscious and not breathing normally. The vehicle is not on fire. How should you carry out resuscitation?",
+   "options": [
+    "Give compressions right there in the seat, so as not to touch the neck and back",
+    "Remove them, lay them on their back on a firm surface, and start compressions",
+    "Wait for the ambulance: in a road accident, casualties are not pulled out of the vehicle",
+    "Recline the seat back and give only breaths, without chest compressions"
+   ],
+   "answer": 1,
+   "explain": "You cannot give effective compressions while someone is sitting in a seat: resuscitation works best on a firm surface ⟦7⟧. In cardiac arrest, saving a life matters more than the risk of a spinal injury, so the person is carefully removed, if possible by two people, keeping the head and neck in line with the torso."
+  },
+  {
+   "id": "m16-n023",
+   "q": "A passer-by has brought an automated external defibrillator (AED). How should you use it?",
+   "options": [
+    "Put it aside until the medics arrive: only doctors use this device",
+    "First give compressions for 10 minutes, then switch the device on",
+    "Switch it on only if you can feel a pulse in the person's neck",
+    "Switch it on straight away and follow its prompts, giving compressions in between"
+   ],
+   "answer": 3,
+   "explain": "Use the AED as soon as it becomes available. The device analyses the heart rhythm itself and tells you what to do, including when not to touch the person. After a shock, continue compressions straight away ⟦8⟧."
+  },
+  {
+   "id": "m16-n024",
+   "q": "Who can use an automated external defibrillator?",
+   "options": [
+    "Only ambulance doctors",
+    "Only police officers",
+    "Anyone, even without special training",
+    "Only someone with a medical certificate"
+   ],
+   "answer": 2,
+   "explain": "Anyone can use an AED: the device works out for itself whether a shock is needed and gives voice prompts. Using a defibrillator early greatly increases the chance of survival."
+  },
+  {
+   "id": "m16-n025",
+   "q": "There are two of you, you have been giving compressions for several minutes, and you feel yourself getting tired. What should you do?",
+   "options": [
+    "Both take a break for a couple of minutes, then carry on",
+    "Swap roughly every 2 minutes, making the changeover quick",
+    "Press less deeply, so you have enough strength until the ambulance arrives",
+    "Give compressions less often, about 30 a minute, but harder"
+   ],
+   "answer": 1,
+   "explain": "A tired rescuer presses more and more weakly: compression depth already falls off after 1.5-2 minutes. That is why, with two rescuers, you swap roughly every 2 minutes and make the changeover without long pauses (AHA 2025)."
+  },
+  {
+   "id": "m16-n026",
+   "q": "When can you stop cardiopulmonary resuscitation?",
+   "options": [
+    "After 5 minutes, if the person still has not started breathing on their own",
+    "When the casualty's skin turns pink, even if they are not breathing",
+    "As soon as the police arrive at the scene and start processing the accident",
+    "When the medics take over, the person wakes up, or you run out of strength"
+   ],
+   "answer": 3,
+   "explain": "Continue resuscitation until the medics take over, until the person starts to respond and breathe normally, or until you physically have no strength left ⟦9⟧."
+  },
+  {
+   "id": "m16-n027",
+   "q": "A 6-year-old child is not responding after a road accident. You have never been trained in child resuscitation. What should you do?",
+   "options": [
+    "Call 112 or 103 and give resuscitation following the dispatcher's instructions",
+    "Do nothing until the ambulance arrives: unskilled help will harm the child",
+    "Pick the child up and shake them upside down to make them start breathing",
+    "Put the child in the car and quickly drive them to their parents or a doctor"
+   ],
+   "answer": 0,
+   "explain": "If you are not trained in child resuscitation, check whether the child responds, call an ambulance straight away, and start resuscitation following the dispatcher's instructions ⟦10⟧. Any resuscitation is better than none."
+  },
+  {
+   "id": "m16-n028",
+   "q": "You are trained in child resuscitation. What does resuscitation of a child who is not responding and not breathing normally begin with?",
+   "options": [
+    "With 30 chest compressions, adding breaths only after 2 minutes",
+    "With 2 breaths, then 5 compressions, alternating like this until the ambulance arrives",
+    "With 5 breaths, then alternating chest compressions and breaths",
+    "With 10 pushes on the stomach, to force air out of the lungs"
+   ],
+   "answer": 2,
+   "explain": "Both RC UK 2025 and the First Aid Standard of the Republic of Kazakhstan begin child resuscitation with 5 initial rescue breaths: in children, cardiac arrest is more often caused by a lack of oxygen. After that, rescuers trained in child resuscitation under RC UK 2025 alternate 15 compressions with 2 breaths, while the Kazakhstan Standard gives 30:2."
+  },
+  {
+   "id": "m16-n029",
+   "q": "To what depth do you compress the chest when resuscitating a child?",
+   "options": [
+    "Just a little, 1 cm, so as not to break the ribs",
+    "At least 8 cm, as for a large adult",
+    "About half the depth of the chest",
+    "At least a third of the depth of the chest"
+   ],
+   "answer": 3,
+   "explain": "A child's chest is compressed by at least a third of its depth, at a rate of 100-120 compressions a minute, but no deeper than 6 cm at any age ⟦11⟧. The Kazakhstan Standard gives 4-5 cm for children aged 1-12."
+  },
+  {
+   "id": "m16-n030",
+   "q": "An AED with a paediatric mode has been brought for a child weighing about 20 kg. What should you do?",
+   "options": [
+    "Do not use it: a defibrillator is dangerous for children under 12",
+    "Do not switch it on until the doctors arrive, and give only breaths for now",
+    "Switch on the paediatric mode and follow the device's prompts",
+    "Switch on the adult mode: children need a stronger shock"
+   ],
+   "answer": 2,
+   "explain": "A defibrillator can also be used on children. If the device has a paediatric mode, it is switched on for infants and children weighing less than 25 kg, which is roughly up to age 8 ⟦12⟧."
+  },
+  {
+   "id": "m16-n031",
+   "q": "After a road accident, a casualty is lying on their back, unconscious but breathing normally. A neck injury is possible, and there is no vomiting. What should you do?",
+   "options": [
+    "Turn them straight into the recovery position and cover them",
+    "Do not move them, hold their head steady with your hands, and watch their breathing",
+    "Carefully sit them up against the car, so it is easier for them to breathe",
+    "Put a rolled-up jacket under their head to raise it, and leave them alone"
+   ],
+   "answer": 1,
+   "explain": "With an injury, a casualty is not put into the recovery position unless necessary ⟦13⟧. If they are lying on their back, kneel at their head and hold it with your hands in a neutral position, constantly watching their breathing ⟦14⟧. If they start to vomit or their breathing becomes difficult, carefully turn them onto their side."
+  },
+  {
+   "id": "m16-n032",
+   "q": "An unconscious casualty from a road accident, lying on their back, starts to vomit. What should you do?",
+   "options": [
+    "Turn them onto their side, keeping the head, neck and torso in line",
+    "Do not touch them: unconscious casualties in a road accident are not moved at all",
+    "Sit them up and lean them forward, supporting the head with your hands",
+    "Raise their head and give them water to rinse their mouth"
+   ],
+   "answer": 0,
+   "explain": "The airway matters more than keeping the neck still ⟦15⟧. To stop the person from choking, turn them onto their side “as one unit”, if possible with two people, without bending or twisting the spine (MedlinePlus)."
+  },
+  {
+   "id": "m16-n033",
+   "q": "An unconscious person is taking occasional gasping breaths. A helper suggests turning them into the recovery position. Are they right?",
+   "options": [
+    "Yes: in the recovery position the tongue will not fall back, and it will be easier for them to breathe",
+    "Yes, and then let them sniff smelling salts to steady their breathing",
+    "No: this is a sign of cardiac arrest, and you need to call an ambulance and give compressions",
+    "No: they need to be sat up and have their clothing loosened, so it is easier to breathe"
+   ],
+   "answer": 2,
+   "explain": "Occasional gasping breaths are not normal breathing. With agonal breathing, the person is not put into the recovery position - instead, call an ambulance and start resuscitation ⟦16⟧."
+  },
+  {
+   "id": "m16-n034",
+   "q": "There is a cervical collar in the car. Does the first person helping need to put it on a casualty with a suspected neck injury?",
+   "options": [
+    "Yes: in any road accident, a collar is put on every casualty",
+    "No: without special training it is not put on - the head is held with the hands",
+    "Yes, but only if the person is unconscious and cannot hold their own head",
+    "Yes, and tighten it firmly so the neck does not move at all"
+   ],
+   "answer": 1,
+   "explain": "Collars and other spinal immobilisation equipment are used only by specially trained rescuers ⟦17⟧. The first person helping limits movement of the neck by holding the head with their hands in a neutral position."
+  },
+  {
+   "id": "m16-n035",
+   "q": "An unconscious casualty may have a neck injury and needs their airway cleared. What matters more?",
+   "options": [
+    "Keeping the neck still: the airway can wait until the ambulance arrives",
+    "First find and fit a collar, then deal with breathing",
+    "Do not touch anything: any movement could damage the spinal cord",
+    "The airway: opening it matters more than keeping the neck still"
+   ],
+   "answer": 3,
+   "explain": "Without breathing, a person will die within minutes, so opening the airway matters more than keeping the neck still ⟦18⟧. Do this gently, trying to keep the neck in a neutral position."
+  },
+  {
+   "id": "m16-n036",
+   "q": "A casualty with back pain, very agitated, is trying to get up. Persuasion is not working. What should you do?",
+   "options": [
+    "Calmly keep asking them not to move, but do not hold them down by force",
+    "Hold them down by force, pinning their shoulders to the ground until the ambulance arrives",
+    "Help them quickly get up and walk a little, since that is what they want",
+    "Sternly threaten to leave if they do not lie still"
+   ],
+   "answer": 0,
+   "explain": "Ask the person to stay still, but never force them into a particular position: struggling can make the injury worse ⟦19⟧. Speak calmly and explain why it is important not to move."
+  },
+  {
+   "id": "m16-n037",
+   "q": "A casualty has a heavily bleeding wound on the forearm. What should you do first?",
+   "options": [
+    "Press firmly and continuously on the wound through clean cloth or a dressing",
+    "Remove the clothing from the wound and examine how deep the cut is",
+    "Apply a tourniquet to the upper arm straight away, without even trying to press on the wound",
+    "Cover the wound with salt or sugar to make the blood clot faster"
+   ],
+   "answer": 0,
+   "explain": "The first and main way to stop severe bleeding is firm direct pressure on the wound ⟦20⟧. A tourniquet is needed only if bleeding from a limb is life-threatening and cannot be stopped with pressure."
+  },
+  {
+   "id": "m16-n038",
+   "q": "The dressing you are pressing onto the wound has soaked through. What should you do?",
+   "options": [
+    "Remove it, quickly examine the wound, and press on a new dressing",
+    "Stop pressing: the blood will clot by itself under the wet dressing",
+    "Do not remove it: put another one on top and keep pressing firmly",
+    "Remove the dressing and apply a tourniquet, even if the wound is on the stomach"
+   ],
+   "answer": 2,
+   "explain": "Do not remove a soaked-through dressing: this can dislodge the clot that has started to form. Put more cloth on top and keep pressing firmly (American Red Cross). A tourniquet is applied only to an arm or a leg ⟦21⟧."
+  },
+  {
+   "id": "m16-n039",
+   "q": "A tourniquet was applied 40 minutes ago, and the ambulance is still on its way. A relative suggests loosening the tourniquet “to let the leg rest”. What should you do?",
+   "options": [
+    "Loosen it for a couple of minutes, then tighten it again",
+    "Remove it completely: after 40 minutes, the tourniquet is already more dangerous than the wound",
+    "Move the tourniquet below the wound, so the leg does not go numb",
+    "Do not loosen or remove it: only medics do this"
+   ],
+   "answer": 3,
+   "explain": "Once applied, a tourniquet is not loosened or removed: only medics remove it ⟦22⟧. The time it was applied must be recorded and reported to the crew."
+  },
+  {
+   "id": "m16-n040",
+   "q": "For what kind of bleeding is a tourniquet used?",
+   "options": [
+    "For any bleeding from an arm or leg, straight away, even before pressing on the wound",
+    "For life-threatening bleeding from an arm or leg, if pressure does not help",
+    "For severe nosebleeds, if they do not stop within 10-15 minutes",
+    "For any severe bleeding, including from a wound on the stomach or neck"
+   ],
+   "answer": 1,
+   "explain": "A tourniquet is a device for limbs. It is applied for life-threatening bleeding from an arm or leg, if direct pressure does not help: 5-7 cm above the wound, and not over a joint ⟦23⟧."
+  },
+  {
+   "id": "m16-n041",
+   "q": "A piece of metal is sticking out of a wound on the thigh. What should you do?",
+   "options": [
+    "Quickly pull it out and immediately press firmly on the wound with clean cloth",
+    "Do not remove it: pad around it with rolls of cloth and press around it",
+    "Cut off the protruding part level with the skin and bandage the leg",
+    "Apply a tight pressure dressing directly over the fragment and the wound"
+   ],
+   "answer": 1,
+   "explain": "An embedded object may itself be blocking a damaged blood vessel, and removing it will make the bleeding worse. It is not removed - instead, pad around it with soft rolls of cloth and press around the edges, not on the object itself (Highway Code UK, Annex 7)."
+  },
+  {
+   "id": "m16-n042",
+   "q": "Which of these is part of the first aid kit contents approved by the Ministry of Health of the Republic of Kazakhstan, and helps to stop severe bleeding?",
+   "options": [
+    "Painkiller tablets and cotton wool",
+    "Smelling salts and validol",
+    "A cervical collar and a splint",
+    "A tourniquet and gauze bandages"
+   ],
+   "answer": 3,
+   "explain": "Under the contents set by the Ministry of Health of the Republic of Kazakhstan, the first aid kit contains a tourniquet, sterile and non-sterile bandages, a dressing pack, plasters, gloves, scissors, a resuscitation face shield and a survival blanket. There are no medicines, smelling salts, cervical collar or splint in this list.",
+   "ref": "First aid kit contents (Order of the Ministry of Health of the Republic of Kazakhstan No. 118/2020); List of Defects, para. 38"
+  },
+  {
+   "id": "m16-n043",
+   "q": "A driver burned their hand an hour ago and has done nothing since. Is there any point cooling the burn now?",
+   "options": [
+    "No: cooling only helps in the first 5 minutes after a burn",
+    "No: after an hour, a burn should only be treated with oil or cream",
+    "Yes: cooling with water helps if you start within 3 hours",
+    "Yes, but only with ice now, otherwise the burn will not cool down"
+   ],
+   "answer": 2,
+   "explain": "Cool a burn with cool running water for at least 20 minutes. This can help even if started within 3 hours of the burn, but the sooner the better (ANZCOR 9.1.3)."
+  },
+  {
+   "id": "m16-n044",
+   "q": "It is winter, water is scarce, but there is plenty of snow around. Can you put snow or ice on a burn?",
+   "options": [
+    "No: ice and snow damage tissue - you need cool water",
+    "Yes: snow is clean, and the burn will cool faster than under water",
+    "Yes, if you wrap the ice in cloth and hold it there for about an hour",
+    "Yes, but only for a small burn on the face or fingers"
+   ],
+   "answer": 0,
+   "explain": "Ice and icy water cause additional tissue damage (ANZCOR 9.1.3). Cool the burn with cool running water, and if there is little available, use what you have, and keep the person from becoming too cold."
+  },
+  {
+   "id": "m16-n045",
+   "q": "Blisters have formed at the site of a burn. What should you do?",
+   "options": [
+    "Prick them with a clean needle and let the fluid out",
+    "Cut off the skin of the blister with scissors from the first aid kit",
+    "Do not open the blisters, and loosely cover the burn",
+    "Cauterise them with alcohol and bandage tightly"
+   ],
+   "answer": 2,
+   "explain": "Blisters are not pricked or cut off: the skin over them protects the burn from infection (ANZCOR 9.1.3). Cool the burn, then loosely cover it with a clean material."
+  },
+  {
+   "id": "m16-n046",
+   "q": "Clothing has stuck to the burnt skin, and there are rings on the fingers. What should you do?",
+   "options": [
+    "Do not pull off the stuck fabric, but carefully remove the rings and watch",
+    "Quickly rip off the stuck clothing while the burn is still fresh",
+    "Do not remove anything, not even the rings: this will be done at the hospital",
+    "Rub everything with oil to make it easier to remove the clothing and rings"
+   ],
+   "answer": 0,
+   "explain": "Stuck clothing is not pulled off, so as not to tear the skin. Rings, watches and tight items are removed straight away: burnt tissue swells, and jewellery will start to constrict the finger or hand (ANZCOR 9.1.3)."
+  },
+  {
+   "id": "m16-n047",
+   "q": "A burn has been cooled for 20 minutes. What should you cover it with?",
+   "options": [
+    "Pack it with a thick layer of cotton wool and bandage it tightly",
+    "Loosely apply cling film or a non-stick dressing",
+    "Rub in burn cream and bandage it fairly tightly",
+    "Nothing: let the burn dry out in the air and form a scab"
+   ],
+   "answer": 1,
+   "explain": "Cotton wool sticks to the wound. Loosely cover the burn with cling film or a clean non-stick dressing. Lay the film along the limb rather than wrapping it around, since the limb will swell (ANZCOR 9.1.3)."
+  },
+  {
+   "id": "m16-n048",
+   "q": "You are cooling a large burn on someone's leg with water, and they start shivering from the cold. What should you do?",
+   "options": [
+    "Stop cooling and rub the leg to warm it up",
+    "Give them a little alcohol to drink to warm up from the inside",
+    "Pack the burn with snow instead of water, and wrap up the body",
+    "Cool only the burn, and cover the rest of the body"
+   ],
+   "answer": 3,
+   "explain": "With large burns, it is easy to make the person too cold. Cool only the burnt area, and cover the rest of the body to keep them warm (ANZCOR 9.1.3)."
+  },
+  {
+   "id": "m16-n049",
+   "q": "Someone's clothing has caught fire. What should you do?",
+   "options": [
+    "Let them run to the nearest water and jump in",
+    "Do not let them run: lay them down, cover them with heavy cloth, and roll them over",
+    "Wave a jacket at the flames to blow the fire out with a rush of air",
+    "Let them stand still and beat out the flames with their hands while you look for water"
+   ],
+   "answer": 1,
+   "explain": "Running makes the flames burn more fiercely. Stop the person, lay them down, cover them with heavy cloth and roll them along the ground, then cool the burn with water (ANZCOR 9.1.3)."
+  },
+  {
+   "id": "m16-n050",
+   "q": "Electrolyte from a broken battery has splashed onto someone's hand. What should you do?",
+   "options": [
+    "Wipe it off with a dry cloth and do nothing more",
+    "Sprinkle on baking soda to neutralise the acid, and do not rinse it off",
+    "Rinse it immediately under running water for at least 20 minutes",
+    "Apply a thick cream to protect the skin from the acid"
+   ],
+   "answer": 2,
+   "explain": "A chemical burn is rinsed immediately under running water for at least 20 minutes, to wash away the acid (ANZCOR 9.1.3). Baking soda or cream will not replace rinsing, and will only waste time."
+  },
+  {
+   "id": "m16-n051",
+   "q": "A casualty has an open fracture of the shin: bone is visible in the wound. What should you do?",
+   "options": [
+    "Do not touch the bone, cover the wound with a clean dressing, and immobilise the leg",
+    "Carefully push the bone back into place, then apply a tight dressing",
+    "Push the bone back inside the wound and bandage the leg tightly",
+    "Ask the casualty to move their leg to check for a fracture"
+   ],
+   "answer": 0,
+   "explain": "The bone is not set, and nothing reaches into the wound, so as not to introduce infection or damage blood vessels. Cover the wound with a clean dressing, and immobilise the leg in the position found (MedlinePlus; First Aid Standard of the Republic of Kazakhstan, para. 8)."
+  },
+  {
+   "id": "m16-n052",
+   "q": "How should you correctly immobilise a leg with a suspected fracture of the shin?",
+   "options": [
+    "Straighten the leg and tie it to a board only at the site of the fracture",
+    "Tightly wrap the injury site with a tourniquet, so it does not swell",
+    "Do not immobilise anything, and help the person walk to the car",
+    "Without straightening it, splint it above and below the injury site"
+   ],
+   "answer": 3,
+   "explain": "The leg is not straightened and is immobilised in the position found, supporting the areas both above and below the injury (MedlinePlus; First Aid Standard of the Republic of Kazakhstan, para. 8). Rolled-up clothing, a board or a rolled-up newspaper will do."
+  },
+  {
+   "id": "m16-n053",
+   "q": "Which signs in a casualty after a road accident suggest possible shock?",
+   "options": [
+    "A red face, a slow strong pulse, hot and dry skin",
+    "Frequent sneezing, hiccups, itchy skin and red eyes",
+    "Pale, cold, clammy skin, a fast weak pulse",
+    "A small bruise on the arm and complaints of mild knee pain"
+   ],
+   "answer": 2,
+   "explain": "Shock is a dangerous disruption of blood supply to the organs, for example due to blood loss. Its signs are pale, cold, clammy skin, a fast weak pulse, shallow breathing, restlessness or confusion (MedlinePlus). Call 112 or 103, stop any bleeding, lay the person down and cover them, and give them nothing to eat or drink."
+  },
+  {
+   "id": "m16-n054",
+   "q": "A motorcyclist is conscious and breathing normally after a fall. Does the helmet need to be removed?",
+   "options": [
+    "Yes, straight away, so it is easier for them to breathe and speak",
+    "No: a helmet is not removed unless it is needed to save a life",
+    "Yes, to examine the head and check for a wound",
+    "Yes, but carefully, leaving only the chin strap fastened"
+   ],
+   "answer": 1,
+   "explain": "Removing a helmet can easily shift the head and injure the neck, so it is removed only if necessary (Highway Code UK, para. 283). If the person is breathing normally, the helmet is left on until the medics arrive, and the motorcyclist should not move their head suddenly."
+  },
+  {
+   "id": "m16-n055",
+   "q": "A motorcyclist is unconscious and not breathing normally, with their face covered by the helmet. What should you do?",
+   "options": [
+    "Do not touch the helmet under any circumstances, and wait for the ambulance",
+    "Quickly rip off the helmet in one pull, so as not to waste time",
+    "Only check the pulse through the jacket collar and wait for the doctors",
+    "Remove the helmet with two people: one holds the head and neck, the other slides the helmet off"
+   ],
+   "answer": 3,
+   "explain": "The helmet is removed only when necessary, for example to open the airway and start resuscitation: the airway matters more than keeping the neck still ⟦24⟧. If possible, this is done by two people: one holds the head and neck, while the other slides the helmet off without twisting it."
+  },
+  {
+   "id": "m16-n056",
+   "q": "On which vehicles in Kazakhstan must there be a first aid kit?",
+   "options": [
+    "On passenger cars, trucks, buses, wheeled tractors and motorcycles with a sidecar",
+    "Only on buses, taxis and other vehicles that carry passengers for a fare",
+    "Only on vehicles that carry children, and on school and city bus routes",
+    "On none: in Kazakhstan, having a first aid kit in a vehicle is only a recommendation, not a requirement"
+   ],
+   "answer": 0,
+   "explain": "Under the List of Defects, it is prohibited to operate a bus, a passenger car, a truck or a wheeled tractor without a first aid kit, a fire extinguisher and a warning triangle. A motorcycle with a sidecar must have a first aid kit and a warning triangle ⟦25⟧."
+  },
+  {
+   "id": "m16-n057",
+   "q": "A passenger has choked on food: at first they were coughing, but now they cannot cough or speak. What should you do?",
+   "options": [
+    "Give up to five back blows between the shoulder blades",
+    "Give them water to wash the piece down",
+    "Try to reach the piece with your fingers, blindly, deep in the throat",
+    "Wait for them to cough it up on their own, and do not touch them"
+   ],
+   "answer": 0,
+   "explain": "While the person is coughing, encourage them to keep coughing. If the cough stops or becomes ineffective, give up to five back blows, then, if needed, up to five abdominal thrusts, and call an ambulance. Do not sweep the throat blindly with your fingers, and if the person loses consciousness, start resuscitation ⟦26⟧."
+  },
+  {
+   "id": "m16-n058",
+   "q": "You are involved in a road accident in which someone was injured. What do the Rules require you to do for them?",
+   "options": [
+    "Nothing: only medics and rescuers give help to casualties",
+    "Take possible steps to give first aid and call an ambulance",
+    "Only take down their details and report them to your insurance company",
+    "Wait for the police and only approach the casualty with their permission"
+   ],
+   "answer": 1,
+   "explain": "A driver involved in a road accident must take possible steps to give first aid to the injured and call an ambulance. In an emergency, the injured person is sent in a passing vehicle, and if that is not possible, taken to the nearest hospital in the driver's own vehicle."
+  }
+ ],
+ "pack": "m16-2"
+}

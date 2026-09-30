@@ -1,0 +1,6 @@
+[Unit]
+Description=Apply Joldas domain to Caddy
+
+[Service]
+Type=oneshot
+ExecStart=/bin/bash -c '/bin/bash /opt/joldas/current/deploy/caddy-config.sh && systemctl reload caddy'

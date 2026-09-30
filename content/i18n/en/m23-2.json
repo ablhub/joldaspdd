@@ -1,0 +1,581 @@
+{
+ "questions": [
+  {
+   "id": "m23-028",
+   "q": "You have driven past the stop area by a few metres. May you reverse so that the doors end up opposite the stop area?",
+   "options": [
+    "No: reversing is prohibited at stopping points",
+    "Yes, if there is no one behind you",
+    "Yes, if you switch on the hazard warning lights",
+    "Yes, if a passenger outside signals that the way behind is clear"
+   ],
+   "answer": 0,
+   "explain": "Reversing is prohibited at intersections and in places where U-turns are prohibited ⟦1⟧, and U-turns are prohibited at the locations of stopping points ⟦2⟧. Moving backwards where passengers stand and walk is especially dangerous."
+  },
+  {
+   "id": "m23-029",
+   "q": "What do the Rules prohibit bus passengers from doing while the vehicle is moving?",
+   "options": [
+    "Standing in the saloon even if all the seats are taken by others",
+    "Talking on the phone and listening to music with headphones",
+    "Holding on to the handrails and fastening the seat belts",
+    "Distracting the driver, opening doors and leaning out of windows"
+   ],
+   "answer": 3,
+   "explain": "Passengers are prohibited from distracting the driver while the vehicle is moving, opening the doors, and leaning out of window openings and hatches of the vehicle while it is moving ⟦3⟧. Standing in the saloon of a city bus is allowed if standing places are provided for in its technical specification ⟦4⟧."
+  },
+  {
+   "id": "m23-030",
+   "q": "According to its technical specification, your city bus is designed for 90 passengers, of whom 30 are seated. There are already 90 people on board, and ten more are waiting at the stop. What should you do?",
+   "options": [
+    "Take everyone: overloading is tolerated at rush hour",
+    "Take no more: exceeding the specified capacity is prohibited",
+    "Take them if the new passengers stand near the front door",
+    "Take everyone if nobody complains about the crowding"
+   ],
+   "answer": 1,
+   "explain": "It is prohibited to carry passengers in excess of the number provided for in the vehicle's technical specification, and the actual mass must not exceed the maximum authorised mass ⟦5⟧. Extra people worsen the braking and stability of the bus."
+  },
+  {
+   "id": "m23-031",
+   "q": "Before departure, a passenger on an intercity bus asks you to put two large sacks of goods in the aisle of the saloon: the luggage compartment is already full. What should you do?",
+   "options": [
+    "Refuse: cargo and luggage are carried only in the luggage compartment",
+    "Allow it if the sacks do not block the way to the exit",
+    "Allow them to be put on a free rear seat",
+    "Allow it if the passenger pays extra for carrying the luggage"
+   ],
+   "answer": 0,
+   "explain": "Carrying cargo, including luggage, outside the luggage compartment is not allowed in buses ⟦6⟧. In hard braking the sacks fly forward and block the way to the doors and emergency exits."
+  },
+  {
+   "id": "m23-032",
+   "q": "Your intercity bus is fitted with seat belts on all seats. Before departure, several passengers have not fastened them. What do the Rules say?",
+   "options": [
+    "Seat belts in a bus are the passengers' business; the driver is not responsible for them",
+    "Belts need to be fastened only on the front seats of the saloon",
+    "Belts need to be fastened only on motorways",
+    "Passengers must fasten their belts, and you must not carry anyone who is unbelted"
+   ],
+   "answer": 3,
+   "explain": "If the vehicle is fitted with seat belts, passengers must wear them ⟦7⟧, and the driver must fasten his own belt and not carry passengers who are not belted ⟦8⟧. Ask everyone to fasten their belts before you move off."
+  },
+  {
+   "id": "m23-034",
+   "q": "You are driving your family in your own minibus of category M2: it does not operate as public transport or a taxi. May you move into the lane for route vehicles (sign 5.9, marking “A”), which is separated by a broken line?",
+   "options": [
+    "No: you are neither public transport nor category M3",
+    "Yes: a minibus is a bus too, just like the route buses",
+    "Yes, since the line is broken and the lane is free",
+    "Yes, if there are more than 8 passengers on board"
+   ],
+   "answer": 0,
+   "explain": "The lane for route vehicles may be used only by public transport (including taxis) and other vehicles of category M3 ⟦9⟧. A private M2 minibus meets neither condition. After the changes of 27.04.2026, a broken line no longer gives the right to enter this lane either."
+  },
+  {
+   "id": "m23-035",
+   "q": "You are driving a route bus along the lane for route vehicles. A taxi is driving ahead of you in it. Is the taxi driver breaking the rules?",
+   "options": [
+    "Yes: the lane is only for buses and trolleybuses",
+    "Yes, if the taxi has no passengers at the moment",
+    "No, but only if he is about to turn right",
+    "No: a taxi counts as public transport"
+   ],
+   "answer": 3,
+   "explain": "Under the Rules, public transport is transport available to the public for carrying passengers, and also taxis ⟦10⟧. Public transport is allowed to use the lane for route vehicles ⟦11⟧."
+  },
+  {
+   "id": "m23-036",
+   "q": "A blue car has entered the lane for route vehicles across a broken line and is driving in front of your bus in order to turn right. Is this permitted under the current version of the Rules?",
+   "options": [
+    "Yes: vehicles change into the lane at a broken line before a turn",
+    "Yes, if he switched on the right direction indicator in advance",
+    "No: other vehicles may not drive along this lane even before a turn",
+    "Yes, if there are no route vehicles close by in the lane"
+   ],
+   "answer": 2,
+   "explain": "Previously, para. 126 allowed changing into this lane at a broken line before a turn, when entering the road and for boarding passengers. Order of the Ministry of Internal Affairs of 27.04.2026 No. 305 removed these exceptions: other vehicles, except public transport and other vehicles of category M3, may not drive or stop in the lane ⟦12⟧. You must turn from your own lane, giving way to route vehicles ⟦13⟧."
+  },
+  {
+   "id": "m23-037",
+   "q": "You are driving straight ahead in a route bus along the lane for route vehicles. A blue car from the adjacent lane is turning right. Who must give way?",
+   "options": [
+    "You: the blue car has already begun to turn",
+    "The driver of the blue car",
+    "Whoever signalled first",
+    "No one: the paths do not cross"
+   ],
+   "answer": 1,
+   "explain": "When turning right, the driver gives way to route vehicles and other public transport travelling in the lane marked by sign 5.9 ⟦14⟧. The blue car must let your bus pass and only then turn."
+  },
+  {
+   "id": "m23-038",
+   "q": "You are driving a bus along the lane for route vehicles. This traffic light is installed for the lane. What does it allow you to do?",
+   "options": [
+    "Only to go straight ahead",
+    "To move in all directions",
+    "Only to turn left",
+    "Nothing: movement is prohibited"
+   ],
+   "answer": 0,
+   "explain": "Lunar white signals in the shape of the letter “T” control trams and public transport in the lane for route vehicles. You may proceed when the lower signal is lit together with an upper one: the upper left signal allows a left turn, the middle one allows going straight ahead, and the right one allows a right turn ⟦15⟧. Here the lower and the middle signals are lit, so only straight ahead is allowed."
+  },
+  {
+   "id": "m23-039",
+   "q": "You are approaching an intersection in a bus along the lane for route vehicles. On the traffic light for this lane only the upper left signal is lit, and the lower one is not. May you turn left?",
+   "options": [
+    "No: the lower signal must be lit as well",
+    "Yes: the upper left signal allows a left turn",
+    "Yes, giving way to oncoming vehicles",
+    "Yes, but only for trolleybuses and trams"
+   ],
+   "answer": 0,
+   "explain": "Under para. 30, movement is allowed only when the lower signal is lit together with one or more upper signals. While the lower signal is not lit, you may not proceed in any direction."
+  },
+  {
+   "id": "m23-040",
+   "q": "You are driving a route bus along the lane for route vehicles. There is no cycle track or cycle lane in the street, and an adult cyclist is riding ahead of you in your lane. Is he breaking the rules?",
+   "options": [
+    "Yes: only public transport may use this lane",
+    "Yes, if he prevents the bus from travelling at the required speed",
+    "No, but only if he is not yet 14",
+    "No: without a cycle track, a cyclist may use this lane"
+   ],
+   "answer": 3,
+   "explain": "Para. 126 makes an express exception for the cases in para. 166: where there is no cycle track or cycle lane, cyclists aged 14 and over ride along the right edge of the carriageway, including in the lane for route vehicles. Keep a safe lateral clearance or follow behind him ⟦16⟧."
+  },
+  {
+   "id": "m23-041",
+   "q": "You are the driver of a route bus pulling away from a marked stop in a city. A green car is approaching from behind, and its driver intends to drive around the bus. What should you do?",
+   "options": [
+    "Move off at once: in the city they must give way to you, so there is no need to check",
+    "Switch on the left indicator and move off once you are sure they are giving way to you",
+    "Always let the green car through first",
+    "Sound the horn and move off at once"
+   ],
+   "answer": 1,
+   "explain": "In built-up areas, drivers give way to route buses and trolleybuses that are moving off from a marked stop. But the bus driver, too, moves off only after making sure that he is being given way ⟦17⟧. Before moving off he signals with the direction indicator ⟦18⟧."
+  },
+  {
+   "id": "m23-042",
+   "q": "You are pulling away from a stop in a route bus on a road outside a built-up area. A green car is approaching from behind and intends to drive around the bus. Who must give way?",
+   "options": [
+    "You: outside a city a bus has no priority",
+    "The green car driver: a route bus always has priority",
+    "No one: each driver stays in his own lane",
+    "Whoever switched on the direction indicator first"
+   ],
+   "answer": 0,
+   "explain": "The rule of para. 127 applies only in built-up areas. Moving off from a stop is a manoeuvre ⟦19⟧, and outside a built-up area it must not impede other road users ⟦20⟧. Let the green car pass and then move off."
+  },
+  {
+   "id": "m23-043",
+   "q": "You are driving a chartered bus through a city. Ahead, a trolleybus on its route is pulling away from a marked stop. You were about to drive around it. What should you do?",
+   "options": [
+    "Drive around it: a chartered bus has priority too",
+    "Sound the horn and drive around it",
+    "Give way to the trolleybus",
+    "Drive around it before the trolleybus picks up speed"
+   ],
+   "answer": 2,
+   "explain": "In built-up areas, all drivers, including bus drivers, give way to trolleybuses and buses that travel along an established route and are moving off from a marked stop ⟦21⟧."
+  },
+  {
+   "id": "m23-044",
+   "q": "You have dropped tourists at a route-vehicle stop in a city and are pulling away in a chartered (not route) bus. A green car is approaching from behind and intends to drive around you. Who must give way?",
+   "options": [
+    "The green car driver: in the city everyone gives way to a bus at a stop",
+    "No one: you and the green car are in different lanes",
+    "The green car driver, if you switched on the left indicator",
+    "You: only buses and trolleybuses on a route have priority"
+   ],
+   "answer": 3,
+   "explain": "Para. 127 requires giving way only to buses and trolleybuses that travel along an established route and are moving off from a marked stop. A chartered bus does not have such priority: moving off from a stop is an ordinary manoeuvre ⟦22⟧ that must not hinder others ⟦23⟧."
+  },
+  {
+   "id": "m23-045",
+   "q": "What requirements do the Rules set for a bus used for the organised carriage of a group of children?",
+   "options": [
+    "At least three doors, a blue beacon and the “Children” sign at the front and rear",
+    "At least two doors, an amber beacon and “Carriage of children” signs",
+    "A red and blue beacon and a siren",
+    "Air conditioning, seat belts on all seats and a dashcam"
+   ],
+   "answer": 1,
+   "explain": "Under para. 158, organised groups of children are carried in buses that have at least two doors and whose technical condition meets the Rules for the Carriage of Passengers and Luggage. Such buses are fitted with an amber flashing beacon, and “Carriage of children” signs are placed at the front and rear."
+  },
+  {
+   "id": "m23-046",
+   "q": "What does the “Carriage of children” sign, placed on a bus, look like?",
+   "options": [
+    "A yellow square with a red border and the black symbol of the “Children” sign",
+    "A red triangle with a white border and the black letter “D” in the centre",
+    "A blue circle with a white border and a picture of two children",
+    "A white rectangle with a green border and the word “Children”"
+   ],
+   "answer": 0,
+   "explain": "Under the Basic Provisions on Admitting Vehicles to Operation, the “Carriage of children” sign is a yellow square with a red border and the black symbol of sign 1.21. It is placed at the front and rear of a bus or truck when groups of children are carried ⟦24⟧."
+  },
+  {
+   "id": "m23-047",
+   "q": "A bus driver is 26 years old, holds category “D” and has 4 years of experience as a driver. May he be assigned the organised carriage of a group of children?",
+   "options": [
+    "Yes: he is older than 25 and holds category “D”",
+    "Yes, if a second driver travels together with him",
+    "No: he must be at least 30 years old",
+    "No: he needs at least 5 years of driving experience"
+   ],
+   "answer": 3,
+   "explain": "Drivers admitted to the carriage of organised groups of children must be at least 25 years old, hold a driving licence of the appropriate category and have at least five years of experience as a driver ⟦25⟧. His age is fine, but his experience is not enough."
+  },
+  {
+   "id": "m23-048",
+   "q": "The bus has 30 seats. 34 children have signed up as an organised group for an excursion. What should be done?",
+   "options": [
+    "Take everyone: 4 children will stand in the aisle",
+    "Take only 30 children, the number of seats",
+    "Take everyone, seating two on some of the seats",
+    "Take everyone if the speed does not exceed 40 km/h"
+   ],
+   "answer": 1,
+   "explain": "The number of children carried in a bus must not exceed the number of seats ⟦26⟧. Standing in the aisle or sitting two to a seat is not allowed: the other 4 children need a second bus."
+  },
+  {
+   "id": "m23-049",
+   "q": "Three buses are carrying organised groups of children to a summer camp along a highway outside built-up areas. What is mandatory under the Rules for such a convoy?",
+   "options": [
+    "An escort by police vehicles",
+    "Driving with the hazard warning lights on",
+    "An escort by an ambulance",
+    "A speed of no more than 40 km/h along the whole route"
+   ],
+   "answer": 0,
+   "explain": "Convoys of two or more buses carrying children on roads outside built-up areas must be escorted by special vehicles of the internal affairs bodies ⟦27⟧. The speed must also not exceed the limits of para. 74 for buses carrying children."
+  },
+  {
+   "id": "m23-050",
+   "q": "One bus is carrying an organised group of children from the city to a camp along a road outside built-up areas. Do the Rules require an escort by a police vehicle?",
+   "options": [
+    "Yes: it is needed for any carriage of children outside the city",
+    "Yes, if there are more than 20 children on the bus",
+    "No: an escort is needed only in the city",
+    "No: it is mandatory for convoys of two or more buses"
+   ],
+   "answer": 3,
+   "explain": "Para. 158 requires convoys of two or more buses carrying children on roads outside built-up areas to be escorted by special vehicles of the internal affairs bodies. There is no such requirement for a single bus in the Rules, but all the other conditions of para. 158 must be met."
+  },
+  {
+   "id": "m23-051",
+   "q": "May tyres retreaded to the second repair class be fitted on the front axle of a city bus (class I)?",
+   "options": [
+    "Yes: the ban applies only to intercity buses",
+    "Yes, if the tread is at least 2 mm",
+    "No: such tyres are prohibited on the front axle",
+    "Yes, if the bus travels no faster than 50 km/h"
+   ],
+   "answer": 2,
+   "explain": "Tyres retreaded to the second repair class are prohibited on the front axle of a passenger car and of a city bus (class I) ⟦28⟧. For intercity buses the requirements for retreaded tyres are even stricter ⟦29⟧."
+  },
+  {
+   "id": "m23-052",
+   "q": "At what residual tread pattern depth of the tyres is operating a bus prohibited?",
+   "options": [
+    "Less than 1 mm",
+    "Less than 1.6 mm",
+    "Less than 2 mm",
+    "Less than 3 mm"
+   ],
+   "answer": 2,
+   "explain": "Under the List of Defects, the residual tread pattern depth of bus tyres must be at least 2 mm. For passenger cars the limit is 1.6 mm, for trucks 1 mm, and for motorcycles and mopeds 0.8 mm."
+  },
+  {
+   "id": "m23-053",
+   "q": "Before a journey, a mechanic measured the residual tread pattern depth on a bus tyre: 1.8 mm. May the bus be released onto the route?",
+   "options": [
+    "Yes: it is more than 1.6 mm",
+    "No: buses need at least 2 mm",
+    "Yes, if the tyre is on the rear axle",
+    "Yes, until the end of the month"
+   ],
+   "answer": 1,
+   "explain": "For a passenger car 1.8 mm would be enough, but for a bus the limit is higher: operation is prohibited if the residual tread pattern depth is less than 2 mm ⟦30⟧."
+  },
+  {
+   "id": "m23-054",
+   "q": "May tyres with a retreaded tread be fitted on the front axle of an intercity bus?",
+   "options": [
+    "Yes, if the residual tread depth is at least 2 mm",
+    "Yes, if they are tyres of the same model and size",
+    "No: they are prohibited on the front axle of such a bus",
+    "No, but only in winter; in summer it is allowed"
+   ],
+   "answer": 2,
+   "explain": "The List of Defects prohibits operation if tyres with a retreaded tread are fitted on the front axle of an intercity bus (class II) or a long-distance bus (class III). A failure of a front tyre at speed almost always means loss of control."
+  },
+  {
+   "id": "m23-055",
+   "q": "Before departure, a driver finds that the emergency exit (hatch) of the bus does not open. All the other systems are in working order. May he set off on a journey with passengers?",
+   "options": [
+    "No: driving with an emergency exit that does not work is prohibited",
+    "Yes: after all, the doors work properly",
+    "Yes, if he warns the passengers and shows them the other exits",
+    "Yes, but only in daylight hours"
+   ],
+   "answer": 0,
+   "explain": "The List of Defects prohibits operation if the emergency exits of a bus and the devices for operating them do not work. In a fire or a rollover, people get out through them."
+  },
+  {
+   "id": "m23-056",
+   "q": "Which of these defects prohibits operating a bus?",
+   "options": [
+    "The radio or public address system for announcing stops does not work",
+    "The air conditioning or seat heating does not work",
+    "The USB sockets or window curtains do not work",
+    "The door drive or the door operation signal does not work"
+   ],
+   "answer": 3,
+   "explain": "Operation is prohibited if the door control drive and the door operation signal, the emergency door release switch, the stop request signal, the emergency exits and the interior lighting of the bus saloon do not work ⟦31⟧. The radio, air conditioning and sockets are not on this list."
+  },
+  {
+   "id": "m23-057",
+   "q": "What must a bus and a truck with a maximum authorised mass of over 3.5 t have, otherwise operating them is prohibited?",
+   "options": [
+    "A first aid kit, a fire extinguisher and a warning triangle; wheel chocks are not needed",
+    "A first aid kit, a fire extinguisher, a warning triangle and two wheel chocks",
+    "Only a fire extinguisher and a tow rope",
+    "A warning triangle and a spare headlamp bulb"
+   ],
+   "answer": 1,
+   "explain": "Under the List of Defects, operation is prohibited if a bus or a truck has no first aid kit, fire extinguisher and warning triangle, and if trucks over 3.5 t and buses also have no wheel chocks (at least two)."
+  },
+  {
+   "id": "m23-058",
+   "q": "You are a bus driver on a regular intercity inter-regional route. Must the bus be fitted with a tachograph?",
+   "options": [
+    "Yes: a tachograph is mandatory on such passenger services",
+    "No: a tachograph is needed only on international journeys",
+    "No: a tachograph is needed only when carrying dangerous goods",
+    "No: a tachograph is needed only when carrying groups of children"
+   ],
+   "answer": 0,
+   "explain": "Under para. 3 of the Rules, tachographs are fitted to buses and trucks used for international carriage, the carriage of dangerous goods, regular intercity inter-regional passenger services, and also irregular intercity inter-regional and inter-district services. Your service is a regular inter-regional one, so a tachograph is required, and it must work ⟦32⟧."
+  },
+  {
+   "id": "m23-059",
+   "q": "You are driving a bus or truck on an intercity journey. How long may you drive without a break, and what break is needed afterwards?",
+   "options": [
+    "8 h, then a break of 15 min",
+    "2 h, then a break of 5 min",
+    "4 h 30 min, then a break of at least 45 min",
+    "There is no limit if the driver feels fine"
+   ],
+   "answer": 2,
+   "explain": "After 4 h 30 min of driving, the driver takes a break of at least 45 min, unless a rest period begins ⟦33⟧. The break may be split: first at least 15 min, then at least 30 min ⟦34⟧."
+  },
+  {
+   "id": "m23-060",
+   "q": "2 h into your journey, you took a 15 min break. What break is needed when your total driving time reaches 4 h 30 min?",
+   "options": [
+    "None: you have already had a break",
+    "At least 30 min",
+    "At least 45 min: the 15 min do not count",
+    "At least 10 min"
+   ],
+   "answer": 1,
+   "explain": "The 45 min break can be replaced by two breaks: at least 15 min, and then at least 30 min, spread over the 4 h 30 min of driving or taken immediately after that period ⟦35⟧. You have already used the first 15 min, so at least 30 min remain."
+  },
+  {
+   "id": "m23-061",
+   "q": "What daily driving time do the Rules on the Organisation of Drivers' Work and Rest allow?",
+   "options": [
+    "No more than 12 h, up to 14 h - no more than once a week",
+    "No more than 8 h, without any exceptions",
+    "No more than 11 h, up to 12 h - on any day of the week",
+    "No more than 9 h, up to 10 h - no more than twice a week"
+   ],
+   "answer": 3,
+   "explain": "Daily driving time does not exceed 9 h. It may be extended to a maximum of 10 h no more than twice in a week ⟦36⟧."
+  },
+  {
+   "id": "m23-062",
+   "q": "What daily rest must a driver take under the Rules on the Organisation of Drivers' Work and Rest?",
+   "options": [
+    "At least 6 h",
+    "At least 8 h",
+    "At least 11 h",
+    "At least 24 h"
+   ],
+   "answer": 2,
+   "explain": "The driver takes daily rest periods of at least 11 h and weekly rest periods of at least 45 h ⟦37⟧. A driver who has not slept enough reacts noticeably more slowly."
+  },
+  {
+   "id": "m23-063",
+   "q": "At night on a journey, you are very sleepy, and the terminus is still an hour away. What is the right thing to do?",
+   "options": [
+    "Open the window and drive faster to reach the terminus in time",
+    "Stop in a safe place and rest",
+    "Ask the passengers to talk to you until the end of the journey",
+    "Drink an energy drink and carry on without stopping"
+   ],
+   "answer": 1,
+   "explain": "The Rules prohibit driving a vehicle while ill or fatigued in a way that endangers road safety ⟦38⟧. Cold air and coffee help only for a short time; only rest helps reliably. Tell the dispatcher that you need a break or a replacement."
+  },
+  {
+   "id": "m23-064",
+   "q": "On what vehicle is the practical test for category “D” taken?",
+   "options": [
+    "On a bus with at least 28 seats and a length of at least 7 m",
+    "On any minibus",
+    "On a truck of category “C”",
+    "On a passenger car, if the candidate holds category “C”"
+   ],
+   "answer": 0,
+   "explain": "The practical test is taken on a vehicle of the category that is to be granted. For category “D” this is a bus with at least 28 seats and a length of at least 7.0 m (para. 40 of the Examination Rules on taking exams and issuing driving licences)."
+  },
+  {
+   "id": "m23-065",
+   "q": "Where is the practical test for category “D” taken?",
+   "options": [
+    "In the city with a police officer, on a route through the centre",
+    "At a driving school: your instructor takes the test",
+    "Nowhere: with category “C” the practical test is not taken",
+    "At the State Corporation's test ground, in a category “D” bus"
+   ],
+   "answer": 3,
+   "explain": "The practical test is taken at an automated test ground of the State Corporation “Government for Citizens”, equipped with vehicles of the relevant categories ⟦39⟧. The exercise zones for “D” and “D1” are equipped to the same requirements as for “B” and “C” ⟦40⟧."
+  },
+  {
+   "id": "m23-067",
+   "q": "An intersection of roads of equal status. You are driving a bus straight ahead, and an oncoming green car is turning left. Who will go through the intersection first?",
+   "options": [
+    "The green car",
+    "Whoever reached the intersection first",
+    "You",
+    "The green car, if it switched on its direction indicator in advance"
+   ],
+   "answer": 2,
+   "explain": "Here the oncoming driver is the one turning left: he gives way to you, since you are coming from the opposite direction and going straight ahead ⟦41⟧. A direction indicator gives no priority ⟦42⟧."
+  },
+  {
+   "id": "m23-068",
+   "q": "You are approaching an intersection in a bus along a minor road. The main road turns at the intersection (plate 7.13). Whom must you give way to?",
+   "options": [
+    "The truck only",
+    "The green car only",
+    "Both",
+    "No one"
+   ],
+   "answer": 2,
+   "explain": "The main road runs from north to east; you are on the minor road and give way to everyone on the main road, regardless of their direction of travel ⟦43⟧. The truck and the green car are on the main road, so you go through last. They pass each other as they would on roads of equal status ⟦44⟧."
+  },
+  {
+   "id": "m23-069",
+   "q": "You are driving a bus along a main road that turns left at the intersection (plate 7.13). Whom must you give way to?",
+   "options": [
+    "The truck only",
+    "The green car only",
+    "Both",
+    "No one"
+   ],
+   "answer": 3,
+   "explain": "You are on the main road and turn together with it. The truck and the green car approach along minor roads (sign 2.4), so both give way to you ⟦45⟧. The rule “a driver turning left gives way to oncoming traffic” applies between those who are on the main road ⟦46⟧, and the oncoming truck is on a minor road."
+  },
+  {
+   "id": "m23-071",
+   "q": "It is hot in the saloon, and passengers keep the rear door of the bus open while it is moving. You carry on driving. What fine does the CAO provide for?",
+   "options": [
+    "10 MCI (43 250 tenge)",
+    "5 MCI (21 625 tenge)",
+    "A warning",
+    "20 MCI (86 500 tenge)"
+   ],
+   "answer": 0,
+   "explain": "You may drive only with the doors closed ⟦47⟧, and passengers are prohibited from opening the doors while the vehicle is moving ⟦48⟧. Allowing the doors to be opened while the vehicle is moving is punishable by a fine of 10 MCI ⟦49⟧."
+  },
+  {
+   "id": "m23-072",
+   "q": "An intersection of roads of equal status. In what order will the bus, the blue car and the green car go through the intersection?",
+   "options": [
+    "Blue, bus, green",
+    "Bus, green, blue",
+    "Bus, blue, green",
+    "Green, blue, bus"
+   ],
+   "answer": 2,
+   "explain": "There is no one to the right of the bus, so it goes first, and the blue car gives way to it as the vehicle on its right ⟦50⟧. The green car is turning left: it gives way to the oncoming bus ⟦51⟧ and to the blue car, which approaches it from the right ⟦52⟧."
+  },
+  {
+   "id": "m23-073",
+   "q": "You are entering a roundabout in a bus. Signs 4.3 and 2.4 are placed before the entry. What should you do?",
+   "options": [
+    "Enter first: you are approaching it from the right",
+    "Give way to the white car on the roundabout",
+    "Enter at the same time as the white car",
+    "Sound the horn and enter first"
+   ],
+   "answer": 1,
+   "explain": "Sign 2.4 before the entry to a roundabout means that you are on a minor road and give way to those already on the roundabout ⟦53⟧. The “priority to the right” rule does not apply here."
+  },
+  {
+   "id": "m23-074",
+   "q": "You are driving an articulated bus and want to make a U-turn at an intersection. From the far left position the bus does not fit into the turn. What should you do?",
+   "options": [
+    "Make a U-turn from the right-hand shoulder, giving way to everyone",
+    "Do not make a U-turn: the bus will occupy two lanes",
+    "Move into the adjacent lane if it is safe",
+    "Turn round in several stages, reversing"
+   ],
+   "answer": 2,
+   "explain": "If, because of its size, a vehicle cannot make a U-turn at an intersection from the far left position, it is allowed to move partly, and if necessary fully, into the adjacent lane, provided this is safe and does not hinder others ⟦54⟧. A U-turn from the right edge is allowed only away from an intersection ⟦55⟧, and reversing at intersections is prohibited ⟦56⟧."
+  },
+  {
+   "id": "m23-075",
+   "q": "You are driving a bus straight ahead on a green traffic light. Whom must you give way to?",
+   "options": [
+    "The green car only",
+    "The blue car only",
+    "Both",
+    "No one"
+   ],
+   "answer": 3,
+   "explain": "The green car is turning left and gives way to you, because you are coming from the opposite direction and going straight ahead ⟦57⟧. The blue car is turning right and does not cross your path. You do not have to give way to anyone."
+  },
+  {
+   "id": "m23-076",
+   "q": "Your bus fits comfortably into a right turn from the far right lane. Which path must you take to turn?",
+   "options": [
+    "Path A",
+    "Path B",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 0,
+   "explain": "A turn is made into the lane corresponding to the one you occupy ⟦58⟧: from the far right lane, into the far right lane (A). Moving into the adjacent lane is allowed only if, because of its size, the vehicle cannot turn otherwise ⟦59⟧."
+  },
+  {
+   "id": "m23-077",
+   "q": "Your long bus cannot turn right so as to stay in the far right lane of the road it turns into. The adjacent lane is free. Along which path may the turn be made?",
+   "options": [
+    "Path A",
+    "Path B",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 1,
+   "explain": "If a vehicle, because of its size, cannot make a turn in compliance with para. 52, it is allowed to move partly, and if necessary fully, into the adjacent lane, provided this is safe and does not create a hindrance ⟦60⟧. The adjacent lane is free, so path B is possible."
+  },
+  {
+   "id": "m23-080",
+   "q": "You are turning right from a minor road in an articulated bus. A trolleybus is approaching from the left along the main road. What should you do?",
+   "options": [
+    "Turn first: the trolleybus is approaching from the left",
+    "Turn at the same time: there is enough room on the road",
+    "Turn if the trolleybus is far from the stop",
+    "Give way to the trolleybus"
+   ],
+   "answer": 3,
+   "explain": "Sign 2.4 means that you are on a minor road and give way to everyone on the main road, regardless of their direction of travel ⟦61⟧. A long articulated bus needs more time to complete the turn, so start it only when the trolleybus has passed."
+  }
+ ],
+ "pack": "m23-2"
+}

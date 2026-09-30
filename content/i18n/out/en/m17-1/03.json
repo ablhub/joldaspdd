@@ -1,0 +1,374 @@
+{
+ "questions": [
+  {
+   "id": "m17-n022",
+   "q": "At night, a car broke down on an unlit country road. The driver did not switch on the hazard warning lights and did not put out a warning triangle. What fine applies?",
+   "options": [
+    "5 MCI (21 625 tenge)",
+    "7 MCI (30 275 tenge)",
+    "10 MCI (43 250 tenge)",
+    "Only a warning"
+   ],
+   "answer": 0,
+   "explain": "Breaking the rules on using external lights during the hours of darkness, hazard warning lights and the warning triangle - 5 MCI, a repeat offence within a year - 7 MCI (30 275 tenge)."
+  },
+  {
+   "id": "m17-n023",
+   "q": "By changing lanes abruptly, a driver forced another vehicle to brake sharply. Earlier this year he had already been punished for the same thing. What penalty applies now?",
+   "options": [
+    "A fine of 10 MCI (43 250 tenge), as the first time",
+    "A fine of 20 MCI (86 500 tenge)",
+    "Disqualification from driving for 1 year",
+    "Disqualification from driving for 6 months"
+   ],
+   "answer": 3,
+   "explain": "Creating a hazardous situation that forces others to change speed or direction sharply - 10 MCI (43 250 tenge). A repeat offence within a year - disqualification from driving for 6 months."
+  },
+  {
+   "id": "m17-n024",
+   "q": "The barrier at a level crossing is down, and you drive around it and cross the tracks. What penalty do you face for this?",
+   "options": [
+    "10 MCI (43 250 tenge)",
+    "20 MCI (86 500 tenge)",
+    "40 MCI (173 000 tenge)",
+    "Disqualification from driving for 1 year"
+   ],
+   "answer": 1,
+   "explain": "Driving onto a level crossing with the barrier down or closing, or on a prohibiting signal - 20 MCI. A repeat offence within a year - disqualification from driving for 6 months, or for 9 months if there is material damage."
+  },
+  {
+   "id": "m17-n025",
+   "q": "You allowed a friend who had been drinking to get behind the wheel of your car. What penalty do you face?",
+   "options": [
+    "Arrest for 15 days and disqualification from driving for 7 years",
+    "None: only the friend who was driving is liable",
+    "A fine of 50 MCI (216 250 tenge)",
+    "Disqualification from driving for 1 year"
+   ],
+   "answer": 0,
+   "explain": "Letting an intoxicated person drive is punished in the same way as driving while intoxicated: administrative arrest for 15 days and disqualification from driving for 7 years."
+  },
+  {
+   "id": "m17-n026",
+   "q": "An intoxicated driver damaged someone else's car, and nobody was hurt. What penalty applies under the CAO?",
+   "options": [
+    "Arrest for 15 days and disqualification from driving for 7 years",
+    "50 MCI (216 250 tenge)",
+    "Disqualification from driving for 1 year",
+    "Arrest for 20 days and disqualification from driving for 7 years"
+   ],
+   "answer": 3,
+   "explain": "If driving while intoxicated causes damage to property or harm to health with no signs of a crime, the arrest increases to 20 days, and disqualification from driving stays at 7 years. Serious consequences carry criminal liability."
+  },
+  {
+   "id": "m17-n027",
+   "q": "A person who has never held a driving licence got behind the wheel while intoxicated. What penalty applies under the CAO?",
+   "options": [
+    "A fine of 5 MCI (21 625 tenge)",
+    "Only the car being towed away",
+    "Disqualification from driving for 7 years",
+    "Administrative arrest for 20 days"
+   ],
+   "answer": 3,
+   "explain": "A right that does not exist cannot be taken away, so such drivers are given arrest for 20 days, and for a repeat offence, 30 days."
+  },
+  {
+   "id": "m17-n028",
+   "q": "You are at fault in an accident in which only vehicles are damaged and nobody is injured. What fine applies under the CAO?",
+   "options": [
+    "10 MCI (43 250 tenge)",
+    "20 MCI (86 500 tenge)",
+    "40 MCI (173 000 tenge)",
+    "Disqualification from driving for 6 months"
+   ],
+   "answer": 1,
+   "explain": "Breaking the Rules in a way that damages vehicles and causes material damage is punished with a fine of 20 MCI. A repeat offence within a year, or minor harm to health, already means 40 MCI or disqualification from driving. Damage to the injured party is compensated separately, usually through OGPO."
+  },
+  {
+   "id": "m17-n029",
+   "q": "Through a driver's fault, a casualty in an accident suffered minor harm to health. What penalty applies under the CAO?",
+   "options": [
+    "40 MCI (173 000 tenge) or disqualification from driving for up to 9 months",
+    "20 MCI (86 500 tenge), the same as for an accident with no casualties",
+    "Only compensation for the harm to the injured party",
+    "Arrest for 15 days and disqualification from driving for 1 year"
+   ],
+   "answer": 0,
+   "explain": "Breaking the Rules in a way that causes minor harm to the health of the injured party (or a repeat accident with damage within a year) - 40 MCI or disqualification from driving for up to 9 months."
+  },
+  {
+   "id": "m17-n030",
+   "q": "After an accident, a driver cleared debris from the road and rolled the car away before the police arrived, even though the way through was not blocked. What fine applies?",
+   "options": [
+    "5 MCI (21 625 tenge)",
+    "20 MCI (86 500 tenge)",
+    "50 MCI (216 250 tenge)",
+    "Disqualification from driving for 1 year"
+   ],
+   "answer": 0,
+   "explain": "Failing to fulfil a driver's duties in connection with an accident, for example moving the car and objects without necessity, - 5 MCI. Leaving the scene of an accident is far more serious: 50 MCI or disqualification from driving for 1 year."
+  },
+  {
+   "id": "m17-n031",
+   "q": "A driver who had been disqualified from driving fled the scene of an accident he was involved in. What penalty applies?",
+   "options": [
+    "50 MCI (216 250 tenge) or disqualification from driving for 1 year",
+    "70 MCI (302 750 tenge) or arrest for 15 days",
+    "Disqualification from driving for another 2 years",
+    "100 MCI (432 500 tenge) or arrest for 30 days"
+   ],
+   "answer": 3,
+   "explain": "An ordinary driver faces 50 MCI (216 250 tenge) or disqualification from driving for 1 year for leaving the scene of an accident. If this was done by someone disqualified from driving or without a licence - 100 MCI or arrest for 30 days."
+  },
+  {
+   "id": "m17-n032",
+   "q": "You have left both your driving licence and your identity document at home. An inspector has stopped you to check your documents. What does the CAO provide?",
+   "options": [
+    "A warning or a fine of 5 MCI (21 625 tenge)",
+    "20 MCI (86 500 tenge), the same as for driving without a licence",
+    "Disqualification from driving for 3 months",
+    "Nothing: the licence was issued in Kazakhstan, after all"
+   ],
+   "answer": 0,
+   "explain": "You need not carry a Kazakhstani driving licence only if you have an identity document with you. You have neither, so this is driving without a licence on you: a warning or a fine of 5 MCI.",
+   "ref": "CAO art. 612(1); para. 9(1), para. 12(1) of the Rules"
+  },
+  {
+   "id": "m17-n033",
+   "q": "You only hold category “B”, and you got behind the wheel of a category “C” truck. What fine applies?",
+   "options": [
+    "5 MCI (21 625 tenge)",
+    "20 MCI (86 500 tenge)",
+    "50 MCI (216 250 tenge)",
+    "Disqualification from driving for 6 months"
+   ],
+   "answer": 1,
+   "explain": "Driving without the right to drive that vehicle or without the right category - 20 MCI, a repeat offence within a year - 30 MCI (129 750 tenge)."
+  },
+  {
+   "id": "m17-n034",
+   "q": "You lent your car for a drive to a 17-year-old friend who has no driving licence. What fine do you face?",
+   "options": [
+    "10 MCI (43 250 tenge)",
+    "20 MCI (86 500 tenge)",
+    "50 MCI (216 250 tenge)",
+    "None: he was the one driving"
+   ],
+   "answer": 2,
+   "explain": "Letting a person who has no driving licence, or who has been disqualified from driving, take the wheel - 50 MCI, a repeat offence within a year - 70 MCI (302 750 tenge)."
+  },
+  {
+   "id": "m17-n035",
+   "q": "A driver did not stop at the lawful request of a police officer. What does he face?",
+   "options": [
+    "A warning or a fine of 5 MCI (21 625 tenge)",
+    "10 MCI (43 250 tenge)",
+    "Arrest for 15 days and disqualification from driving for 8 years",
+    "40 MCI (173 000 tenge) or arrest for up to 3 days"
+   ],
+   "answer": 3,
+   "explain": "A driver must stop at the request of a police officer in uniform. Failing to comply with a lawful requirement to stop - 40 MCI or arrest for up to 3 days."
+  },
+  {
+   "id": "m17-n036",
+   "q": "An inspector has stopped your car. Without asking permission, you got out and walked over to him. What does the CAO provide?",
+   "options": [
+    "Nothing: that is even more polite",
+    "5 MCI (21 625 tenge)",
+    "40 MCI (173 000 tenge)",
+    "Disqualification from driving for 1 month"
+   ],
+   "answer": 1,
+   "explain": "After being stopped by a police officer, a driver does not leave the car without the officer's permission. This, like failing to comply with a requirement to get out, carries 5 MCI, a repeat offence within a year - 10 MCI (43 250 tenge)."
+  },
+  {
+   "id": "m17-n037",
+   "q": "After 25 August 2026, an adult rides an e-scooter on the pavement. What fine does he face?",
+   "options": [
+    "2 MCI (8 650 tenge)",
+    "5 MCI (21 625 tenge)",
+    "10 MCI (43 250 tenge)",
+    "There is no fine if the speed is up to 6 km/h"
+   ],
+   "answer": 0,
+   "explain": "From 25.08.2026, pavements are closed to e-scooters. The rider is fined as another road user: 2 MCI, a repeat offence within a year - 10 MCI (43 250 tenge).",
+   "ref": "CAO art. 615(1, 3); Law of the Republic of Kazakhstan No. 326-VIII"
+  },
+  {
+   "id": "m17-n038",
+   "q": "You are driving without a valid OGPO policy. What fine is provided for an individual?",
+   "options": [
+    "3 MCI (12 975 tenge)",
+    "10 MCI (43 250 tenge)",
+    "50 MCI (216 250 tenge)",
+    "Disqualification from driving"
+   ],
+   "answer": 1,
+   "explain": "Not entering into a contract of compulsory insurance of the civil liability of vehicle owners - a fine of 10 MCI for an individual. The Rules also prohibit driving a car whose owner has not entered into such a contract. And without a policy, you cannot document an accident without the police either."
+  },
+  {
+   "id": "m17-n039",
+   "q": "Your car has not passed the compulsory technical inspection, and you keep driving it. What fine applies?",
+   "options": [
+    "5 MCI (21 625 tenge)",
+    "10 MCI (43 250 tenge)",
+    "20 MCI (86 500 tenge)",
+    "Only a warning"
+   ],
+   "answer": 0,
+   "explain": "Driving a vehicle that has not passed the compulsory technical inspection - 5 MCI, a repeat offence within a year - 20 MCI (86 500 tenge)."
+  },
+  {
+   "id": "m17-n040",
+   "q": "You have been issued a fine of 10 MCI for driving through a red light. You admit the offence and pay within 7 days. How much do you need to pay?",
+   "options": [
+    "4 325 tenge",
+    "21 625 tenge",
+    "32 438 tenge",
+    "43 250 tenge"
+   ],
+   "answer": 1,
+   "explain": "If you admit the offence, you can pay 50% of the fine within seven days: 5 MCI instead of 10, that is 21 625 tenge. The penalty under CAO art. 599 is a fine only, so the discount is available here."
+  },
+  {
+   "id": "m17-n041",
+   "q": "A camera recorded speeding, and you have been delivered a notice. Within what period can you pay 50% of the fine?",
+   "options": [
+    "Within 30 days of the day of the offence",
+    "Only on the same day the photo was taken",
+    "Within 7 days of the day the notice is delivered",
+    "Never: there is no discount for camera fines"
+   ],
+   "answer": 2,
+   "explain": "If the offence is recorded in automatic mode, half the fine can be paid within seven days of the notice being delivered. After that, the full amount is payable."
+  },
+  {
+   "id": "m17-n042",
+   "q": "Can you pay half the fine for leaving the scene of an accident (the penalty is 50 MCI or disqualification from driving for 1 year)?",
+   "options": [
+    "Yes, if you pay within 7 days",
+    "Yes, if the offender admits guilt",
+    "Yes, but you need to pay 75% of the amount",
+    "No: the penalty also provides for disqualification from driving"
+   ],
+   "answer": 3,
+   "explain": "The accelerated procedure with a 50% discount is possible only when the penalty under the article is a fine (or a warning). If the article allows disqualification from driving or arrest, as in CAO art. 611(2), there is no discount.",
+   "ref": "CAO art. 810(2)(1); art. 811"
+  },
+  {
+   "id": "m17-n043",
+   "q": "After 25 August 2026, a criminal case for driving while intoxicated was discontinued under an amnesty. What happens to the right to drive?",
+   "options": [
+    "The licence is returned to the holder straight away, with no conditions",
+    "The licence is suspended for 1 month and then returned",
+    "The right to drive is terminated for at least 8 years",
+    "Nothing happens: the case was discontinued under an amnesty, after all"
+   ],
+   "answer": 2,
+   "explain": "Law of the Republic of Kazakhstan No. 326-VIII of 24.06.2026 introduced a new ground: if a criminal case for driving while intoxicated is discontinued on non-exonerating grounds (an amnesty, the expiry of a limitation period, and others), the right to drive is terminated all the same. It can be restored after 8 years, by passing a medical examination and a test on the Rules.",
+   "ref": "Law of the Republic of Kazakhstan No. 326-VIII of 24.06.2026"
+  },
+  {
+   "id": "m17-n044",
+   "q": "How many tenge is 1 MCI in 2026? Fines are calculated from this amount.",
+   "options": [
+    "3 692 tenge",
+    "3 932 tenge",
+    "4 325 tenge",
+    "5 000 tenge"
+   ],
+   "answer": 2,
+   "explain": "In 2026, 1 MCI = 4 325 tenge (in 2025 it was 3 932 tenge). For example, a fine of 10 MCI is 43 250 tenge.",
+   "ref": "Law of the Republic of Kazakhstan on the Republican Budget for 2026-2028"
+  },
+  {
+   "id": "m17-n047",
+   "q": "You are documenting an accident without the police, through a mobile app. When can you leave the scene?",
+   "options": [
+    "Straight away after photographing the damage",
+    "15 minutes after sending the declaration, in any case",
+    "Only after being notified that the insurer has accepted the declaration",
+    "When the other driver signs a paper of agreement"
+   ],
+   "answer": 2,
+   "explain": "You may leave only after being notified that the insurer has accepted the declaration. Otherwise, leaving may be treated as leaving the scene of an accident.",
+   "ref": "the OGPO Act; ARDFM"
+  },
+  {
+   "id": "m17-n048",
+   "q": "Two cars have collided. Nobody is injured, there is no dispute, the damage is small, but one of the drivers does not have a valid OGPO policy. Can the accident be documented without the police, through the app?",
+   "options": [
+    "Yes: a policy for the driver at fault is enough",
+    "Yes, if the damage is less than 100 MCI",
+    "Yes, if the driver without a policy admits fault",
+    "No: both drivers need an OGPO policy"
+   ],
+   "answer": 3,
+   "explain": "Simplified documentation is possible only if both drivers have a valid OGPO policy, two vehicles are involved, there is no injury or dispute, and the estimated cost of repairs is no more than 100 MCI. If one of them has no policy, the police must be called, and driving without OGPO carries a fine of 10 MCI.",
+   "ref": "the OGPO Act; para. 2(68) of the Rules; CAO art. 230(2)"
+  },
+  {
+   "id": "m17-n049",
+   "q": "You have clipped a lamp post and someone else's car, nobody is injured, there is no dispute. Can the accident be documented without the police?",
+   "options": [
+    "No: the post was damaged, and that is someone else's property",
+    "Yes, if you have agreed with the other driver",
+    "Yes, if the post was barely damaged",
+    "Yes, if repairing the car costs less than 100 MCI"
+   ],
+   "answer": 0,
+   "explain": "Simplified documentation is possible only if solely the vehicles are damaged. If other property is damaged, for example a post, a kerb or a barrier, the police are called.",
+   "ref": "the OGPO Act; IPGF"
+  },
+  {
+   "id": "m17-n050",
+   "q": "What estimated cost of repairs allows an accident to be documented without the police in 2026?",
+   "options": [
+    "No more than 10 MCI (43 250 tenge)",
+    "No more than 100 MCI (432 500 tenge)",
+    "No more than 1 000 000 tenge",
+    "Any amount, if both agree"
+   ],
+   "answer": 1,
+   "explain": "Simplified documentation is possible if the estimated damage is no more than 100 MCI, that is 432 500 tenge in 2026. If it costs more, the police are needed.",
+   "ref": "the OGPO Act; ARDFM"
+  },
+  {
+   "id": "m17-n051",
+   "q": "Six months ago a driver was punished for not stopping at a police officer's lawful request. Today he has again failed to comply with a requirement to stop. What does he face?",
+   "options": [
+    "A fine of 40 MCI (173 000 tenge) or arrest for up to 3 days",
+    "A fine of 60 MCI (259 500 tenge) or arrest for up to 15 days",
+    "Disqualification from driving for 1 year and arrest for up to 5 days",
+    "A warning or a fine of 5 MCI (21 625 tenge)"
+   ],
+   "answer": 2,
+   "explain": "The first time, failing to comply with a lawful requirement to stop carries 40 MCI or arrest for up to 3 days ⟦38⟧. A repeat offence within a year of being punished - disqualification from driving for 1 year and administrative arrest for up to 5 days (part 3)."
+  },
+  {
+   "id": "m17-n052",
+   "q": "An inspector has stopped you for speeding recorded by a certified device. What must he do under para. 7 of the Rules, besides explaining the reason for the stop?",
+   "options": [
+    "Immediately take your documents and go back to the patrol car",
+    "Hand you his warrant card",
+    "Nothing: the device's data is enough without showing anything",
+    "Show you the recorded materials for you to review"
+   ],
+   "answer": 3,
+   "explain": "From 12.07.2026, para. 7 requires that, if the offence is recorded by certified special technical devices, the officer shows the driver these materials for them to review. In addition, he comes up without delay, explains the reason for the stop and, on request, shows his warrant card without handing it over.",
+   "ref": "para. 7 of the Rules (as amended by Ministry of Internal Affairs Order No. 305 of 27.04.2026)"
+  },
+  {
+   "id": "m17-n053",
+   "q": "What documents does a driver, as a general rule, hand over to a police officer for inspection?",
+   "options": [
+    "A passport and a marriage certificate",
+    "Only the insurance policy and the technical inspection certificate",
+    "A driving licence and the vehicle's documents",
+    "A medical certificate and a military ID"
+   ],
+   "answer": 2,
+   "explain": "A driver carries and hands over for inspection a driving licence and the vehicle's documents, and, when carrying goods, the waybill and the documents for the goods. Exceptions: a Kazakhstani driving licence need not be carried if you have an identity document, and a Kazakhstani vehicle registration certificate need not be carried at all."
+  }
+ ]
+}

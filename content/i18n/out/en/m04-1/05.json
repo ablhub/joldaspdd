@@ -1,0 +1,208 @@
+{
+ "questions": [
+  {
+   "id": "m04-n049",
+   "q": "You are approaching an intersection, and the traffic controller raises an arm. You are already so close that you can stop before the intersection only by emergency braking. What should you do?",
+   "options": [
+    "Use emergency braking in any case",
+    "Continue moving",
+    "Stop in the middle of the intersection",
+    "Stop and reverse"
+   ],
+   "answer": 1,
+   "explain": "A raised arm prohibits movement for everyone, except in the cases covered by para. 37. Drivers who cannot stop without emergency braking when the traffic controller raises an arm continue moving. Sudden braking would be more dangerous here."
+  },
+  {
+   "id": "m04-n050",
+   "q": "The traffic controller is standing with their back to you, arms extended to the sides. May you turn right?",
+   "options": [
+    "Yes, you may turn right whatever the controller's position",
+    "Yes, if there are no pedestrians",
+    "No: movement from the back is prohibited",
+    "Yes, but only at low speed"
+   ],
+   "answer": 2,
+   "explain": "When the traffic controller's arms are extended to the sides or lowered, all vehicles and pedestrians approaching from the chest and back are prohibited from moving. A right turn is prohibited too."
+  },
+  {
+   "id": "m04-n051",
+   "q": "The traffic controller is standing with their right side towards you, right arm extended forward. May you go straight ahead?",
+   "options": [
+    "Yes, from the right side straight ahead and right are permitted",
+    "No, movement from the right side is prohibited",
+    "No, you may only turn right",
+    "Yes, from the right side you may go in any direction"
+   ],
+   "answer": 1,
+   "explain": "With the right arm extended forward, all vehicles approaching from the right side and back are prohibited from moving. Only those who have the controller's left side towards them may go in any direction."
+  },
+  {
+   "id": "m04-n052",
+   "q": "The traffic controller has raised an arm. Which of the drivers may move?",
+   "options": [
+    "Only you",
+    "Only the blue car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 3,
+   "explain": "A traffic controller's raised arm prohibits all vehicles and pedestrians from moving in all directions. Only those who cannot stop without emergency braking continue moving ⟦53⟧. You and the blue car are stationary at the intersection, so you both wait."
+  },
+  {
+   "id": "m04-n053",
+   "q": "You are driving a tram. The traffic controller is standing with their left side towards you, arms extended to the sides. Where may you go?",
+   "options": [
+    "Straight ahead only",
+    "Straight ahead and right",
+    "Only to the left",
+    "Movement is prohibited"
+   ],
+   "answer": 0,
+   "explain": "With the arms extended to the sides, a tram approaching from either side may only go straight ahead. Trackless vehicles in this case may go straight ahead and right."
+  },
+  {
+   "id": "m04-n054",
+   "q": "You are driving a tram. The traffic controller is standing with their left side towards you, right arm extended forward. Where is the tram permitted to go?",
+   "options": [
+    "Straight ahead only",
+    "Straight ahead and right",
+    "Only to the left",
+    "Movement is prohibited"
+   ],
+   "answer": 2,
+   "explain": "With the right arm extended forward, a tram approaching from the left side may turn left, and trackless vehicles may go in all directions."
+  },
+  {
+   "id": "m04-n055",
+   "q": "The traffic controller has pointed a baton at your car and blown a whistle at the same time. What does this mean?",
+   "options": [
+    "A request to drive faster",
+    "Permission to cross the intersection out of turn",
+    "A greeting; no need to react",
+    "A demand that you stop your car"
+   ],
+   "answer": 3,
+   "explain": "A demand to stop is given by a hand gesture or a baton pointed at the vehicle, together with a whistle signal, or through a loudspeaker. Stop smoothly and safely."
+  },
+  {
+   "id": "m04-n056",
+   "q": "Why does a traffic controller blow a whistle?",
+   "options": [
+    "To permit movement in all directions",
+    "To attract the attention of road users",
+    "To demand that headlights be switched on",
+    "To cancel the traffic light signals"
+   ],
+   "answer": 1,
+   "explain": "A whistle is used as an additional signal to attract the attention of road users. When you hear the whistle, look at the traffic controller and obey their signal."
+  },
+  {
+   "id": "m04-n057",
+   "q": "Why does a traffic controller use a baton or a disc with a red signal (retroreflector)?",
+   "options": [
+    "So that drivers can see the signals better",
+    "Only for stopping trucks",
+    "To show that the traffic light is switched off",
+    "Only for directing trams"
+   ],
+   "answer": 0,
+   "explain": "To make the signals more visible, a traffic controller may use a baton or a disc with a red signal (retroreflector). This does not change the meaning of the signal: what matters is the position of the body and arms."
+  },
+  {
+   "id": "m04-n058",
+   "q": "A level crossing attendant in uniform with a baton is standing at the level crossing. The attendant is facing you with arms extended to the sides. What should you do?",
+   "options": [
+    "Stop: this is a prohibiting signal",
+    "Drive on: a crossing attendant is not a traffic controller",
+    "Drive on if the traffic light at the crossing is off",
+    "Sound the horn and drive on"
+   ],
+   "answer": 0,
+   "explain": "A level crossing attendant with an ID and equipment counts as a traffic controller. If the attendant stands with their chest or back towards the driver, raises an arm holding a baton, lamp or flag, or extends their arms to the sides, movement over the crossing is prohibited."
+  },
+  {
+   "id": "m04-n059",
+   "q": "At a pedestrian crossing away from an intersection, the light is red for you. There is no stop line. Where must you stop?",
+   "options": [
+    "On the pedestrian crossing, right under the traffic light",
+    "Just beyond the crossing",
+    "Before the traffic light, without impeding pedestrians",
+    "Wherever convenient, as long as it is no closer than 5 m to pedestrians"
+   ],
+   "answer": 2,
+   "explain": "If there is no stop line, then away from an intersection the driver stops before the traffic light, without impeding vehicles and pedestrians who are permitted to move. You must not drive onto a crossing that pedestrians are using."
+  },
+  {
+   "id": "m04-n060",
+   "q": "The light is red for you. Before the pedestrian crossing there is a stop line and sign 5.33 “Stop line”. Where must you stop?",
+   "options": [
+    "Before the stop line",
+    "Right before the crossing, past the stop line",
+    "Right by the traffic light, beyond the crossing",
+    "Wherever convenient if there are no pedestrians on the crossing"
+   ],
+   "answer": 0,
+   "explain": "When the traffic light shows a prohibiting signal, the driver stops before the stop line (sign 5.33). The other stopping places listed in para. 36 apply only if there is no stop line."
+  },
+  {
+   "id": "m04-n062",
+   "q": "The traffic lights at the intersection are not working, and there is no traffic controller. To whom must you give way?",
+   "options": [
+    "Only the truck",
+    "Only the blue car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "The traffic lights are off, so the intersection is uncontrolled and priority signs apply. You are on the minor road. The truck is on the main road and is heading into the same road you are turning into, so you must let it go first. The blue car is turning right in the other direction and does not get in your way."
+  },
+  {
+   "id": "m04-n063",
+   "q": "Which of the following may direct traffic if they have an ID and equipment (a uniform or armband, a baton, a disc with a red signal)?",
+   "options": [
+    "Any driver wearing a reflective vest",
+    "A pedestrian, if the traffic light has broken down",
+    "A road maintenance worker",
+    "The driver of a bus standing at a stop"
+   ],
+   "answer": 2,
+   "explain": "A traffic controller may be a police officer, a military police officer or a member of a military traffic control unit, as well as a road maintenance worker or an attendant at a level crossing or ferry crossing, provided they have an ID and equipment. Their signals are binding on everyone."
+  },
+  {
+   "id": "m04-n064",
+   "q": "In which case do the Rules allow you to continue moving if the amber signal comes on in front of you?",
+   "options": [
+    "If you are not exceeding the speed limit and the intersection is clear",
+    "If a vehicle right behind you might not manage to brake in time",
+    "If you are turning right rather than going straight through",
+    "If the green did not flash and you can stop only by emergency braking"
+   ],
+   "answer": 3,
+   "explain": "Drivers who cannot stop without emergency braking may continue moving if the traffic light does not show a flashing green before the green goes out. A flashing green gives you advance warning precisely so that you have time to stop smoothly."
+  },
+  {
+   "id": "m04-n065",
+   "q": "What colours of signals are used in traffic lights?",
+   "options": [
+    "Only red, amber and green",
+    "Red, amber, green and blue",
+    "Green, amber, red and lunar white",
+    "Red, green and white, with white only at level crossings"
+   ],
+   "answer": 2,
+   "explain": "Traffic lights use green, amber, red and lunar white light signals. Lunar white signals are used, for example, by tram traffic lights shaped like the letter “T” and by traffic lights at level crossings."
+  },
+  {
+   "id": "m04-n067",
+   "q": "The red traffic light signals are flashing before a level crossing. Where must you stop?",
+   "options": [
+    "At the stop line",
+    "Right next to the first rail",
+    "Past the stop line, right by the traffic light",
+    "Anywhere, as long as it is not on the tracks"
+   ],
+   "answer": 0,
+   "explain": "If movement over the crossing is prohibited, the driver stops at the stop line, sign 2.5 or the traffic light, and if there are none, at the boundary of the level crossing. Here there is a stop line, so that is where you must stop."
+  }
+ ]
+}

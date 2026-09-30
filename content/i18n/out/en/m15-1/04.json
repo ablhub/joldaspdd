@@ -1,0 +1,171 @@
+{
+ "questions": [
+  {
+   "id": "m15-n031",
+   "q": "Whom does this sign with a plate not apply to?",
+   "options": [
+    "A taxi with the taximeter switched on and a passenger",
+    "All passenger cars and motorcycles",
+    "Vehicles displaying the “Person with a disability” sign",
+    "Trucks while unloading"
+   ],
+   "answer": 2,
+   "explain": "Plate 7.18 “Except persons with disabilities” removes the effect of a prohibitory or mandatory sign for invalid carriages and vehicles displaying the “Person with a disability” sign. Without this plate, sign 3.27 applies to them too, and it always applies to taxis."
+  },
+  {
+   "id": "m15-n032",
+   "q": "You are driving a car displaying the “Person with a disability” sign, and carrying a person with total loss of sight to a clinic. May you stop at the right-hand edge for him to get out?",
+   "options": [
+    "Yes: this is allowed for setting down such a passenger",
+    "No: sign 3.27 applies to all vehicles without exception",
+    "Yes, but only if you move onto the pavement with all wheels",
+    "Yes, but only if the passenger is himself a driver with a disability"
+   ],
+   "answer": 0,
+   "explain": "Drivers of vehicles displaying the “Person with a disability” sign, who serve people with a mobility disability or total loss of sight, may, in built-up areas, stop in the zone of signs prohibiting stopping, to pick up or set down such a person."
+  },
+  {
+   "id": "m15-n033",
+   "q": "A driver with a mobility disability, in a vehicle displaying the “Person with a disability” sign, left it where standing is allowed for no more than an hour, and stayed for 3 hours. Did he break the rules?",
+   "options": [
+    "Yes: the parking time limit applies to everyone",
+    "No, but only if he paid for all 3 hours",
+    "Yes, if more than 2 hours have passed since the time limit ended",
+    "No: he may stand longer than the time limit, without obstructing anyone"
+   ],
+   "answer": 3,
+   "explain": "Such a driver is entitled to leave a vehicle in the zone of signs prohibiting parking, at places with a limited parking time, for longer than the time limit, and in courtyards outside designated parking places, provided this does not impede pedestrians or other vehicles."
+  },
+  {
+   "id": "m15-n034",
+   "q": "The driver of a vehicle displaying the “Person with a disability” sign is walking a person with total loss of sight by the hand to the door of a clinic and back. How may he leave the vehicle in the zone of the “No stopping” sign?",
+   "options": [
+    "Entirely on the pavement, leaving pedestrians at least 1.5 m",
+    "At the edge of the carriageway, with the hazard warning lights on",
+    "On the pedestrian crossing, as close as possible to the clinic",
+    "He may not: no one may stand in the zone of this sign"
+   ],
+   "answer": 0,
+   "explain": "Such a driver stops in a built-up area on the conditions of para. 178(1): entirely on the pavement, so that a clear strip at least 1.5 m wide is left for pedestrians. Where markings prohibit stopping, this does not apply."
+  },
+  {
+   "id": "m15-n035",
+   "q": "What requirement do the Rules impose on a vehicle driven by a driver with a mobility disability?",
+   "options": [
+    "An automatic gearbox and tinted windows",
+    "A flashing yellow beacon on the roof of the vehicle",
+    "Suitable control mechanisms and (or) adaptations",
+    "Special bodywork colouring and lettering on the doors"
+   ],
+   "answer": 2,
+   "explain": "Such vehicles, as well as vehicles that serve people with a mobility disability, are fitted with control mechanisms and (or) adaptations suited to the driver or passenger."
+  },
+  {
+   "id": "m15-n036",
+   "q": "You are travelling in a convoy in thick fog. The lead vehicle (the white car) is braking and has switched on the right-hand direction indicator. What should you do?",
+   "options": [
+    "Stay behind it in the lane: the lead vehicle is just about to overtake",
+    "Follow the lead vehicle onto the shoulder, keeping your distance",
+    "Stop wherever is convenient for you, and wait for a command",
+    "Overtake the lead vehicle and take over the head of the convoy"
+   ],
+   "answer": 1,
+   "explain": "To stop the convoy, the lead vehicle signals by braking and indicating right, reduces speed, pulls onto the shoulder and stops parallel to the road. The others pull off behind it and stop, keeping their distance and the formation pattern."
+  },
+  {
+   "id": "m15-n037",
+   "q": "In fog, a convoy of 12 vehicles is being formed; the diagram shows part of it. How must the escort of such a convoy be organised under the Rules?",
+   "options": [
+    "No escort is needed; switching on dipped headlights is enough",
+    "By one vehicle with a flashing yellow beacon at the front",
+    "By any vehicle with hazard warning lights at the back of the convoy",
+    "By at least 2 vehicles with a blue or blue-and-red beacon"
+   ],
+   "answer": 3,
+   "explain": "A convoy of more than 10 vehicles is escorted by at least 2 vehicles with a flashing blue, or blue and red, beacon switched on: the lead vehicle and the rear vehicle. Without such an escort, the convoy is divided into groups of no more than 5 vehicles."
+  },
+  {
+   "id": "m15-n038",
+   "q": "A convoy in poor visibility is preparing to move off, and your engine will not start. What should you do?",
+   "options": [
+    "Wait quietly for it to start",
+    "Leave the convoy and drive on your own later",
+    "Inform the rear vehicle of the convoy",
+    "Sound your horn at the lead vehicle so the convoy leaves without you"
+   ],
+   "answer": 2,
+   "explain": "Before moving off, all members start their engines and switch on dipped headlights or daytime running lights. Anyone who is not ready informs the rear vehicle, which gives the lead vehicle permission to move off."
+  },
+  {
+   "id": "m15-n039",
+   "q": "Who gives the lead vehicle permission to start the convoy moving?",
+   "options": [
+    "Any member of the convoy, by sounding a horn",
+    "The rear vehicle, having made sure it is safe to move off",
+    "The driver of the first vehicle behind the lead vehicle, by flashing the headlights",
+    "No one: the lead vehicle moves off whenever it sees fit"
+   ],
+   "answer": 1,
+   "explain": "The rear vehicle blocks the lane that the convoy is pulling into, makes sure nothing is in the way, and gives permission to the lead vehicle. The lead vehicle sounds the horn and moves off, with the others following. The rear vehicle joins in once the last member has pulled out."
+  },
+  {
+   "id": "m15-n040",
+   "q": "You are travelling in a convoy in a blizzard, and you urgently need to make an emergency stop. What should you do?",
+   "options": [
+    "Notify the lead vehicle and smoothly reduce speed to a stop",
+    "Brake sharply and stop immediately at the point of the breakdown",
+    "Quietly pull onto the shoulder, so as not to distract the convoy",
+    "Overtake the lead vehicle and stop the whole convoy yourself"
+   ],
+   "answer": 0,
+   "explain": "A member of the convoy first notifies the lead vehicle of the need for an emergency stop: by voice, by a hand signal, over the radio and (or) with the main-beam headlights and the horn. After that, he gradually reduces speed to a full stop."
+  },
+  {
+   "id": "m15-n041",
+   "q": "A convoy in poor visibility is passing through a controlled intersection. Two vehicles ahead of you went through on green, and the light has turned red in front of you. What should you do?",
+   "options": [
+    "Go through on red, so the convoy does not split up",
+    "Go through, with the hazard warning lights and headlights on",
+    "Go through, if the lead vehicle is already on the far side of the intersection",
+    "Stop: the traffic light applies to the convoy too"
+   ],
+   "answer": 3,
+   "explain": "The convoy passes intersections, level crossings and traffic lights in accordance with the general requirements of the Rules. If the convoy is split, the rear vehicle warns the lead vehicle, and the lead vehicle decides whether to stop or continue, and informs the rear vehicle of this."
+  },
+  {
+   "id": "m15-n042",
+   "q": "The convoy is pulling into a parking area. The vehicle ahead of you is parking. What should you do?",
+   "options": [
+    "Stop at the entrance until the vehicle ahead has finished parking",
+    "Drive around it and take a free space first",
+    "Sound your horn so the driver ahead parks more quickly",
+    "Stop on the carriageway next to the parking area and wait"
+   ],
+   "answer": 0,
+   "explain": "When entering a parking area, a member of the convoy stops at the entrance and resumes moving once the vehicle ahead has finished parking. This way the convoy avoids causing a traffic jam or collisions."
+  },
+  {
+   "id": "m15-n043",
+   "q": "You are travelling in a convoy. The rear vehicle asks you over the radio to increase the distance to the vehicle ahead. What should you do?",
+   "options": [
+    "Not comply: only the lead vehicle gives commands in a convoy",
+    "Comply, but only if the lead vehicle confirms this request",
+    "Comply: the rear vehicle's instructions are binding",
+    "Overtake the vehicle ahead, so the gap appears behind you"
+   ],
+   "answer": 2,
+   "explain": "A member of the convoy follows the instructions of both the lead vehicle and the rear vehicle, and keeps a safe following distance. Overtaking other members of the convoy is forbidden."
+  },
+  {
+   "id": "m15-n044",
+   "q": "You are about to turn right. The far right-hand lane is a cycle lane (sign 4.5 with plate 7.14, broken line), and a cyclist is riding along it. Who goes first?",
+   "options": [
+    "You, then the cyclist",
+    "The cyclist, then you",
+    "You: the cyclist must give way to those who are turning"
+   ],
+   "answer": 1,
+   "explain": "Before turning, you must change into the cycle lane ⟦66⟧, and when changing lane you give way to those travelling in the same direction without changing direction ⟦67⟧. Give way to the cyclist, then change lane and turn."
+  }
+ ]
+}

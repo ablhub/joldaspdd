@@ -1,0 +1,220 @@
+{
+ "questions": [
+  {
+   "id": "m03-n024",
+   "q": "How does an organised group of pedestrians move on the carriageway?",
+   "options": [
+    "On the left, facing oncoming traffic, no more than two abreast",
+    "In the middle of the carriageway, in any direction",
+    "On the right, facing oncoming traffic, no more than six abreast",
+    "On the right, with the traffic, no more than four abreast"
+   ],
+   "answer": 3,
+   "explain": "An organised group of pedestrians moves in the direction of traffic on the right-hand side, no more than four abreast. In this it differs from a single pedestrian outside a built-up area, who walks facing oncoming traffic."
+  },
+  {
+   "id": "m03-n025",
+   "q": "A pedestrian is walking across a crossing, and an ambulance with its flashing beacons and siren on is approaching the crossing. What must the pedestrian do under the Rules?",
+   "options": [
+    "Carry on crossing: on a zebra crossing they have priority",
+    "Stop in the middle of the lane so that the driver notices them",
+    "Run across in front of the ambulance as fast as possible",
+    "Give way to the ambulance and clear the carriageway"
+   ],
+   "answer": 3,
+   "explain": "When a vehicle with a flashing blue and (or) red beacon and a siren switched on is approaching, pedestrians must not start crossing, and those already on the carriageway must give way to it and clear the carriageway. This also applies at a pedestrian crossing."
+  },
+  {
+   "id": "m03-n026",
+   "q": "Which signals on an approaching vehicle mean that a pedestrian must not start crossing, even at a pedestrian crossing?",
+   "options": [
+    "Only a blue beacon, even if the siren is off",
+    "Any beacon, including an amber or yellow one",
+    "Hazard warning lights and main-beam headlights switched on",
+    "A blue and (or) red beacon together with a siren"
+   ],
+   "answer": 3,
+   "explain": "Pedestrians must not cross the carriageway when a vehicle is approaching with a flashing blue and (or) red beacon switched on together with a special audible signal, that is, a siren (para. 19 as amended on 27.04.2026). An amber beacon and hazard warning lights have no such meaning."
+  },
+  {
+   "id": "m03-n027",
+   "q": "Where do passengers wait for a bus if there is no raised boarding platform at the stop?",
+   "options": [
+    "On the pavement or shoulder",
+    "On the carriageway at the edge of the road",
+    "On the central reservation",
+    "Wherever convenient, as long as no bus is in sight"
+   ],
+   "answer": 0,
+   "explain": "People wait for route vehicles and taxis on a raised boarding platform, or, if there is none, on the pavement or shoulder. You must not stand on the carriageway while waiting for a bus."
+  },
+  {
+   "id": "m03-n028",
+   "q": "A stop outside a built-up area has no boarding platform. People are waiting on the shoulder as the bus approaches. When may they step onto the carriageway to board it?",
+   "options": [
+    "When the bus starts braking",
+    "As soon as the bus comes into view",
+    "They must not step onto the carriageway here at all",
+    "Only after the bus has stopped"
+   ],
+   "answer": 3,
+   "explain": "At stops without a raised boarding platform, people may step onto the carriageway to board only after the vehicle has stopped. While the bus is moving, people stay on the shoulder."
+  },
+  {
+   "id": "m03-n029",
+   "q": "At a stop without a boarding platform, a passenger has got off the bus directly onto the carriageway. What must they do?",
+   "options": [
+    "Wait on the carriageway until the bus has left",
+    "Stand by the door until all the passengers have got off",
+    "Leave the carriageway immediately, without delay",
+    "Cross the road right in front of the bus while it is stationary"
+   ],
+   "answer": 2,
+   "explain": "After alighting, pedestrians must clear the carriageway without delay. They cross the road to and from the stop under the general rules for pedestrians and do not step out from behind a stationary bus without making sure that no vehicles are coming."
+  },
+  {
+   "id": "m03-n030",
+   "q": "On a one-way street, you have stopped by the left-hand pavement to let a passenger out. Which side should they get out on?",
+   "options": [
+    "On the right: passengers must always get out on the right",
+    "On the left, on the pavement side",
+    "On either side, as the car is stationary",
+    "On the right, if there are no vehicles there"
+   ],
+   "answer": 1,
+   "explain": "Passengers get in and out on the pavement or shoulder side. On a one-way road in a built-up area you may stop at the left-hand edge, and then the pavement is on the left: that is the side to get out on."
+  },
+  {
+   "id": "m03-n031",
+   "q": "You have stopped at the right-hand edge, but there is a barrier right next to the car on the right and the door cannot be opened. How should the passenger get out?",
+   "options": [
+    "On the carriageway side, if it is safe and does not impede anyone",
+    "They cannot: such alighting is prohibited, so find another place",
+    "On the carriageway side at once without looking back: vehicles must go around",
+    "Open the door and get out while the car is still rolling slowly"
+   ],
+   "answer": 0,
+   "explain": "Passengers get out on the pavement or shoulder side, and only after a full stop. If it is impossible to get out on that side, they may get out on the carriageway side, but only when it is safe and will not impede other road users."
+  },
+  {
+   "id": "m03-n032",
+   "q": "A passenger in the back seat says there is no need to wear a seat belt in the back. Are they right?",
+   "options": [
+    "Yes: seat belts are compulsory only in the front seats",
+    "Yes, if the journey is short and the speed is low",
+    "No: everyone must wear a seat belt if belts are fitted",
+    "Yes, if the driver has allowed them not to wear one"
+   ],
+   "answer": 2,
+   "explain": "A passenger must wear a seat belt if the vehicle is fitted with seat belts, and the driver must not carry passengers who are not wearing seat belts. Where the passenger sits in the car does not matter."
+  },
+  {
+   "id": "m03-n033",
+   "q": "You are giving a friend a lift on a moped. They have a motorcycle helmet but do not want to fasten it, as it is not far. May you ride like this?",
+   "options": [
+    "No: the passenger's helmet must be fastened",
+    "Yes, if the speed is no more than 30 km/h and the trip is short",
+    "Yes: the helmet must be fastened only outside built-up areas",
+    "Yes, if the helmet is on their head, even if unfastened"
+   ],
+   "answer": 0,
+   "explain": "A passenger on a motorcycle or moped must wear a fastened motorcycle helmet, and the driver must not carry passengers without a fastened helmet. An unfastened helmet comes off in a fall and gives no protection."
+  },
+  {
+   "id": "m03-n034",
+   "q": "While the car is moving, a passenger shows the driver a video on their phone and asks them to watch it. What do the Rules say about this?",
+   "options": [
+    "It is acceptable on a straight stretch of road with no bends",
+    "It is allowed if the driver keeps both hands on the wheel",
+    "The Rules govern only the driver's actions, not the passengers'",
+    "Passengers must not distract the driver while in motion"
+   ],
+   "answer": 3,
+   "explain": "Passengers are prohibited from distracting the driver from driving while the vehicle is moving. Even one second of looking away at 60 km/h means more than 15 m driven blind."
+  },
+  {
+   "id": "m03-n035",
+   "q": "Workers are being carried in the load body of a dropside truck. One of them has sat on the side to be more comfortable. May they travel like this?",
+   "options": [
+    "Yes, if they hold on tightly to the cab with one hand",
+    "Yes, if the truck is travelling no faster than 40 km/h",
+    "Yes, if the tailgate is securely locked shut",
+    "No: sitting on the sides while moving is prohibited"
+   ],
+   "answer": 3,
+   "explain": "Passengers of a dropside truck are prohibited from standing, sitting on the sides or on a load that is higher than the sides. When braking or on an uneven surface, a person can easily fall out of the load body."
+  },
+  {
+   "id": "m03-n036",
+   "q": "While the car is moving, a child in the back seat wants to lean out of the open sunroof. May you allow this?",
+   "options": [
+    "Yes, if you are driving in a residential zone or a yard",
+    "Yes, if the speed is below 20 km/h and the road is straight",
+    "No: leaning out of a sunroof while moving is prohibited",
+    "Yes, if an adult is sitting next to the child and holding them"
+   ],
+   "answer": 2,
+   "explain": "Passengers are prohibited from leaning out of the window openings and roof hatches of a vehicle while it is moving. A branch, a post or sudden braking can result in a serious injury."
+  },
+  {
+   "id": "m03-n037",
+   "q": "A motorcycle passenger has stood up on the footrests while moving to get a better view of the road. Is this allowed?",
+   "options": [
+    "Allowed on a straight road when the speed is low",
+    "Allowed if the passenger holds on tightly to the driver",
+    "Prohibited: no standing on the footrests while moving",
+    "Allowed, but only outside built-up areas"
+   ],
+   "answer": 2,
+   "explain": "Passengers on a motorcycle or moped are prohibited from standing on the footrests or on the seat while it is moving. This makes the motorcycle sway and makes it harder for the driver to control it."
+  },
+  {
+   "id": "m03-n038",
+   "q": "A pedestrian is carrying a large sheet of plywood and would obstruct others on the pavement. Where may they walk if the road has a central reservation?",
+   "options": [
+    "On the central reservation",
+    "Along the outer edge of the carriageway",
+    "Along the edge of the carriageway next to the central reservation",
+    "In the middle of the carriageway"
+   ],
+   "answer": 1,
+   "explain": "People carrying bulky objects and people in non-motorised wheelchairs may move along the edge of the carriageway if they would obstruct others on the pavement or shoulder. On a road with a central reservation, this is allowed only along the outer edge of the carriageway."
+  },
+  {
+   "id": "m03-n039",
+   "q": "The road has no pavement, footpath or shoulder, but there is a cycle track next to it. Where should a pedestrian walk?",
+   "options": [
+    "On the cycle track or in single file along the edge of the carriageway",
+    "Only along the edge of the carriageway: not on the cycle track",
+    "Along the edge of the carriageway two or three abreast, with the traffic",
+    "In the middle of the carriageway if there is little traffic"
+   ],
+   "answer": 0,
+   "explain": "If there are no pavements, footpaths or shoulders, or if it is impossible to walk on them, pedestrians walk on the cycle track or in single file along the edge of the carriageway."
+  },
+  {
+   "id": "m03-n040",
+   "q": "A road outside a built-up area has no pavement but has a shoulder. Where must a pedestrian walk?",
+   "options": [
+    "On the shoulder, not on the carriageway",
+    "Along the edge of the carriageway in the direction of traffic",
+    "In the middle of the carriageway, so as to be more visible",
+    "On any part of the road if there is little traffic"
+   ],
+   "answer": 0,
+   "explain": "Pedestrians walk on pavements or footpaths, and if there are none, on the shoulders. They go onto the carriageway only when there is nowhere else to walk, and then, outside built-up areas, they walk facing oncoming traffic."
+  },
+  {
+   "id": "m03-n041",
+   "q": "Where should a pedestrian cross the carriageway, first and foremost?",
+   "options": [
+    "At pedestrian crossings, including underground ones",
+    "Anywhere the road is currently clear of vehicles",
+    "Only at intersections, along the line of the pavements",
+    "Wherever is nearest to the building or stop they need"
+   ],
+   "answer": 0,
+   "explain": "Pedestrians cross the carriageway at pedestrian crossings, including underground crossings and footbridges. If there is no crossing within sight, they cross at an intersection along the line of the pavements or shoulders."
+  }
+ ]
+}

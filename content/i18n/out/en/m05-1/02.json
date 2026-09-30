@@ -1,0 +1,184 @@
+{
+ "questions": [
+  {
+   "id": "m05-01",
+   "q": "You are driving in town. In the mirror you can see an ambulance approaching from behind with its flashing blue and red beacons and siren on. What should you do?",
+   "options": [
+    "Keep going: you are driving on the main road",
+    "Brake sharply right in your lane",
+    "Give way so that the ambulance can pass unhindered",
+    "Speed up and drive in front of the ambulance, clearing its way"
+   ],
+   "answer": 2,
+   "explain": "When a vehicle with a flashing blue and (or) red beacon and a siren switched on is approaching, drivers give way to let it pass unhindered. Do this smoothly and safely."
+  },
+  {
+   "id": "m05-02",
+   "q": "A police car with its beacon and siren on has driven past you. Following it at a short distance are several buses without special signals, which it is escorting. What should you do about the buses?",
+   "options": [
+    "Give way to them too: they are being escorted",
+    "Carry on: the buses have no special signals of their own",
+    "Give way only to the first bus, then carry on",
+    "Overtake the convoy so as not to be held up behind it"
+   ],
+   "answer": 0,
+   "explain": "Drivers give way not only to vehicles with special signals but also to the vehicles they are escorting. Escorted vehicles enjoy the same priority."
+  },
+  {
+   "id": "m05-03",
+   "q": "There is a police car on the shoulder with its blue beacon on; the siren is off. What should you do as you drive past?",
+   "options": [
+    "Drive past at the same speed, since there is no siren",
+    "Slow down so that you can stop immediately if necessary",
+    "Stop next to it without fail and wait for instructions",
+    "Switch on the hazard warning lights and drive around it in the oncoming lane"
+   ],
+   "answer": 1,
+   "explain": "When approaching a stationary vehicle with a flashing blue and (or) red beacon switched on, the driver slows down so as to be able to stop at once if necessary. There may be people nearby."
+  },
+  {
+   "id": "m05-04",
+   "q": "A snowplough with its amber beacon on is working on the road and moving without keeping to the road markings. What do the Rules require of you?",
+   "options": [
+    "Give way to it just as you would to a vehicle with a blue beacon and siren",
+    "Stop and wait until it finishes its work",
+    "Sound the horn to demand that it follow the road markings",
+    "Do not obstruct its work, although it has no priority"
+   ],
+   "answer": 3,
+   "explain": "With an amber beacon on, the driver may deviate from most signs, road markings and the rules on positioning on the carriageway, provided it is safe and does not impede anyone. Other road users must not obstruct the driver's work, but they are not obliged to give way to the vehicle as they would to one with a siren."
+  },
+  {
+   "id": "m05-05",
+   "q": "A fire engine with its beacon and siren on is going to a call. The traffic controller at the intersection has raised an arm straight up. What must the driver of the fire engine do?",
+   "options": [
+    "Obey the traffic controller's signal like all other drivers",
+    "Go through: an emergency vehicle may ignore the traffic controller's signals",
+    "Go through if the intersection is empty",
+    "Switch off the siren and drive around the traffic controller"
+   ],
+   "answer": 0,
+   "explain": "Drivers of emergency and special services on an urgent assignment may deviate from many rules, but not from the traffic controller's signals. An arm raised straight up prohibits movement."
+  },
+  {
+   "id": "m05-06",
+   "q": "You are reversing out of a parking space. Do you need to switch on the hazard warning lights?",
+   "options": [
+    "No, switching on the direction indicator is enough",
+    "Only during hours of darkness or in fog",
+    "Yes: they are mandatory when reversing",
+    "Only if pedestrians are walking behind the car"
+   ],
+   "answer": 2,
+   "explain": "Reversing is on the list of cases in which the hazard warning lights are switched on. They warn others about a manoeuvre during which the driver's view is worse."
+  },
+  {
+   "id": "m05-07",
+   "q": "At night on a road out of town, an oncoming car dazzles you with its headlights. Which light signal must you switch on?",
+   "options": [
+    "Main-beam headlights in response",
+    "Hazard warning lights",
+    "Front fog lamps",
+    "Left direction indicator"
+   ],
+   "answer": 1,
+   "explain": "When dazzled by headlights, the driver switches on the hazard warning lights and stops without changing lanes. The hazard warning lights warn drivers behind you that you are in a dangerous situation."
+  },
+  {
+   "id": "m05-08",
+   "q": "Outside a built-up area you get a flat tyre. You stop on the shoulder, but it is narrow, and the car is left partly on the carriageway. Do you need to switch on the hazard warning lights?",
+   "options": [
+    "No: stopping on the shoulder is always permitted",
+    "Only if it is already dark or raining",
+    "No: switching on the position lamps is enough",
+    "Yes: they are mandatory when stopping like this"
+   ],
+   "answer": 3,
+   "explain": "Outside a built-up area, the hazard warning lights are switched on when stopping on the shoulder if it is not wide enough to leave the carriageway completely. Moreover, this is a forced stop that creates a danger."
+  },
+  {
+   "id": "m05-09",
+   "q": "In town you have had a minor road traffic accident and have switched on the hazard warning lights. What is the minimum distance from the car at which you must place the warning triangle?",
+   "options": [
+    "At least 15 m",
+    "At least 5 m",
+    "At least 30 m",
+    "At least 50 m"
+   ],
+   "answer": 0,
+   "explain": "In a road traffic accident, the warning triangle is placed immediately. In a built-up area it is placed no closer than 15 m to the vehicle, outside a built-up area no closer than 30 m."
+  },
+  {
+   "id": "m05-10",
+   "q": "Out of town, your car has stalled just after a sharp bend where the road is visible for less than 100 m. The hazard warning lights are on. How should you place the warning triangle?",
+   "options": [
+    "No triangle is needed: the hazard warning lights are enough",
+    "Right up against the rear bumper, so that it is sure to be noticed",
+    "No closer than 30 m, so that it can be seen from around the bend",
+    "No closer than 15 m to the car: that is enough anywhere"
+   ],
+   "answer": 2,
+   "explain": "In a forced stop at a place where visibility is less than 100 m, the triangle is placed on the side of greatest danger. Outside a built-up area it is placed no closer than 30 m and so that other drivers notice the danger in time."
+  },
+  {
+   "id": "m05-n001",
+   "q": "You are driving on the main road. An ambulance with its beacons and siren on is approaching the intersection from the right, along a minor road. Who do you give way to?",
+   "options": [
+    "Only the ambulance",
+    "The ambulance and the white car",
+    "Nobody",
+    "Only the white car"
+   ],
+   "answer": 0,
+   "explain": "Everyone gives way to a vehicle with a flashing blue and (or) red beacon and a siren switched on, even drivers on the main road. The white car faces sign 2.4, so it must let you go first."
+  },
+  {
+   "id": "m05-n002",
+   "q": "You are driving on the main road. A police car with its beacon on but without a siren is approaching from the right, along a minor road. Who do you give way to?",
+   "options": [
+    "Only the police car",
+    "The police car and the white car",
+    "Nobody",
+    "Only the white car"
+   ],
+   "answer": 2,
+   "explain": "An emergency vehicle gets priority only when both the beacon and the siren are on. Without a siren, the police car, like the white car, must let you go first because of sign 2.4. But be careful: make sure it is actually giving way."
+  },
+  {
+   "id": "m05-n003",
+   "q": "The light is green for you, and you are going straight ahead. A fire engine with its beacons and siren on is approaching the intersection from the right against a red light. Who do you give way to?",
+   "options": [
+    "Only the fire engine",
+    "The fire engine and the white car",
+    "Only the white car",
+    "Nobody: your light is green"
+   ],
+   "answer": 0,
+   "explain": "An emergency vehicle on an urgent assignment may deviate from traffic light signals, and everyone gives way to a vehicle with beacons and a siren on, even on a green light. The white car is turning left from the opposite direction, so it must let you go first."
+  },
+  {
+   "id": "m05-n004",
+   "q": "In what order will an ambulance with its beacons and siren on, a tram and you go through an intersection of roads of equal status?",
+   "options": [
+    "Ambulance, tram, you",
+    "Tram, ambulance, you",
+    "Ambulance, you, tram",
+    "Tram, you, ambulance"
+   ],
+   "answer": 0,
+   "explain": "The ambulance with its beacons and siren goes first: everyone gives way to it, including the tram. Then the tram: at an intersection of roads of equal status it has priority over trackless vehicles. You are turning left and go last."
+  },
+  {
+   "id": "m05-n005",
+   "q": "A police car with its beacons and siren on is leading two buses. You are driving on the main road. Who do you give way to?",
+   "options": [
+    "Only the police car",
+    "The police car and the buses",
+    "Only the buses",
+    "Nobody: you are on the main road"
+   ],
+   "answer": 1,
+   "explain": "Vehicles escorted by an emergency vehicle enjoy the same priority as the emergency vehicle itself. You must give way to the whole group: both the police car and the buses, even though the buses have no special signals of their own."
+  }
+ ]
+}

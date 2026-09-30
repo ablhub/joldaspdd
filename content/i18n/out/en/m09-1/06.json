@@ -1,0 +1,207 @@
+{
+ "questions": [
+  {
+   "id": "m09-n059",
+   "q": "You are driving a scheduled bus and approaching a stop to let passengers off. May you stop at the zigzag markings?",
+   "options": [
+    "No: no one may stop at marking 1.17 or within 15 m of it",
+    "Yes, but only if there are no other buses at the stop",
+    "Yes, but only with the dispatcher's permission",
+    "Yes: the ban does not apply to category M2 and M3 buses"
+   ],
+   "answer": 3,
+   "explain": "Marking 1.17 marks a route vehicle stop. The ban on stopping in the stop area and within 15 m of it does not apply to buses of categories M2 and M3."
+  },
+  {
+   "id": "m09-n060",
+   "q": "Your friend is waiting at a bus stop. May you stop at the zigzag markings for a minute so that your friend can get in?",
+   "options": [
+    "Yes: picking up a passenger is stopping, not parking",
+    "Yes, if there is no bus at the stop at the moment",
+    "Yes, if you switch on the hazard warning lights and stay in the car",
+    "No: passenger cars are prohibited from stopping there"
+   ],
+   "answer": 3,
+   "explain": "Marking 1.17 marks a route vehicle stop. Passenger cars must not stop in the stop area or within 15 m of it, even to pick up a passenger."
+  },
+  {
+   "id": "m09-n061",
+   "q": "Under sign 3.28, a van driver spends 15 minutes unloading goods for a shop. Is he breaking the rules?",
+   "options": [
+    "Yes: he has been there over 5 minutes, so it is already parking",
+    "No, but only if his hazard warning lights are on",
+    "Yes: under this sign you may unload for no more than 5 minutes at a time",
+    "No: unloading is stopping, and the sign prohibits only parking"
+   ],
+   "answer": 3,
+   "explain": "A halt for loading or unloading counts as stopping, even if it lasts longer than 5 minutes. Sign 3.28 prohibits only parking, so the van driver is not breaking any rules."
+  },
+  {
+   "id": "m09-n063",
+   "q": "In which of these cases is stopping prohibited?",
+   "options": [
+    "Your van would hide traffic light signals from other drivers",
+    "You would stop 10 m after a pedestrian crossing",
+    "You would stop 20 m from a yard exit without blocking it",
+    "You would stop on a bridge with three lanes in your direction"
+   ],
+   "answer": 0,
+   "explain": "Stopping is prohibited where a vehicle would hide traffic light signals or road signs from other drivers. The other places listed are allowed for stopping: there is no ban after a crossing, a yard exit is not an intersection, and you may stop on a bridge with three lanes in your direction."
+  },
+  {
+   "id": "m09-n064",
+   "q": "Where do the Rules prohibit both stopping and parking?",
+   "options": [
+    "On the shoulder outside a built-up area",
+    "At the left-hand edge of a one-way street in a built-up area",
+    "20 m after a bus stop",
+    "On lawns, flower beds, playgrounds and sports grounds"
+   ],
+   "answer": 3,
+   "explain": "Both stopping and parking are prohibited on flower beds, lawns, playgrounds and sports grounds. The other places listed are allowed if there are no other prohibitions."
+  },
+  {
+   "id": "m09-n065",
+   "q": "Which vehicles may be parked on the carriageway in two rows?",
+   "options": [
+    "Passenger cars, if the hazard warning lights are on",
+    "Trucks, while they are unloading",
+    "Two-wheeled vehicles without a sidecar",
+    "None"
+   ],
+   "answer": 2,
+   "explain": "On the carriageway, vehicles are parked in a single row parallel to the edge. The exception is two-wheeled vehicles without a sidecar: they may be parked in two rows."
+  },
+  {
+   "id": "m09-n066",
+   "q": "Where does this sign apply if it is placed at the right-hand edge of the street?",
+   "options": [
+    "Only on the side where it is placed",
+    "On both sides of the street up to the nearest intersection",
+    "On both sides, if the street is narrow",
+    "Only for 25 m from where the sign is placed"
+   ],
+   "answer": 0,
+   "explain": "Signs 3.27-3.30 apply only on the side of the road where they are placed. There is no ban on the opposite side unless it has its own sign or markings."
+  },
+  {
+   "id": "m09-n067",
+   "q": "Sign 3.28 is placed on a village street, and there are no intersections on this street before the end of the village. How far does the ban apply?",
+   "options": [
+    "Up to the nearest exit from a yard",
+    "For 100 m from the sign",
+    "Up to the end of the built-up area",
+    "Up to the nearest bus stop"
+   ],
+   "answer": 2,
+   "explain": "Signs 3.27-3.30 apply up to the nearest intersection beyond them or, in a built-up area with no intersection, up to the end of the built-up area. Exits from yards do not interrupt the sign's effect."
+  },
+  {
+   "id": "m09-n068",
+   "q": "These signs are placed on opposite sides of the same street. What does the time from 19:00 to 21:00 mean?",
+   "options": [
+    "The time when parking is prohibited on both sides of the street at once",
+    "The time when only taxis are exempt from the signs",
+    "The time when only trucks are allowed to park",
+    "The time for moving cars from one side of the street to the other"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.29 prohibits parking on odd days, and 3.30 on even days. When they are placed on opposite sides of a street, vehicles are moved from one side to the other from 19:00 to 21:00."
+  },
+  {
+   "id": "m09-n069",
+   "q": "Who may stop in a route vehicle stop area and within 15 m of it?",
+   "options": [
+    "Any vehicle, for boarding and alighting",
+    "Taxis with the taximeter on",
+    "Buses of categories M2 and M3",
+    "Passenger cars, for up to 1 minute"
+   ],
+   "answer": 2,
+   "explain": "Stopping in stop areas and within 15 m of them is prohibited for everyone except vehicles of categories M2 and M3, that is, buses. There is no exception for taxis or passenger cars."
+  },
+  {
+   "id": "m09-n070",
+   "q": "Stopping is prohibited if there is less than 3 m between the vehicle and a solid marking line and this obstructs traffic. Which solid line does this rule not take into account?",
+   "options": [
+    "A double solid line",
+    "A line separating opposing traffic flows",
+    "A line marking the edge of the carriageway",
+    "A line separating lanes in the same direction"
+   ],
+   "answer": 2,
+   "explain": "The 3 m rule takes into account solid marking lines, except the line marking the edge of the carriageway. At the edge, a car always stands next to such a line, and this does not obstruct other drivers."
+  },
+  {
+   "id": "m09-n071",
+   "q": "Where is parking prohibited but a short stop allowed?",
+   "options": [
+    "On a pedestrian crossing",
+    "In a tunnel",
+    "Within 50 m of a level crossing",
+    "Within 30 m of the edge of the intersecting carriageway"
+   ],
+   "answer": 2,
+   "explain": "Within 50 m of a level crossing only parking is prohibited; you may stop there, for example, to drop off a passenger. On a pedestrian crossing, in a tunnel and within 30 m of an intersection, even stopping is prohibited."
+  },
+  {
+   "id": "m09-n072",
+   "q": "Who is exempt from this sign?",
+   "options": [
+    "Route vehicles",
+    "Taxis with the taximeter on",
+    "Vehicles driven by persons with group I or II disabilities",
+    "Vehicles with the hazard warning lights on"
+   ],
+   "answer": 0,
+   "explain": "Sign 3.27 “No stopping” does not apply to route vehicles. Taxis with the taximeter on and vehicles of persons with disabilities are exempt only from signs 3.28-3.30, which prohibit parking; in the zone of sign 3.27, a driver with a disability may stop only with the vehicle entirely on the pavement ⟦16⟧."
+  },
+  {
+   "id": "m09-n073",
+   "q": "At what visibility of the road is stopping on the carriageway near a dangerous bend prohibited?",
+   "options": [
+    "Less than 100 m in at least one direction",
+    "Less than 300 m in both directions",
+    "Less than 50 m in both directions",
+    "Less than 150 m in at least one direction"
+   ],
+   "answer": 0,
+   "explain": "Stopping on the carriageway near dangerous bends and brows of hills (convex changes in the longitudinal profile of the road) is prohibited if visibility of the road is less than 100 m in at least one direction."
+  },
+  {
+   "id": "m09-n074",
+   "q": "A truck with a maximum authorised mass of 10 t and a blue passenger car have been standing here for more than an hour. Who is allowed to park like this?",
+   "options": [
+    "Only the truck",
+    "Only the blue car",
+    "Both the truck and the blue car",
+    "Neither the truck nor the blue car"
+   ],
+   "answer": 1,
+   "explain": "A plate showing a truck makes sign 3.28 apply only to trucks with a maximum authorised mass of more than 3.5 t. The blue passenger car may park here."
+  },
+  {
+   "id": "m09-n075",
+   "q": "The plate under the sign shows 20 m. The blue car is 10 m beyond the sign, the red car 50 m. Who may stop here?",
+   "options": [
+    "Both the blue and the red car",
+    "Neither the blue nor the red car",
+    "Only the blue car",
+    "Only the red car"
+   ],
+   "answer": 3,
+   "explain": "The “Zone of application” plate with an arrow and a distance shows that sign 3.27 applies only for 20 m from where it is placed. The blue car is within this zone, and the red car is further on, where there is no longer a ban."
+  },
+  {
+   "id": "m09-n076",
+   "q": "Tram tracks run down the middle of a street in town, and there is one lane for vehicles in each direction. May you stop at the left-hand edge?",
+   "options": [
+    "Yes: this is a built-up area with one lane in each direction",
+    "Yes, if no tram can be seen nearby",
+    "No: there are tram tracks in the middle"
+   ],
+   "answer": 2,
+   "explain": "In built-up areas you may stop on the left on roads with one lane for each direction, but only if there are no tram tracks in the middle. Here there are tracks, and to stop on the left you would have to cross them."
+  }
+ ]
+}

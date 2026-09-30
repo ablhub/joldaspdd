@@ -1,0 +1,190 @@
+{
+ "questions": [
+  {
+   "id": "m03-n042",
+   "q": "There is neither a pedestrian crossing nor an intersection within sight. How should a pedestrian cross the road correctly?",
+   "options": [
+    "Diagonally, so as to reach the other side more quickly",
+    "At right angles, where the road is visible in both directions",
+    "Just past a bend in the road, where vehicles slow down",
+    "From behind a stationary car, where the way across is shorter"
+   ],
+   "answer": 1,
+   "explain": "If there is no crossing or intersection within sight, the road may be crossed at right angles to its edge on a stretch that can be clearly seen in both directions. That way the path across the carriageway is the shortest, and vehicles can be seen in advance."
+  },
+  {
+   "id": "m03-n043",
+   "q": "There is a pedestrian barrier in the middle of a city street, and the nearest crossing is far away. May a pedestrian climb over the barrier and cross here?",
+   "options": [
+    "Yes, if no vehicles can be seen nearby at the moment",
+    "Yes, if they cross strictly at right angles",
+    "No: where there are barriers, only at a crossing",
+    "Yes by day, but not during the hours of darkness"
+   ],
+   "answer": 2,
+   "explain": "Crossing the carriageway away from a pedestrian crossing is not allowed where pedestrian or road barriers are installed, and in a built-up area also where there is a central reservation."
+  },
+  {
+   "id": "m03-n044",
+   "q": "There are no pedestrian traffic lights at the intersection, only traffic lights for vehicles. Which signals does a pedestrian follow when crossing the road?",
+   "options": [
+    "The signals of the vehicle traffic lights",
+    "None: without a pedestrian traffic light, crossing here is not allowed",
+    "They cross when there are no vehicles: traffic lights do not apply to them",
+    "Only a flashing amber signal"
+   ],
+   "answer": 0,
+   "explain": "Where traffic is controlled, pedestrians follow the signals of the traffic controller or the pedestrian traffic light, and if there are none, the vehicle traffic light. In the diagram, the light is green for vehicles moving parallel to the pedestrian, and the crossing traffic is stopped."
+  },
+  {
+   "id": "m03-n045",
+   "q": "At an intersection, the pedestrian traffic light is working, but a traffic controller is directing traffic. Whose signals does a pedestrian obey?",
+   "options": [
+    "The pedestrian traffic light's: it is intended specifically for pedestrians",
+    "Whichever signals allow crossing",
+    "The vehicle traffic light's",
+    "The traffic controller's: they override the traffic light"
+   ],
+   "answer": 3,
+   "explain": "Drivers and pedestrians must obey the signals and instructions of the traffic controller, even if they contradict traffic light signals, road signs or road markings."
+  },
+  {
+   "id": "m03-n046",
+   "q": "How should a pedestrian step onto an uncontrolled pedestrian crossing?",
+   "options": [
+    "At once: on a zebra crossing a pedestrian always has priority over vehicles",
+    "Only with a raised hand, so that drivers notice them in advance",
+    "After judging vehicles' distance and speed and making sure it is safe",
+    "Only when the nearest vehicle is more than a hundred metres away"
+   ],
+   "answer": 2,
+   "explain": "At an uncontrolled crossing a pedestrian has priority, but they must step onto the road only after judging the distance to approaching vehicles and their speed. A driver who can no longer stop in time will be physically unable to give way."
+  },
+  {
+   "id": "m03-n047",
+   "q": "A pedestrian is crossing the road away from a pedestrian crossing. What are they prohibited from doing?",
+   "options": [
+    "Stepping out from behind a stationary car without checking",
+    "Walking at right angles to the edge of the carriageway",
+    "Crossing where the road can be seen in both directions",
+    "Crossing during the day when there is little traffic"
+   ],
+   "answer": 0,
+   "explain": "Away from a pedestrian crossing, a pedestrian must not impede traffic or step out from behind a stationary vehicle or another obstruction that restricts the view without making sure that no vehicles are coming. The driver cannot see them because of the obstruction either."
+  },
+  {
+   "id": "m03-n048",
+   "q": "A pedestrian did not manage to finish crossing before the signal changed and has stopped on the centre line. What should they do next?",
+   "options": [
+    "Run on before the vehicles move off",
+    "Go back to the pavement without looking at the vehicles",
+    "Stand in the middle of a traffic lane so that drivers go around them",
+    "Wait on the centre line and continue when it becomes safe"
+   ],
+   "answer": 3,
+   "explain": "Pedestrians who have not managed to finish crossing stop on the line separating traffic flows in opposite directions and continue only after making sure it is safe, taking the traffic light signals into account. Drivers should remember that such a person is standing very close to their vehicle."
+  },
+  {
+   "id": "m03-n049",
+   "q": "When does a pedestrian crossing with a traffic light count as uncontrolled?",
+   "options": [
+    "When the light flashes amber or is off, with no traffic controller",
+    "When the pedestrians' light is red and the vehicles' light is green",
+    "Only during the hours of darkness, when there is little traffic",
+    "When there are no pedestrians at all on or near the crossing"
+   ],
+   "answer": 0,
+   "explain": "Controlled and uncontrolled crossings are distinguished in the same way as intersections: with a flashing amber signal, traffic lights that are not working or no traffic controller, a crossing is uncontrolled. Drivers then give way to pedestrians on it as at an ordinary zebra crossing."
+  },
+  {
+   "id": "m03-n050",
+   "q": "Which of the signs marks the actual location of a pedestrian crossing?",
+   "options": [
+    "The left one, triangular",
+    "The right one, blue",
+    "Both signs",
+    "Neither: a crossing is marked only by road markings"
+   ],
+   "answer": 1,
+   "explain": "The location of a crossing is marked by signs 5.16.1 and 5.16.2 and (or) zebra markings. The triangular sign 1.20 only warns of a crossing ahead. If there are no markings, the width of the crossing is the distance between signs 5.16.1 and 5.16.2."
+  },
+  {
+   "id": "m03-n051",
+   "q": "A tram is standing at a stop without a boarding platform, and its doors have already closed. A late passenger is running towards it across your lane. What should you do?",
+   "options": [
+    "Drive on: the doors are closed, so boarding is over",
+    "Give way to the pedestrian running to the tram",
+    "Sound the horn so that they go back to the pavement",
+    "Drive around behind the pedestrian without slowing down"
+   ],
+   "answer": 1,
+   "explain": "The driver must give way to pedestrians walking to or from a route vehicle standing at a stop if boarding takes place directly from the carriageway. The tram is still standing there, and the pedestrian is running to it across your lane, so you must let them pass.",
+   "scene": {
+    "labels.0.text": "tram"
+   }
+  },
+  {
+   "id": "m03-n052",
+   "q": "When must a driver give way to pedestrians walking to or from a tram standing at a stop?",
+   "options": [
+    "If boarding is from the carriageway or a platform on it",
+    "Only if the tram sounded its horn before boarding",
+    "Only if the tram has its hazard warning lights on",
+    "Never: away from a crossing, pedestrians give way to vehicles"
+   ],
+   "answer": 0,
+   "explain": "The driver must give way to pedestrians walking to or from a route vehicle standing at a stop on the door side, if boarding and alighting take place from the carriageway or from a boarding platform located on it. Route vehicles are buses, trolleybuses and trams."
+  },
+  {
+   "id": "m03-n053",
+   "q": "You are passing the “Children” sign near a school. What is the correct way to behave?",
+   "options": [
+    "Drive as usual: the sign applies only during school hours",
+    "Sound the horn so that the children move away from the road",
+    "Slow down and be ready for children to appear",
+    "Move into the left lane and get through the section faster"
+   ],
+   "answer": 2,
+   "explain": "Sign 1.21 “Children” warns of a section of road near a school, camp or other children's facility where children may appear on the carriageway. Children often run out suddenly and are poor at judging the speed of vehicles.",
+   "scene": {
+    "labels.0.text": "school"
+   }
+  },
+  {
+   "id": "m03-n054",
+   "q": "Ahead of you, a pedestrian is running across the road away from a pedestrian crossing. They are breaking the Rules. What should you do?",
+   "options": [
+    "Keep your speed: the pedestrian is the one breaking the rules",
+    "Sound the horn and carry on",
+    "Drive around them in the oncoming lane at the same speed",
+    "Slow down, even to the point of stopping"
+   ],
+   "answer": 3,
+   "explain": "The pedestrian's violation does not release the driver from the duty to avoid hitting them. When there is a traffic hazard that the driver is able to detect, the driver must reduce speed, even to the point of stopping, or drive safely around the obstacle."
+  },
+  {
+   "id": "m03-n055",
+   "q": "Ahead of you, a bus with the “Carriage of children” sign and its amber beacon switched on is standing at the right-hand edge. No children can be seen near it yet. What must you do?",
+   "options": [
+    "Nothing special: there are no children on the road",
+    "Slow down and be ready to stop",
+    "Stop and wait until the bus leaves",
+    "Sound the horn so that the bus driver notices you"
+   ],
+   "answer": 1,
+   "explain": "When approaching a stationary vehicle with the “Carriage of children” sign, the driver must slow down and, if necessary, stop and let the group of children pass. Children may step out from behind the bus at any moment."
+  },
+  {
+   "id": "m03-n056",
+   "q": "You have stopped before an uncontrolled crossing to let a pedestrian cross. The driver behind you is impatiently sounding the horn. What should you do?",
+   "options": [
+    "Drive on so as not to hold up the traffic",
+    "Let the pedestrian cross and only then drive on",
+    "Signal to the pedestrian to let the vehicles go first",
+    "Reverse a little to make room for the driver behind"
+   ],
+   "answer": 1,
+   "explain": "The duty to give way to a pedestrian at an uncontrolled crossing does not depend on whether someone behind you is in a hurry. The horn of the driver behind does not give you the right to endanger the pedestrian."
+  }
+ ]
+}

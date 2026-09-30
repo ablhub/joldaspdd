@@ -1,0 +1,186 @@
+{
+ "questions": [
+  {
+   "id": "m11-n124",
+   "q": "The blue car did not manage to complete its turn before the signals changed. In what order will the vehicles cross the intersection?",
+   "options": [
+    "White car, blue car, truck",
+    "Blue car, truck, white car",
+    "Blue car, white car, truck",
+    "Truck, blue car, white car"
+   ],
+   "answer": 2,
+   "explain": "Everyone for whom the green signal has just come on gives way to the blue car, which is completing its turn ⟦103⟧. Then, on green, the white car goes straight ahead, and the truck, which is turning left, gives way to it as an oncoming vehicle ⟦104⟧."
+  },
+  {
+   "id": "m11-n125",
+   "q": "In what order will all four vehicles cross the intersection?",
+   "options": [
+    "Bus, then the blue car, then the green car and the motorcycle together",
+    "Blue car, then the bus and the motorcycle together, then the green car",
+    "The bus and the motorcycle together, then the blue car, then the green car",
+    "The bus and the blue car together, then the green car, then the motorcycle"
+   ],
+   "answer": 2,
+   "explain": "The main road runs from the right downward (plate 7.13): the bus and the blue car are on the main road, and the blue car gives way to the bus, which is on its right ⟦105⟧. The motorcycle on the minor road is turning right and does not cross anyone's path, so it goes straight away. The green car waits until both vehicles from the main road have passed ⟦106⟧."
+  },
+  {
+   "id": "m11-n126",
+   "q": "You are turning left on a green signal, and the blue car is turning right on a filter arrow. Who must you give way to?",
+   "options": [
+    "Only the green car",
+    "Only the blue car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "When turning left on green, you give way to the oncoming green car, which is going straight ahead ⟦107⟧. The blue car is driving on the arrow, which is lit together with red, and it must itself give way to everyone from other directions ⟦108⟧; besides, its right turn does not cross your path."
+  },
+  {
+   "id": "m11-n127",
+   "q": "There are no signs. In what order will the trolleybus, the black car and the truck cross the intersection?",
+   "options": [
+    "Trolleybus, black car, truck",
+    "Black car, trolleybus, truck",
+    "Trolleybus, truck, black car",
+    "Truck, black car, trolleybus"
+   ],
+   "answer": 0,
+   "explain": "The intersection is of equal status. The black car is turning left and gives way to the trolleybus, which is on its right ⟦109⟧. The truck is turning left: it gives way to the oncoming trolleybus ⟦110⟧ and to the black car, which is on its right ⟦111⟧."
+  },
+  {
+   "id": "m11-n128",
+   "q": "There are no signs. In what order will all four vehicles cross the intersection?",
+   "options": [
+    "Tractor, then the white car and the motorcycle together, then the blue car",
+    "The white car and the motorcycle together, then the blue car, then the tractor",
+    "The white car and the motorcycle together, then the tractor, then the blue car",
+    "White car, tractor, motorcycle, blue car"
+   ],
+   "answer": 2,
+   "explain": "There are no signs, so the main road is the asphalt road, and the dirt road is the minor one ⟦112⟧. The white car and the motorcycle are on the main road, going straight ahead towards each other, and cross the intersection together. Then the tractor, while the blue car is turning left and gives way to the oncoming tractor ⟦113⟧.",
+   "ref": "para. 2(9), paras. 101 and 104"
+  },
+  {
+   "id": "m11-n129",
+   "q": "There are no signs. In what order will the blue car, the white car and the green car cross the intersection?",
+   "options": [
+    "The blue car and the green car together, then the white car",
+    "White car, blue car, green car",
+    "Blue car, white car, green car",
+    "White car, green car, blue car"
+   ],
+   "answer": 2,
+   "explain": "Nothing obstructs the blue car: the oncoming green car is also turning left, and the white car on the left gives way to the blue car ⟦114⟧. The green car could pass the blue car right side to right side, but the white car is on its right, and it must give way to it. So the order is: blue car, white car, green car."
+  },
+  {
+   "id": "m11-n130",
+   "q": "The white car is making a U-turn on a green signal. In what order will the vehicles cross the intersection?",
+   "options": [
+    "White car, then the bus and the blue car together",
+    "The white car and the bus together, then the blue car",
+    "Bus, white car, blue car",
+    "The bus and the blue car together, then the white car"
+   ],
+   "answer": 3,
+   "explain": "When making a U-turn on green, a driver gives way to oncoming vehicles going straight ahead or turning right ⟦115⟧. The bus and the blue car are coming towards each other in different lanes and cross the intersection together, while the white car makes its U-turn after them."
+  },
+  {
+   "id": "m11-n131",
+   "q": "There is a lane for route vehicles on your right (sign 5.9), separated by a broken line. You are turning right, and a bus is driving in that lane. What should you do?",
+   "options": [
+    "Change into the lane for route vehicles in advance: the line is broken",
+    "Turn first: the bus is going straight ahead and must give way to you",
+    "Turn after giving way to the bus driving in that lane",
+    "Stop in the lane for route vehicles and give way to the bus"
+   ],
+   "answer": 2,
+   "explain": "When turning, a driver gives way to route vehicles driving in the lane marked with sign 5.9 ⟦116⟧. Since 2026, other vehicles must not drive in this lane, even if it is separated by a broken line (para. 126 as amended by Order No. 305 of the Ministry of Internal Affairs of 27.04.2026). So drivers turn from the adjacent lane after giving way to the bus."
+  },
+  {
+   "id": "m11-n134",
+   "q": "You are pulling out of a field dirt track onto an asphalt road and turning left. Who must you give way to?",
+   "options": [
+    "Only the truck",
+    "Only the blue car: it is approaching from the right",
+    "Both",
+    "Neither"
+   ],
+   "answer": 2,
+   "explain": "A junction with a field track is not considered an intersection ⟦117⟧, so priority to the right does not apply here. When pulling onto a road from a minor road, a driver gives way to vehicles and pedestrians moving along it ⟦118⟧, and a paved road outranks a dirt road ⟦119⟧."
+  },
+  {
+   "id": "m11-n135",
+   "q": "You are turning left into a yard. Who must you give way to?",
+   "options": [
+    "Only the truck",
+    "Only the pedestrian",
+    "The truck and the pedestrian",
+    "No one: this is not an intersection"
+   ],
+   "answer": 2,
+   "explain": "When turning left outside an intersection, you give way to oncoming vehicles ⟦120⟧, and when leaving the road, to vehicles and pedestrians whose path you cross ⟦121⟧. So give way to both the oncoming truck and the pedestrian on the pavement at the entrance to the yard.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m11-n136",
+   "q": "You are driving on a main road with a central reservation and making a U-turn at an intersection. What must you do before completing the U-turn?",
+   "options": [
+    "Nothing: the minor road always gives way, so you do not need to look",
+    "Make sure that vehicles from the minor road are giving way to you",
+    "Stop and give way to everyone waiting on the minor road",
+    "Switch on your hazard warning lights"
+   ],
+   "answer": 1,
+   "explain": "A driver on a main road with a central reservation, before completing a U-turn at an intersection, makes sure that vehicles on the minor road are giving way ⟦122⟧. A driver on the minor road may not expect you to end up in their path after the U-turn."
+  },
+  {
+   "id": "m11-n137",
+   "q": "You are driving on a dirt road towards an intersection with an asphalt road. Right before the intersection, your road is paved for a few metres. There are no priority signs. How should you cross the intersection?",
+   "options": [
+    "As one of equal status: you also have asphalt right before the intersection",
+    "Give way to those driving on the road you are crossing",
+    "Whoever reached the intersection first crosses first"
+   ],
+   "answer": 1,
+   "explain": "Without signs, a road with a hard surface is treated as the main road relative to a dirt road. A short paved section on the minor road right before the intersection does not make it equal to the road it crosses ⟦123⟧, so you give way to those driving on the asphalt road ⟦124⟧."
+  },
+  {
+   "id": "m11-n140",
+   "q": "What requirement does sign 2.4 with this plate set for you?",
+   "options": [
+    "Give way only to those approaching from the right",
+    "Give way to those driving on the main road",
+    "Stop before the intersection, even if the main road is clear",
+    "Give way only to those driving straight ahead on the main road"
+   ],
+   "answer": 1,
+   "explain": "Sign 2.4 requires you to give way to vehicles driving on the road you are crossing, and with plate 7.13, to those on the main road (sign 2.4). The plate shows which way the main road turns (plate 7.13)."
+  },
+  {
+   "id": "m11-n141",
+   "q": "At a large intersection, there is a second traffic light with its own stop line beyond the first one. You crossed the first traffic light on green. What should you do at the second one?",
+   "options": [
+    "Drive through it in any case: you have already entered the intersection",
+    "Follow the signals of the second traffic light",
+    "Stop at the second traffic light in any case"
+   ],
+   "answer": 1,
+   "explain": "A driver who has crossed the stop line on a permissive signal continues in the intended direction regardless of the signals at the exit. But if the traffic lights ahead on your route each have their own stop line or sign 5.33, follow the signals of each traffic light ⟦125⟧."
+  },
+  {
+   "id": "m11-n142",
+   "q": "You are approaching an intersection in the left-hand lane. A bus is driving in the same direction on your right and is blocking your view. May you pass it at the intersection?",
+   "options": [
+    "Yes, if the bus is going slower",
+    "No, this is prohibited at an intersection",
+    "Yes, if there is a traffic light at the intersection",
+    "Yes, if you sound your horn"
+   ],
+   "answer": 1,
+   "explain": "At an intersection, it is prohibited to pass vehicles travelling in the same direction that restrict the driver's view ⟦126⟧. Because of the bus, you might not see a pedestrian or a car on the right."
+  }
+ ]
+}

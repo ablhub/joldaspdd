@@ -1,0 +1,10 @@
+{
+  "name": "joldas-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Жолдас ПДД: анонимная синхронизация прогресса, статистика и админка",
+  "main": "src/main.js",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node src/main.js", "migrate": "node src/migrate.js", "test": "node test/run.js" },
+  "dependencies": { "pg": "^8.16.0" }
+}

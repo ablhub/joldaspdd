@@ -1,0 +1,196 @@
+{
+ "questions": [
+  {
+   "id": "m10-n040",
+   "q": "Who must a driver give way to at a level crossing?",
+   "options": [
+    "Only a passenger train",
+    "A train, locomotive or draisine",
+    "No one, if the traffic light is off",
+    "Oncoming vehicles"
+   ],
+   "answer": 1,
+   "explain": "Railway tracks are crossed at level crossings, giving way to a train, locomotive or draisine. They cannot turn aside and take hundreds of metres to stop."
+  },
+  {
+   "id": "m10-n041",
+   "q": "Outside town, a field track runs up to the railway tracks. There is no level crossing here: no decking and no signs. There are no trains in sight. May you cross the tracks here to shorten your route?",
+   "options": [
+    "Yes, if there is no train visible in either direction",
+    "Yes, if you cross quickly and at a right angle",
+    "Yes, but only during daylight hours",
+    "No: you may cross the tracks only at a level crossing"
+   ],
+   "answer": 3,
+   "explain": "There is no level crossing here, and crossing railway tracks anywhere except at a level crossing is prohibited ⟦13⟧. You may cross the tracks only at a level crossing, giving way to a train ⟦14⟧."
+  },
+  {
+   "id": "m10-n042",
+   "q": "What signal does the driver of a car stuck on a level crossing give as the general alarm signal?",
+   "options": [
+    "A series of three long and one short signal",
+    "One continuous long sound signal",
+    "A series of one long and three short signals",
+    "A series of two short and two long signals"
+   ],
+   "answer": 2,
+   "explain": "The general alarm signal is a series of one long and three short sound signals. The driver gives it while staying by the car."
+  },
+  {
+   "id": "m10-n043",
+   "q": "How do you give the train driver the stop signal at night?",
+   "options": [
+    "By flashing the car's headlights aimed at the train",
+    "With circular arm movements, holding a lamp or a flare",
+    "By waving both arms crossed above the head",
+    "With a series of long blasts of the car horn"
+   ],
+   "answer": 1,
+   "explain": "The stop signal is a circular movement of the arm: by day with a piece of brightly coloured material or another clearly visible object, by night with a flare or a lamp."
+  },
+  {
+   "id": "m10-n044",
+   "q": "A lunar white signal is flashing at the crossing, but you can see a train approaching the crossing from the right. What should you do?",
+   "options": [
+    "Drive on: the lunar white signal permits movement",
+    "Drive across quickly before the train gets close",
+    "Stop before the crossing and let the train pass",
+    "Drive on, sounding a long blast of the horn at the train"
+   ],
+   "answer": 2,
+   "explain": "A lunar white signal permits movement, but the driver must always make sure themselves that no train is approaching. If a train is approaching within sight, entering the crossing is prohibited: the train has priority."
+  },
+  {
+   "id": "m10-n045",
+   "q": "What may be moved across a level crossing in a non-transport configuration only with permission from the head of the track section?",
+   "options": [
+    "Passenger cars with caravan trailers and boats",
+    "Buses carrying groups of children",
+    "Motorcycles with a sidecar",
+    "Agricultural and construction machinery"
+   ],
+   "answer": 3,
+   "explain": "Agricultural, road-building, construction and other machinery and equipment in a non-transport configuration, as well as slow-moving vehicles travelling at less than 8 km/h and tractor-drawn sledges, may cross a level crossing only with permission from the head of the track section."
+  },
+  {
+   "id": "m10-n046",
+   "q": "What do these signs mean?",
+   "options": [
+    "The start and end of a motorway",
+    "The start and end of a tunnel",
+    "The start and end of a bridge",
+    "The start and end of a road for motor vehicles"
+   ],
+   "answer": 0,
+   "explain": "Sign 5.1 marks the entry to a motorway, and sign 5.2 marks its end. Between them, the special rules for motorway driving apply."
+  },
+  {
+   "id": "m10-n047",
+   "q": "Which of these features is mandatory for a motorway?",
+   "options": [
+    "At least three traffic lanes in each direction",
+    "No intersections at the same level with other roads or tracks",
+    "Lighting along its whole length during hours of darkness",
+    "A speed limit of 110 km/h for all vehicles"
+   ],
+   "answer": 1,
+   "explain": "A motorway has separate carriageways for different directions with a central reservation, has no intersections at the same level with roads, railway or tram tracks, or footpaths, and can be entered only through grade-separated interchanges."
+  },
+  {
+   "id": "m10-n048",
+   "q": "Which of the following is prohibited on a motorway?",
+   "options": [
+    "Stopping at an area marked with sign 5.15",
+    "Changing into the next lane after signalling with the indicator",
+    "Letting a dog out of the car onto the shoulder",
+    "Driving a car with a trailer in the right-hand lane"
+   ],
+   "answer": 2,
+   "explain": "Pedestrians and domestic animals being outside a vehicle are prohibited on a motorway. Stopping at parking areas marked with sign 5.15 or 6.11, changing lanes, and driving with a trailer in the right-hand lane are all allowed there."
+  },
+  {
+   "id": "m10-n049",
+   "q": "Where do the Rules prohibit learner driving?",
+   "options": [
+    "Only in the city centre",
+    "On any road with sign 2.1 “Priority road”",
+    "Only during hours of darkness",
+    "On motorways and in residential zones"
+   ],
+   "answer": 3,
+   "explain": "Learner driving is prohibited on motorways and in residential zones, including yards. In the first case, the high speed of the traffic is the obstacle; in the second, it is the pedestrians on the carriageway."
+  },
+  {
+   "id": "m10-n050",
+   "q": "What do these signs mean?",
+   "options": [
+    "The start and end of a residential zone",
+    "A parking place and the end of parking",
+    "The start and end of a built-up area",
+    "A children's playground next to the road"
+   ],
+   "answer": 0,
+   "explain": "Sign 5.38 marks the entry to a residential zone, and sign 5.39 marks the exit from it. In a residential zone, pedestrians have priority, and the speed is limited to 20 km/h."
+  },
+  {
+   "id": "m10-n051",
+   "q": "How do the Rules describe the movement of pedestrians in a residential zone?",
+   "options": [
+    "They walk only on the pavement and cross the road at a crossing",
+    "They may walk on the carriageway too, but give way to vehicles",
+    "They walk on both the pavement and the carriageway, with priority",
+    "They walk only along the edge of the carriageway, facing oncoming traffic"
+   ],
+   "answer": 2,
+   "explain": "In a residential zone, pedestrians move on both pavements and the carriageway, and they have priority. But their movement must not create unreasonable obstructions for vehicles."
+  },
+  {
+   "id": "m10-n052",
+   "q": "Which of these is prohibited in a residential zone?",
+   "options": [
+    "Stopping to drop off a passenger",
+    "Sounding the horn or playing loud music",
+    "Driving to your own house at 15 km/h",
+    "Parking a car with the engine switched off by the edge of the carriageway"
+   ],
+   "answer": 1,
+   "explain": "Sounding the horn and playing loud music are prohibited in a residential zone. Everything else in the list is allowed there."
+  },
+  {
+   "id": "m10-n054",
+   "q": "You are driving on a motorway and see these signs. What do they mean for you?",
+   "options": [
+    "You may stop here at a special parking area",
+    "A zone where stopping is prohibited begins here",
+    "There will soon be an exit and the end of the motorway",
+    "A U-turn through the gap is allowed here"
+   ],
+   "answer": 0,
+   "explain": "On a motorway, you may stop only at special parking areas marked with sign 5.15 “Parking place” or sign 6.11 “Rest area”."
+  },
+  {
+   "id": "m10-n055",
+   "q": "Which of these is a prohibiting signal from a level crossing attendant?",
+   "options": [
+    "Standing sideways to you, with their arms down at their sides",
+    "Standing by the booth and giving no signals at all",
+    "Facing you with a red lamp raised up",
+    "Standing sideways to you and looking along the tracks"
+   ],
+   "answer": 2,
+   "explain": "The prohibiting signal: the attendant faces the driver with their chest or back and holds up a baton, a red lamp or a flag, or stands with their arms extended to the sides."
+  },
+  {
+   "id": "m10-n056",
+   "q": "In which of these cases may you enter the level crossing?",
+   "options": [
+    "The barrier has started to come down, and the traffic light has not come on yet",
+    "There is no barrier, a red signal is flashing, but there is no train in sight",
+    "A lunar white signal is flashing, there is no train, and it is clear beyond the crossing",
+    "A lunar white signal is flashing, there is no train, but there is a jam beyond the crossing"
+   ],
+   "answer": 2,
+   "explain": "A flashing lunar white signal permits movement, and if there is no train and it is clear beyond the crossing, you may go. A barrier beginning to close, a flashing red signal, and a jam beyond the crossing all prohibit entry."
+  }
+ ]
+}

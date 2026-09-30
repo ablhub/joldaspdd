@@ -1,0 +1,214 @@
+{
+ "questions": [
+  {
+   "id": "m06-n004",
+   "q": "The markings permit a left turn from both lanes. You are turning left from the right lane. Which path must you follow?",
+   "options": [
+    "Path A",
+    "Path B",
+    "Either path"
+   ],
+   "answer": 0,
+   "explain": "You are in the second lane from the left, so after the turn you must also end up in the second lane from the left: that is A. The far left lane (B) is for those turning from the left lane at the same time as you ⟦72⟧."
+  },
+  {
+   "id": "m06-n005",
+   "q": "You are turning right from the far right lane. Which path must you follow for the turn?",
+   "options": [
+    "Path B",
+    "Path A",
+    "Either path"
+   ],
+   "answer": 1,
+   "explain": "From the far right lane, you turn into the far right lane of the new road (A). Path B takes you into the second lane, which no longer corresponds to the one you occupy ⟦73⟧."
+  },
+  {
+   "id": "m06-n008",
+   "q": "You are driving in the left lane. On which paths may you continue driving?",
+   "options": [
+    "Path A only",
+    "Both paths",
+    "Path B only",
+    "Neither path"
+   ],
+   "answer": 2,
+   "explain": "The arrow in the left lane permits only a left turn, and you must not go straight on from here: the right lane with the “straight ahead” arrow is intended for that ⟦74⟧."
+  },
+  {
+   "id": "m06-n009",
+   "q": "You are driving in the middle lane. On which paths may you continue driving?",
+   "options": [
+    "Path B only",
+    "Paths A and B",
+    "Paths B and C",
+    "Any of the three"
+   ],
+   "answer": 0,
+   "explain": "Sign 5.8.1 and the arrow in the middle lane permit only going straight on from that lane. Here, left turns are made from the left lane and right turns from the right lane ⟦75⟧."
+  },
+  {
+   "id": "m06-n010",
+   "q": "On your left there are tram tracks for the same direction, level with the carriageway. There are no signs 5.8.1 or 5.8.2. On which paths may you drive through the intersection from your lane?",
+   "options": [
+    "Path B only",
+    "Paths B and C",
+    "Paths A and B",
+    "Any of the three"
+   ],
+   "answer": 1,
+   "explain": "When there are such tram tracks on the left and signs 5.8.1 or 5.8.2 do not set lane directions, left turns and U-turns are made from the tram tracks. From your lane, you may go straight on (B) and turn right (C) ⟦76⟧."
+  },
+  {
+   "id": "m06-n011",
+   "q": "You need to turn left. On your left there are tram tracks for the same direction, level with the carriageway, and there are no signs 5.8.1 or 5.8.2. A tram is approaching from behind along the tracks. What should you do?",
+   "options": [
+    "Turn left from your lane without entering the tracks",
+    "Enter the tracks ahead of the tram: the turning vehicle has priority",
+    "Turn left after the tram, directly from your lane",
+    "Let the tram go first, then enter the tracks and turn from them"
+   ],
+   "answer": 3,
+   "explain": "Here, left turns are made from the tram tracks for the same direction, and the driver gives way to the tram ⟦77⟧. You must not drive onto the tracks right in front of it: let the tram go first, then move onto the tracks."
+  },
+  {
+   "id": "m06-n012",
+   "q": "You are turning left onto a road with reversible traffic. Which path must you follow for the turn?",
+   "options": [
+    "Path B",
+    "Either path",
+    "Path A"
+   ],
+   "answer": 2,
+   "explain": "When turning onto a road with reversible traffic, you must take the far right lane (A). The direction of traffic in the adjacent lane may change, so you may move to the left only after making sure that driving in your direction is permitted in that lane ⟦78⟧."
+  },
+  {
+   "id": "m06-n013",
+   "q": "You are making a U-turn at an intersection from the left lane, and there are no other vehicles nearby. On which path may you make the U-turn?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths"
+   ],
+   "answer": 2,
+   "explain": "A U-turn may be made with any turning radius, provided it is safe and does not impede others ⟦79⟧. Here, neither path impedes anyone."
+  },
+  {
+   "id": "m06-n014",
+   "q": "You are about to make a U-turn, and U-turns are not prohibited on this stretch. Which path must you take to start the manoeuvre?",
+   "options": [
+    "Path B: first move into the left lane",
+    "Path A: make the U-turn directly from the right lane",
+    "Either path, if there is no oncoming traffic"
+   ],
+   "answer": 0,
+   "explain": "Before a U-turn, the driver takes up the far left position on the carriageway in advance ⟦80⟧. So first move into the left lane (B); a U-turn from the right lane across the left lane is prohibited."
+  },
+  {
+   "id": "m06-n015",
+   "q": "You need to drive into a yard on the right. Which path should you take to start the manoeuvre?",
+   "options": [
+    "Path A",
+    "Path B, then turn from the right lane",
+    "Either path, if the right lane is empty"
+   ],
+   "answer": 1,
+   "explain": "You take up the far right position before a right turn not only at an intersection but also before entering a yard ⟦81⟧. First move into the right lane (B), and turn only from that lane.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m06-n016",
+   "q": "You need to turn into a yard on the left. Which path should you take to start the manoeuvre?",
+   "options": [
+    "Path B, then turn from the left lane",
+    "Path A",
+    "Either path, if the left lane is empty"
+   ],
+   "answer": 0,
+   "explain": "Before turning left, you must take up the far left position on the carriageway in advance ⟦82⟧. Turning from the right lane across the left lane is prohibited: first change lanes (B).",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m06-n017",
+   "q": "On which path may you continue driving?",
+   "options": [
+    "Path B only",
+    "Both paths",
+    "Neither path",
+    "Path A only"
+   ],
+   "answer": 3,
+   "explain": "Sign 5.11.1 “U-turn place” marks a place where you may make a U-turn, but turning left there is prohibited. So only path A is allowed."
+  },
+  {
+   "id": "m06-n018",
+   "q": "On which path may you continue driving?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths"
+   ],
+   "answer": 1,
+   "explain": "You are at a stop: there is a shelter and sign 5.12. U-turns are prohibited at bus (tram) stops ⟦83⟧, so you may only go straight on. Make your U-turn further on, where it is permitted."
+  },
+  {
+   "id": "m06-n019",
+   "q": "On which path may you continue driving?",
+   "options": [
+    "Path A only",
+    "Both paths",
+    "Path B only"
+   ],
+   "answer": 2,
+   "explain": "Path A is a U-turn directly on the pedestrian crossing. U-turns are prohibited on pedestrian crossings ⟦84⟧, so you may only go straight on (B)."
+  },
+  {
+   "id": "m06-n020",
+   "q": "You have driven past the house you need and want to reverse 20 m. There are no intersections, crossings or stops nearby, and nobody is behind you. On which paths may you continue driving?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths"
+   ],
+   "answer": 2,
+   "explain": "Reversing is permitted if the manoeuvre is safe and does not impede others, and here there is no intersection or other place where it is prohibited ⟦85⟧. So you may either reverse (A) or drive forward (B). When reversing, the reversing lights and hazard warning lights must be on ⟦86⟧."
+  },
+  {
+   "id": "m06-n021",
+   "q": "You and the driver of the green car are moving into the middle lane at the same time. Who must give way?",
+   "options": [
+    "You",
+    "The one who switched on the indicator later",
+    "The one driving more slowly",
+    "The driver of the green car"
+   ],
+   "answer": 3,
+   "explain": "You are in the right lane, and the green car is in the left lane. When changing lanes at the same time, the driver with the other car on the right gives way. You are on the green car's right, so its driver gives way ⟦87⟧."
+  },
+  {
+   "id": "m06-n022",
+   "q": "The driver of the blue car wants to move into your lane. Who goes first?",
+   "options": [
+    "The blue car: it is slightly ahead of you",
+    "You",
+    "The one who switched on the indicator first"
+   ],
+   "answer": 1,
+   "explain": "You are driving straight on in your lane, while the blue car is changing lanes. A driver changing lanes gives way to vehicles travelling in the same direction without changing direction, so you go first ⟦88⟧."
+  },
+  {
+   "id": "m06-n023",
+   "q": "You are accelerating in an acceleration lane and want to move into the main lane of an out-of-town road. Who goes first?",
+   "options": [
+    "The blue car",
+    "You: the acceleration lane gives you priority",
+    "The one driving faster"
+   ],
+   "answer": 0,
+   "explain": "You are in the acceleration lane, and the blue car is in the main lane of the road. From an acceleration lane, you move into the adjacent lane, giving way to vehicles travelling on that road ⟦89⟧."
+  }
+ ]
+}

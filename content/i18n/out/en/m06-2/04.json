@@ -1,0 +1,172 @@
+{
+ "questions": [
+  {
+   "id": "m06-n071",
+   "q": "A two-way road has no markings. Which part of the carriageway is considered the side for oncoming traffic?",
+   "options": [
+    "The right half of the width of the carriageway",
+    "The left lane, if two vehicles fit in it",
+    "The side where fewer vehicles are travelling at the moment",
+    "The left half, disregarding any local widening"
+   ],
+   "answer": 3,
+   "explain": "The side for oncoming traffic is the half of the width of the carriageway on the left, unless traffic management establishes otherwise. Any local widening of the carriageway is not taken into account ⟦56⟧."
+  },
+  {
+   "id": "m06-n072",
+   "q": "The driver of a 16 m road train, on a road outside a built-up area with one lane in each direction, keeps a following distance that allows overtaking vehicles to pull in ahead of the road train. When does this requirement not apply?",
+   "options": [
+    "During the hours of darkness",
+    "When the driver is preparing to overtake",
+    "On straight sections of road",
+    "If the road train's speed is below 60 km/h"
+   ],
+   "answer": 1,
+   "explain": "Such a distance for overtaking vehicles is kept by vehicles for which a speed limit has been set and by vehicles or vehicle combinations longer than 7 m. The requirement does not apply if the driver is preparing to overtake, in heavy traffic, or when driving in an organised convoy ⟦57⟧."
+  },
+  {
+   "id": "m06-n073",
+   "q": "You have driven into a tunnel and realised that you have taken the wrong road. May you reverse back to the entrance?",
+   "options": [
+    "Yes, if no vehicles are behind and the hazard warning lights are on",
+    "No: both U-turns and reversing are prohibited in tunnels",
+    "Yes, if you reverse no more than 20 m with the headlights on",
+    "Yes, if the tunnel is short and the entrance is clearly visible"
+   ],
+   "answer": 1,
+   "explain": "U-turns are prohibited in tunnels ⟦58⟧, and reversing is prohibited wherever U-turns are prohibited ⟦59⟧. Drive on to the tunnel exit and make a U-turn at a permitted place."
+  },
+  {
+   "id": "m06-n074",
+   "q": "You are driving in a town on a road marked with sign 5.3 “Road for motor vehicles”. The right lane is free, and you do not intend to turn. On which path must you continue?",
+   "options": [
+    "Path A: in a town you may drive in any lane",
+    "Either path, if your speed is no more than 60 km/h",
+    "Path A only, as long as no one is behind you",
+    "Path B"
+   ],
+   "answer": 3,
+   "explain": "Sign 5.3 marks a road for motor vehicles. On such roads, even in a built-up area, the rule for roads outside built-up areas applies: keep closer to the right-hand edge and do not occupy the left lanes when the right ones are free ⟦60⟧. So move into the right lane (B)."
+  },
+  {
+   "id": "m06-n075",
+   "q": "In a town there is an overpass ahead. Under it is a wide road with no prohibitory signs or markings. May you make a U-turn under the overpass?",
+   "options": [
+    "Yes, if there are no signs",
+    "Yes, if the visibility is more than 100 m",
+    "No: U-turns under overpasses are prohibited",
+    "Only when the traffic light is green"
+   ],
+   "answer": 2,
+   "explain": "U-turns are prohibited on and under bridges, overpasses and flyovers ⟦61⟧, even if there are no signs. Make your U-turn further on, at a permitted place."
+  },
+  {
+   "id": "m06-n076",
+   "q": "You are following a truck at 90 km/h at a distance of about 5 m. Is this correct?",
+   "options": [
+    "No: the following distance must let you avoid a collision",
+    "Yes, if the truck is travelling at the same speed as you",
+    "Yes, if its brake lights are clearly visible and the road is dry",
+    "No: the Rules require a following distance of exactly 50 m"
+   ],
+   "answer": 0,
+   "explain": "At 90 km/h a car covers 25 m per second, and 5 m is a fifth of a second: if the truck brakes sharply, you will not have time to react. The following distance is chosen according to speed so that a collision can be avoided ⟦62⟧. The Rules do not set an exact number of metres."
+  },
+  {
+   "id": "m06-n077",
+   "q": "You are overtaking a cyclist riding along the edge of the carriageway. Besides the following distance, what must you observe?",
+   "options": [
+    "A safe lateral clearance from the cyclist",
+    "A speed of no more than 20 km/h",
+    "Sounding the horn throughout the overtaking",
+    "Nothing: the cyclist must keep close to the shoulder"
+   ],
+   "answer": 0,
+   "explain": "A cyclist may swerve because of the wind or a pothole, so you need a margin of space beside them. A driver keeps not only a following distance to the vehicle ahead but also the lateral clearance necessary for safety ⟦63⟧."
+  },
+  {
+   "id": "m06-n078",
+   "q": "You are turning right from the extreme right lane onto a road with three lanes in your direction. In 200 m you need to turn left. What should you do?",
+   "options": [
+    "Turn straight into the extreme left lane if it is free",
+    "Turn into the right lane, then move left one lane at a time",
+    "Turn straight into the middle lane to change lanes fewer times",
+    "Turn into any free lane: after the turn it does not matter"
+   ],
+   "answer": 1,
+   "explain": "A turn is made into the lane corresponding to the one you occupy ⟦64⟧: from the extreme right lane into the extreme right lane. Then change lanes to the left one at a time, giving way to those travelling in the same direction without changing lanes ⟦65⟧, and take up the extreme left position in advance ⟦66⟧."
+  },
+  {
+   "id": "m06-n079",
+   "q": "You are driving in the left lane. On which paths may you continue?",
+   "options": [
+    "Path A only",
+    "Paths A, B and C",
+    "Path C only",
+    "Paths A and C"
+   ],
+   "answer": 3,
+   "explain": "The arrow in your lane permits only a left turn, so you may not go straight on (B) from here. Markings that permit a left turn from the extreme left lane also permit a U-turn (C) ⟦67⟧."
+  },
+  {
+   "id": "m06-n080",
+   "q": "Sign 5.8.1, installed before the intersection, and the road markings permit a left turn from the middle and left lanes. The left lane is free. On which paths may you continue from the middle lane?",
+   "options": [
+    "Path A only",
+    "Both paths",
+    "Path B only"
+   ],
+   "answer": 2,
+   "explain": "When a sign permits a left turn from several lanes, you may not take a lane other than the extreme left one for the turn while the extreme left lane is free ⟦68⟧. The left lane is free, so the left turn must be made from it, and from the middle lane you may go straight on (B)."
+  },
+  {
+   "id": "m06-n081",
+   "q": "Sign 5.8.1, installed before the intersection, and the road markings permit a left turn from the middle and left lanes. The left lane is occupied. On which paths may you continue from the middle lane?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths"
+   ],
+   "answer": 2,
+   "explain": "Taking a lane other than the extreme left one for the turn is prohibited only while the extreme left lane is free ⟦69⟧. The left lane is occupied, so from the middle lane you may both turn left, as the sign permits, and go straight on."
+  },
+  {
+   "id": "m06-n082",
+   "q": "There are no lane arrows and no lane direction signs, and you are driving in the right lane. On which paths may you go through the intersection?",
+   "options": [
+    "Paths B and C",
+    "Paths A, B and C",
+    "Path C only",
+    "Paths A and B"
+   ],
+   "answer": 0,
+   "explain": "A U-turn, like a left turn, is made from the extreme left position ⟦70⟧. From the right lane you may go straight on (B) and turn right (C), but a U-turn along path A, across the left lane, is prohibited."
+  },
+  {
+   "id": "m06-n083",
+   "q": "Before the intersection, the centre line is a double solid line. You are in the left lane, and there are no signs. On which paths may you go through the intersection?",
+   "options": [
+    "Path B only",
+    "Both paths",
+    "Path A only",
+    "Neither path: you may not cross a double solid line"
+   ],
+   "answer": 1,
+   "explain": "The double solid line ends before the intersection, so you do not cross it when turning. A left turn (B) and a U-turn (A) at an intersection are made from the extreme left position, and you are in the left lane ⟦71⟧."
+  },
+  {
+   "id": "m06-n084",
+   "q": "The entrance to the yard you need is now behind you, just before a pedestrian crossing. On which path may you continue?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths"
+   ],
+   "answer": 1,
+   "explain": "You could only reverse back to the entrance (A) across the pedestrian crossing, and reversing is prohibited wherever U-turns are prohibited, including on pedestrian crossings ⟦72⟧. Drive on (B) and return to the entrance in a permitted way.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  }
+ ]
+}

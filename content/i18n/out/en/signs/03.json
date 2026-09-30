@@ -1,0 +1,205 @@
+{
+ "signs": [
+  {
+   "code": "1.25",
+   "meaning": "Ahead is a section where wild animals may appear on the road.",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.26",
+   "meaning": "A section of road where rockfalls, landslides and falling stones are possible.",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.27",
+   "meaning": "A section of road where strong crosswind is possible.",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.28",
+   "meaning": "A section of road over which aircraft or helicopters fly at low altitude.",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.29",
+   "meaning": "Ahead is a tunnel that has no lighting or where visibility of the entrance portal is restricted.",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.31.1",
+   "meaning": "Shows the direction of travel on a bend of small radius with a restricted view, or the direction for driving around a section under repair.",
+   "note": "The arrows show where the road goes: you must drive in the direction of the arrows."
+  },
+  {
+   "code": "1.31.2",
+   "meaning": "Shows the direction of travel on a bend of small radius with a restricted view, or the direction for driving around a section under repair.",
+   "note": "The arrows show where the road goes: you must drive in the direction of the arrows."
+  },
+  {
+   "code": "1.31.3",
+   "meaning": "Shows the directions of travel at a T-junction or a fork in the road, and also the directions for driving around a section under repair."
+  },
+  {
+   "code": "2.3.3",
+   "meaning": "You are on the main road, and a minor road joins it from the left.",
+   "note": "Signs 2.1, 2.3.1-2.3.3 and 5.1 mark the main road (para. 2(9) of the Rules)."
+  },
+  {
+   "code": "3.5",
+   "meaning": "Movement of motorcycles and mopeds is prohibited.",
+   "note": "Prohibits movement in both directions. Does not apply to vehicles that serve businesses or citizens in the marked zone or belong to citizens who live or work in it: you must enter and leave at the intersection nearest to the destination."
+  },
+  {
+   "code": "3.6",
+   "meaning": "Movement of tractors and self-propelled machines is prohibited.",
+   "note": "Prohibits movement in both directions. Does not apply to vehicles that serve businesses or citizens in the marked zone or belong to citizens who live or work in it: you must enter and leave at the intersection nearest to the destination."
+  },
+  {
+   "code": "3.7",
+   "meaning": "Movement of trucks and tractors with trailers of any type is prohibited, as is towing of motor vehicles.",
+   "note": "Prohibits movement in both directions. A passenger car with a trailer is not affected by this sign. Does not apply to vehicles that serve businesses or citizens in the marked zone or belong to citizens who live or work in it: you must enter and leave at the intersection nearest to the destination."
+  },
+  {
+   "code": "3.8",
+   "meaning": "Movement of horse-drawn carts (sleighs), riding and pack animals, and herding of livestock is prohibited.",
+   "note": "Prohibits movement in both directions. Does not apply to vehicles that serve businesses or citizens in the marked zone or belong to citizens who live or work in it: you must enter and leave at the intersection nearest to the destination."
+  },
+  {
+   "code": "3.9",
+   "meaning": "Movement on bicycles, e-scooters and small electric vehicles is prohibited.",
+   "note": "Prohibits movement in both directions."
+  },
+  {
+   "code": "3.9.1",
+   "meaning": "Movement on e-scooters is prohibited.",
+   "note": "This sign does not affect bicycles (sign 3.9 applies to them)."
+  },
+  {
+   "code": "3.10",
+   "meaning": "Movement of pedestrians is prohibited.",
+   "note": "Applies only on the side of the road where it is placed."
+  },
+  {
+   "code": "3.11",
+   "meaning": "Movement of vehicles, including combinations, whose actual total mass is greater than shown on the sign is prohibited.",
+   "note": "Actual mass is the mass of the vehicle together with its load and passengers at the given moment."
+  },
+  {
+   "code": "3.12",
+   "meaning": "Movement of vehicles whose actual load on any axle is greater than shown on the sign is prohibited."
+  },
+  {
+   "code": "3.14",
+   "meaning": "Movement of vehicles whose overall width (with or without a load) is greater than shown on the sign is prohibited."
+  },
+  {
+   "code": "3.15",
+   "meaning": "Movement of vehicles (combinations) whose overall length (with or without a load) is greater than shown on the sign is prohibited."
+  },
+  {
+   "code": "3.16",
+   "meaning": "Movement of vehicles with a following distance between them of less than shown on the sign is prohibited.",
+   "note": "The zone of application extends to the nearest intersection; it can be reduced by plate 7.2.1."
+  },
+  {
+   "code": "3.17.1",
+   "meaning": "Passing a customs post (checkpoint) without stopping is prohibited."
+  },
+  {
+   "code": "3.17.2",
+   "meaning": "Further movement of all vehicles without exception is prohibited because of a road traffic accident, an emergency or another hazard.",
+   "note": "Even route vehicles may not pass this sign."
+  },
+  {
+   "code": "3.17.3",
+   "meaning": "Passing through checkpoints without stopping is prohibited."
+  },
+  {
+   "code": "3.22",
+   "meaning": "Trucks with a maximum authorised mass of more than 3.5 t are prohibited from overtaking all vehicles, except vehicles without a trailer moving at less than 30 km/h. Tractors are prohibited from overtaking all vehicles, except horse-drawn carts and bicycles.",
+   "note": "The zone of application extends to the nearest intersection; sign 3.23 or plate 7.2.1 ends it earlier. Passenger cars are not affected by the sign."
+  },
+  {
+   "code": "3.23",
+   "meaning": "The ban on overtaking for trucks introduced by sign 3.22 ends here."
+  },
+  {
+   "code": "3.26",
+   "meaning": "Use of the horn is prohibited, except when the signal is given to prevent a road traffic accident.",
+   "note": "The zone of application extends to the nearest intersection, and in a built-up area without intersections, to its end; it can be reduced by plate 7.2.1."
+  },
+  {
+   "code": "3.30",
+   "meaning": "On even days of the month parking is prohibited and stopping is permitted.",
+   "note": "Applies only on the side of the road where it is placed. When signs 3.29 and 3.30 are used together, vehicles are moved from 19 h to 21 h. Does not apply to taxis with the taximeter on or to vehicles driven by, or carrying, persons with Group I and II disabilities."
+  },
+  {
+   "code": "3.32",
+   "meaning": "Movement of vehicles bearing “Dangerous goods” identification signs is prohibited.",
+   "note": "Prohibits movement in both directions."
+  },
+  {
+   "code": "3.33",
+   "meaning": "Movement of vehicles carrying explosive substances and articles, and other dangerous goods that must be marked as flammable, is prohibited.",
+   "note": "Prohibits movement in both directions."
+  },
+  {
+   "code": "4.1.6",
+   "meaning": "Movement is permitted only to the right or to the left.",
+   "note": "Applies to the intersection of carriageways before which it is placed. A sign that permits a left turn also permits a U-turn. Does not apply to route vehicles."
+  },
+  {
+   "code": "4.2.2",
+   "meaning": "An obstacle may be driven around only on the left."
+  },
+  {
+   "code": "4.2.3",
+   "meaning": "An obstacle may be driven around on either side."
+  },
+  {
+   "code": "4.4",
+   "meaning": "Movement is permitted only for passenger cars, buses, motorcycles, route vehicles and trucks with a maximum authorised mass of not more than 3.5 t.",
+   "note": "The sign also permits movement of other vehicles that serve businesses or citizens in the marked zone or belong to citizens who live or work in it."
+  },
+  {
+   "code": "4.5.1",
+   "meaning": "The cycle track or cycle lane marked by sign 4.5 ends here."
+  },
+  {
+   "code": "4.8",
+   "meaning": "The zone with the minimum speed requirement (sign 4.7) ends here."
+  },
+  {
+   "code": "4.9.1",
+   "meaning": "Vehicles with “Dangerous goods” identification signs may move only to the right.",
+   "note": "Concerns only vehicles with “Dangerous goods” identification signs."
+  },
+  {
+   "code": "4.9.2",
+   "meaning": "Vehicles with “Dangerous goods” identification signs may move only to the left.",
+   "note": "Concerns only vehicles with “Dangerous goods” identification signs."
+  },
+  {
+   "code": "4.9.3",
+   "meaning": "Vehicles with “Dangerous goods” identification signs may move only straight ahead.",
+   "note": "Concerns only vehicles with “Dangerous goods” identification signs."
+  },
+  {
+   "code": "5.2",
+   "meaning": "The motorway and the special rules for it end here."
+  },
+  {
+   "code": "5.3",
+   "meaning": "A road intended only for motor cars and motorcycles.",
+   "note": "The same prohibitions apply on such a road as on a motorway ⟦10⟧. The end is sign 5.4."
+  },
+  {
+   "code": "5.4",
+   "meaning": "The road marked by sign 5.3 ends here."
+  },
+  {
+   "code": "5.6",
+   "meaning": "The one-way road ends here: beyond it traffic may be oncoming."
+  }
+ ]
+}

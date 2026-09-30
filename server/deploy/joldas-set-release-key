@@ -1,0 +1,10 @@
+#!/bin/bash
+# Замена ключа релизов Жолдас (если секретный ключ потерян и выпущен новый). Запуск в консоли сервера:
+#   sudo joldas-set-release-key < release.pub
+set -euo pipefail
+tmp=$(mktemp)
+cat > "$tmp"
+node -e 'const k=require("crypto").createPublicKey(require("fs").readFileSync(process.argv[1],"utf8")); if(k.asymmetricKeyType!=="ed25519") process.exit(2);' "$tmp" || { echo "Нужен публичный ключ Ed25519 в формате PEM"; rm -f "$tmp"; exit 1; }
+install -o root -g root -m 0644 "$tmp" /opt/joldas-bootstrap/release.pub
+rm -f "$tmp"
+echo "Ключ релизов обновлен"

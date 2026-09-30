@@ -1,0 +1,266 @@
+{"questions": [
+{
+"id": "m24-001",
+"q": "Which vehicles do the Rules classify as trailers?",
+"options": [
+"Trailers, semi-trailers and pole trailers",
+"Only ordinary trailers with one or two axles",
+"Any vehicle that is towed on a rope or bar",
+"Only light trailers made for passenger cars"
+],
+"answer": 0,
+"explain": "A trailer is a vehicle without an engine that is designed to travel as part of a combination with a motor vehicle. The term covers both semi-trailers and pole trailers. A broken-down car on a tow rope is not a trailer but a towed motor vehicle."
+},
+{
+"id": "m24-002",
+"q": "Whether category B is enough for a heavy trailer depends on the unladen mass of the car. What do the Rules call unladen mass?",
+"options": [
+"The mass without crew, passengers and load, with a full tank and tools",
+"The mass with the driver and passengers, but without load",
+"The mass with load, driver and passengers, set by the manufacturer",
+"The mass without fuel, driver, passengers and load"
+],
+"answer": 0,
+"explain": "Unladen mass is the mass of the vehicle without crew, passengers and load, but with a full supply of fuel and the necessary set of tools. The mass with load, driver and passengers that the manufacturer has set is the maximum authorised mass."
+},
+{
+"id": "m24-003",
+"q": "The maximum authorised mass of your passenger car is 2000 kg, and its unladen mass is 1500 kg. The maximum authorised mass of the trailer is 1200 kg. Which category do you need for this combination?",
+"options": [
+"BE",
+"C1E",
+"B",
+"C1"
+],
+"answer": 2,
+"explain": "The trailer is heavier than 750 kg, but its maximum authorised mass (1200 kg) is no more than the unladen mass of the car (1500 kg), and the maximum authorised mass of the combination, 2000 + 1200 = 3200 kg, is no more than 3500 kg. Both conditions are met, so category B is enough."
+},
+{
+"id": "m24-004",
+"q": "The maximum authorised mass of your passenger car is 2400 kg, and its unladen mass is 1800 kg. The maximum authorised mass of the trailer is 1300 kg. Which category do you need for this combination?",
+"options": [
+"C1E",
+"B",
+"C1",
+"BE"
+],
+"answer": 3,
+"explain": "The trailer is lighter than the unladen car, but the maximum authorised mass of the combination, 2400 + 1300 = 3700 kg, is more than 3500 kg. So B alone is not enough: you need BE."
+},
+{
+"id": "m24-005",
+"q": "The maximum authorised mass of your car is 1700 kg, and its unladen mass is 1250 kg. You want to pull a trailer with a maximum authorised mass of 1400 kg. Which category do you need?",
+"options": [
+"B: the whole combination is no heavier than 3500 kg",
+"B: the trailer is lighter than the car according to the documents",
+"C1E: the trailer is heavier than 750 kg",
+"BE: the trailer is heavier than the unladen car"
+],
+"answer": 3,
+"explain": "The maximum authorised mass of the combination is less than 3500 kg (1700 + 1400 = 3100 kg), but a trailer with a maximum authorised mass of 1400 kg is heavier than the unladen car (1250 kg). Category B requires both conditions to be met at once, so here you need BE."
+},
+{
+"id": "m24-006",
+"q": "A trailer with what maximum authorised mass can be pulled behind any category B car without calculating anything else?",
+"options": [
+"No more than 500 kg",
+"No more than 750 kg",
+"No more than 1000 kg",
+"No more than 3500 kg"
+],
+"answer": 1,
+"explain": "A trailer with a maximum authorised mass of up to 750 kg is covered by category B without additional conditions. For a trailer heavier than 750 kg, you compare its mass with the unladen mass of the car and check that the combination is no heavier than 3500 kg."
+},
+{
+"id": "m24-007",
+"q": "A truck of subcategory C1: maximum authorised mass 7000 kg, unladen mass 4000 kg. A trailer with a maximum authorised mass of 3500 kg is coupled to it. Which licence is enough for this combination?",
+"options": [
+"C1E",
+"C1",
+"D1E",
+"BE"
+],
+"answer": 0,
+"explain": "The trailer is heavier than 750 kg, so C1 alone is not enough, and D1E and BE are categories for other combinations. The maximum authorised mass of the trailer is no more than the unladen mass of the truck (3500 and 4000 kg), and the maximum authorised mass of the combination, 7000 + 3500 = 10 500 kg, is no more than 12 000 kg. This is subcategory C1E."
+},
+{
+"id": "m24-008",
+"q": "A truck of subcategory C1: maximum authorised mass 7000 kg, unladen mass 4000 kg. A trailer with a maximum authorised mass of 4500 kg is coupled to it. Which category do you need for this combination?",
+"options": [
+"C1E",
+"CE",
+"C1",
+"DE"
+],
+"answer": 1,
+"explain": "The trailer (4500 kg) is heavier than the unladen truck (4000 kg), so the combination does not fit C1E, even though its maximum authorised mass (11 500 kg) is less than 12 000 kg. A truck heavier than 3500 kg also belongs to category C, and CE allows any trailer heavier than 750 kg."
+},
+{
+"id": "m24-009",
+"q": "The maximum authorised mass of a semi-trailer is 30 t. Which category do you need to drive such a tractor unit with a semi-trailer?",
+"options": [
+"C",
+"C1E",
+"BE",
+"CE"
+],
+"answer": 3,
+"explain": "Under the Rules a semi-trailer is also a trailer, and it is heavier than 750 kg. The tractor unit belongs to category C, so you need CE. C1E does not fit: there the combination must be no heavier than 12 000 kg."
+},
+{
+"id": "m24-010",
+"q": "There is black ice on the road. You are going to drive with a trailer and remember that towing on a tow rope is prohibited in black ice. Does this prohibition apply to you?",
+"options": [
+"It applies: any trailer is prohibited in black ice",
+"It does not apply: a trailer is not a motor vehicle",
+"It applies if the trailer is heavier than 750 kg",
+"It applies only if the trailer has no brakes"
+],
+"answer": 1,
+"explain": "The prohibitions of Chapter 20, including towing on a tow rope in black ice, apply to towing motor vehicles. A trailer is not a motor vehicle, and driving with one is not considered towing. But on black ice, choose your speed to suit the road and the combination."
+},
+{
+"id": "m24-011",
+"q": "You have category D. A luggage trailer with a maximum authorised mass of 700 kg is coupled to your bus. Which category do you need for this combination?",
+"options": [
+"D",
+"DE",
+"D1E",
+"BE"
+],
+"answer": 0,
+"explain": "A bus of category D may be driven with a trailer whose maximum authorised mass is no more than 750 kg. DE is needed for a trailer heavier than 750 kg and for an articulated bus."
+},
+{
+"id": "m24-012",
+"q": "You have category D. A trailer with a maximum authorised mass of 1500 kg needs to be coupled to your bus. Which category do you need for this combination?",
+"options": [
+"D",
+"DE",
+"D1E",
+"CE"
+],
+"answer": 1,
+"explain": "The trailer is heavier than 750 kg, so D alone is not enough. A category D bus with such a trailer is category DE. D1E applies only to minibuses of subcategory D1."
+},
+{
+"id": "m24-013",
+"q": "You have category DE. Do you need to open subcategory D1E separately in order to drive a D1 minibus with a heavy luggage trailer?",
+"options": [
+"You do: D1E is always taken as a separate test",
+"You do not, but only if the trailer is lighter than 750 kg",
+"You do, if your experience on DE is less than 3 years",
+"You do not: a DE licence also gives the right to D1E"
+],
+"answer": 3,
+"explain": "A DE licence confirms the right to drive D1E combinations as well, just as D includes D1 and CE includes C1E. A separate D1E test is not needed."
+},
+{
+"id": "m24-014",
+"q": "A D1 minibus weighs 3200 kg unladen, and its driver has D1E. May he drive with a trailer designed to carry passengers whose maximum authorised mass is 2500 kg?",
+"options": [
+"Yes: the trailer is lighter than the unladen minibus",
+"Yes, if the combination is lighter than 12 000 kg",
+"Yes, if the trailer carries no more than 8 people",
+"No: D1E does not cover passenger trailers"
+],
+"answer": 3,
+"explain": "Subcategory D1E allows only trailers that are not designed to carry passengers. The mass of the trailer and of the combination does not help here: a passenger trailer is not covered by D1E."
+},
+{
+"id": "m24-015",
+"q": "You obtained your category B licence six months ago. Can you already get BE now?",
+"options": [
+"Yes: no experience is required for BE",
+"No: you need 3 years of experience on B",
+"Yes, if you pass the practical test on a combination",
+"No: you first need a year of the right to drive B"
+],
+"answer": 3,
+"explain": "The right to drive BE, CE and DE combinations is given to those who have held the right to drive the base category (B, C or D) for at least 12 months. After six months you cannot get BE yet."
+},
+{
+"id": "m24-016",
+"q": "A driver drives a combination for which he has no category: for example, with a B licence he pulls a trailer that requires BE. What penalty does the CAO provide?",
+"options": [
+"A warning",
+"A fine of 5 MCI (21 625 tenge)",
+"A fine of 50 MCI (216 250 tenge)",
+"A fine of 20 MCI (86 500 tenge)"
+],
+"answer": 3,
+"explain": "Driving a vehicle by a driver who has no right to drive that category is punished by a fine of 20 MCI, and 30 MCI for a repeat offence within a year. A fine of 50 MCI or arrest awaits someone who has been disqualified from driving."
+},
+{
+"id": "m24-017",
+"q": "You are entering a built-up area in a passenger car with a trailer. There are no other signs. What is the highest speed you may drive at?",
+"options": [
+"50 km/h",
+"60 km/h",
+"70 km/h",
+"40 km/h"
+],
+"answer": 1,
+"explain": "Sign 5.22 is the start of a built-up area. For a passenger car with a trailer there is no separate urban limit: like all vehicles, 60 km/h. 50 km/h is the limit for trucks and buses."
+},
+{
+"id": "m24-018",
+"q": "You are driving a truck with a trailer and entering a built-up area. There are no other signs. What is the highest speed you may drive at?",
+"options": [
+"60 km/h",
+"70 km/h",
+"40 km/h",
+"50 km/h"
+],
+"answer": 3,
+"explain": "Sign 5.22 is the start of a built-up area. Trucks, including those with a trailer, may drive here at no more than 50 km/h, regardless of mass. 60 km/h is the general limit for other vehicles."
+},
+{
+"id": "m24-019",
+"q": "You are driving a passenger car with a trailer into a settlement marked by this sign on a blue background. The road has no central reservation and there are no other signs. What is the highest speed you may drive at?",
+"options": [
+"60 km/h",
+"70 km/h",
+"90 km/h",
+"100 km/h"
+],
+"answer": 1,
+"explain": "Sign 5.24 means that the rules for built-up areas do not apply on this road, so the urban limit of 60 km/h does not apply here. The limit for outside built-up areas applies to a passenger car with a trailer: 70 km/h on a road without a central reservation."
+},
+{
+"id": "m24-020",
+"q": "The actual mass of your tractor unit is 8 t, and of the whole laden road train 38 t. May you pass this sign?",
+"options": [
+"You may: the tractor unit weighs 8 t, and the sign does not count the semi-trailer",
+"You may, if the load on each axle is less than 30 t",
+"You may not: the actual mass of the whole combination counts",
+"You may, if you drive no faster than 20 km/h"
+],
+"answer": 2,
+"explain": "Sign 3.11 “Weight limit” prohibits vehicles and combinations whose total actual mass is greater than the figure on the sign. Your combination weighs 38 t, which is more than 30 t, so you need to take a different route."
+},
+{
+"id": "m24-021",
+"q": "A D1 minibus: maximum authorised mass 5000 kg, unladen mass 3500 kg. A luggage trailer with a maximum authorised mass of 1500 kg is coupled to it. Which licence is enough for this combination?",
+"options": [
+"D1E",
+"D1",
+"C1E",
+"BE"
+],
+"answer": 0,
+"explain": "The trailer is heavier than 750 kg, so D1 alone is not enough. The trailer is not a passenger trailer, its maximum authorised mass (1500 kg) is no more than the unladen mass of the minibus (3500 kg), and the maximum authorised mass of the combination, 5000 + 1500 = 6500 kg, is no more than 12 000 kg. This is subcategory D1E."
+},
+{
+"id": "m24-022",
+"q": "You are driving a passenger car with a trailer outside a built-up area on a road with three lanes in your direction. May you change lanes along path A to overtake a truck?",
+"options": [
+"You may: the restriction applies to trucks heavier than 3.5 t",
+"You may not: with a trailer the left lane is only for turning",
+"You may not: a car with a trailer is prohibited from overtaking",
+"You may, but only in heavy traffic"
+],
+"answer": 0,
+"explain": "The far left lane on such a road is used for overtaking, left turns, U-turns and in heavy traffic. The restriction “only for a left turn or a U-turn” applies to trucks heavier than 3500 kg, not to a passenger car with a trailer."
+}
+]}

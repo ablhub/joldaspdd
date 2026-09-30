@@ -1,0 +1,322 @@
+{
+  "questions": [
+    {
+      "id": "m18-27",
+      "q": "Outside a built-up area you passed this sign, and then saw the same one again. What does the second sign mean?",
+      "options": [
+        "A second section starts near another school",
+        "The zone of the children's institution has ended",
+        "You may increase your speed again",
+        "A repeat: at least 50 m to the section with children"
+      ],
+      "answer": 3,
+      "explain": "Outside built-up areas, signs 1.1, 1.2, 1.9, 1.10, 1.21 and 1.23 are repeated. The second sign is placed at least 50 m before the start of the hazardous section, so children may appear very soon."
+    },
+    {
+      "id": "m18-28",
+      "q": "Next to a permanent 60 km/h limit sign, on a portable stand, there is a temporary 40 km/h limit sign on a yellow background. What should you do?",
+      "options": [
+        "No faster than 60 km/h: the permanent sign takes precedence",
+        "Choose either of the two signs",
+        "No faster than 50 km/h, as the average",
+        "No faster than 40 km/h: the temporary sign takes precedence"
+      ],
+      "answer": 3,
+      "explain": "At road works and where traffic is temporarily changed, temporary signs on a yellow background are used. If a temporary sign contradicts a permanent one, the driver follows the temporary one."
+    },
+    {
+      "id": "m18-29",
+      "q": "You have sign 2.5 in front of the intersection, but the traffic controller is standing sideways to you with arms stretched out to the sides. You are turning right. What should you do?",
+      "options": [
+        "Turn right on the traffic controller's signal",
+        "Stop at the stop line anyway: the sign takes precedence",
+        "Wait until the traffic controller leaves",
+        "Turn only if the traffic light is flashing amber"
+      ],
+      "answer": 0,
+      "explain": "Drivers obey the traffic controller's signals even if they contradict signs. You see the traffic controller's side with arms stretched out: this permits going straight and turning right. While the traffic controller is directing traffic, the priority signs do not apply."
+    },
+    {
+      "id": "m18-n001",
+      "q": "Outside a built-up area there are signs on the right, as in the diagram. Roughly how far is it to the level crossing?",
+      "options": [
+        "At least 50 m: this is the second, repeat sign",
+        "The level crossing starts right after these signs",
+        "150-300 m: this is the first sign before the crossing",
+        "50-100 m, as for signs in a built-up area"
+      ],
+      "answer": 2,
+      "explain": "Sign 1.4.1 with three stripes is placed under the first sign 1.1 or 1.2 along your route, and the first warning sign outside a built-up area stands 150-300 m before the crossing. Under the second sign (at least 50 m before the crossing), sign 1.4.3 with one stripe is placed.",
+      "ref": "Annex 1, signs 1.1, 1.4.1-1.4.3 and the general provisions of Chapter 1"
+    },
+    {
+      "id": "m18-n002",
+      "q": "Outside a built-up area there are signs on the right, as in the diagram. What do they mean?",
+      "options": [
+        "One track passes through the crossing: there is one stripe on the sign",
+        "A level crossing without a barrier is close: this is the second sign",
+        "There are still 150-300 m to a level crossing with a barrier",
+        "The level crossing without a barrier starts right after these signs"
+      ],
+      "answer": 1,
+      "explain": "Sign 1.2 warns of a level crossing without a barrier, and sign 1.4.3 with one stripe is placed under the second sign 1.1 or 1.2. Outside a built-up area the second sign stands at least 50 m before the crossing. The number of stripes shows how close the crossing is, not the number of tracks.",
+      "ref": "Annex 1, signs 1.2, 1.4.1-1.4.3 and the general provisions of Chapter 1"
+    },
+    {
+      "id": "m18-n003",
+      "q": "This sign stands beside the road. Where is the level crossing and what kind is it?",
+      "options": [
+        "In 150-300 m, a crossing with a barrier",
+        "Right here, without a barrier, one track",
+        "In 50-100 m, a crossing with a barrier and traffic lights",
+        "Right here, without a barrier, two or more tracks"
+      ],
+      "answer": 3,
+      "explain": "Signs 1.3.1 and 1.3.2 mark a level crossing without a barrier and stand directly in front of it. Sign 1.3.2 is used if there are two or more tracks, and 1.3.1 if there is one track."
+    },
+    {
+      "id": "m18-n004",
+      "q": "You have passed this sign. There are no priority signs or traffic lights at the intersection, and both roads are paved. A car is approaching from the right. What should you do?",
+      "options": [
+        "Give way to it: it is approaching from the right",
+        "Go first: this sign gives you priority",
+        "Go first if you are going straight",
+        "Give way only if it is driving faster than you"
+      ],
+      "answer": 0,
+      "explain": "Sign 1.6 warns of an intersection of roads of equal status. At such an intersection the driver gives way to vehicles approaching from the right."
+    },
+    {
+      "id": "m18-n005",
+      "q": "You are driving in a town and see this sign. What does it tell you?",
+      "options": [
+        "In 150-300 m there are traffic lights, which are currently off",
+        "The traffic lights ahead are broken, and priority signs apply",
+        "Right after the sign, traffic is controlled by a traffic controller",
+        "In 50-100 m there is a section where traffic lights operate"
+      ],
+      "answer": 3,
+      "explain": "Sign 1.8 warns of an intersection, pedestrian crossing or section of road controlled by traffic lights. In a built-up area, warning signs are placed 50-100 m before such a place.",
+      "ref": "Annex 1, sign 1.8 and the general provisions of Chapter 1"
+    },
+    {
+      "id": "m18-n006",
+      "q": "This sign stands right at the start of a descent, with no distance plate. The descent comes straight after an ascent. Is the sign installed correctly?",
+      "options": [
+        "No: outside a built-up area it is placed 150-300 m before",
+        "No: without plate 7.1.1 it is invalid",
+        "Yes, but this is allowed only in a built-up area",
+        "Yes: if descents and ascents follow one another, this is allowed"
+      ],
+      "answer": 3,
+      "explain": "Warning signs are usually placed in advance. But signs 1.13 and 1.14 may be installed without plate 7.1.1 directly at the start of a descent or ascent, if descents and ascents follow one another.",
+      "ref": "Annex 1, Chapter 1 (signs 1.13, 1.14)"
+    },
+    {
+      "id": "m18-n007",
+      "q": "On a town street this sign stands only 10-15 m before a repair crew, with no plate under it. How should this be understood?",
+      "options": [
+        "The works are short-term: placing the sign this way is permitted",
+        "The sign is wrongly placed, so it can be ignored",
+        "The works will start only 50-100 m from the sign",
+        "The works are finished, and the sign was simply forgotten"
+      ],
+      "answer": 0,
+      "explain": "Sign 1.23 may be placed without plate 7.1.1 only 10-15 m before the works when the works on the carriageway are short-term. Slow down and be ready to drive around the workers.",
+      "ref": "Annex 1, Chapter 1 (sign 1.23)"
+    },
+    {
+      "id": "m18-n008",
+      "q": "You see a sign with a plate, as in the diagram. Where will the slippery section begin?",
+      "options": [
+        "Right after the sign, and the section is 150 m long",
+        "In 150-300 m, and the plate does not matter here",
+        "It began 150 m ago",
+        "About 150 m from the sign"
+      ],
+      "answer": 3,
+      "explain": "Plate 7.1.1 shows the distance from the sign to the start of the hazardous section. The length of the section would be shown by a different plate, 7.2.1 with up and down arrows."
+    },
+    {
+      "id": "m18-n009",
+      "q": "You see a sign with a plate, as in the diagram. What does the plate mean?",
+      "options": [
+        "The slippery section starts in 500 m",
+        "The slippery section extends for 500 m",
+        "You may not drive faster than 50 km/h on the section",
+        "In 500 m the sign will stop applying if there is no intersection"
+      ],
+      "answer": 1,
+      "explain": "Plate 7.2.1 with arrows shows the length of the hazardous section (for prohibitory signs, their zone of application). The distance to the start of the section would be shown by plate 7.1.1 without arrows."
+    },
+    {
+      "id": "m18-n010",
+      "q": "In a town you see this sign with no plate. What is the best thing to do?",
+      "options": [
+        "Slow down in advance: the hump is in 50-100 m",
+        "Stop before the hump and drive over it from a standstill",
+        "Drive around the hump in the oncoming lane",
+        "Change nothing: the sign concerns only trucks"
+      ],
+      "answer": 0,
+      "explain": "Sign 1.16.1 warns of a speed hump. In a built-up area it is placed 50-100 m before the hump, so you should slow down in advance to drive over it smoothly.",
+      "ref": "Annex 1, sign 1.16.1 and the general provisions of Chapter 1; para. 72"
+    },
+    {
+      "id": "m18-n011",
+      "q": "You are driving in the left lane of a one-way road and see this sign. What should you do?",
+      "options": [
+        "Carry on in the left lane: the sign only warns",
+        "Stop and let the oncoming vehicles through",
+        "Move right: oncoming traffic will start soon",
+        "Switch on the hazard warning lights and carry on"
+      ],
+      "answer": 2,
+      "explain": "Sign 1.19 warns that a section of road with two-way traffic begins ahead. There, the left half of the carriageway is for oncoming vehicles, so move over to the right in advance."
+    },
+    {
+      "id": "m18-n012",
+      "q": "You have passed this sign. What is prohibited in the tunnel ahead?",
+      "options": [
+        "Stopping and making a U-turn",
+        "Driving with dipped headlights on",
+        "Driving faster than 40 km/h",
+        "Changing lanes if there are several"
+      ],
+      "answer": 0,
+      "explain": "Sign 1.29 warns of a tunnel without artificial lighting or with a poorly visible entrance. Stopping and making a U-turn are prohibited in any tunnel, and therefore reversing too."
+    },
+    {
+      "id": "m18-n013",
+      "q": "You have passed this sign. Just after the bend you can see the road for less than 100 m. May you stop on the carriageway beyond the bend?",
+      "options": [
+        "Yes, if you switch on the hazard warning lights",
+        "Yes, if the stop is no longer than 5 minutes",
+        "No: stopping is prohibited here",
+        "Yes, but only to let a passenger out"
+      ],
+      "answer": 2,
+      "explain": "Stopping on the carriageway near dangerous bends is prohibited if visibility of the road is less than 100 m in at least one direction. A driver behind you may not have time to notice you."
+    },
+    {
+      "id": "m18-n014",
+      "q": "You have passed this sign. Bends restrict your view, and you can see the road for less than 100 m. May you overtake a slow car by moving into the oncoming lane?",
+      "options": [
+        "Yes: a warning sign does not prohibit overtaking",
+        "Yes, if you sound the horn in advance",
+        "No: such overtaking is prohibited when the view is restricted",
+        "Yes, if it is moving slower than 30 km/h"
+      ],
+      "answer": 2,
+      "explain": "Sign 1.12.1 itself does not prohibit overtaking; it warns of dangerous bends. But visibility here is less than 100 m, that is, restricted, and on such sections overtaking by moving into the oncoming lane is prohibited."
+    },
+    {
+      "id": "m18-n015",
+      "q": "Outside a built-up area you have passed this sign. A cycle track crosses the road outside an intersection, with no traffic lights or priority signs there. A cyclist is approaching the crossing from the right. Who must give way?",
+      "options": [
+        "You: the cyclist is approaching from the right",
+        "The cyclist: they give way to vehicles on the road",
+        "You: the cyclist has priority on a cycle track",
+        "Whoever reaches the crossing a moment later"
+      ],
+      "answer": 1,
+      "explain": "Sign 1.22 warns of a crossing with a cycle track. At an uncontrolled crossing of a cycle track and a road outside an intersection, the cyclist gives way to vehicles travelling on the road. But be ready to brake if the cyclist does not notice you."
+    },
+    {
+      "id": "m18-n017",
+      "q": "You are driving on a road with a sign as in the diagram. From the joining road on your right, a green car is pulling out to the left. Who goes first?",
+      "options": [
+        "The green car: it is approaching from the right",
+        "Whoever reached the intersection first",
+        "The green car: it has already started to turn",
+        "You: you are on the priority road"
+      ],
+      "answer": 3,
+      "explain": "Sign 2.3.2 means you are on the priority road and a minor road joins from the right. The green car is pulling out of the minor road and gives way to everyone on the priority road, so you go first."
+    },
+    {
+      "id": "m18-n018",
+      "q": "You are pulling out to the left from a joining road, as in the diagram. A blue car is approaching along the priority road from the bottom of the diagram. Who goes first?",
+      "options": [
+        "The blue car: it is on the priority road",
+        "You: the blue car is approaching you from the left",
+        "You: you have already started to turn",
+        "Whoever switched on their direction indicator first"
+      ],
+      "answer": 0,
+      "explain": "Sign 2.3.2 stands for those on the priority road and shows that a minor road, the one you are on, joins from the right. When pulling out of a minor road you give way to everyone on the priority road, so the blue car goes first."
+    },
+    {
+      "id": "m18-n019",
+      "q": "You have passed a sign with a plate, as in the diagram. What will you need to do in 250 m?",
+      "options": [
+        "Stop before the intersection and give way",
+        "Give way without stopping if you are not impeding anyone",
+        "Drive through the intersection first: you are on the priority road",
+        "Stop at the checkpoint for a check"
+      ],
+      "answer": 0,
+      "explain": "Plate 7.1.2 under sign 2.4 shows the distance to the intersection with sign 2.5 in front of it. There you must stop at the stop line, or, if there is none, before the edge of the carriageway being crossed, and give way."
+    },
+    {
+      "id": "m18-n020",
+      "q": "Sign 2.5 “No passing without stopping (Stop)” stands in front of a quarantine checkpoint, with no stop line. Where must you stop?",
+      "options": [
+        "In front of sign 2.5",
+        "At the barrier or the checkpoint booth",
+        "Where the checkpoint worker indicates: the sign does not matter here",
+        "Nowhere, if nobody is at the checkpoint"
+      ],
+      "answer": 0,
+      "explain": "Sign 2.5 may stand in front of a level crossing or a quarantine checkpoint. In that case the driver stops in front of the stop line, or, if there is none, in front of the sign itself."
+    },
+    {
+      "id": "m18-n021",
+      "q": "Outside a built-up area, on a road marked with this sign, a red car is standing on the carriageway and a blue one on the shoulder. Both drivers want to leave their cars for 20 minutes. Who is allowed to?",
+      "options": [
+        "Only the red one",
+        "Both",
+        "Only the blue one",
+        "Neither"
+      ],
+      "answer": 2,
+      "explain": "Outside built-up areas, parking on the carriageway of roads marked with sign 2.1 is prohibited. The red car may only stop for a short time, while the blue car is on the shoulder, where parking is permitted."
+    },
+    {
+      "id": "m18-n022",
+      "q": "You have passed a sign, as in the diagram, and are approaching an intersection with a dirt road. There are no other signs. A green car is approaching from the right along the dirt road. Who goes first?",
+      "options": [
+        "The green car: the sign has cancelled your priority road",
+        "You: a paved road takes precedence over a dirt road",
+        "The green car: it is approaching from the right",
+        "Whoever reached the intersection first"
+      ],
+      "answer": 1,
+      "explain": "Sign 2.2 means the end of the priority road marked by signs. But a paved road is still the priority road in relation to a dirt road, so the green car gives way to you."
+    },
+    {
+      "id": "m18-n023",
+      "q": "You are driving on the priority road, as the plate shows, and continuing straight on. Who must you give way to?",
+      "options": [
+        "Only the blue car",
+        "Only the green car",
+        "Both",
+        "Neither"
+      ],
+      "answer": 3,
+      "explain": "The priority road here turns to the left, and the blue car is also on it. Drivers on the priority road pass one another as at an intersection of roads of equal status: the blue car is approaching from the left, so it gives way. The green car is on the minor road and is driving straight towards you, so your paths do not cross."
+    },
+    {
+      "id": "m18-n024",
+      "q": "You are on a minor road, as the plate shows, and driving straight on. Who must you give way to?",
+      "options": [
+        "Only the blue car",
+        "Only the green car",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0,
+      "explain": "Plate 7.13 shows that the priority road turns: in the diagram it goes from the bottom to the left, and the blue and green cars are both on it. Only the blue car's path crosses yours, and you give way to it. The green car is coming towards you straight ahead, your paths do not cross, and you cause it no obstruction."
+    }
+  ]
+}

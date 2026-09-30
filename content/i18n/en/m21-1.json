@@ -1,0 +1,977 @@
+{
+ "meta": {
+  "title": "Motorcycles, mopeds and quad bikes",
+  "pdd": "Rules: para. 2 (subparas 19, 50, 51), 9, 12 (subparas 12-14), 21, 22, 41, 47-48, 52, 63-69, 73-74, 76, 78, 80, 85, 101-107, 118, 126, 128-129, 134, 145, 156, 165, Annex 1 (signs 3.5, 3.20); List of Defects (paras 19, 37, 38.3, 43, 44); Road Traffic Act, arts 1, 57, 73-74; Examination Rules (paras 11, 16, 40); autodrome methodology for category A",
+  "summary": "You will learn what A1, A and B1 licences allow, and how to ride a motorcycle, moped and quad bike under the 2026 Rules (helmet, passengers, speed, position on the road, towing, lights), how to brake and take bends safely, and what awaits you at the test ground."
+ },
+ "lesson": [
+  {
+   "h": "Categories A1, A and B1: what you may ride",
+   "p": [
+    "Subcategory A1 covers light motorcycles, tricycles and quad bikes with a maximum design speed above 50 km/h, an internal combustion engine of no more than 125 cm³ and a power of no more than 11 kW, and all mopeds. Category A covers all motorcycles. Subcategory B1 covers tricycles and quad bikes ⟦17⟧.",
+    "An A1 licence is issued from age 16, and A and B1 from age 18. No driving experience is required for them ⟦18⟧."
+   ],
+   "list": [
+    "A category A licence also confirms the right to drive A1 and B1 vehicles with a motorcycle-type seating position or motorcycle-type handlebars (art. 73(8))",
+    "From 5 April 2025 a category B licence also confirms the right to drive A1 and B1 vehicles (art. 73(8)). So with a category B licence you may ride a moped and a light motorcycle of up to 125 cm³ and 11 kW",
+    "Training at a training organisation is compulsory: you are admitted to the test only with a certificate of completion of the course, and self-study is not allowed (art. 74 of the Act, para. 6 of the Examination Rules)"
+   ],
+   "tip": "A 250 cm³ motorcycle is already category A, and category A is issued only from age 18."
+  },
+  {
+   "h": "Moped, motorcycle, quad bike: how the Rules tell them apart",
+   "p": [
+    "A moped is a two- or three-wheeled motor vehicle with an internal combustion engine of up to 50 cm³ or with an electric motor, and a maximum design speed of no more than 50 km/h. Mokicks, scooters and similar vehicles are treated as mopeds ⟦19⟧. You may drive a moped from age 16 ⟦20⟧.",
+    "A motorcycle is a two-wheeled motor vehicle with or without a sidecar. Three- and four-wheeled vehicles with an unladen mass of no more than 400 kg, and scooters with a cylinder capacity above 50 cm³, are treated as motorcycles ⟦21⟧. So under the Rules a light quad bike follows the rules for motorcycles.",
+    "From 25 August 2026, motorised bicycles, electric or petrol, are treated as mopeds: they require registration with a number plate and a driving licence of at least subcategory A1, and they may not be ridden on pavements (Law of the Republic of Kazakhstan No. 326-VIII of 24.06.2026)."
+   ],
+   "tip": "A scooter of up to 50 cm³ is a moped; a scooter of more than 50 cm³ is a motorcycle."
+  },
+  {
+   "h": "Helmet, equipment and roadworthiness",
+   "p": [
+    "A motorcycle or moped driver rides in a fastened motorcycle helmet and does not carry a passenger without a fastened motorcycle helmet ⟦22⟧. The passenger must also wear a fastened motorcycle helmet ⟦23⟧. An unfastened helmet flies off in a fall and does not protect the head.",
+    "A motorcycle may not be used if it lacks the safety bars, footrests and passenger cross handles provided by its design, if there is play in the joint between the motorcycle frame and the sidecar frame, or if the remaining tread depth of the tyres is less than 0.8 mm. A motorcycle with a sidecar must carry a first aid kit and a warning triangle ⟦24⟧."
+   ],
+   "list": [
+    "Eye protection, gloves, sturdy footwear and clothing reduce injuries in a fall (UK Highway Code, rule 84)",
+    "Bright or fluorescent clothing by day and retroreflective items in the dark help other drivers to see you (same source, rules 86-87)"
+   ]
+  },
+  {
+   "h": "Passengers",
+   "list": [
+    "A passenger sits only in a seat provided by the motorcycle's design; people are not carried in the load body of a goods motorcycle ⟦25⟧",
+    "Children and teenagers under 16 are not carried on the back seat of a motorcycle or moped ⟦26⟧",
+    "A passenger in a state of intoxication is not carried on the back seat of a motorcycle or moped ⟦27⟧",
+    "A passenger does not stand on the footrests or the seat while the vehicle is moving ⟦28⟧",
+    "The passenger's helmet is fastened ⟦29⟧"
+   ],
+   "tip": "A passenger on the back seat: only from age 16, sober and in a fastened helmet."
+  },
+  {
+   "h": "What a motorcycle or moped driver may not do",
+   "p": [
+    "In addition to the general prohibitions for all drivers ⟦30⟧, two-wheelers have their own:"
+   ],
+   "list": [
+    "Ride without holding the handlebars with at least one hand ⟦31⟧",
+    "Ride on one wheel or sit outside the place intended for the driver ⟦32⟧",
+    "Carry a load that projects more than 50 cm in length or width or hinders control ⟦33⟧",
+    "Tow with a motorcycle without a sidecar, or tow such a motorcycle; tow mopeds or tow with mopeds, except with a trailer designed for a moped ⟦34⟧",
+    "Enter a motorway on a moped ⟦35⟧"
+   ]
+  },
+  {
+   "h": "Lights by day and by night",
+   "p": [
+    "In daylight, all moving vehicles switch on dipped headlights or daytime running lights ⟦36⟧. For a motorcycle this matters especially: its outline is narrow, and car drivers often fail to notice it.",
+    "In the dark and in poor visibility, a motorcycle and a moped switch on position lamps and a main-beam or dipped headlight ⟦37⟧. Main beam is switched to dipped in built-up areas on a lit road, when passing oncoming vehicles at least 150 m before the oncoming vehicle, and in other cases when others could be dazzled ⟦38⟧."
+   ]
+  },
+  {
+   "h": "Speed",
+   "list": [
+    "In a built-up area, no more than 60 km/h; in a residential zone and in residential courtyards, no more than 20 km/h ⟦39⟧",
+    "Outside built-up areas a motorcycle travels like a passenger car: on a road with a central reservation, up to 110 km/h; on other roads, up to 100 km/h; on a motorway, as sign 3.24 shows, but no more than 140 km/h ⟦40⟧",
+    "You must not exceed the maximum speed given in the vehicle's technical specification ⟦41⟧; for a moped it is no more than 50 km/h",
+    "Mopeds and other vehicles that cannot travel at 40 km/h may not enter a motorway ⟦42⟧"
+   ]
+  },
+  {
+   "h": "Where to ride on the carriageway",
+   "p": [
+    "A motorcycle is a full road vehicle and occupies a lane like a car. If the carriageway is marked into lanes, you must keep strictly within them, and you may cross broken lines only when changing lanes ⟦43⟧. So riding between rows of cars along a marking line is an offence, even in a traffic jam. The Rules have no special provision for motorcycles riding in two rows: keep your following distance and lateral clearance like any driver ⟦44⟧.",
+    "Outside built-up areas, keep closer to the right edge and do not occupy the left lanes when the right ones are free ⟦45⟧. Vehicles travelling at no more than 40 km/h keep to the far right lane ⟦46⟧. Driving on shoulders, pavements and footpaths is prohibited ⟦47⟧.",
+    "A lane for route vehicles (sign 5.9) is for public transport (which the Rules treat as including taxis) and category M3 vehicles. A motorcycle may neither drive nor stop in it ⟦48⟧."
+   ],
+   "tip": "A traffic jam does not give a motorcycle the right to ride between rows or on the shoulder."
+  },
+  {
+   "h": "Overtaking and tram tracks",
+   "list": [
+    "Overtake on the left. On the right you overtake only a driver who has signalled a left turn and started the manoeuvre ⟦49⟧",
+    "The “No overtaking” sign (3.20) prohibits overtaking all vehicles except vehicles without a trailer that are travelling slower than 30 km/h (Annex 1). There are no exceptions for motorcycles",
+    "When you are being overtaken, do not accelerate and do not hinder the overtaking ⟦50⟧",
+    "You may drive on tram tracks running in the same direction on the left, at the same level as the carriageway, when all lanes are occupied, and also when driving around an obstacle, overtaking, turning left or making a U-turn, without hindering the tram. You may not drive onto tracks of the opposite direction ⟦51⟧",
+    "A left turn and a U-turn where there are such tracks are made from them, giving way to the tram ⟦52⟧. At an intersection a tram has priority over trackless vehicles if the traffic light allows all of them to move, and at an intersection of roads of equal status ⟦53⟧"
+   ]
+  },
+  {
+   "h": "Parking and wheeling your motorcycle",
+   "p": [
+    "On the carriageway vehicles are parked in one row parallel to the edge, but two-wheelers without a sidecar may be parked in two rows. At the edge of a pavement bordering the carriageway, only passenger cars, motorcycles, mopeds and bicycles may be parked, and only if they do not hinder pedestrians ⟦54⟧.",
+    "If you get off your motorcycle and wheel it beside you, you are a pedestrian under the Rules ⟦55⟧. This lets you, for example, wheel a motorcycle along the pavement to the entrance."
+   ]
+  },
+  {
+   "h": "Braking and cornering: technique",
+   "p": [
+    "This advice is not from the Rules of Kazakhstan but from the New York State motorcyclists' manual (NYS Motorcycle Manual). The Rules require you to choose a speed and following distance that avoid a collision ⟦56⟧, and technique helps you do so."
+   ],
+   "list": [
+    "The front brake provides at least three quarters of the total braking force. To stop, apply both brakes at the same time, but do not “grab” the front one",
+    "If the front wheel locks, release the front brake at once and then apply it again smoothly and firmly",
+    "Reduce speed before the bend. In the bend, look where you want to go",
+    "If you need to stop sharply in a bend, it is better to straighten the motorcycle first and then brake. If you have to brake while leaning, brake gently and roll off the throttle",
+    "Brake before or after a sharp swerve round an obstruction, but not during it",
+    "Slippery surfaces: road marking lines, metal plates and manhole covers in the rain, wet leaves, sand and gravel at the edge of the road. The first minutes of rain are especially dangerous, until the oil is washed off the asphalt",
+    "Cross rails, ruts and joints at an angle of at least 45 degrees",
+    "Keep a following distance of at least 2 seconds to the vehicle ahead"
+   ]
+  },
+  {
+   "h": "You are not seen: intersections and blind spots",
+   "p": [
+    "More than half of collisions between motorcycles and cars happen when a car driver pulls into the motorcyclist's path: turns left in front of them or pulls out from a side road. Drivers often say they did not see the motorcycle (New York State motorcyclists' manual).",
+    "The priority rules for a motorcycle are the same as for a car (Chapter 13 of the Rules). But priority does not protect you from someone else's mistake."
+   ],
+   "list": [
+    "As you approach an intersection, reduce speed and keep your fingers on the brake and clutch levers",
+    "Choose a position in the lane where drivers can see you better",
+    "Do not linger in the blind spot of a neighbouring car: it may change lanes without noticing you",
+    "If a car has stopped in the adjacent lane before an uncontrolled pedestrian crossing, continue only after making sure there are no pedestrians in front of it ⟦57⟧"
+   ]
+  },
+  {
+   "h": "The test for categories A, A1 and B1",
+   "p": [
+    "The theory test has the same format for everyone: 40 questions, 40 minutes, and at least 32 correct answers are needed. If you open several categories at once, you take the theory test once and the practical test separately for each category ⟦58⟧.",
+    "The practical test for A and A1 is taken on a two-wheeled motorcycle, and for B1 on a tricycle or quad bike ⟦59⟧. For B1 the same test ground zones are provided as for category B ⟦60⟧.",
+    "For motorcycles, under the autodrome methodology (24pdd.kz, June 2026 edition, for Almaty), you perform the “Start”, “Dimensional corridor”, “Dimensional half-circle”, “Track board”, “Dimensional figure eight” and “Finish”. Touch the ground with a foot: 100 penalty points, that is, an immediate fail. Run a wheel over a control line: 25 points."
+   ],
+   "tip": "Before the “Start” command: helmet fastened, mirrors adjusted, engine running, dipped headlight on."
+  }
+ ],
+ "keyFacts": [
+  "A1 from age 16, A and B1 from age 18 ⟦1⟧",
+  "A1: motorcycles up to 125 cm³ and 11 kW, and mopeds; B1: tricycles and quad bikes ⟦2⟧",
+  "Since 05.04.2025 a category B licence also confirms the right to A1 and B1 (Road Traffic Act, art. 73(8))",
+  "Moped: up to 50 cm³ or an electric motor, and no faster than 50 km/h ⟦3⟧",
+  "Driver and passenger: in fastened motorcycle helmets ⟦4⟧",
+  "Under 16: not carried on the back seat of a motorcycle or moped ⟦5⟧",
+  "A load on a motorcycle projects no more than 50 cm in length or width ⟦6⟧",
+  "Motorcycle outside built-up areas: 100 km/h, 110 with a central reservation, on a motorway as the sign shows but no more than 140 ⟦7⟧",
+  "Mopeds may not use motorways ⟦8⟧",
+  "No towing with a motorcycle without a sidecar, no towing such a motorcycle, no towing mopeds or with mopeds ⟦9⟧",
+  "By day: dipped headlights or daytime running lights ⟦10⟧",
+  "Tread depth of motorcycle and moped tyres: at least 0.8 mm ⟦11⟧"
+ ],
+ "mistakes": [
+  "“A 12-year-old may ride on the back if he wears a helmet.” No: only from age 16 on the back seat of a motorcycle or moped ⟦12⟧.",
+  "“In a traffic jam a motorcycle may ride between the rows.” No: you drive strictly within lanes, and cross a broken line only when changing lanes ⟦13⟧.",
+  "“You do not need a licence for a moped.” Since 5 April 2025 you need subcategory A1, which a category A or B licence also covers ⟦14⟧.",
+  "“A motorcycle does not need lights by day.” Dipped headlights or daytime running lights are required for all moving vehicles ⟦15⟧.",
+  "“I can tow a friend on a moped with a rope.” Towing mopeds and towing with mopeds is prohibited ⟦16⟧.",
+  "“In a bend you can brake hard with the front brake.” Reduce speed before the bend, and for a hard stop straighten the motorcycle first (New York State motorcyclists' manual)."
+ ],
+ "questions": [
+  {
+   "id": "m21-001",
+   "q": "From what age can you obtain a driving licence of subcategory A1?",
+   "options": [
+    "From 14",
+    "From 16",
+    "From 17",
+    "From 18"
+   ],
+   "answer": 1,
+   "explain": "The right to drive vehicles of subcategory A1 is granted from age 16. Category A and subcategory B1 require age 18."
+  },
+  {
+   "id": "m21-002",
+   "q": "Which vehicles belong to subcategory A1?",
+   "options": [
+    "Any motorcycles and quad bikes with an unladen mass of up to 400 kg, and mopeds",
+    "Motorcycles, tricycles and quad bikes of up to 125 cm³ and 11 kW, and mopeds",
+    "Motorcycles, tricycles and quad bikes of up to 250 cm³ and 20 kW, but not mopeds",
+    "Only mopeds and scooters with an engine of up to 50 cm³"
+   ],
+   "answer": 1,
+   "explain": "A1 covers motorcycles, tricycles and quad bikes with a maximum design speed above 50 km/h, an internal combustion engine of up to 125 cm³ and a power of up to 11 kW, and all mopeds."
+  },
+  {
+   "id": "m21-003",
+   "q": "You are 17 and hold an A1 licence. You want to buy a motorcycle with a 250 cm³ engine. Will you be allowed to ride it?",
+   "options": [
+    "No: you need category A, which is issued from age 18",
+    "Yes: A1 allows motorcycles of up to 250 cm³",
+    "Yes, if the engine power is no more than 20 kW",
+    "Yes, but only in built-up areas"
+   ],
+   "answer": 0,
+   "explain": "Subcategory A1 is limited to an engine of up to 125 cm³ and a power of up to 11 kW. A 250 cm³ motorcycle needs category A, and the right to it is granted only from age 18."
+  },
+  {
+   "id": "m21-004",
+   "q": "How do the Rules define a moped?",
+   "options": [
+    "A two- or three-wheeled vehicle: engine of up to 125 cm³ or electric, speed no more than 90 km/h",
+    "Any scooter, whatever its engine size and maximum speed",
+    "A two- or three-wheeled vehicle: engine of up to 50 cm³ or electric, speed no more than 50 km/h",
+    "A three- or four-wheeled vehicle with an unladen mass of up to 400 kg and any engine"
+   ],
+   "answer": 2,
+   "explain": "This is how the Rules define a moped. Mokicks, scooters and other motor vehicles with the same characteristics are treated as mopeds."
+  },
+  {
+   "id": "m21-005",
+   "q": "Under the Rules, a scooter with a 150 cm³ engine is...",
+   "options": [
+    "A moped",
+    "A small electric vehicle",
+    "A motorcycle",
+    "A bicycle"
+   ],
+   "answer": 2,
+   "explain": "Scooters with a cylinder capacity above 50 cm³ are treated as motorcycles. A moped is a scooter of up to 50 cm³, or one with an electric motor and a speed of no more than 50 km/h."
+  },
+  {
+   "id": "m21-006",
+   "q": "A quad bike has an unladen mass of 320 kg. Which vehicles' rules must it follow on the road?",
+   "options": [
+    "Those for passenger cars",
+    "Those for motorcycles",
+    "Those for tractors",
+    "Those for mopeds"
+   ],
+   "answer": 1,
+   "explain": "Three- and four-wheeled vehicles whose unladen mass does not exceed 400 kg are treated as motorcycles. So the rules for motorcycles apply to such a quad bike, for example on helmets and speed."
+  },
+  {
+   "id": "m21-007",
+   "q": "Which subcategory do you need to drive a quad bike with a 500 cm³ engine?",
+   "options": [
+    "A1",
+    "C1",
+    "None: no licence is needed for a quad bike",
+    "B1"
+   ],
+   "answer": 3,
+   "explain": "Subcategory B1 covers tricycles and quad bikes. A1 includes only light quad bikes with an engine of up to 125 cm³ and a power of up to 11 kW. A B1 licence is issued from age 18, and the right is also confirmed by licences of categories B and A (for A, with a motorcycle-type seating position or handlebars)."
+  },
+  {
+   "id": "m21-008",
+   "q": "You hold a category B licence. Do you need to get a separate category to ride a moped?",
+   "options": [
+    "Yes: you must take separate A1 tests for a moped",
+    "No: no driving licence is needed for a moped at all",
+    "Yes, if the moped's engine is over 25 cm³",
+    "No: a B licence also confirms the right to A1 and B1"
+   ],
+   "answer": 3,
+   "explain": "Since 5 April 2025 a category B licence also confirms the right to drive vehicles of subcategories A1 and B1, and mopeds come under A1. You may not ride a moped with no licence at all."
+  },
+  {
+   "id": "m21-009",
+   "q": "A category A licence confirms the right to drive more than just motorcycles. What else?",
+   "options": [
+    "A1 vehicles, and tricycles and quad bikes with motorcycle-type seating",
+    "Passenger cars with a maximum authorised mass of no more than 3500 kg",
+    "Only mopeds, but not tricycles and quad bikes",
+    "Nothing else: subcategories A1 and B1 are obtained separately"
+   ],
+   "answer": 0,
+   "explain": "Category A includes subcategory A1 and subcategory B1, if the tricycle or quad bike has a motorcycle-type seating position or motorcycle-type handlebars. Passenger cars come under category B."
+  },
+  {
+   "id": "m21-010",
+   "q": "A 15-year-old has been given an electric scooter with a seat, with a maximum speed of 45 km/h. May he ride it on the road?",
+   "options": [
+    "Yes: it is an e-scooter, and you may ride one from age 14",
+    "No: it is a moped: age 16 and an A1 licence",
+    "Yes, if he wears a fastened helmet and rides in daylight",
+    "Yes, but only along the right edge of the carriageway"
+   ],
+   "answer": 1,
+   "explain": "Under the Rules, a scooter with an electric motor and a speed of up to 50 km/h is a moped. The right to drive a moped is granted from age 16, and it requires a driving licence of subcategory A1."
+  },
+  {
+   "id": "m21-011",
+   "q": "From 25 August 2026, motorised bicycles (electric or petrol) are treated as mopeds. What do you now need to ride such a bicycle on the road?",
+   "options": [
+    "Nothing new: registration and a licence are needed only for motorcycles",
+    "Only a helmet and a retroreflective vest; no licence is needed",
+    "Registration with a number plate and a licence of at least subcategory A1",
+    "No number plate is needed, but a category A licence is"
+   ],
+   "answer": 2,
+   "explain": "Law No. 326-VIII moved motorised bicycles into the moped class. The moped requirements apply to them: registration, an A1 licence (or category A or B), a fastened helmet, and pavements are closed to them.",
+   "ref": "Road Traffic Act, art. 1(41), art. 57(6) (as amended by Law No. 326-VIII of 24.06.2026); para. 9"
+  },
+  {
+   "id": "m21-012",
+   "q": "Six months ago you were fined for riding a motorcycle without a fastened helmet. Today you are stopped again without a fastened helmet. What fine does the CAO provide?",
+   "options": [
+    "5 MCI (21 625 tenge)",
+    "20 MCI (86 500 tenge)",
+    "A warning or 3 MCI (12 975 tenge)",
+    "10 MCI (43 250 tenge)"
+   ],
+   "answer": 3,
+   "explain": "The fine for breaching the rules on the use of motorcycle helmets is 5 MCI ⟦61⟧. A repeat offence within a year of the penalty carries 10 MCI, that is 43 250 tenge (part 3). A fastened helmet is compulsory for both the driver and the passenger ⟦62⟧."
+  },
+  {
+   "id": "m21-013",
+   "q": "You have ridden into a residential zone on your motorcycle, and the yard you need is 200 metres away. May you ride this stretch without a helmet?",
+   "options": [
+    "Yes, the speed in a residential zone is only 20 km/h",
+    "Yes, for a distance of up to 500 m",
+    "You may, if the helmet is on but the strap is not fastened",
+    "No: a fastened helmet is required on every journey"
+   ],
+   "answer": 3,
+   "explain": "You have passed sign 5.38, the “Residential zone” sign: the speed here is no more than 20 km/h. But the requirement to ride in a fastened motorcycle helmet does not depend on distance, speed or place."
+  },
+  {
+   "id": "m21-015",
+   "q": "Your son is 14 and has a motorcycle helmet. May you seat him on the back of your motorcycle if the helmet is fastened?",
+   "options": [
+    "Yes: from age 12 it is allowed if the helmet is fastened",
+    "No: only people aged 16 or over may be carried on the back seat",
+    "Yes, if he holds on to the driver with both hands",
+    "Yes, but only in daylight and at no more than 40 km/h"
+   ],
+   "answer": 1,
+   "explain": "The Rules prohibit carrying anyone under 16 on the back seat of a motorcycle or moped. A helmet, daylight and a low speed do not change this."
+  },
+  {
+   "id": "m21-016",
+   "q": "A friend has been drinking at a party and asks you to take him home on the back seat of your motorcycle. You are sober. Is this allowed?",
+   "options": [
+    "Yes: the ban on intoxication applies only to the driver",
+    "Yes, if he wears a fastened helmet and holds on to you",
+    "No: an intoxicated passenger may not be carried",
+    "Yes, if you ride at no more than 40 km/h"
+   ],
+   "answer": 2,
+   "explain": "An intoxicated passenger may lose his balance and topple the motorcycle. That is why the Rules expressly prohibit carrying a passenger in a state of intoxication on the back seat of a motorcycle or moped."
+  },
+  {
+   "id": "m21-017",
+   "q": "Your motorcycle has a seat for the driver only. A friend suggests sitting behind you on the luggage rack. Is this allowed?",
+   "options": [
+    "Yes, if he is light and holds on to the driver",
+    "Yes, if he wears a fastened helmet and puts his feet on the footrests",
+    "Yes, for a short distance, if you ride at no more than 20 km/h",
+    "No: a passenger may sit only in a seat provided by the design"
+   ],
+   "answer": 3,
+   "explain": "Passengers are carried only in the seats provided by the motorcycle's design. A luggage rack is not meant for this: it has no footrests and no support."
+  },
+  {
+   "id": "m21-018",
+   "q": "Before your journey you notice play in the joint between the motorcycle frame and the sidecar frame (side trailer). May you ride?",
+   "options": [
+    "No: it is prohibited to ride with this defect",
+    "Yes, if you ride at no more than 40 km/h",
+    "Yes, if there is no passenger in the sidecar",
+    "Yes: only a fault in the brakes or steering prohibits use"
+   ],
+   "answer": 0,
+   "explain": "Play in the joints between the motorcycle frame and the sidecar frame is on the List of Defects and Conditions Prohibiting Vehicle Use ⟦63⟧. You may ride only after the joint has been repaired."
+  },
+  {
+   "id": "m21-019",
+   "q": "The footrests and the passenger cross handle, which the design provides for, have been removed from your motorcycle. May you ride it?",
+   "options": [
+    "Yes: without a passenger the footrests and handle are not needed",
+    "No: use is prohibited with this defect",
+    "Yes, but only in daylight and in town",
+    "Yes, if a sidecar (side trailer) is fitted in their place"
+   ],
+   "answer": 1,
+   "explain": "The absence of the footrests and passenger cross handles provided by the design is on the List of Defects and Conditions Prohibiting the use of motorcycles and mopeds."
+  },
+  {
+   "id": "m21-020",
+   "q": "At what remaining tread depth of a motorcycle's tyres is its use prohibited?",
+   "options": [
+    "Less than 0.8 mm",
+    "Less than 1.6 mm",
+    "Less than 2 mm",
+    "Less than 3 mm"
+   ],
+   "answer": 0,
+   "explain": "For motorcycles and mopeds the limit is 0.8 mm. For passenger cars it is 1.6 mm, and for buses 2 mm."
+  },
+  {
+   "id": "m21-021",
+   "q": "What must a motorcycle with a sidecar (side trailer) carry?",
+   "options": [
+    "A fire extinguisher and a wheel chock",
+    "Nothing: such requirements apply only to cars",
+    "A first aid kit and a warning triangle",
+    "A tow rope and a spare wheel"
+   ],
+   "answer": 2,
+   "explain": "If a motorcycle with a sidecar has no first aid kit and no warning triangle (or flashing red lamp), its use is prohibited. Under this paragraph a fire extinguisher is required for buses, cars and wheeled tractors, not for a motorcycle."
+  },
+  {
+   "id": "m21-022",
+   "q": "Which of these situations prohibits the use of a motorcycle without a sidecar?",
+   "options": [
+    "A remaining tread depth of 1.2 mm",
+    "The safety bars provided by the design have been removed",
+    "No fire extinguisher in the luggage compartment",
+    "No first aid kit"
+   ],
+   "answer": 1,
+   "explain": "The absence of the safety bars provided by the design is on the List of Defects. A tread depth of 1.2 mm is above the limit of 0.8 mm, and a first aid kit and warning triangle are compulsory only on a motorcycle with a sidecar."
+  },
+  {
+   "id": "m21-023",
+   "q": "What do the Rules expressly prohibit for a motorcycle or moped driver?",
+   "options": [
+    "Holding the handlebars with one hand while giving a hand signal",
+    "Riding in gloves",
+    "Riding without holding the handlebars with at least one hand",
+    "Switching on the dipped headlight by day"
+   ],
+   "answer": 2,
+   "explain": "It is prohibited to ride without holding the handlebars with at least one hand. Holding the handlebars with one hand is allowed, for example, when you give a turn signal by hand."
+  },
+  {
+   "id": "m21-024",
+   "q": "On an empty street you want to ride on the rear wheel only, lifting the front one. Is this allowed?",
+   "options": [
+    "Yes, if there are no cars or pedestrians nearby",
+    "Yes, at a speed of no more than 20 km/h",
+    "Yes, but only in a residential zone or a yard",
+    "No: riding on one wheel is prohibited"
+   ],
+   "answer": 3,
+   "explain": "The Rules prohibit driving a motorcycle or moped on one wheel, and sitting outside the place intended for the driver. Such a stunt is not allowed on an empty street or at low speed."
+  },
+  {
+   "id": "m21-025",
+   "q": "You are carrying a board on your motorcycle. It projects 70 cm to the rear and does not interfere with control. May you ride like this?",
+   "options": [
+    "No: a load may project by no more than 50 cm",
+    "Yes, if you hang a red flag on the end of the board",
+    "Yes: a rear projection of up to 1 m is allowed",
+    "Yes, if you ride only in daylight"
+   ],
+   "answer": 0,
+   "explain": "On a motorcycle and a moped a load may project beyond the vehicle's outline by no more than 50 cm in length or width and must not interfere with control. A flag does not make the carriage legal: 70 cm is above the limit."
+  },
+  {
+   "id": "m21-026",
+   "q": "It is a clear summer day and you are riding your motorcycle on a country road. Which lights must be on?",
+   "options": [
+    "None: a motorcycle is easily seen by day anyway",
+    "The dipped headlight or daytime running lights",
+    "Only the position lamps and the rear lamp",
+    "The hazard warning lights, so that others notice you"
+   ],
+   "answer": 1,
+   "explain": "In daylight all moving vehicles switch on dipped headlights or daytime running lights. A motorcycle is narrow, and the light helps oncoming drivers to notice it in time. Hazard warning lights are not meant for this."
+  },
+  {
+   "id": "m21-027",
+   "q": "It is night and you are riding your motorcycle along a town street with good street lighting. Which headlight beam must you use?",
+   "options": [
+    "Main beam: it is safer",
+    "Dipped beam",
+    "Only the position lamps",
+    "None: the street is lit"
+   ],
+   "answer": 1,
+   "explain": "In the dark a motorcycle must have position lamps and a main-beam or dipped headlight on. In a built-up area on a lit road you switch from main beam to dipped so as not to dazzle others."
+  },
+  {
+   "id": "m21-028",
+   "q": "You have passed this sign on your motorcycle. There are no other signs. What is the highest speed at which you may ride?",
+   "options": [
+    "50 km/h",
+    "60 km/h",
+    "80 km/h",
+    "90 km/h"
+   ],
+   "answer": 1,
+   "explain": "Sign 5.22 marks the start of a built-up area. The general limit applies to motorcycles here: no more than 60 km/h. The limit of 50 km/h in built-up areas is set for buses and trucks."
+  },
+  {
+   "id": "m21-029",
+   "q": "You have left a town on your motorcycle, as in the diagram. There is no central reservation and no speed limit signs. What is the highest speed at which you may ride?",
+   "options": [
+    "70 km/h",
+    "90 km/h",
+    "100 km/h",
+    "110 km/h"
+   ],
+   "answer": 2,
+   "explain": "Sign 5.23 marks the end of a built-up area. Outside built-up areas motorcycles are subject to the same limits as passenger cars: on a road without a central reservation, no more than 100 km/h."
+  },
+  {
+   "id": "m21-030",
+   "q": "Your motorcycle's design includes a steering damper, but it is faulty. May you use the motorcycle?",
+   "options": [
+    "You may: a damper is an optional part",
+    "You may, but only in daylight",
+    "You may, if the handlebars do not shake at speeds of up to 60 km/h",
+    "No: it is a steering defect"
+   ],
+   "answer": 3,
+   "explain": "A faulty or missing steering damper on a motorcycle, if the design provides for one, is on the List of Defects in the steering that prohibit use ⟦64⟧."
+  },
+  {
+   "id": "m21-031",
+   "q": "You are approaching this sign on a motorcycle with a 650 cm³ engine. May you continue along this road?",
+   "options": [
+    "No: motorcycles may not enter a motorway",
+    "Yes, but only in the far right lane and at no more than 60 km/h",
+    "Yes: the ban applies to mopeds and vehicles that cannot reach 40 km/h",
+    "Yes, but only without a passenger on the back seat"
+   ],
+   "answer": 2,
+   "explain": "Sign 5.1 marks a motorway. Bicycles, mopeds, tractors, self-propelled machines and vehicles whose speed is below 40 km/h may not use it. A motorcycle may, keeping to the speed given by sign 3.24 but no more than 140 km/h."
+  },
+  {
+   "id": "m21-032",
+   "q": "The red vehicle in the diagram is your moped. You are approaching this sign. May you continue along this road?",
+   "options": [
+    "Yes, but only in the far right lane",
+    "Yes, if your moped can reach 50 km/h",
+    "Yes, but only in daylight",
+    "No: mopeds may not use a motorway"
+   ],
+   "answer": 3,
+   "explain": "It is prohibited to drive bicycles, mopeds, tractors and vehicles whose speed is below 40 km/h on motorways. For a moped the ban applies regardless of its speed."
+  },
+  {
+   "id": "m21-033",
+   "q": "You want to cut through a street on your motorcycle that has this sign in front of it. You neither live nor work on this street. May you enter?",
+   "options": [
+    "No: the sign prohibits motorcycles and mopeds",
+    "Yes: sign 3.5 prohibits only mopeds",
+    "Yes, if you ride at no more than 20 km/h",
+    "Yes, but only in daylight"
+   ],
+   "answer": 0,
+   "explain": "Sign 3.5, the “No motorcycles” sign, prohibits both motorcycles and mopeds. The exception is vehicles that serve businesses in this zone or belong to citizens who live or work there. You are not one of them."
+  },
+  {
+   "id": "m21-034",
+   "q": "There is this sign at the entrance to a street. You are returning home on your motorcycle: you live on this street. May you enter?",
+   "options": [
+    "No: sign 3.5 prohibits motorcycles from entering, with no exceptions",
+    "Yes: the sign does not apply to vehicles of people who live or work here",
+    "Yes, but only in the dark, when the street is empty",
+    "Only with written permission from the police"
+   ],
+   "answer": 1,
+   "explain": "Signs 3.2-3.8, including 3.5, do not apply to vehicles that belong to citizens living or working in the marked zone, or that serve them. You may enter."
+  },
+  {
+   "id": "m21-035",
+   "q": "You have got off your motorcycle, switched off the engine and are wheeling it beside you. What are you considered to be under the Rules?",
+   "options": [
+    "A driver",
+    "A pedestrian",
+    "A passenger",
+    "A cyclist"
+   ],
+   "answer": 1,
+   "explain": "People who wheel a bicycle, e-scooter, moped or motorcycle are treated as pedestrians. So you may wheel a motorcycle along the pavement to the entrance: the ban applies to riding on pavements, not to pedestrians."
+  },
+  {
+   "id": "m21-036",
+   "q": "The right lane is for route vehicles and it is clear. May you move into it on your motorcycle and carry on?",
+   "options": [
+    "Yes: a motorcycle is narrow and does not hinder buses in this lane",
+    "Yes, if you return to your own lane before the next intersection",
+    "No: only public transport and category M3 vehicles use it",
+    "Yes, if you ride in it at no more than 40 km/h"
+   ],
+   "answer": 2,
+   "explain": "The lane is marked with sign 5.9 and the letter “A”. Only public transport and category M3 vehicles use it. A motorcycle may neither drive nor stop in it."
+  },
+  {
+   "id": "m21-037",
+   "q": "You need to let a passenger off at the right edge. The right lane is for route vehicles and is separated by a broken line. May you enter it and stop to let the passenger off?",
+   "options": [
+    "Yes: at a broken line you may enter such a lane for boarding and alighting",
+    "Yes, if there are no buses or trolleybuses nearby",
+    "Yes, if you switch on the hazard warning lights",
+    "No: only public transport and M3 vehicles may stop in it"
+   ],
+   "answer": 3,
+   "explain": "After the amendments made by Ministry of Internal Affairs Order No. 305 of 27.04.2026, para. 126 no longer allows you to enter such a lane across a broken line for boarding and alighting. Only public transport and category M3 vehicles may drive and stop in it.",
+   "ref": "para. 126 (Ministry of Internal Affairs Order No. 305 of 27.04.2026)"
+  },
+  {
+   "id": "m21-039",
+   "q": "An intersection of roads of equal status. On your motorcycle you are turning left from tram tracks running in the same direction. A tram is coming straight ahead from the opposite direction. Who goes first?",
+   "options": [
+    "You: you are already on the tracks",
+    "Whoever arrived first",
+    "The tram",
+    "You, if you signalled the turn in advance"
+   ],
+   "answer": 2,
+   "explain": "When turning left from tram tracks, the driver gives way to the tram. Also, at an intersection of roads of equal status a tram has priority over trackless vehicles, whatever the direction of travel."
+  },
+  {
+   "id": "m21-040",
+   "q": "There is a traffic jam: cars are standing in both rows. May you ride forward on your motorcycle between the rows along the marking line?",
+   "options": [
+    "Yes: motorcycles are expressly allowed to",
+    "Yes, if you ride at no more than 20 km/h",
+    "Yes, if you switch on the hazard warning lights",
+    "No: you must keep strictly to the marked lanes"
+   ],
+   "answer": 3,
+   "explain": "If the carriageway is divided into lanes by markings, you drive strictly within the lanes, and you cross broken lines only when changing lanes. Also, between the rows there is no safe lateral clearance: an opened door or a neighbour changing lanes will cause a crash."
+  },
+  {
+   "id": "m21-041",
+   "q": "There is a traffic jam outside the town. May you drive round the standing cars on the right-hand shoulder on your motorcycle?",
+   "options": [
+    "Yes, a motorcycle may use the shoulder",
+    "Yes, if you ride at no more than 20 km/h",
+    "Yes, if you switch on the hazard warning lights",
+    "No: vehicles are prohibited from driving on shoulders"
+   ],
+   "answer": 3,
+   "explain": "Driving vehicles on shoulders, pavements and footpaths is prohibited, except in special cases such as work by road services. A traffic jam is not one of them. Also, a pedestrian or an opened door may appear on the shoulder."
+  },
+  {
+   "id": "m21-042",
+   "q": "You are riding your motorcycle outside a town in the left lane, although the right one is free. Is this correct?",
+   "options": [
+    "No: keep out of the left lane when the right one is free",
+    "Yes: a motorcycle may use any lane if it does not hinder others",
+    "Yes, if your speed is above 90 km/h",
+    "Yes, this is allowed in daylight"
+   ],
+   "answer": 0,
+   "explain": "Outside built-up areas drivers keep closer to the right edge of the carriageway and do not occupy the left lanes if the right ones are free. The left lane is needed for overtaking and turning left."
+  },
+  {
+   "id": "m21-043",
+   "q": "You hold only a category “B” licence. You rode a motorcycle with a 600 cm³ engine, and a police officer stopped you. What fine does the CAO provide?",
+   "options": [
+    "5 MCI (21 625 tenge)",
+    "50 MCI (216 250 tenge)",
+    "20 MCI (86 500 tenge)",
+    "None: category “B” gives the right to ride a motorcycle"
+   ],
+   "answer": 2,
+   "explain": "A motorcycle with a 600 cm³ engine is category “A”, and you do not have it. Driving a vehicle without the right to drive the relevant category is punishable by a fine of 20 MCI ⟦65⟧."
+  },
+  {
+   "id": "m21-046",
+   "q": "The green car behind you has started to overtake you. On your motorcycle you want to accelerate so as not to let it get ahead. Is this allowed?",
+   "options": [
+    "Yes, if you do not exceed the permitted speed on that section",
+    "Yes: a motorcycle is faster and the overtaking will fail anyway",
+    "Yes, if you sound the horn in advance",
+    "No: you must not hinder overtaking, even by accelerating"
+   ],
+   "answer": 3,
+   "explain": "When you are being overtaken, you must not accelerate or hinder the overtaking: the overtaking driver may get stuck in the oncoming lane. Keep to your lane and let him complete the manoeuvre."
+  },
+  {
+   "id": "m21-047",
+   "q": "A car has stopped in the adjacent lane in front of an uncontrolled pedestrian crossing. Your lane is clear. May you ride through the crossing on your motorcycle without slowing down?",
+   "options": [
+    "No: first make sure there are no pedestrians in front of that car",
+    "Yes: your lane is clear and there are no pedestrians in front of you",
+    "Yes, if you sound the horn and keep to the right edge",
+    "Yes, if your speed is no more than 40 km/h"
+   ],
+   "answer": 0,
+   "explain": "The car may have stopped to let a pedestrian cross whom you cannot see because of it. So you may continue only after making sure there are no pedestrians in front of it."
+  },
+  {
+   "id": "m21-049",
+   "q": "A motorcycle with a sidecar is towing another motorcycle with a sidecar on a flexible tow rope. There is no black ice, and a driver is sitting on the towed motorcycle. Is the ban on towing motorcycles breached?",
+   "options": [
+    "Yes: motorcycles may never be towed",
+    "Yes: a motorcycle with a sidecar may be towed only with a rigid tow bar",
+    "No: the ban applies to motorcycles without a sidecar",
+    "Yes: towing is allowed only with a moped"
+   ],
+   "answer": 2,
+   "explain": "Towing with a motorcycle without a sidecar, and towing such a motorcycle, are prohibited. For motorcycles with a sidecar there is no such ban, but the other towing rules still apply, for example a speed of no more than 50 km/h."
+  },
+  {
+   "id": "m21-050",
+   "q": "The red vehicle in the diagram is your moped, and it has stalled. A friend on the green moped offers to tow you home on a rope. Is this allowed?",
+   "options": [
+    "Yes, if the rope is short, no longer than 2 m",
+    "Yes, if both drivers wear fastened helmets and ride slowly",
+    "No: it is prohibited to tow mopeds or to tow with mopeds",
+    "Yes, but only in daylight"
+   ],
+   "answer": 2,
+   "explain": "Since 5 April 2025 the Rules expressly prohibit towing mopeds and towing with a moped. There is one exception: a trailer designed for use with a moped."
+  },
+  {
+   "id": "m21-054",
+   "q": "The red vehicle in the diagram is your moped, travelling at no more than 40 km/h. You are going straight ahead. Which path must you follow?",
+   "options": [
+    "Path A",
+    "Path B",
+    "Either path",
+    "Neither path"
+   ],
+   "answer": 0,
+   "explain": "Vehicles travelling at no more than 40 km/h keep to the far right lane. They move further left only to drive around an obstacle, to overtake, to turn left, to make a U-turn or to stop on the left, and you are simply going straight ahead."
+  },
+  {
+   "id": "m21-055",
+   "q": "You are riding your motorcycle in the right lane and want to turn left at the intersection, as the arrow shows. May you do so?",
+   "options": [
+    "No: first move in good time to the far left position",
+    "Yes: a motorcycle is narrow and may turn left from any lane",
+    "Yes, if there are no cars on the left at that moment",
+    "Yes, if you switch on the left indicator in advance"
+   ],
+   "answer": 0,
+   "explain": "Before turning left, the driver must move in good time to the far left position in the lane for that direction. Turning from the right lane crosses the path of those in the left lane."
+  },
+  {
+   "id": "m21-056",
+   "q": "The direction indicators on your motorcycle have stopped working. How do you give a hand signal for a right turn?",
+   "options": [
+    "Extend the left arm to the side, or the right arm bent upward at the elbow",
+    "Extend the right arm to the side, or the left arm bent upward at the elbow",
+    "Raise the right arm and hold it until the turn",
+    "Extend the left arm forward, bent downward at the elbow"
+   ],
+   "answer": 1,
+   "explain": "If the direction indicators are missing or faulty, the signal is given by hand. For a right turn: the right arm out to the side, or the left arm out to the side and bent upward at the elbow. A raised arm means braking."
+  },
+  {
+   "id": "m21-058",
+   "q": "A truck ahead has switched on its right indicator and is beginning to turn. May you pass it on the right on your motorcycle while it turns?",
+   "options": [
+    "Yes: there is enough room to the right of the truck for a motorcycle",
+    "Yes, if you sound the horn in advance",
+    "Yes, if the truck is turning slowly",
+    "No: on the right you may overtake only a vehicle that is turning left"
+   ],
+   "answer": 3,
+   "explain": "Overtaking on the right is allowed only if the driver ahead has signalled a left turn and started the manoeuvre. When turning right, the truck will take the space to its right, and you will be in its blind spot."
+  },
+  {
+   "id": "m21-062",
+   "q": "You are riding your motorcycle straight ahead on a main road. Whom must you give way to?",
+   "options": [
+    "Only the tram",
+    "Only the white car",
+    "The tram and the white car",
+    "No one"
+   ],
+   "answer": 3,
+   "explain": "The tram is approaching along a minor road (sign 2.4). At an intersection of roads of unequal status, the driver on the minor road gives way, and this includes a tram. The white car is turning left from the opposite direction and gives way to you."
+  },
+  {
+   "id": "m21-063",
+   "q": "You and the oncoming traffic have a green light. You are riding straight ahead on your motorcycle, and an oncoming white car is turning left. What is the best thing to do?",
+   "options": [
+    "Go first, but slow down and be ready to brake",
+    "Go without reducing speed: you have priority",
+    "Stop and let the white car through",
+    "Sound the horn and accelerate to get through"
+   ],
+   "answer": 0,
+   "explain": "When turning left on a green light, the driver of the white car must give way to you ⟦66⟧. But cars turning left in front of a motorcyclist are one of the main dangers: drivers often do not notice the motorcycle. So reduce speed and be ready to brake."
+  },
+  {
+   "id": "m21-065",
+   "q": "There is a dangerous bend ahead. How should you take it on a motorcycle?",
+   "options": [
+    "Enter the bend at your previous speed and brake in the bend",
+    "Reduce speed before the bend and look where you want to go",
+    "In the bend, look at the front wheel and the road markings",
+    "Pull in the clutch and coast through the whole bend"
+   ],
+   "answer": 1,
+   "explain": "Sign 1.11.1, the “Dangerous bend to the right” sign, warns of a bend of small radius or with restricted view. You reduce speed before the bend by closing the throttle and, if necessary, applying both brakes, and in the bend you look where you want to go. Entering too fast carries the motorcycle into the oncoming lane or off the road."
+  },
+  {
+   "id": "m21-066",
+   "q": "You are already taking a bend on your motorcycle when an obstruction suddenly appears ahead in your lane. What is the best way to stop?",
+   "options": [
+    "Brake hard with the front brake without straightening the motorcycle",
+    "Lock the rear wheel and turn the motorcycle sideways",
+    "First straighten the motorcycle, then brake",
+    "Pull in the clutch and drive round the obstruction without braking"
+   ],
+   "answer": 2,
+   "explain": "Hard braking while leaning easily makes the wheels lose grip. The motorcyclists' manual names as the best technique to straighten the motorcycle first and then brake. If you have to brake while leaning, you brake gently and reduce the lean as your speed falls."
+  },
+  {
+   "id": "m21-067",
+   "q": "Which brake gives a motorcycle most of its braking force?",
+   "options": [
+    "The rear: about two thirds",
+    "Both equally, half each",
+    "Engine braking: more than half",
+    "The front: at least three quarters"
+   ],
+   "answer": 3,
+   "explain": "When braking, the weight of the motorcycle shifts to the front wheel, so the front brake is more powerful: it provides at least three quarters of the total braking force. To stop, you use both brakes at the same time."
+  },
+  {
+   "id": "m21-068",
+   "q": "You need to stop quickly on a straight, dry road. How do you brake on a motorcycle?",
+   "options": [
+    "Apply both brakes at once, without “grabbing” the front one",
+    "Only the rear brake, without touching the front",
+    "Only the front brake, sharply, until the wheel locks",
+    "Pull in the clutch and coast to a stop"
+   ],
+   "answer": 0,
+   "explain": "To stop quickly you apply both brakes at the same time. Do not be afraid to use the front brake, but apply it smoothly and firmly, not with a jerk."
+  },
+  {
+   "id": "m21-069",
+   "q": "The front wheel locks while you are braking. What should you do?",
+   "options": [
+    "Hold the brake until the motorcycle stops completely",
+    "Release the front brake at once and apply it again",
+    "Open the throttle so that the wheel starts turning again",
+    "Turn the handlebars sharply in the direction the motorcycle is leaning"
+   ],
+   "answer": 1,
+   "explain": "A locked front wheel does not hold its direction, and the motorcycle falls. The motorcyclists' manual advises releasing the front brake at once and then applying it again firmly."
+  },
+  {
+   "id": "m21-070",
+   "q": "You need to swerve sharply round an obstruction. When should you brake?",
+   "options": [
+    "During the swerve",
+    "Only after the engine has stopped",
+    "Before or after the swerve, but not during it",
+    "At the same time as turning the handlebars: it is quicker"
+   ],
+   "answer": 2,
+   "explain": "During a sharp swerve the motorcycle leans, and braking may make the wheels lose grip. So you brake before the manoeuvre or after it."
+  },
+  {
+   "id": "m21-071",
+   "q": "When is the asphalt especially slippery for a motorcycle?",
+   "options": [
+    "An hour after the rain starts, when the oil has already been washed off",
+    "In dry, cool weather in the daytime",
+    "In the first minutes of rain, before the oil is washed off",
+    "At night in dry, windless weather"
+   ],
+   "answer": 2,
+   "explain": "Right after the rain starts, the water mixes with the oil and dust on the asphalt, and the surface becomes especially slippery. Later the rain washes the oil to the edges of the road."
+  },
+  {
+   "id": "m21-072",
+   "q": "Which places on a wet road are especially dangerous for a motorcycle?",
+   "options": [
+    "The middle of the lane, with smooth, clean asphalt",
+    "Dry sections under bridges and overpasses",
+    "Places where the asphalt is rough and there are no puddles",
+    "Road markings, metal plates and manhole covers"
+   ],
+   "answer": 3,
+   "explain": "In the rain, the paint of road markings and the metal of manhole covers and plates become very slippery. Wet leaves, sand and gravel at the edge of the road are also dangerous."
+  },
+  {
+   "id": "m21-073",
+   "q": "How should you cross tram rails, ruts or longitudinal joints in the road surface on a motorcycle?",
+   "options": [
+    "Along the rail, so that the wheel follows the groove",
+    "At any angle, if your speed is high",
+    "At an angle of at least 45 degrees",
+    "Only standing on the footrests"
+   ],
+   "answer": 2,
+   "explain": "If you cross rails or a rut at a shallow angle, the wheel may drop into the groove and the motorcycle will fall. The motorcyclists' manual advises moving over and crossing them at an angle of at least 45 degrees."
+  },
+  {
+   "id": "m21-074",
+   "q": "What is the minimum following distance to the vehicle ahead that a motorcyclist is advised to keep?",
+   "options": [
+    "Half a second",
+    "1 metre",
+    "The length of one motorcycle",
+    "2 seconds"
+   ],
+   "answer": 3,
+   "explain": "The Rules require a following distance that lets you avoid a collision. The motorcyclists' manual gives the usual minimum as 2 seconds."
+  },
+  {
+   "id": "m21-075",
+   "q": "At the test, in the “Dimensional figure eight” exercise, you touched the ground with your foot. What will be the result?",
+   "options": [
+    "100 penalty points: the test is failed",
+    "5 penalty points: it is only a remark",
+    "25 penalty points: you may continue",
+    "10 penalty points for each touch"
+   ],
+   "answer": 0,
+   "explain": "Under the autodrome methodology, touching the surface of the test area with a foot in the motorcycle exercises gives 100 penalty points. The result “fail” is given if more than 99 points are scored, that is, for a single such touch."
+  },
+  {
+   "id": "m21-076",
+   "q": "What must you do at the category A test before the “Start” command?",
+   "options": [
+    "Fasten the helmet, switch on the hazard warning lights and the main beam",
+    "Fasten the helmet, adjust the mirrors, switch on the dipped headlight",
+    "Take off the helmet to hear the commands better, and start the engine",
+    "Only start the engine: the helmet and lights will be checked after the start"
+   ],
+   "answer": 1,
+   "explain": "Under the methodology the candidate puts on and fastens the helmet, adjusts the mirrors, takes a place in the pre-start zone, starts the engine and switches on the dipped headlight. Crossing the “Start” line without the dipped headlight or without the left indicator gives 10 penalty points for each."
+  },
+  {
+   "id": "m21-077",
+   "q": "After the “Start” command you moved off only after 25 seconds. How many penalty points will be given?",
+   "options": [
+    "0",
+    "10",
+    "25",
+    "100"
+   ],
+   "answer": 2,
+   "explain": "Under the methodology you must move off within 20 seconds. A delay of more than 20 seconds gives 25 points, and if you do not start moving within 30 seconds, it is 100 points and the test is failed."
+  },
+  {
+   "id": "m21-078",
+   "q": "What must you do before the “Finish” line at the category A test?",
+   "options": [
+    "Switch on the left indicator",
+    "Switch on the right indicator",
+    "Sound the horn",
+    "Switch off the headlight"
+   ],
+   "answer": 1,
+   "explain": "Before the finish line you switch on the right indicator, cross the line and stop the motorcycle. Not switching on the indicator before the line gives 10 penalty points."
+  },
+  {
+   "id": "m21-079",
+   "q": "In the “Dimensional corridor” you ran a wheel over a control line once, but did not touch the ground with your foot. How many penalty points will you get?",
+   "options": [
+    "10",
+    "25",
+    "50",
+    "100"
+   ],
+   "answer": 1,
+   "explain": "Under the methodology, running a wheel over a control line gives 25 penalty points. The test is failed if the total is more than 99, so four such errors already mean failure."
+  },
+  {
+   "id": "m21-080",
+   "q": "You want to obtain categories A and B at the same time. How will you take the tests?",
+   "options": [
+    "Two theory tests and two practical tests: separately for each category",
+    "One theory test and one joint practical test in a car",
+    "Only the practical test: the theory test is not taken for A",
+    "One theory test and a separate practical test for each category"
+   ],
+   "answer": 3,
+   "explain": "When obtaining a licence with several categories, the candidate takes one theory test and a practical test for each category separately. For A the practical test is taken on a two-wheeled motorcycle, and for B in a car."
+  }
+ ],
+ "pack": "m21-1"
+}

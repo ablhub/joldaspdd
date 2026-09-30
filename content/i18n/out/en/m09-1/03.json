@@ -1,0 +1,219 @@
+{
+ "questions": [
+  {
+   "id": "m09-n005",
+   "q": "Which of the drivers may stop here?",
+   "options": [
+    "Only the blue car",
+    "Only the red car",
+    "Both the blue and the red car",
+    "Neither the blue nor the red car"
+   ],
+   "answer": 0,
+   "explain": "The blue car is 40 m before the intersection, which is allowed. The red car is facing down the diagram: it has already passed the intersection but is only 20 m beyond it. The ban within 30 m of the edge of the intersecting carriageway applies both before and after the intersection."
+  },
+  {
+   "id": "m09-n006",
+   "q": "Which of the drivers may stop here?",
+   "options": [
+    "Both the blue and the red car",
+    "Neither the blue nor the red car",
+    "Only the blue car",
+    "Only the red car"
+   ],
+   "answer": 0,
+   "explain": "The blue car has passed the intersection and is 35 m beyond it. The red car is 70 m before the intersection in its direction of travel. Both are more than 30 m from the edge of the intersecting carriageway, so both may stop."
+  },
+  {
+   "id": "m09-n007",
+   "q": "Which of the drivers may stop near the bus stop?",
+   "options": [
+    "Only the blue car",
+    "Only the red car",
+    "Both the blue and the red car",
+    "Neither the blue nor the red car"
+   ],
+   "answer": 1,
+   "explain": "The bus stop is marked with yellow zigzag marking 1.17. Passenger cars must not stop in the stop area or within 15 m of it. The blue car is 10 m before it, and the red car is 20 m beyond it."
+  },
+  {
+   "id": "m09-n008",
+   "q": "Which of the drivers may stop near the bus stop?",
+   "options": [
+    "Both the blue and the red car",
+    "Neither the blue nor the red car",
+    "Only the blue car",
+    "Only the red car"
+   ],
+   "answer": 2,
+   "explain": "The ban applies in the stop area and within 15 m of it on both sides. The blue car is 20 m before the stop area, which is allowed. The red car has passed the stop but is only 10 m beyond it."
+  },
+  {
+   "id": "m09-n009",
+   "q": "There is no stop area here, only a bus stop sign. Who may stop here?",
+   "options": [
+    "Both the bus and the blue car",
+    "Neither the bus nor the blue car",
+    "Only the blue passenger car",
+    "Only the bus"
+   ],
+   "answer": 3,
+   "explain": "When there is no stop area, the ban is measured from the stop indicator (the bus stop sign): you must not stop within 15 m of it. An exception is made for buses of categories M2 and M3, so the bus is stopped correctly. The blue passenger car is 10 m from the stop indicator."
+  },
+  {
+   "id": "m09-n010",
+   "q": "Who may park near this level crossing?",
+   "options": [
+    "Both the blue and the red car",
+    "Neither the blue nor the red car",
+    "Only the blue car",
+    "Only the red car"
+   ],
+   "answer": 3,
+   "explain": "Parking is prohibited within 50 m of a level crossing, whichever side of it you are on. The blue car is 40 m from the crossing, and the red car is beyond the crossing, 90 m from it."
+  },
+  {
+   "id": "m09-n011",
+   "q": "The driver of the blue car stopped for a minute to drop off a passenger, and the driver of the red car left the car for an hour. Which of them did not break the rules?",
+   "options": [
+    "Only the blue car's driver",
+    "Only the red car's driver",
+    "Both drivers",
+    "Neither driver"
+   ],
+   "answer": 2,
+   "explain": "Within 50 m of a level crossing, parking is prohibited, but a short stop to drop off a passenger is allowed, so the blue car's driver is right. The red car's driver left the car for an hour, but 90 m from the crossing, which is also allowed. Stopping is prohibited only on the crossing itself."
+  },
+  {
+   "id": "m09-n012",
+   "q": "You are driving along a street in town and want to stop at the left-hand edge, as shown by the arrow. May you do this?",
+   "options": [
+    "No: stopping at the left-hand edge is prohibited",
+    "Yes: this is allowed on such a street in town",
+    "Yes, but only for passengers to board or alight"
+   ],
+   "answer": 1,
+   "explain": "The street is in town, with one lane in each direction and no tram tracks in the middle. On such a road, stopping and parking at the left-hand edge are allowed."
+  },
+  {
+   "id": "m09-n013",
+   "q": "You are driving on a road outside a built-up area and want to stop at the left-hand edge, as shown by the arrow. May you do this?",
+   "options": [
+    "Yes: there is one lane in each direction here",
+    "Yes, if there are no vehicles at all in the oncoming lane",
+    "Yes, if you switch on the hazard warning lights",
+    "No: this is allowed on the left only in built-up areas"
+   ],
+   "answer": 3,
+   "explain": "The road is outside a built-up area. Stopping at the left-hand edge of a road with one lane in each direction is allowed only in built-up areas; outside them you must stop on the right."
+  },
+  {
+   "id": "m09-n014",
+   "q": "You are driving along a street in town and want to stop at the left-hand edge, as shown by the arrow. May you do this?",
+   "options": [
+    "No: there are two lanes in each direction here",
+    "Yes: this is a built-up area",
+    "Yes, if you stay no longer than 5 minutes",
+    "Yes, if you switch on the hazard warning lights"
+   ],
+   "answer": 0,
+   "explain": "You may stop on the left only on roads with one lane for each direction or on one-way roads. Here there are two lanes each way, so you must stop at the right-hand edge."
+  },
+  {
+   "id": "m09-n015",
+   "q": "This is a one-way street in town. Who may park here?",
+   "options": [
+    "Only the blue car",
+    "Only the red car",
+    "Both the blue and the red car",
+    "Neither the blue nor the red car"
+   ],
+   "answer": 2,
+   "explain": "On one-way roads in built-up areas, parking is allowed at both the right-hand and the left-hand edge. The blue car is at the left-hand edge and the red car at the right-hand edge; both are parked correctly."
+  },
+  {
+   "id": "m09-n016",
+   "q": "At the left-hand edge of a one-way street in town there are a truck with a maximum authorised mass of 12 t and a blue passenger car. Who may park here?",
+   "options": [
+    "Only the truck",
+    "Only the blue car",
+    "Both the truck and the blue car",
+    "Neither the truck nor the blue car"
+   ],
+   "answer": 1,
+   "explain": "Passenger cars may park on the left-hand side of a one-way road. Trucks with a maximum authorised mass of more than 3.5 t may only stop there for loading or unloading."
+  },
+  {
+   "id": "m09-n017",
+   "q": "A truck with a maximum authorised mass of 12 t and a blue passenger car have stopped at the left-hand edge to unload goods. Who is allowed to do this?",
+   "options": [
+    "Only the truck",
+    "Only the blue car",
+    "Both the truck and the blue car",
+    "Neither the truck nor the blue car"
+   ],
+   "answer": 2,
+   "explain": "On the left-hand side of a one-way road in a built-up area, passenger cars may both stop and park. A truck over 3.5 t may only stop for loading or unloading, and that is exactly what it is doing."
+  },
+  {
+   "id": "m09-n018",
+   "q": "The drivers of the blue and the red car have left their cars here for half an hour. Who is allowed to park like this?",
+   "options": [
+    "Only the blue car",
+    "Only the red car",
+    "Both the blue and the red car",
+    "Neither the blue nor the red car"
+   ],
+   "answer": 1,
+   "explain": "The blue car is double-parked next to the white car. On the carriageway, vehicles are parked in a single row parallel to the edge; only two-wheeled vehicles without a sidecar may be parked in two rows. The red car is parked at the edge in a single row."
+  },
+  {
+   "id": "m09-n019",
+   "q": "Both drivers have stopped outside a built-up area to look at a map. Which of them has stopped as the Rules require?",
+   "options": [
+    "Only the blue car's driver",
+    "Only the red car's driver",
+    "Both drivers",
+    "Neither driver"
+   ],
+   "answer": 1,
+   "explain": "If the road has a shoulder, you must stop on it. You stop on the carriageway at its edge only when there is no shoulder. The red car has pulled onto the shoulder, while the blue car has stayed on the carriageway."
+  },
+  {
+   "id": "m09-n020",
+   "q": "A street in town is marked with sign 2.1 “Priority road”. Who may park here?",
+   "options": [
+    "Both the blue and the red car",
+    "Neither the blue nor the red car",
+    "Only the blue car",
+    "Only the red car"
+   ],
+   "answer": 0,
+   "explain": "Parking on the carriageway of roads with sign 2.1 is prohibited only outside built-up areas. This is a town and there are no other prohibitions, so both cars are parked correctly."
+  },
+  {
+   "id": "m09-n021",
+   "q": "Which of the drivers may stop here?",
+   "options": [
+    "Both the blue and the red car",
+    "Neither the blue nor the red car",
+    "Only the blue car",
+    "Only the red car"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.27 prohibits stopping and parking only on the side of the road where it is placed. The blue car is within the sign's zone of application, and the red car is on the other side of the street."
+  },
+  {
+   "id": "m09-n022",
+   "q": "Which of the drivers may stop here?",
+   "options": [
+    "Only the blue car",
+    "Only the red car",
+    "Both the blue and the red car",
+    "Neither the blue nor the red car"
+   ],
+   "answer": 0,
+   "explain": "Sign 3.27 is on the left-hand side of the diagram, that is, on the right for oncoming traffic. It applies only on the side where the red car is. There is no prohibition on the blue car's side."
+  }
+ ]
+}

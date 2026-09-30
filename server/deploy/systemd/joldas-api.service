@@ -1,0 +1,27 @@
+[Unit]
+Description=Joldas API (progress sync and admin)
+After=network-online.target postgresql.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=joldas
+Group=joldas
+EnvironmentFile=/etc/joldas/env
+WorkingDirectory=/opt/joldas/current/server
+ExecStart=/usr/bin/env node /opt/joldas/current/server/src/main.js
+Restart=always
+RestartSec=2
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/var/lib/joldas
+ProtectKernelTunables=true
+ProtectKernelModules=true
+ProtectControlGroups=true
+RestrictSUIDSGID=true
+LockPersonality=true
+
+[Install]
+WantedBy=multi-user.target

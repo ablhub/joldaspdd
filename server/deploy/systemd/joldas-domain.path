@@ -1,0 +1,9 @@
+[Unit]
+Description=Watch for Joldas domain changes
+
+[Path]
+PathChanged=/var/lib/joldas/domain
+Unit=joldas-domain.service
+
+[Install]
+WantedBy=multi-user.target

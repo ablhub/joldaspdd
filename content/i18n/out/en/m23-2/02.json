@@ -1,0 +1,292 @@
+{
+ "questions": [
+  {
+   "id": "m23-053",
+   "q": "Before a journey, a mechanic measured the residual tread pattern depth on a bus tyre: 1.8 mm. May the bus be released onto the route?",
+   "options": [
+    "Yes: it is more than 1.6 mm",
+    "No: buses need at least 2 mm",
+    "Yes, if the tyre is on the rear axle",
+    "Yes, until the end of the month"
+   ],
+   "answer": 1,
+   "explain": "For a passenger car 1.8 mm would be enough, but for a bus the limit is higher: operation is prohibited if the residual tread pattern depth is less than 2 mm ⟦30⟧."
+  },
+  {
+   "id": "m23-054",
+   "q": "May tyres with a retreaded tread be fitted on the front axle of an intercity bus?",
+   "options": [
+    "Yes, if the residual tread depth is at least 2 mm",
+    "Yes, if they are tyres of the same model and size",
+    "No: they are prohibited on the front axle of such a bus",
+    "No, but only in winter; in summer it is allowed"
+   ],
+   "answer": 2,
+   "explain": "The List of Defects prohibits operation if tyres with a retreaded tread are fitted on the front axle of an intercity bus (class II) or a long-distance bus (class III). A failure of a front tyre at speed almost always means loss of control."
+  },
+  {
+   "id": "m23-055",
+   "q": "Before departure, a driver finds that the emergency exit (hatch) of the bus does not open. All the other systems are in working order. May he set off on a journey with passengers?",
+   "options": [
+    "No: driving with an emergency exit that does not work is prohibited",
+    "Yes: after all, the doors work properly",
+    "Yes, if he warns the passengers and shows them the other exits",
+    "Yes, but only in daylight hours"
+   ],
+   "answer": 0,
+   "explain": "The List of Defects prohibits operation if the emergency exits of a bus and the devices for operating them do not work. In a fire or a rollover, people get out through them."
+  },
+  {
+   "id": "m23-056",
+   "q": "Which of these defects prohibits operating a bus?",
+   "options": [
+    "The radio or public address system for announcing stops does not work",
+    "The air conditioning or seat heating does not work",
+    "The USB sockets or window curtains do not work",
+    "The door drive or the door operation signal does not work"
+   ],
+   "answer": 3,
+   "explain": "Operation is prohibited if the door control drive and the door operation signal, the emergency door release switch, the stop request signal, the emergency exits and the interior lighting of the bus saloon do not work ⟦31⟧. The radio, air conditioning and sockets are not on this list."
+  },
+  {
+   "id": "m23-057",
+   "q": "What must a bus and a truck with a maximum authorised mass of over 3.5 t have, otherwise operating them is prohibited?",
+   "options": [
+    "A first aid kit, a fire extinguisher and a warning triangle; wheel chocks are not needed",
+    "A first aid kit, a fire extinguisher, a warning triangle and two wheel chocks",
+    "Only a fire extinguisher and a tow rope",
+    "A warning triangle and a spare headlamp bulb"
+   ],
+   "answer": 1,
+   "explain": "Under the List of Defects, operation is prohibited if a bus or a truck has no first aid kit, fire extinguisher and warning triangle, and if trucks over 3.5 t and buses also have no wheel chocks (at least two)."
+  },
+  {
+   "id": "m23-058",
+   "q": "You are a bus driver on a regular intercity inter-regional route. Must the bus be fitted with a tachograph?",
+   "options": [
+    "Yes: a tachograph is mandatory on such passenger services",
+    "No: a tachograph is needed only on international journeys",
+    "No: a tachograph is needed only when carrying dangerous goods",
+    "No: a tachograph is needed only when carrying groups of children"
+   ],
+   "answer": 0,
+   "explain": "Under para. 3 of the Rules, tachographs are fitted to buses and trucks used for international carriage, the carriage of dangerous goods, regular intercity inter-regional passenger services, and also irregular intercity inter-regional and inter-district services. Your service is a regular inter-regional one, so a tachograph is required, and it must work ⟦32⟧."
+  },
+  {
+   "id": "m23-059",
+   "q": "You are driving a bus or truck on an intercity journey. How long may you drive without a break, and what break is needed afterwards?",
+   "options": [
+    "8 h, then a break of 15 min",
+    "2 h, then a break of 5 min",
+    "4 h 30 min, then a break of at least 45 min",
+    "There is no limit if the driver feels fine"
+   ],
+   "answer": 2,
+   "explain": "After 4 h 30 min of driving, the driver takes a break of at least 45 min, unless a rest period begins ⟦33⟧. The break may be split: first at least 15 min, then at least 30 min ⟦34⟧."
+  },
+  {
+   "id": "m23-060",
+   "q": "2 h into your journey, you took a 15 min break. What break is needed when your total driving time reaches 4 h 30 min?",
+   "options": [
+    "None: you have already had a break",
+    "At least 30 min",
+    "At least 45 min: the 15 min do not count",
+    "At least 10 min"
+   ],
+   "answer": 1,
+   "explain": "The 45 min break can be replaced by two breaks: at least 15 min, and then at least 30 min, spread over the 4 h 30 min of driving or taken immediately after that period ⟦35⟧. You have already used the first 15 min, so at least 30 min remain."
+  },
+  {
+   "id": "m23-061",
+   "q": "What daily driving time do the Rules on the Organisation of Drivers' Work and Rest allow?",
+   "options": [
+    "No more than 12 h, up to 14 h - no more than once a week",
+    "No more than 8 h, without any exceptions",
+    "No more than 11 h, up to 12 h - on any day of the week",
+    "No more than 9 h, up to 10 h - no more than twice a week"
+   ],
+   "answer": 3,
+   "explain": "Daily driving time does not exceed 9 h. It may be extended to a maximum of 10 h no more than twice in a week ⟦36⟧."
+  },
+  {
+   "id": "m23-062",
+   "q": "What daily rest must a driver take under the Rules on the Organisation of Drivers' Work and Rest?",
+   "options": [
+    "At least 6 h",
+    "At least 8 h",
+    "At least 11 h",
+    "At least 24 h"
+   ],
+   "answer": 2,
+   "explain": "The driver takes daily rest periods of at least 11 h and weekly rest periods of at least 45 h ⟦37⟧. A driver who has not slept enough reacts noticeably more slowly."
+  },
+  {
+   "id": "m23-063",
+   "q": "At night on a journey, you are very sleepy, and the terminus is still an hour away. What is the right thing to do?",
+   "options": [
+    "Open the window and drive faster to reach the terminus in time",
+    "Stop in a safe place and rest",
+    "Ask the passengers to talk to you until the end of the journey",
+    "Drink an energy drink and carry on without stopping"
+   ],
+   "answer": 1,
+   "explain": "The Rules prohibit driving a vehicle while ill or fatigued in a way that endangers road safety ⟦38⟧. Cold air and coffee help only for a short time; only rest helps reliably. Tell the dispatcher that you need a break or a replacement."
+  },
+  {
+   "id": "m23-064",
+   "q": "On what vehicle is the practical test for category “D” taken?",
+   "options": [
+    "On a bus with at least 28 seats and a length of at least 7 m",
+    "On any minibus",
+    "On a truck of category “C”",
+    "On a passenger car, if the candidate holds category “C”"
+   ],
+   "answer": 0,
+   "explain": "The practical test is taken on a vehicle of the category that is to be granted. For category “D” this is a bus with at least 28 seats and a length of at least 7.0 m (para. 40 of the Examination Rules on taking exams and issuing driving licences)."
+  },
+  {
+   "id": "m23-065",
+   "q": "Where is the practical test for category “D” taken?",
+   "options": [
+    "In the city with a police officer, on a route through the centre",
+    "At a driving school: your instructor takes the test",
+    "Nowhere: with category “C” the practical test is not taken",
+    "At the State Corporation's test ground, in a category “D” bus"
+   ],
+   "answer": 3,
+   "explain": "The practical test is taken at an automated test ground of the State Corporation “Government for Citizens”, equipped with vehicles of the relevant categories ⟦39⟧. The exercise zones for “D” and “D1” are equipped to the same requirements as for “B” and “C” ⟦40⟧."
+  },
+  {
+   "id": "m23-067",
+   "q": "An intersection of roads of equal status. You are driving a bus straight ahead, and an oncoming green car is turning left. Who will go through the intersection first?",
+   "options": [
+    "The green car",
+    "Whoever reached the intersection first",
+    "You",
+    "The green car, if it switched on its direction indicator in advance"
+   ],
+   "answer": 2,
+   "explain": "Here the oncoming driver is the one turning left: he gives way to you, since you are coming from the opposite direction and going straight ahead ⟦41⟧. A direction indicator gives no priority ⟦42⟧."
+  },
+  {
+   "id": "m23-068",
+   "q": "You are approaching an intersection in a bus along a minor road. The main road turns at the intersection (plate 7.13). Whom must you give way to?",
+   "options": [
+    "The truck only",
+    "The green car only",
+    "Both",
+    "No one"
+   ],
+   "answer": 2,
+   "explain": "The main road runs from north to east; you are on the minor road and give way to everyone on the main road, regardless of their direction of travel ⟦43⟧. The truck and the green car are on the main road, so you go through last. They pass each other as they would on roads of equal status ⟦44⟧."
+  },
+  {
+   "id": "m23-069",
+   "q": "You are driving a bus along a main road that turns left at the intersection (plate 7.13). Whom must you give way to?",
+   "options": [
+    "The truck only",
+    "The green car only",
+    "Both",
+    "No one"
+   ],
+   "answer": 3,
+   "explain": "You are on the main road and turn together with it. The truck and the green car approach along minor roads (sign 2.4), so both give way to you ⟦45⟧. The rule “a driver turning left gives way to oncoming traffic” applies between those who are on the main road ⟦46⟧, and the oncoming truck is on a minor road."
+  },
+  {
+   "id": "m23-071",
+   "q": "It is hot in the saloon, and passengers keep the rear door of the bus open while it is moving. You carry on driving. What fine does the CAO provide for?",
+   "options": [
+    "10 MCI (43 250 tenge)",
+    "5 MCI (21 625 tenge)",
+    "A warning",
+    "20 MCI (86 500 tenge)"
+   ],
+   "answer": 0,
+   "explain": "You may drive only with the doors closed ⟦47⟧, and passengers are prohibited from opening the doors while the vehicle is moving ⟦48⟧. Allowing the doors to be opened while the vehicle is moving is punishable by a fine of 10 MCI ⟦49⟧."
+  },
+  {
+   "id": "m23-072",
+   "q": "An intersection of roads of equal status. In what order will the bus, the blue car and the green car go through the intersection?",
+   "options": [
+    "Blue, bus, green",
+    "Bus, green, blue",
+    "Bus, blue, green",
+    "Green, blue, bus"
+   ],
+   "answer": 2,
+   "explain": "There is no one to the right of the bus, so it goes first, and the blue car gives way to it as the vehicle on its right ⟦50⟧. The green car is turning left: it gives way to the oncoming bus ⟦51⟧ and to the blue car, which approaches it from the right ⟦52⟧."
+  },
+  {
+   "id": "m23-073",
+   "q": "You are entering a roundabout in a bus. Signs 4.3 and 2.4 are placed before the entry. What should you do?",
+   "options": [
+    "Enter first: you are approaching it from the right",
+    "Give way to the white car on the roundabout",
+    "Enter at the same time as the white car",
+    "Sound the horn and enter first"
+   ],
+   "answer": 1,
+   "explain": "Sign 2.4 before the entry to a roundabout means that you are on a minor road and give way to those already on the roundabout ⟦53⟧. The “priority to the right” rule does not apply here."
+  },
+  {
+   "id": "m23-074",
+   "q": "You are driving an articulated bus and want to make a U-turn at an intersection. From the far left position the bus does not fit into the turn. What should you do?",
+   "options": [
+    "Make a U-turn from the right-hand shoulder, giving way to everyone",
+    "Do not make a U-turn: the bus will occupy two lanes",
+    "Move into the adjacent lane if it is safe",
+    "Turn round in several stages, reversing"
+   ],
+   "answer": 2,
+   "explain": "If, because of its size, a vehicle cannot make a U-turn at an intersection from the far left position, it is allowed to move partly, and if necessary fully, into the adjacent lane, provided this is safe and does not hinder others ⟦54⟧. A U-turn from the right edge is allowed only away from an intersection ⟦55⟧, and reversing at intersections is prohibited ⟦56⟧."
+  },
+  {
+   "id": "m23-075",
+   "q": "You are driving a bus straight ahead on a green traffic light. Whom must you give way to?",
+   "options": [
+    "The green car only",
+    "The blue car only",
+    "Both",
+    "No one"
+   ],
+   "answer": 3,
+   "explain": "The green car is turning left and gives way to you, because you are coming from the opposite direction and going straight ahead ⟦57⟧. The blue car is turning right and does not cross your path. You do not have to give way to anyone."
+  },
+  {
+   "id": "m23-076",
+   "q": "Your bus fits comfortably into a right turn from the far right lane. Which path must you take to turn?",
+   "options": [
+    "Path A",
+    "Path B",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 0,
+   "explain": "A turn is made into the lane corresponding to the one you occupy ⟦58⟧: from the far right lane, into the far right lane (A). Moving into the adjacent lane is allowed only if, because of its size, the vehicle cannot turn otherwise ⟦59⟧."
+  },
+  {
+   "id": "m23-077",
+   "q": "Your long bus cannot turn right so as to stay in the far right lane of the road it turns into. The adjacent lane is free. Along which path may the turn be made?",
+   "options": [
+    "Path A",
+    "Path B",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 1,
+   "explain": "If a vehicle, because of its size, cannot make a turn in compliance with para. 52, it is allowed to move partly, and if necessary fully, into the adjacent lane, provided this is safe and does not create a hindrance ⟦60⟧. The adjacent lane is free, so path B is possible."
+  },
+  {
+   "id": "m23-080",
+   "q": "You are turning right from a minor road in an articulated bus. A trolleybus is approaching from the left along the main road. What should you do?",
+   "options": [
+    "Turn first: the trolleybus is approaching from the left",
+    "Turn at the same time: there is enough room on the road",
+    "Turn if the trolleybus is far from the stop",
+    "Give way to the trolleybus"
+   ],
+   "answer": 3,
+   "explain": "Sign 2.4 means that you are on a minor road and give way to everyone on the main road, regardless of their direction of travel ⟦61⟧. A long articulated bus needs more time to complete the turn, so start it only when the trolleybus has passed."
+  }
+ ]
+}

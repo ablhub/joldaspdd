@@ -1,0 +1,292 @@
+{
+ "questions": [
+  {
+   "id": "m16-n011",
+   "q": "There are two of you with an adult who is not responding and is not breathing normally. What is the best way to split up the actions?",
+   "options": [
+    "Both of you call different services, and start compressions only after the calls",
+    "One calls 112 and looks for a defibrillator, the other starts compressions straight away",
+    "Both of you wait next to them for the ambulance, so as not to cause harm with unskilled help",
+    "One holds the head, the other spends about five minutes checking for a pulse at the neck and wrist"
+   ],
+   "answer": 1,
+   "explain": "Help must not be delayed: start compressions straight away, while calling for help and looking for an automated defibrillator happen at the same time. Use the defibrillator as soon as it is brought to you ⟦1⟧."
+  },
+  {
+   "id": "m16-n012",
+   "q": "You are alone with an adult who does not respond to your voice or touch. According to the 2025 guidance, what should you do first?",
+   "options": [
+    "Call 112 or 103 on loudspeaker straight away and check breathing",
+    "Give compressions for a minute and only then call an ambulance",
+    "First look through their belongings for documents to give the dispatcher",
+    "Put them in your car and quickly drive them to the nearest hospital"
+   ],
+   "answer": 0,
+   "explain": "RC UK 2025 advises calling straight away as soon as the person stops responding, and checking breathing while the call goes through. If breathing is abnormal, the dispatcher will help you start compressions."
+  },
+  {
+   "id": "m16-n013",
+   "q": "You are on a highway and do not know the exact address. How should you describe the location to the dispatcher?",
+   "options": [
+    "Say “somewhere outside town” and wait for the dispatcher to find you",
+    "Give the highway, the nearest kilometre marker, the direction and landmarks",
+    "Give the town you set off from and roughly how long you have been driving",
+    "Ask the dispatcher to find you using your vehicle's number plate"
+   ],
+   "answer": 1,
+   "explain": "Without an exact location, the crew will lose time. Give the road, the kilometre marker, the direction you were driving in, and what you can see nearby: a filling station, a bridge, a turning to a village (First Aid Rules of the Republic of Kazakhstan, para. 16; Highway Code UK, para. 283)."
+  },
+  {
+   "id": "m16-n014",
+   "q": "How do you check whether a casualty is conscious?",
+   "options": [
+    "Speak to them loudly and gently shake their shoulders",
+    "Slap their cheeks hard several times and pinch them",
+    "Prick their finger with a pin and see whether they pull their hand away",
+    "Let them sniff smelling salts and check whether they pull their head away"
+   ],
+   "answer": 0,
+   "explain": "It is enough to ask loudly, for example “Can you hear me?”, and gently shake their shoulders ⟦2⟧. There is no need to cause pain. If there is no response, call for help straight away and check breathing."
+  },
+  {
+   "id": "m16-n015",
+   "q": "A casualty in a road accident is conscious and answering questions. What should you do until the medics arrive?",
+   "options": [
+    "Help them to their feet and take them to your car, where it is warmer",
+    "Leave them alone and drive to the nearest village for help",
+    "Give them strong sweet tea to drink so they come round more quickly",
+    "Do not move them unless necessary, ask what hurts, and keep watching them"
+   ],
+   "answer": 3,
+   "explain": "In a road accident, hidden injuries are possible, including to the spine. If there is no danger, the person is not moved, and they are given nothing to eat or drink (Highway Code UK). Talk to them, find out what hurts, and keep watching their condition until the medics arrive."
+  },
+  {
+   "id": "m16-n016",
+   "q": "How do you check whether an unconscious person is breathing?",
+   "options": [
+    "Hold a small mirror to their nose and wait 5 minutes to see whether it mists up",
+    "Feel for a pulse at the wrist and count the beats for a whole minute",
+    "Look for chest movement, and listen and feel for breath with your cheek",
+    "Sit them up and see whether they can hold their head up"
+   ],
+   "answer": 2,
+   "explain": "For no more than 10 seconds, look for chest movement, and listen and feel for breath ⟦3⟧. Occasional gasping breaths are not normal breathing - they are a sign of cardiac arrest."
+  },
+  {
+   "id": "m16-n017",
+   "q": "Where do you place your hands for chest compressions on an adult?",
+   "options": [
+    "The heel of your hand - on the stomach, just below the ribs",
+    "The heel of your hand - on the left side of the chest, directly over the heart",
+    "The heel of your hand - in the centre of the chest, on the lower half of the breastbone",
+    "The heel of your hand - on the upper part of the breastbone, near the neck"
+   ],
+   "answer": 2,
+   "explain": "Place the heel of one hand in the centre of the chest, on the lower half of the breastbone, with the other hand on top ⟦4⟧. Keep your arms straight and press using your body weight."
+  },
+  {
+   "id": "m16-n018",
+   "q": "What should you do with your hands between chest compressions?",
+   "options": [
+    "Lift your hands off the chest and clap to keep the rhythm",
+    "Keep the chest slightly pressed down, so as not to lose depth",
+    "Shift your hands slightly each time, so as not to break a single rib",
+    "Let the chest fully recoil, without leaning on it"
+   ],
+   "answer": 3,
+   "explain": "After each compression, the chest must fully recoil - do not lean on it ⟦5⟧. Otherwise the heart does not have time to fill with blood."
+  },
+  {
+   "id": "m16-n019",
+   "q": "You have completed a first aid course and are willing to give rescue breaths. How do you alternate compressions and breaths when resuscitating an adult?",
+   "options": [
+    "30 compressions and 2 breaths",
+    "15 compressions and 1 breath",
+    "5 compressions and 5 breaths",
+    "Breaths only, no compressions"
+   ],
+   "answer": 0,
+   "explain": "A trained rescuer alternates 30 compressions with 2 breaths. If you are not trained or not willing to give breaths, give continuous compressions."
+  },
+  {
+   "id": "m16-n020",
+   "q": "How do you give a rescue breath correctly?",
+   "options": [
+    "Blow as hard as you can to get as much air in as possible, to fill the lungs",
+    "About a second, until the chest starts to rise",
+    "Blow slowly for about 5 seconds, until the chest rises as far as it will go",
+    "Blow into the mouth without pinching the nose, twice in a row within one second"
+   ],
+   "answer": 1,
+   "explain": "Each breath lasts about a second and should be strong enough to make the chest visibly rise ⟦6⟧. Too forceful a breath inflates the stomach and can cause vomiting."
+  },
+  {
+   "id": "m16-n021",
+   "q": "You are giving compressions. Someone you know comes over and asks what happened. What should you do?",
+   "options": [
+    "Answer briefly without stopping the compressions",
+    "Stop and explain everything in detail",
+    "Ask them to wait while you check the pulse",
+    "Stop the resuscitation, since help has already arrived"
+   ],
+   "answer": 0,
+   "explain": "Interruptions in compressions must be as short as possible: while there are no compressions, blood does not reach the brain. It is better to ask the person you know to call 112 or find a defibrillator."
+  },
+  {
+   "id": "m16-n022",
+   "q": "A driver is sitting in a vehicle, unconscious and not breathing normally. The vehicle is not on fire. How should you carry out resuscitation?",
+   "options": [
+    "Give compressions right there in the seat, so as not to touch the neck and back",
+    "Remove them, lay them on their back on a firm surface, and start compressions",
+    "Wait for the ambulance: in a road accident, casualties are not pulled out of the vehicle",
+    "Recline the seat back and give only breaths, without chest compressions"
+   ],
+   "answer": 1,
+   "explain": "You cannot give effective compressions while someone is sitting in a seat: resuscitation works best on a firm surface ⟦7⟧. In cardiac arrest, saving a life matters more than the risk of a spinal injury, so the person is carefully removed, if possible by two people, keeping the head and neck in line with the torso."
+  },
+  {
+   "id": "m16-n023",
+   "q": "A passer-by has brought an automated external defibrillator (AED). How should you use it?",
+   "options": [
+    "Put it aside until the medics arrive: only doctors use this device",
+    "First give compressions for 10 minutes, then switch the device on",
+    "Switch it on only if you can feel a pulse in the person's neck",
+    "Switch it on straight away and follow its prompts, giving compressions in between"
+   ],
+   "answer": 3,
+   "explain": "Use the AED as soon as it becomes available. The device analyses the heart rhythm itself and tells you what to do, including when not to touch the person. After a shock, continue compressions straight away ⟦8⟧."
+  },
+  {
+   "id": "m16-n024",
+   "q": "Who can use an automated external defibrillator?",
+   "options": [
+    "Only ambulance doctors",
+    "Only police officers",
+    "Anyone, even without special training",
+    "Only someone with a medical certificate"
+   ],
+   "answer": 2,
+   "explain": "Anyone can use an AED: the device works out for itself whether a shock is needed and gives voice prompts. Using a defibrillator early greatly increases the chance of survival."
+  },
+  {
+   "id": "m16-n025",
+   "q": "There are two of you, you have been giving compressions for several minutes, and you feel yourself getting tired. What should you do?",
+   "options": [
+    "Both take a break for a couple of minutes, then carry on",
+    "Swap roughly every 2 minutes, making the changeover quick",
+    "Press less deeply, so you have enough strength until the ambulance arrives",
+    "Give compressions less often, about 30 a minute, but harder"
+   ],
+   "answer": 1,
+   "explain": "A tired rescuer presses more and more weakly: compression depth already falls off after 1.5-2 minutes. That is why, with two rescuers, you swap roughly every 2 minutes and make the changeover without long pauses (AHA 2025)."
+  },
+  {
+   "id": "m16-n026",
+   "q": "When can you stop cardiopulmonary resuscitation?",
+   "options": [
+    "After 5 minutes, if the person still has not started breathing on their own",
+    "When the casualty's skin turns pink, even if they are not breathing",
+    "As soon as the police arrive at the scene and start processing the accident",
+    "When the medics take over, the person wakes up, or you run out of strength"
+   ],
+   "answer": 3,
+   "explain": "Continue resuscitation until the medics take over, until the person starts to respond and breathe normally, or until you physically have no strength left ⟦9⟧."
+  },
+  {
+   "id": "m16-n027",
+   "q": "A 6-year-old child is not responding after a road accident. You have never been trained in child resuscitation. What should you do?",
+   "options": [
+    "Call 112 or 103 and give resuscitation following the dispatcher's instructions",
+    "Do nothing until the ambulance arrives: unskilled help will harm the child",
+    "Pick the child up and shake them upside down to make them start breathing",
+    "Put the child in the car and quickly drive them to their parents or a doctor"
+   ],
+   "answer": 0,
+   "explain": "If you are not trained in child resuscitation, check whether the child responds, call an ambulance straight away, and start resuscitation following the dispatcher's instructions ⟦10⟧. Any resuscitation is better than none."
+  },
+  {
+   "id": "m16-n028",
+   "q": "You are trained in child resuscitation. What does resuscitation of a child who is not responding and not breathing normally begin with?",
+   "options": [
+    "With 30 chest compressions, adding breaths only after 2 minutes",
+    "With 2 breaths, then 5 compressions, alternating like this until the ambulance arrives",
+    "With 5 breaths, then alternating chest compressions and breaths",
+    "With 10 pushes on the stomach, to force air out of the lungs"
+   ],
+   "answer": 2,
+   "explain": "Both RC UK 2025 and the First Aid Standard of the Republic of Kazakhstan begin child resuscitation with 5 initial rescue breaths: in children, cardiac arrest is more often caused by a lack of oxygen. After that, rescuers trained in child resuscitation under RC UK 2025 alternate 15 compressions with 2 breaths, while the Kazakhstan Standard gives 30:2."
+  },
+  {
+   "id": "m16-n029",
+   "q": "To what depth do you compress the chest when resuscitating a child?",
+   "options": [
+    "Just a little, 1 cm, so as not to break the ribs",
+    "At least 8 cm, as for a large adult",
+    "About half the depth of the chest",
+    "At least a third of the depth of the chest"
+   ],
+   "answer": 3,
+   "explain": "A child's chest is compressed by at least a third of its depth, at a rate of 100-120 compressions a minute, but no deeper than 6 cm at any age ⟦11⟧. The Kazakhstan Standard gives 4-5 cm for children aged 1-12."
+  },
+  {
+   "id": "m16-n030",
+   "q": "An AED with a paediatric mode has been brought for a child weighing about 20 kg. What should you do?",
+   "options": [
+    "Do not use it: a defibrillator is dangerous for children under 12",
+    "Do not switch it on until the doctors arrive, and give only breaths for now",
+    "Switch on the paediatric mode and follow the device's prompts",
+    "Switch on the adult mode: children need a stronger shock"
+   ],
+   "answer": 2,
+   "explain": "A defibrillator can also be used on children. If the device has a paediatric mode, it is switched on for infants and children weighing less than 25 kg, which is roughly up to age 8 ⟦12⟧."
+  },
+  {
+   "id": "m16-n031",
+   "q": "After a road accident, a casualty is lying on their back, unconscious but breathing normally. A neck injury is possible, and there is no vomiting. What should you do?",
+   "options": [
+    "Turn them straight into the recovery position and cover them",
+    "Do not move them, hold their head steady with your hands, and watch their breathing",
+    "Carefully sit them up against the car, so it is easier for them to breathe",
+    "Put a rolled-up jacket under their head to raise it, and leave them alone"
+   ],
+   "answer": 1,
+   "explain": "With an injury, a casualty is not put into the recovery position unless necessary ⟦13⟧. If they are lying on their back, kneel at their head and hold it with your hands in a neutral position, constantly watching their breathing ⟦14⟧. If they start to vomit or their breathing becomes difficult, carefully turn them onto their side."
+  },
+  {
+   "id": "m16-n032",
+   "q": "An unconscious casualty from a road accident, lying on their back, starts to vomit. What should you do?",
+   "options": [
+    "Turn them onto their side, keeping the head, neck and torso in line",
+    "Do not touch them: unconscious casualties in a road accident are not moved at all",
+    "Sit them up and lean them forward, supporting the head with your hands",
+    "Raise their head and give them water to rinse their mouth"
+   ],
+   "answer": 0,
+   "explain": "The airway matters more than keeping the neck still ⟦15⟧. To stop the person from choking, turn them onto their side “as one unit”, if possible with two people, without bending or twisting the spine (MedlinePlus)."
+  },
+  {
+   "id": "m16-n033",
+   "q": "An unconscious person is taking occasional gasping breaths. A helper suggests turning them into the recovery position. Are they right?",
+   "options": [
+    "Yes: in the recovery position the tongue will not fall back, and it will be easier for them to breathe",
+    "Yes, and then let them sniff smelling salts to steady their breathing",
+    "No: this is a sign of cardiac arrest, and you need to call an ambulance and give compressions",
+    "No: they need to be sat up and have their clothing loosened, so it is easier to breathe"
+   ],
+   "answer": 2,
+   "explain": "Occasional gasping breaths are not normal breathing. With agonal breathing, the person is not put into the recovery position - instead, call an ambulance and start resuscitation ⟦16⟧."
+  },
+  {
+   "id": "m16-n034",
+   "q": "There is a cervical collar in the car. Does the first person helping need to put it on a casualty with a suspected neck injury?",
+   "options": [
+    "Yes: in any road accident, a collar is put on every casualty",
+    "No: without special training it is not put on - the head is held with the hands",
+    "Yes, but only if the person is unconscious and cannot hold their own head",
+    "Yes, and tighten it firmly so the neck does not move at all"
+   ],
+   "answer": 1,
+   "explain": "Collars and other spinal immobilisation equipment are used only by specially trained rescuers ⟦17⟧. The first person helping limits movement of the neck by holding the head with their hands in a neutral position."
+  }
+ ]
+}

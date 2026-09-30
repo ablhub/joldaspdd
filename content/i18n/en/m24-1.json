@@ -1,0 +1,893 @@
+{
+ "meta": {
+  "title": "Trailers and road trains (BE, C1E, CE, D1E, DE)",
+  "pdd": "Rules: para. 2, Chapters 2, 7-13, 15-17, 19, 20, 22, 23 and Annex 1; Basic Provisions on Admitting Vehicles to Operation; List of Defects; Road Traffic Act, arts. 73-74; CAO arts. 590, 612; Examination Rules",
+  "summary": "You will learn which category you need for a trailer (BE, C1E, CE, D1E, DE), what speed to keep and which lanes to use with a trailer, which signs apply to vehicle combinations, how to cross level crossings, turn and reverse, how to check the coupling, and how the test on a combination works."
+ },
+ "lesson": [
+  {
+   "h": "Trailer, semi-trailer and road train",
+   "p": [
+    "A trailer is a vehicle without an engine that is designed to travel as part of a combination with a motor vehicle. The Rules use this word for a semi-trailer (its front end rests on the tractor unit) and for a pole trailer for long loads ⟦17⟧.",
+    "A road train is a motor vehicle coupled to one or more trailers ⟦18⟧. So a passenger car with a caravan is also a road train, even though the “Road train” sign is not fitted to it."
+   ],
+   "list": [
+    "Maximum authorised mass (MAM) is the mass of the ready-to-drive vehicle with its load, driver and passengers that the manufacturer has set as the limit. The MAM of a combination is the sum of the MAMs of all its units ⟦19⟧.",
+    "Unladen mass is the mass of the vehicle without crew, passengers and load, but with a full supply of fuel and its tools ⟦20⟧. The trailer’s MAM is compared with it when you choose the category.",
+    "Actual mass (mass under load) is what the vehicle weighs right now, with its load and people ⟦21⟧. This is the mass that sign 3.11 takes into account.",
+    "A trailer is not a motor vehicle ⟦22⟧. So driving with a trailer is not towing: the rules of Chapter 20 and the 50 km/h limit for towing do not apply to it ⟦23⟧."
+   ],
+   "tip": "The category is worked out from the documents (MAM and unladen mass), while sign 3.11 goes by the scales (actual mass)."
+  },
+  {
+   "h": "Passenger car with a trailer: B or BE",
+   "p": [
+    "Category B allows a trailer with a MAM of up to 750 kg without any calculations. A trailer heavier than 750 kg can also be pulled on category B, but only if two conditions are met: the trailer’s MAM is no more than the unladen mass of the car, and the MAM of the whole combination is no more than 3500 kg. If even one condition is not met, you need category BE ⟦24⟧."
+   ],
+   "list": [
+    "A car with a MAM of 2000 kg and an unladen mass of 1500 kg, and a trailer with a MAM of 1200 kg: B is enough, because 1200 is no more than 1500, and the MAM of the combination is 3200 kg.",
+    "The same car and a trailer with a MAM of 1600 kg: you need BE, because the trailer is heavier than the unladen car, and the MAM of the combination is 3600 kg.",
+    "BE can be obtained no earlier than 12 months after the right to drive category B was obtained (Road Traffic Act, art. 74(2)).",
+    "The fine for driving a combination without the required category is 20 MCI (CAO art. 612(2))."
+   ],
+   "tip": "For a trailer heavier than 750 kg on category B there are two checks: the trailer is no heavier than the unladen car, and the combination is no heavier than 3500 kg."
+  },
+  {
+   "h": "Truck with a trailer: C1E and CE",
+   "p": [
+    "Trucks of categories C1 and C may pull a trailer with a MAM of up to 750 kg. For a heavier trailer you need one of the categories with the letter E (Road Traffic Act, arts. 73-74):"
+   ],
+   "list": [
+    "C1E: a truck of subcategory C1 (MAM over 3500 kg but no more than 7500 kg) with a trailer heavier than 750 kg, if the trailer’s MAM is no more than the unladen mass of the truck and the MAM of the combination is no more than 12 000 kg.",
+    "CE: a truck of category C with any trailer heavier than 750 kg, including a tractor unit with a semi-trailer. If a combination with a C1 truck does not fit the conditions of C1E, CE is also required.",
+    "A CE licence confirms the right to drive C1E as well (Road Traffic Act, art. 73(8)).",
+    "CE is granted to those who have held the right to drive category C for at least 12 months, and C1E to those who have held the right to drive C or C1 for at least 12 months (Road Traffic Act, art. 74(2)).",
+    "A tractor unit without a semi-trailer is an ordinary truck: C is enough for it (or C1, if its maximum authorised mass is no more than 7500 kg). A trailer of up to 750 kg can also be pulled on C1 or C, without the letter E."
+   ]
+  },
+  {
+   "h": "Bus with a trailer and articulated bus: D1E and DE",
+   "list": [
+    "With categories D1 and D you can pull a trailer with a MAM of up to 750 kg, for example a small luggage trailer.",
+    "DE: a bus of category D with a trailer heavier than 750 kg, and also any articulated bus (a “bendy bus”), even without a trailer.",
+    "D1E: a minibus of subcategory D1 with a trailer heavier than 750 kg that is not designed to carry passengers, if the trailer’s MAM is no more than the unladen mass of the minibus and the MAM of the combination is no more than 12 000 kg.",
+    "A DE licence includes D1E. For any combination you need at least 12 months of the right to drive the base category (Road Traffic Act, art. 73(8), art. 74(2))."
+   ],
+   "tip": "Long experience on D does not replace DE: without this category you must not get behind the wheel of an articulated bus."
+  },
+  {
+   "h": "Speed with a trailer",
+   "list": [
+    "In a built-up area a passenger car with a trailer drives, like all vehicles, at no more than 60 km/h. Trucks and buses, including those with a trailer and articulated ones, drive at no more than 50 km/h ⟦25⟧.",
+    "Outside built-up areas a passenger car with a trailer may drive at: motorway - 90, road with a central reservation - 80, all other roads - 70 km/h ⟦26⟧.",
+    "Trucks heavier than 3.5 t, with or without a trailer: the same 90 / 80 / 70 km/h ⟦27⟧.",
+    "In a settlement whose entrance is marked by sign 5.24 on a blue background, the rules for built-up areas do not apply: a passenger car with a trailer drives there at the outside-built-up-area limits, for example 70 km/h on an ordinary road ⟦28⟧.",
+    "Sign 3.24 with a higher number does not raise these limits: it can only restrict ⟦29⟧.",
+    "The 50 km/h limit applies to towing motor vehicles, not to driving with a trailer ⟦30⟧."
+   ],
+   "tip": "Passenger car with a trailer: built-up area 60, ordinary road outside built-up areas 70, road with a central reservation 80, motorway 90."
+  },
+  {
+   "h": "Lanes, following distance and overtaking",
+   "list": [
+    "On a road with three or more lanes in one direction, the far left lane is used in heavy traffic, for overtaking, for a left turn or for a U-turn. A truck heavier than 3500 kg, including one with a trailer, may use it only for a left turn or a U-turn ⟦31⟧.",
+    "On a motorway, trucks heavier than 3.5 t must not go beyond the second lane ⟦32⟧.",
+    "Outside built-up areas, on a two-lane road with two-way traffic, vehicles and combinations longer than 7 m keep a gap ahead so that overtaking vehicles can move back in in front of them. Exceptions: you are preparing to overtake yourself, traffic is heavy, or you are driving in an organised convoy ⟦33⟧.",
+    "If it is difficult to overtake your slow-moving or oversized combination, outside built-up areas keep as far to the right as possible and, if necessary, stop and let the vehicles pass ⟦34⟧. When you are being overtaken, do not increase your speed ⟦35⟧.",
+    "Sign 3.22 prohibits overtaking by trucks heavier than 3.5 t, with or without a trailer, except overtaking single vehicles slower than 30 km/h. It does not apply to a passenger car with a trailer. The end of the zone is sign 3.23 ⟦36⟧."
+   ]
+  },
+  {
+   "h": "Signs for combinations",
+   "list": [
+    "3.7 “No vehicles with trailers” - prohibits trucks and tractors with trailers of any type (a semi-trailer is also a trailer), and also towing motor vehicles. A passenger car with a trailer is not prohibited from passing.",
+    "Signs 3.2-3.8 do not apply to vehicles that serve businesses or citizens in the zone of the sign, or that belong to people who live or work there. You must enter and leave such a zone at the intersection nearest to your destination.",
+    "3.11 “Weight limit” counts the total actual mass of the vehicle or combination, and 3.12 counts the actual load on any axle.",
+    "3.13, 3.14 and 3.15 limit the height, width and length with the load, and 3.15 limits the length of the whole combination.",
+    "Plate 7.4.1 with a truck silhouette means that the sign applies only to trucks. A passenger car with a trailer is not covered by such a sign ⟦37⟧."
+   ],
+   "tip": "A trailer does not turn a passenger car into a truck: signs 3.7, 3.22 and signs with plate 7.4.1 do not apply to it."
+  },
+  {
+   "h": "Turns and reversing",
+   "p": [
+    "On a turn the trailer follows a shorter arc than the towing vehicle and “cuts” the corner. So enter the turn later and more slowly, and watch the trailer in the mirror on the side you are turning towards."
+   ],
+   "list": [
+    "If, because of its size, the vehicle cannot turn from the far position, it may move partly or fully into the adjacent lane, but only safely and without hindering others ⟦38⟧.",
+    "When turning, give way to pedestrians crossing the road you are turning into, and to cyclists on a cycle track ⟦39⟧.",
+    "Do not drive into an intersection if there is a traffic jam beyond it and the combination would be left standing on the intersection, blocking cross traffic ⟦40⟧.",
+    "Reversing is allowed if it is safe and hinders no one. It is prohibited at intersections and wherever a U-turn is prohibited: on pedestrian crossings, in tunnels, on bridges and under them, at level crossings, in places where the road is visible for less than 100 m, and at stops ⟦41⟧, and on a motorway it is always prohibited ⟦42⟧.",
+    "The reversing signal is the reversing lights and the hazard warning lights ⟦43⟧.",
+    "Technique: hold the steering wheel at the bottom - the trailer goes where your hand goes. Move slowly and turn the wheel a little at a time. If the trailer has ended up at a sharp angle, drive forward, straighten the combination and start again (Brenderup guide)."
+   ],
+   "tip": "If you cannot see what is behind you, get out and look, or ask a helper."
+  },
+  {
+   "h": "Level crossing",
+   "list": [
+    "Before entering, judge whether the whole combination will fit beyond the crossing. If there is a traffic jam beyond it and you would have to stop on the tracks, you must not enter, even if the barrier is open ⟦44⟧.",
+    "Driving around a queue in front of a crossing by using the oncoming lane is prohibited, and so is overtaking on the crossing or within 100 m before it ⟦45⟧.",
+    "A car with a trailer does not need special permission. The special conditions of para. 115 concern machines and mechanisms in the non-transport position (they are moved only with the permission of the head of the railway track section), slow-moving machines slower than 8 km/h, and tractor-drawn sledges.",
+    "If the combination has stopped on a crossing, immediately get the passengers out and clear the tracks. If possible, send two people along the tracks in both directions for 1000 m, stay by the vehicle yourself and give the general alarm signal: one long and three short sounds of the horn ⟦46⟧.",
+    "Stopping on a crossing and parking within 50 m of it are prohibited ⟦47⟧."
+   ]
+  },
+  {
+   "h": "Stopping, parking and overnight halts",
+   "list": [
+    "On the left side of a road with one-way traffic, a truck heavier than 3.5 t may only stop for loading or unloading. A passenger car with a trailer may both stop and park there, if there are no other prohibitions ⟦48⟧.",
+    "A combination is placed in one row, parallel to the edge of the carriageway ⟦49⟧.",
+    "Outside built-up areas, for a long rest and an overnight halt, stop only at special areas or off the road, even if you have a caravan ⟦50⟧.",
+    "In residential zones and yards, parking of trucks heavier than 3500 kg and of buses is allowed only in designated and marked places ⟦51⟧.",
+    "On a motorway you may stop only at areas with signs 5.15 or 6.11 ⟦52⟧.",
+    "When leaving the combination, take measures to keep it from rolling away ⟦53⟧. The parking brake of a truck or road train in ready-to-drive condition must hold it on a gradient of up to 31% ⟦54⟧."
+   ]
+  },
+  {
+   "h": "People and load",
+   "list": [
+    "Carrying people on a goods trailer and in a caravan is prohibited, even if it has seats ⟦55⟧.",
+    "Outside the cab, people may be carried only in the body of a truck with a flatbed or in a box body, and even then only under special conditions ⟦56⟧.",
+    "The mass of the load and the axle loads must not exceed the manufacturer’s values ⟦57⟧. The securing and covering of the load are checked both before the journey and on the way ⟦58⟧.",
+    "The load must not cover the lights, retroreflectors and number plates of the trailer ⟦59⟧.",
+    "A load that projects more than 1 m at the front or rear, or more than 0.4 m at the side from the edge of the position lamp, is marked with “Oversized load” signs, and in the dark also with a white lamp or retroreflector at the front and a red one at the rear ⟦60⟧."
+   ]
+  },
+  {
+   "h": "Coupling, tyres and trailer lights",
+   "list": [
+    "You must not drive with a faulty coupling device, even to the place of repair - just as with failed brakes or steering ⟦61⟧. The fine is 15 MCI, and 20 MCI for a repeat offence within a year (CAO art. 590(6), (10)).",
+    "Operation is prohibited if the towing coupling device or the fifth-wheel coupling device is faulty, or if the safety cable or chain provided by the design is missing (or faulty) ⟦62⟧.",
+    "You must not drive with a trailer that is not designed to travel as part of a combination with your vehicle (Basic Provisions, para. 14(8)). Fitting a factory-made towing device is not considered a conversion ⟦63⟧.",
+    "The tread of the trailer’s tyres is checked against the norms of the towing vehicle: behind a passenger car at least 1.6 mm, behind a truck 1 mm, behind a bus 2 mm ⟦64⟧.",
+    "In the hours of darkness, in poor visibility and in tunnels, the trailer’s position lamps must be on ⟦65⟧. If at night on an unlit road the rear position lamps are not working, you must not drive ⟦66⟧.",
+    "The outlines of the sides and rear of trailers of categories O2, O3 and O4 are marked with retroreflective material ⟦67⟧.",
+    "Braking distance from 40 km/h on dry asphalt: a passenger car with a trailer - no more than 14.7 m, the same as without a trailer; a truck with a trailer - no more than 19.5 m (List of Defects, ch. 1)."
+   ]
+  },
+  {
+   "h": "Number plate, registration and identification signs",
+   "list": [
+    "A trailer is registered with the internal affairs bodies within the validity period of the “Transit” sign, or no later than 10 days after purchase or customs declaration (Basic Provisions, para. 2).",
+    "A trailer must have a number plate. On the rear wall of the body of trucks, buses and trailers, except trailers of passenger cars and motorcycles, the number is repeated in figures at least 300 mm high (Basic Provisions, para. 3).",
+    "“Road train” - three orange lamps on the cab roof with gaps of 150-300 mm, or a yellow triangle with sides of 250 mm, illuminated. It is fitted to trucks and wheeled tractors with trailers, and also to articulated buses and trolleybuses (Basic Provisions, para. 9).",
+    "The “Road train” sign is switched on while driving, and in the hours of darkness and in poor visibility also while stopped or parked ⟦68⟧.",
+    "The “Long vehicle” sign is fitted at the rear if the length together with one trailer is more than 20 m, or if there are two or more trailers (Basic Provisions, para. 9)."
+   ]
+  },
+  {
+   "h": "Practical test on a combination",
+   "p": [
+    "The practical test on a combination is taken separately from the base category and on a vehicle of the category for which the licence is issued: for BE - on a passenger car with a trailer, for DE - on a bus with a trailer or on an articulated bus. If you are opening several categories at once, the theory test is taken once (Examination Rules, paras. 11, 40).",
+    "The test takes place at an automated test ground of a specialised PSC. For combinations, the Rules describe the marking of the zones: control lines are marking 1.4, the start and end of exercises are a yellow broken line, and “Start” and “Finish” are white stripes 0.4 m wide ⟦69⟧. The list of exercises for combinations has not been published: find out the layout of your test ground at the specialised PSC or the driving school.",
+    "Before the start, check the combination (checklist from the trailer manufacturer Brenderup):"
+   ],
+   "list": [
+    "the coupling lock is closed and the ball has gone fully into the lock;",
+    "the safety cable is intact and fastened to the towing vehicle;",
+    "the wiring connector is plugged in, and the trailer’s brake lights, direction indicators and position lamps work;",
+    "the trailer’s parking brake is released, the jockey wheel is raised and the load is secured;",
+    "the exterior mirrors are adjusted so that you can see the trailer."
+   ],
+   "tip": "Ask the driving school to let you practise the test ground layout on the same kind of combination as the one you will take the test on."
+  }
+ ],
+ "keyFacts": [
+  "A trailer is a vehicle without an engine designed to travel as part of a combination with a motor vehicle, including a semi-trailer and a pole trailer; a passenger car with a trailer is also a road train ⟦1⟧",
+  "On category B you may pull a trailer of up to 750 kg, and a heavier one only if its MAM is no more than the unladen mass of the car and the MAM of the combination is no more than 3500 kg; otherwise you need BE ⟦2⟧",
+  "C1E: a C1 truck with a trailer heavier than 750 kg but no heavier than the unladen truck, combination up to 12 000 kg; CE: a C truck with any trailer heavier than 750 kg, including a semi-trailer ⟦3⟧",
+  "DE: a D bus with a trailer heavier than 750 kg and any articulated bus; D1E: a D1 minibus with a non-passenger trailer, combination up to 12 000 kg ⟦4⟧",
+  "Combination categories are opened no earlier than 12 months after the right to drive the base category; CE includes C1E, DE includes D1E (Road Traffic Act, art. 73(8), art. 74(2))",
+  "Passenger car with a trailer: 60 in a built-up area, 90 / 80 / 70 km/h outside built-up areas; trucks and buses with a trailer and articulated buses in a built-up area - 50 km/h ⟦5⟧",
+  "The 50 km/h limit is for towing motor vehicles; driving with a trailer is not considered towing ⟦6⟧",
+  "Sign 3.7 prohibits trucks and tractors from having trailers of any type and from towing, and does not apply to a passenger car with a trailer ⟦7⟧",
+  "On a road with three or more lanes in one direction, a truck heavier than 3.5 t uses the left lane only for a left turn and a U-turn; combinations longer than 7 m keep a gap for overtaking vehicles outside built-up areas ⟦8⟧",
+  "You must not drive with a faulty coupling device even to the repair, and without the safety cable (chain) provided by the design operation is prohibited ⟦9⟧",
+  "Carrying people on a goods trailer and in a caravan is prohibited ⟦10⟧",
+  "The “Road train” sign is fitted to trucks and tractors with trailers and to articulated buses; it is on while driving, and in the dark and in poor visibility also when parked (Basic Provisions, para. 9; para. 137)"
+ ],
+ "mistakes": [
+  "“With a trailer in a built-up area you may drive at no more than 50 km/h.” No: 50 km/h is for trucks and buses, while a passenger car with a trailer drives in a built-up area at up to 60 km/h ⟦11⟧.",
+  "“A 1000 kg trailer can be pulled behind any car on category B.” No: a trailer heavier than 750 kg is allowed on B only if it is no heavier than the unladen car and the MAM of the combination is no more than 3500 kg ⟦12⟧.",
+  "“Driving with a trailer is towing, so no faster than 50 km/h.” No: a trailer is not a motor vehicle, and the towing rules do not apply to it; outside built-up areas a passenger car with a trailer drives at up to 90 / 80 / 70 km/h ⟦13⟧.",
+  "“Sign 3.7 prohibits any trailer.” No: it applies to trucks and tractors with trailers and to towing, and does not prohibit a passenger car with a trailer from passing ⟦14⟧.",
+  "“Children may ride in a caravan if it has a sofa.” No: carrying people in a caravan and on a goods trailer is prohibited ⟦15⟧.",
+  "“I will get there carefully without the safety cable.” No: without the cable (chain) provided by the design operation is prohibited, and with a faulty coupling device you must not drive even to the repair ⟦16⟧."
+ ],
+ "questions": [
+  {
+   "id": "m24-001",
+   "q": "Which vehicles do the Rules classify as trailers?",
+   "options": [
+    "Trailers, semi-trailers and pole trailers",
+    "Only ordinary trailers with one or two axles",
+    "Any vehicle that is towed on a rope or bar",
+    "Only light trailers made for passenger cars"
+   ],
+   "answer": 0,
+   "explain": "A trailer is a vehicle without an engine that is designed to travel as part of a combination with a motor vehicle. The term covers both semi-trailers and pole trailers. A broken-down car on a tow rope is not a trailer but a towed motor vehicle."
+  },
+  {
+   "id": "m24-002",
+   "q": "Whether category B is enough for a heavy trailer depends on the unladen mass of the car. What do the Rules call unladen mass?",
+   "options": [
+    "The mass without crew, passengers and load, with a full tank and tools",
+    "The mass with the driver and passengers, but without load",
+    "The mass with load, driver and passengers, set by the manufacturer",
+    "The mass without fuel, driver, passengers and load"
+   ],
+   "answer": 0,
+   "explain": "Unladen mass is the mass of the vehicle without crew, passengers and load, but with a full supply of fuel and the necessary set of tools. The mass with load, driver and passengers that the manufacturer has set is the maximum authorised mass."
+  },
+  {
+   "id": "m24-003",
+   "q": "The maximum authorised mass of your passenger car is 2000 kg, and its unladen mass is 1500 kg. The maximum authorised mass of the trailer is 1200 kg. Which category do you need for this combination?",
+   "options": [
+    "BE",
+    "C1E",
+    "B",
+    "C1"
+   ],
+   "answer": 2,
+   "explain": "The trailer is heavier than 750 kg, but its maximum authorised mass (1200 kg) is no more than the unladen mass of the car (1500 kg), and the maximum authorised mass of the combination, 2000 + 1200 = 3200 kg, is no more than 3500 kg. Both conditions are met, so category B is enough."
+  },
+  {
+   "id": "m24-004",
+   "q": "The maximum authorised mass of your passenger car is 2400 kg, and its unladen mass is 1800 kg. The maximum authorised mass of the trailer is 1300 kg. Which category do you need for this combination?",
+   "options": [
+    "C1E",
+    "B",
+    "C1",
+    "BE"
+   ],
+   "answer": 3,
+   "explain": "The trailer is lighter than the unladen car, but the maximum authorised mass of the combination, 2400 + 1300 = 3700 kg, is more than 3500 kg. So B alone is not enough: you need BE."
+  },
+  {
+   "id": "m24-005",
+   "q": "The maximum authorised mass of your car is 1700 kg, and its unladen mass is 1250 kg. You want to pull a trailer with a maximum authorised mass of 1400 kg. Which category do you need?",
+   "options": [
+    "B: the whole combination is no heavier than 3500 kg",
+    "B: the trailer is lighter than the car according to the documents",
+    "C1E: the trailer is heavier than 750 kg",
+    "BE: the trailer is heavier than the unladen car"
+   ],
+   "answer": 3,
+   "explain": "The maximum authorised mass of the combination is less than 3500 kg (1700 + 1400 = 3100 kg), but a trailer with a maximum authorised mass of 1400 kg is heavier than the unladen car (1250 kg). Category B requires both conditions to be met at once, so here you need BE."
+  },
+  {
+   "id": "m24-006",
+   "q": "A trailer with what maximum authorised mass can be pulled behind any category B car without calculating anything else?",
+   "options": [
+    "No more than 500 kg",
+    "No more than 750 kg",
+    "No more than 1000 kg",
+    "No more than 3500 kg"
+   ],
+   "answer": 1,
+   "explain": "A trailer with a maximum authorised mass of up to 750 kg is covered by category B without additional conditions. For a trailer heavier than 750 kg, you compare its mass with the unladen mass of the car and check that the combination is no heavier than 3500 kg."
+  },
+  {
+   "id": "m24-007",
+   "q": "A truck of subcategory C1: maximum authorised mass 7000 kg, unladen mass 4000 kg. A trailer with a maximum authorised mass of 3500 kg is coupled to it. Which licence is enough for this combination?",
+   "options": [
+    "C1E",
+    "C1",
+    "D1E",
+    "BE"
+   ],
+   "answer": 0,
+   "explain": "The trailer is heavier than 750 kg, so C1 alone is not enough, and D1E and BE are categories for other combinations. The maximum authorised mass of the trailer is no more than the unladen mass of the truck (3500 and 4000 kg), and the maximum authorised mass of the combination, 7000 + 3500 = 10 500 kg, is no more than 12 000 kg. This is subcategory C1E."
+  },
+  {
+   "id": "m24-008",
+   "q": "A truck of subcategory C1: maximum authorised mass 7000 kg, unladen mass 4000 kg. A trailer with a maximum authorised mass of 4500 kg is coupled to it. Which category do you need for this combination?",
+   "options": [
+    "C1E",
+    "CE",
+    "C1",
+    "DE"
+   ],
+   "answer": 1,
+   "explain": "The trailer (4500 kg) is heavier than the unladen truck (4000 kg), so the combination does not fit C1E, even though its maximum authorised mass (11 500 kg) is less than 12 000 kg. A truck heavier than 3500 kg also belongs to category C, and CE allows any trailer heavier than 750 kg."
+  },
+  {
+   "id": "m24-009",
+   "q": "The maximum authorised mass of a semi-trailer is 30 t. Which category do you need to drive such a tractor unit with a semi-trailer?",
+   "options": [
+    "C",
+    "C1E",
+    "BE",
+    "CE"
+   ],
+   "answer": 3,
+   "explain": "Under the Rules a semi-trailer is also a trailer, and it is heavier than 750 kg. The tractor unit belongs to category C, so you need CE. C1E does not fit: there the combination must be no heavier than 12 000 kg."
+  },
+  {
+   "id": "m24-010",
+   "q": "There is black ice on the road. You are going to drive with a trailer and remember that towing on a tow rope is prohibited in black ice. Does this prohibition apply to you?",
+   "options": [
+    "It applies: any trailer is prohibited in black ice",
+    "It does not apply: a trailer is not a motor vehicle",
+    "It applies if the trailer is heavier than 750 kg",
+    "It applies only if the trailer has no brakes"
+   ],
+   "answer": 1,
+   "explain": "The prohibitions of Chapter 20, including towing on a tow rope in black ice, apply to towing motor vehicles. A trailer is not a motor vehicle, and driving with one is not considered towing. But on black ice, choose your speed to suit the road and the combination."
+  },
+  {
+   "id": "m24-011",
+   "q": "You have category D. A luggage trailer with a maximum authorised mass of 700 kg is coupled to your bus. Which category do you need for this combination?",
+   "options": [
+    "D",
+    "DE",
+    "D1E",
+    "BE"
+   ],
+   "answer": 0,
+   "explain": "A bus of category D may be driven with a trailer whose maximum authorised mass is no more than 750 kg. DE is needed for a trailer heavier than 750 kg and for an articulated bus."
+  },
+  {
+   "id": "m24-012",
+   "q": "You have category D. A trailer with a maximum authorised mass of 1500 kg needs to be coupled to your bus. Which category do you need for this combination?",
+   "options": [
+    "D",
+    "DE",
+    "D1E",
+    "CE"
+   ],
+   "answer": 1,
+   "explain": "The trailer is heavier than 750 kg, so D alone is not enough. A category D bus with such a trailer is category DE. D1E applies only to minibuses of subcategory D1."
+  },
+  {
+   "id": "m24-013",
+   "q": "You have category DE. Do you need to open subcategory D1E separately in order to drive a D1 minibus with a heavy luggage trailer?",
+   "options": [
+    "You do: D1E is always taken as a separate test",
+    "You do not, but only if the trailer is lighter than 750 kg",
+    "You do, if your experience on DE is less than 3 years",
+    "You do not: a DE licence also gives the right to D1E"
+   ],
+   "answer": 3,
+   "explain": "A DE licence confirms the right to drive D1E combinations as well, just as D includes D1 and CE includes C1E. A separate D1E test is not needed."
+  },
+  {
+   "id": "m24-014",
+   "q": "A D1 minibus weighs 3200 kg unladen, and its driver has D1E. May he drive with a trailer designed to carry passengers whose maximum authorised mass is 2500 kg?",
+   "options": [
+    "Yes: the trailer is lighter than the unladen minibus",
+    "Yes, if the combination is lighter than 12 000 kg",
+    "Yes, if the trailer carries no more than 8 people",
+    "No: D1E does not cover passenger trailers"
+   ],
+   "answer": 3,
+   "explain": "Subcategory D1E allows only trailers that are not designed to carry passengers. The mass of the trailer and of the combination does not help here: a passenger trailer is not covered by D1E."
+  },
+  {
+   "id": "m24-015",
+   "q": "You obtained your category B licence six months ago. Can you already get BE now?",
+   "options": [
+    "Yes: no experience is required for BE",
+    "No: you need 3 years of experience on B",
+    "Yes, if you pass the practical test on a combination",
+    "No: you first need a year of the right to drive B"
+   ],
+   "answer": 3,
+   "explain": "The right to drive BE, CE and DE combinations is given to those who have held the right to drive the base category (B, C or D) for at least 12 months. After six months you cannot get BE yet."
+  },
+  {
+   "id": "m24-016",
+   "q": "A driver drives a combination for which he has no category: for example, with a B licence he pulls a trailer that requires BE. What penalty does the CAO provide?",
+   "options": [
+    "A warning",
+    "A fine of 5 MCI (21 625 tenge)",
+    "A fine of 50 MCI (216 250 tenge)",
+    "A fine of 20 MCI (86 500 tenge)"
+   ],
+   "answer": 3,
+   "explain": "Driving a vehicle by a driver who has no right to drive that category is punished by a fine of 20 MCI, and 30 MCI for a repeat offence within a year. A fine of 50 MCI or arrest awaits someone who has been disqualified from driving."
+  },
+  {
+   "id": "m24-017",
+   "q": "You are entering a built-up area in a passenger car with a trailer. There are no other signs. What is the highest speed you may drive at?",
+   "options": [
+    "50 km/h",
+    "60 km/h",
+    "70 km/h",
+    "40 km/h"
+   ],
+   "answer": 1,
+   "explain": "Sign 5.22 is the start of a built-up area. For a passenger car with a trailer there is no separate urban limit: like all vehicles, 60 km/h. 50 km/h is the limit for trucks and buses."
+  },
+  {
+   "id": "m24-018",
+   "q": "You are driving a truck with a trailer and entering a built-up area. There are no other signs. What is the highest speed you may drive at?",
+   "options": [
+    "60 km/h",
+    "70 km/h",
+    "40 km/h",
+    "50 km/h"
+   ],
+   "answer": 3,
+   "explain": "Sign 5.22 is the start of a built-up area. Trucks, including those with a trailer, may drive here at no more than 50 km/h, regardless of mass. 60 km/h is the general limit for other vehicles."
+  },
+  {
+   "id": "m24-019",
+   "q": "You are driving a passenger car with a trailer into a settlement marked by this sign on a blue background. The road has no central reservation and there are no other signs. What is the highest speed you may drive at?",
+   "options": [
+    "60 km/h",
+    "70 km/h",
+    "90 km/h",
+    "100 km/h"
+   ],
+   "answer": 1,
+   "explain": "Sign 5.24 means that the rules for built-up areas do not apply on this road, so the urban limit of 60 km/h does not apply here. The limit for outside built-up areas applies to a passenger car with a trailer: 70 km/h on a road without a central reservation."
+  },
+  {
+   "id": "m24-020",
+   "q": "The actual mass of your tractor unit is 8 t, and of the whole laden road train 38 t. May you pass this sign?",
+   "options": [
+    "You may: the tractor unit weighs 8 t, and the sign does not count the semi-trailer",
+    "You may, if the load on each axle is less than 30 t",
+    "You may not: the actual mass of the whole combination counts",
+    "You may, if you drive no faster than 20 km/h"
+   ],
+   "answer": 2,
+   "explain": "Sign 3.11 “Weight limit” prohibits vehicles and combinations whose total actual mass is greater than the figure on the sign. Your combination weighs 38 t, which is more than 30 t, so you need to take a different route."
+  },
+  {
+   "id": "m24-021",
+   "q": "A D1 minibus: maximum authorised mass 5000 kg, unladen mass 3500 kg. A luggage trailer with a maximum authorised mass of 1500 kg is coupled to it. Which licence is enough for this combination?",
+   "options": [
+    "D1E",
+    "D1",
+    "C1E",
+    "BE"
+   ],
+   "answer": 0,
+   "explain": "The trailer is heavier than 750 kg, so D1 alone is not enough. The trailer is not a passenger trailer, its maximum authorised mass (1500 kg) is no more than the unladen mass of the minibus (3500 kg), and the maximum authorised mass of the combination, 5000 + 1500 = 6500 kg, is no more than 12 000 kg. This is subcategory D1E."
+  },
+  {
+   "id": "m24-022",
+   "q": "You are driving a passenger car with a trailer outside a built-up area on a road with three lanes in your direction. May you change lanes along path A to overtake a truck?",
+   "options": [
+    "You may: the restriction applies to trucks heavier than 3.5 t",
+    "You may not: with a trailer the left lane is only for turning",
+    "You may not: a car with a trailer is prohibited from overtaking",
+    "You may, but only in heavy traffic"
+   ],
+   "answer": 0,
+   "explain": "The far left lane on such a road is used for overtaking, left turns, U-turns and in heavy traffic. The restriction “only for a left turn or a U-turn” applies to trucks heavier than 3500 kg, not to a passenger car with a trailer."
+  },
+  {
+   "id": "m24-024",
+   "q": "You are driving a passenger car with a trailer past sign 3.22. Ahead, a passenger car is driving at about 50 km/h, the oncoming lane is free and the marking is broken. May you overtake it?",
+   "options": [
+    "No: the sign prohibits overtaking for all combinations",
+    "Yes: the sign applies only to trucks heavier than 3.5 t",
+    "No: with a trailer you may overtake only slow-moving vehicles",
+    "Yes, but only if the trailer is lighter than 750 kg"
+   ],
+   "answer": 1,
+   "explain": "Sign 3.22 “No overtaking by trucks” applies to trucks with a maximum authorised mass of more than 3.5 t and to tractors. A passenger car with a trailer is not covered by it, so overtaking is possible under the general rules, if it is safe."
+  },
+  {
+   "id": "m24-026",
+   "q": "You are driving an articulated bus 18 m long along a city street with one lane in each direction. A passenger car behind you is waiting for a chance to overtake. Must you keep a gap in front of you so that it can move in ahead of you?",
+   "options": [
+    "No: this requirement applies only outside built-up areas",
+    "Yes: this rule is for all vehicles longer than 7 metres",
+    "Yes, but only in the dark and in fog",
+    "No: this applies only to goods road trains"
+   ],
+   "answer": 0,
+   "explain": "Para. 70 requires a gap for overtaking vehicles to be kept outside built-up areas on two-way roads that have two lanes. You are driving in a built-up area, so this requirement does not apply to you. You must still keep a safe following distance to the vehicle ahead ⟦70⟧."
+  },
+  {
+   "id": "m24-027",
+   "q": "The actual load on each axle of your towing vehicle is no more than 5 t, and on the trailer axle it is 7 t. May you pass this sign?",
+   "options": [
+    "You may: only the load on the axles of the towing vehicle counts",
+    "You may: the average load per axle is less than 6 t",
+    "You may not: the trailer axle carries more than 6 t",
+    "You may, if the total mass of the combination is less than 20 t"
+   ],
+   "answer": 2,
+   "explain": "Sign 3.12 “Axle load limit” prohibits passing if the actual load on even one axle is greater than the figure on the sign. The trailer axle counts too, so with a load of 7 t you may not pass."
+  },
+  {
+   "id": "m24-028",
+   "q": "You are driving a passenger car with a caravan. May you pass this sign?",
+   "options": [
+    "No: the sign prohibits any car with a trailer",
+    "Yes, but only if the trailer is lighter than 750 kg",
+    "No, if the combination is longer than 7 metres",
+    "Yes: it is for trucks and tractors with a trailer"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.7 “No vehicles with trailers” applies to trucks and tractors with trailers of any type, and to towing motor vehicles. It does not prohibit a passenger car with a caravan from passing."
+  },
+  {
+   "id": "m24-029",
+   "q": "You are driving a tractor unit with a semi-trailer in transit through this area. May you pass this sign?",
+   "options": [
+    "Yes: under the Rules a semi-trailer is not considered a trailer",
+    "Yes, if the semi-trailer is empty",
+    "No: the sign applies to trailers of any type",
+    "Yes, but only in daylight"
+   ],
+   "answer": 2,
+   "explain": "Sign 3.7 prohibits trucks and tractors with trailers of any type, and under the Rules a semi-trailer is also a trailer. The only exception is for those who serve businesses or citizens in this zone, and you are driving in transit."
+  },
+  {
+   "id": "m24-030",
+   "q": "You are taking goods to a warehouse in a truck with a trailer. The warehouse is in a zone at whose start stands sign 3.7 “No vehicles with trailers”. What should you do?",
+   "options": [
+    "You must not enter: reload the goods onto a vehicle without a trailer",
+    "You may enter from any intersection along the way",
+    "You may enter by choosing the intersection nearest to the warehouse",
+    "You may enter only with police permission"
+   ],
+   "answer": 2,
+   "explain": "Signs 3.2-3.8 do not apply to vehicles that serve businesses in the marked zone. But you must enter and leave the zone at the intersection nearest to your destination, and not drive through the whole zone.",
+   "ref": "Annex 1, sign 3.7 (exceptions for signs 3.2-3.8)"
+  },
+  {
+   "id": "m24-031",
+   "q": "The service brake is tested on flat dry asphalt when braking from 40 km/h. What is the greatest braking distance permitted for a passenger car with a trailer?",
+   "options": [
+    "14.7 m",
+    "18.3 m",
+    "19.5 m",
+    "25 m"
+   ],
+   "answer": 0,
+   "explain": "According to the table in the List of Defects, the braking distance from 40 km/h must not exceed 14.7 m for passenger cars, including those with a trailer. 18.3 m is the norm for trucks and buses, and 19.5 m for trucks with a trailer.",
+   "ref": "List of Defects, ch. 1, table and para. 1"
+  },
+  {
+   "id": "m24-032",
+   "q": "Your road train is driving empty: the actual mass of the tractor unit with the semi-trailer is 15 t, and the maximum authorised mass of the combination is 40 t. May you pass this sign?",
+   "options": [
+    "You may not: the authorised mass of the combination is more than 20 t",
+    "You may: the actual mass counts, which is 15 t",
+    "You may not: the sign prohibits all road trains",
+    "You may, but only if you uncouple the semi-trailer"
+   ],
+   "answer": 1,
+   "explain": "Sign 3.11 “Weight limit” prohibits passing if the total actual mass of the vehicle or combination is greater than the figure on the sign. Right now your combination weighs 15 t, so you may pass. The maximum authorised mass is taken into account by other signs, for example 3.4."
+  },
+  {
+   "id": "m24-033",
+   "q": "You are driving a passenger car with a trailer and want to park the combination where this sign with a plate stands. May you?",
+   "options": [
+    "You may: the prohibition applies only to trucks",
+    "You may not: the sign prohibits parking of any combinations",
+    "You may not, if the trailer is heavier than 750 kg",
+    "You may, but only for up to 5 minutes"
+   ],
+   "answer": 0,
+   "explain": "Plate 7.4.1 limits the application of sign 3.28 “No parking” to trucks. A passenger car with a trailer is not a truck, so parking is not prohibited for it here, if there are no other prohibitions."
+  },
+  {
+   "id": "m24-034",
+   "q": "You are turning right in a road train. What should you do?",
+   "options": [
+    "Turn: pedestrians give way to a long combination themselves",
+    "Let the pedestrians pass and only then turn",
+    "Turn, sounding the horn at the pedestrians",
+    "Turn while the pedestrians are in the middle of the road"
+   ],
+   "answer": 1,
+   "explain": "Pedestrians are crossing the road you are turning into, so you must give way to them. On a turn the trailer goes closer to the corner than the towing vehicle, so begin the turn only when the crossing is clear, and watch the trailer in the right-hand mirror."
+  },
+  {
+   "id": "m24-035",
+   "q": "You have subcategory C1. A trailer with a maximum authorised mass of 700 kg is coupled to your truck, whose maximum authorised mass is 6 t. Which licence is enough for this combination?",
+   "options": [
+    "C1E",
+    "CE",
+    "BE",
+    "C1"
+   ],
+   "answer": 3,
+   "explain": "With subcategory C1, as with category C, you may pull a trailer with a maximum authorised mass of no more than 750 kg. A 700 kg trailer fits this norm, so C1E is not needed."
+  },
+  {
+   "id": "m24-036",
+   "q": "You are turning left in an articulated bus at an intersection of roads of equal status. Whom must you give way to?",
+   "options": [
+    "The blue car only",
+    "The white car only",
+    "Both",
+    "Neither"
+   ],
+   "answer": 2,
+   "explain": "The white car is approaching from the right, and at an intersection of roads of equal status you give way to it. The blue car is driving straight ahead towards you, and when turning left you give way to oncoming vehicles that are going straight ahead or turning right. So you must give way to both."
+  },
+  {
+   "id": "m24-037",
+   "q": "An intersection of roads of equal status, and everyone is going straight ahead. In what order will the articulated bus, the white car and the blue car cross the intersection?",
+   "options": [
+    "Articulated bus, white car, blue car",
+    "Blue car, articulated bus, white car",
+    "White car, blue car, articulated bus",
+    "Articulated bus, blue car, white car"
+   ],
+   "answer": 1,
+   "explain": "At an intersection of roads of equal status you give way to the vehicle approaching from the right. There is nobody to the right of the blue car, so it goes first. The bus gives way to the blue car, which is on its right, and the white car gives way to the bus. The order is: blue car, bus, white car."
+  },
+  {
+   "id": "m24-038",
+   "q": "You are reversing with a trailer, holding the steering wheel by the bottom of the rim. Where will the trailer go if you smoothly move your hand to the right?",
+   "options": [
+    "To the left",
+    "To the right",
+    "Straight: the trailer does not respond to the wheel"
+   ],
+   "answer": 1,
+   "explain": "The hand at the bottom of the wheel moves to the right, which means the wheel turns to the left, the coupling goes left and the rear of the trailer goes right. Hence a simple rule: the trailer goes where you move your hand at the bottom of the wheel. Move slowly and turn the wheel a little at a time.",
+   "ref": "Test ground for combinations: reversing with a trailer (Brenderup guide)"
+  },
+  {
+   "id": "m24-039",
+   "q": "You have fitted a factory-made tow bar to your passenger car. Is this considered a conversion that needs approval?",
+   "options": [
+    "No: a factory-made tow bar is not a conversion",
+    "Yes: any new equipment fitted counts as a conversion",
+    "Yes, if the trailer will be heavier than 750 kg",
+    "No, but only if an official dealer fitted it"
+   ],
+   "answer": 0,
+   "explain": "The List of Defects defines conversion as fitting or removing parts that affect safety, but expressly excludes the fitting of factory-made luggage racks and towing devices. A vehicle converted without approval must not be operated, while a factory-made tow bar can be fitted without it."
+  },
+  {
+   "id": "m24-040",
+   "q": "You need to move a tractor unit with a maximum authorised mass of 18 t without a semi-trailer. Which category is enough for this?",
+   "options": [
+    "CE",
+    "C1",
+    "C",
+    "C1E"
+   ],
+   "answer": 2,
+   "explain": "Without a semi-trailer the tractor unit is an ordinary truck with a maximum authorised mass of more than 3500 kg, and category C is enough for it. CE is needed when a semi-trailer heavier than 750 kg is coupled to the tractor unit, and C1 suits only vehicles up to 7500 kg."
+  },
+  {
+   "id": "m24-041",
+   "q": "You are approaching a level crossing in a passenger car with a trailer. Do you need special permission to cross it?",
+   "options": [
+    "You need the permission of the head of the railway track section",
+    "You do, if the combination is longer than 10 m",
+    "You do, if the trailer is heavier than 750 kg",
+    "You do not: the combination crosses under the general rules"
+   ],
+   "answer": 3,
+   "explain": "The special conditions of para. 115 concern machines and mechanisms in the non-transport position (they are moved with the permission of the head of the railway track section), slow-moving machines slower than 8 km/h and tractor-drawn sledges. A car with a trailer crosses under the general rules: following the signs, the traffic light and the barrier, and making sure that no train is approaching."
+  },
+  {
+   "id": "m24-042",
+   "q": "A D1 minibus weighs 3000 kg unladen. A goods trailer with a maximum authorised mass of 3500 kg is to be coupled to it. Which category do you need for this combination?",
+   "options": [
+    "DE",
+    "D1E",
+    "D1",
+    "CE"
+   ],
+   "answer": 0,
+   "explain": "The trailer (3500 kg) is heavier than the unladen minibus (3000 kg), so the combination does not fit D1E. A minibus with more than 8 seats other than the driver’s also belongs to category D, and DE allows a trailer heavier than 750 kg."
+  },
+  {
+   "id": "m24-043",
+   "q": "You are driving a road train: a tractor unit heavier than 3.5 t with a semi-trailer. You want to leave it for 2 hours at the left edge of this one-way street. May you?",
+   "options": [
+    "You may: on a one-way street parking on the left is allowed",
+    "You may not: on the left you may only stop for loading or unloading",
+    "You may, if you switch on the hazard warning lights and position lamps",
+    "You may not: road trains are prohibited from parking anywhere in a built-up area"
+   ],
+   "answer": 1,
+   "explain": "On the left side of a road with one-way traffic, a truck with a maximum authorised mass of more than 3.5 t may only stop for loading or unloading. For parking for 2 hours, look for a place on the right or a designated parking place."
+  },
+  {
+   "id": "m24-044",
+   "q": "You are driving a passenger car with a trailer and want to leave the combination for 2 hours at the left edge of this one-way street. May you?",
+   "options": [
+    "You may: parking is allowed here for a passenger car with a trailer",
+    "You may not: on the left, combinations may only unload",
+    "You may, but only if the trailer is lighter than 750 kg",
+    "You may not: with a trailer parking is possible only on the right"
+   ],
+   "answer": 0,
+   "explain": "In a built-up area on a road with one-way traffic, stopping and parking are allowed at the left edge too. The restriction “only for loading or unloading” applies to trucks heavier than 3.5 t, not to a passenger car with a trailer."
+  },
+  {
+   "id": "m24-046",
+   "q": "You have finished your shift in an articulated bus and want to leave it overnight in the yard of your home. There are no places designated for buses there. May you?",
+   "options": [
+    "You may not: buses only in designated, marked places",
+    "You may, if you do not obstruct other vehicles",
+    "You may, if you switch the engine off for the whole night",
+    "You may, if there are no passengers in the passenger compartment"
+   ],
+   "answer": 0,
+   "explain": "Yards are subject to the rules of a residential zone: parking of trucks heavier than 3500 kg and of buses is allowed only in specially designated places marked by signs or road markings."
+  },
+  {
+   "id": "m24-047",
+   "q": "A team of workers is to be seated in the body of the trailer of your road train: it has benches and high sides. May they be carried like this?",
+   "options": [
+    "Yes, if you drive no faster than 60 km/h",
+    "Yes, if you have more than 5 years of experience on C",
+    "Yes, if there are no more people than seats",
+    "No: carrying people on a trailer is prohibited"
+   ],
+   "answer": 3,
+   "explain": "Carrying passengers on a goods trailer is prohibited in all cases. The conditions about driver experience, 60 km/h and the number of seats concern the body of the truck itself, not the trailer."
+  },
+  {
+   "id": "m24-048",
+   "q": "You have bought a trailer. Within what time must it be registered with the internal affairs bodies?",
+   "options": [
+    "No later than 10 days, or while the “Transit” sign is valid",
+    "No later than 30 days from purchase",
+    "No later than 3 months, before the first technical inspection",
+    "Trailers are not registered: the number of the towing vehicle is enough"
+   ],
+   "answer": 0,
+   "explain": "Motor vehicles and trailers are registered with the internal affairs bodies within the validity period of the “Transit” registration sign, or no later than 10 days from acquisition or customs declaration. A trailer must have its own number plate."
+  },
+  {
+   "id": "m24-049",
+   "q": "During a journey by day a fault appears. For which of these faults must you not drive on even to the place of repair?",
+   "options": [
+    "The trailer’s direction indicator has stopped working",
+    "The towing vehicle and trailer coupling is faulty",
+    "The trailer’s mudguard has been lost",
+    "The number plate light of the trailer is not working"
+   ],
+   "answer": 1,
+   "explain": "With a faulty coupling device in the combination, as with inoperative brakes or steering, driving is prohibited altogether. Other faults that appear on the way are put right by the driver, and if he cannot, he drives carefully to the place of parking or repair."
+  },
+  {
+   "id": "m24-050",
+   "q": "Before setting off you notice that the safety cable (chain) provided by the design of the trailer’s coupling is torn off. May you drive?",
+   "options": [
+    "You may: the main thing is that the coupling lock is closed",
+    "You may not: driving with a trailer without the cable is prohibited",
+    "You may, in daylight",
+    "You may, if you drive no faster than 50 km/h"
+   ],
+   "answer": 1,
+   "explain": "A faulty towing coupling device or fifth-wheel coupling device, and missing or faulty safety cables (chains) provided by their design, are on the list of faults for which operation is prohibited. The cable will hold the trailer if the coupling comes apart on the way."
+  },
+  {
+   "id": "m24-051",
+   "q": "What must the remaining tread depth of the tyres of a trailer for a passenger car be?",
+   "options": [
+    "At least 0.8 mm",
+    "At least 1 mm",
+    "At least 1.6 mm",
+    "At least 2 mm"
+   ],
+   "answer": 2,
+   "explain": "For trailer tyres the norms are the same as for the tyres of the towing vehicle. A passenger car needs at least 1.6 mm, so its trailer does too."
+  },
+  {
+   "id": "m24-052",
+   "q": "What must the remaining tread depth of the tyres of a trailer for a bus be?",
+   "options": [
+    "At least 1 mm",
+    "At least 1.6 mm",
+    "At least 0.8 mm",
+    "At least 2 mm"
+   ],
+   "answer": 3,
+   "explain": "The tread norms for a trailer are the same as for the towing vehicle. A bus needs at least 2 mm, so the trailer behind it does too, although 1 mm is enough for a truck."
+  },
+  {
+   "id": "m24-053",
+   "q": "You have been driving on subcategory C1 for two years and do not have category C. Can you get CE straight away?",
+   "options": [
+    "Yes: you have more than a year of experience on C1",
+    "Yes, if you pass the test on a tractor unit",
+    "No: for CE you need a year of the right to drive C",
+    "No: combination categories are opened only from the age of 25"
+   ],
+   "answer": 2,
+   "explain": "CE is granted to those who have held the right to drive category C for at least 12 months. With C1 you can open C1E: for it you need a year of the right to drive C or C1."
+  },
+  {
+   "id": "m24-054",
+   "q": "Must the registration number be repeated in large figures on the rear wall of a trailer for a passenger car?",
+   "options": [
+    "Yes, in figures at least 300 mm high, as on trucks",
+    "Yes, if the trailer is heavier than 750 kg",
+    "No: this is not required for trailers of passenger cars",
+    "Yes, if the trailer has a flatbed body"
+   ],
+   "answer": 2,
+   "explain": "A large number on the rear wall of the body is mandatory for trucks, buses and trailers, except trailers of passenger cars and motorcycles. On a trailer of a passenger car, a number plate in the place provided for it is enough."
+  },
+  {
+   "id": "m24-055",
+   "q": "Must the “Road train” identification sign be fitted to such a combination?",
+   "options": [
+    "Yes: a passenger car with a trailer is also a road train under the Rules",
+    "No: it is fitted to trucks and tractors with a trailer",
+    "Yes, if the trailer is heavier than 750 kg",
+    "Yes, if the combination is longer than 7 metres"
+   ],
+   "answer": 1,
+   "explain": "By definition a passenger car with a trailer is a road train, but the “Road train” identification sign is fitted only to trucks and wheeled tractors with trailers, and to articulated buses and trolleybuses."
+  },
+  {
+   "id": "m24-056",
+   "q": "In the daytime, in good visibility, you have parked your road train. Must you leave the “Road train” sign switched on?",
+   "options": [
+    "Yes: the sign is on all the time while the trailer is coupled",
+    "Yes, if the parking lasts more than 5 minutes",
+    "No: by day it is required only while driving",
+    "No: it is switched on only in the dark"
+   ],
+   "answer": 2,
+   "explain": "The “Road train” sign is switched on while driving. In the hours of darkness and in poor visibility it is left on while stopped or parked too, but by day in good visibility it can be switched off when parked.",
+   "scene": {
+    "side.0.text": "parking"
+   }
+  },
+  {
+   "id": "m24-057",
+   "q": "A driver was fined before for driving with a faulty towing coupling device. Six months later he was stopped again for the same offence. What fine does the CAO now provide?",
+   "options": [
+    "15 MCI (64 875 tenge)",
+    "5 MCI (21 625 tenge)",
+    "20 MCI (86 500 tenge)",
+    "30 MCI (129 750 tenge)"
+   ],
+   "answer": 2,
+   "explain": "For driving a vehicle with a faulty braking system, steering or towing coupling device the fine is 15 MCI. If the offence is repeated within a year after the penalty was imposed, the fine is 20 MCI, which in 2026 is 86 500 tenge."
+  },
+  {
+   "id": "m24-058",
+   "q": "At night on an unlit road outside a built-up area, the trailer’s rear position lamps have stopped working. May you drive on?",
+   "options": [
+    "You may, if you switch on the hazard warning lights",
+    "You may, if you drive no faster than 50 km/h",
+    "You may, as far as the nearest built-up area",
+    "You may not until the lamps work"
+   ],
+   "answer": 3,
+   "explain": "In the hours of darkness on roads without lighting you must not drive if the rear position lamps are not working, and for a combination the rear lamps are those of the trailer. Stop and fix the fault; if you cannot, move the combination off the road or mark it with the hazard warning lights and a warning triangle.",
+   "scene": {
+    "labels.0.text": "lights not working"
+   }
+  },
+  {
+   "id": "m24-059",
+   "q": "You have driven on category B for two years and are now training for BE and C1 at the same time. How will you take the tests?",
+   "options": [
+    "Theory and practical test - separately for each category",
+    "Theory only: no practical test is taken for BE",
+    "Theory once, practical test for each category",
+    "Theory once and one practical test on a truck"
+   ],
+   "answer": 2,
+   "explain": "If you are opening several categories at once, you take the theory test once, and the practical test separately for each category and on a vehicle of that category: for BE on a passenger car with a trailer, for C1 on a truck."
+  },
+  {
+   "id": "m24-060",
+   "q": "How are the start and end of each exercise marked at a test ground for combinations (BE, CE, DE and others)?",
+   "options": [
+    "A white solid stripe 0.4 m wide",
+    "A yellow broken line",
+    "A solid line of marking 1.4",
+    "Red and white cones"
+   ],
+   "answer": 1,
+   "explain": "The start and end of exercises for combinations are marked with a yellow broken line: width 0.10 m, dash 0.15 m, gap 0.10 m. The white stripes 0.4 m wide are the “Start” and “Finish” lines, and marking 1.4 is used for control lines."
+  }
+ ],
+ "pack": "m24-1"
+}

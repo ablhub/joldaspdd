@@ -1,0 +1,103 @@
+{
+"questions": [
+ {
+  "id": "m22-015",
+  "q": "You are driving a truck with a maximum authorised mass of 12 t along a street in a built-up area with two lanes in each direction. May you change into the left lane in order to overtake a slow tractor?",
+  "options": ["Yes, if the manoeuvre is safe", "No: for a truck the left lane is only for turning left and making a U-turn", "Yes, but only in heavy traffic", "No: in a built-up area a truck always drives in the right-hand lane"],
+  "answer": 0,
+  "explain": "There are two lanes in your direction. The restriction for trucks heavier than 3500 kg applies where there are three or more lanes in one direction. You may change lanes if you give way to same-direction vehicles in the left lane."
+ },
+ {
+  "id": "m22-016",
+  "q": "Your truck with a heavy load can go no faster than 35 km/h. You are driving along a street with three lanes in one direction and will go straight ahead at the intersections. Which path should you continue along?",
+  "options": ["Path A", "Path B", "Either path"],
+  "answer": 0,
+  "explain": "Vehicles that drive no faster than 40 km/h or cannot go faster keep to the far right lane. The exceptions are driving around an obstacle, overtaking and changing lanes before turning left, making a U-turn or a permitted stop on the left. So you need to move right along path A."
+ },
+ {
+  "id": "m22-017",
+  "q": "You are driving a road train 18 m long along an out-of-town road with one lane in each direction. Traffic is heavy: vehicles are moving in a dense flow in both directions. Must you keep a gap ahead of you so that overtaking vehicles can return to their lane in front of you?",
+  "options": ["You must: this is mandatory for all combinations longer than 7 m", "You must, but only in the hours of darkness", "You need not: this requirement does not apply in heavy traffic", "You need not: it applies only to vehicles longer than 20 m"],
+  "answer": 2,
+  "explain": "Out of town on two-lane roads, vehicles and combinations longer than 7 m keep a gap for overtaking vehicles. But the requirement does not apply in heavy traffic, when the driver is preparing to overtake himself, or in an organised convoy. You must still keep a safe following distance from the vehicle ahead ⟦93⟧."
+ },
+ {
+  "id": "m22-018",
+  "q": "You are carrying an oversized load along a motorway with the amber flashing beacon switched on. A truck is going slowly ahead in the second lane. May you change into the third lane along path A, if it is safe and will impede nobody?",
+  "options": ["No: a truck heavier than 3.5 t may never use the third lane", "No: with an oversized load you may drive only on the right", "Yes, but only if an escort vehicle is ahead", "Yes: with an amber beacon you may depart from this ban"],
+  "answer": 3,
+  "explain": "When carrying an oversized load, you switch on an amber or yellow beacon ⟦94⟧. A driver with such a beacon may, ensuring safety and making sure nobody is impeded, depart from, among others, para. 118, which prohibits trucks from driving beyond the second lane ⟦95⟧."
+ },
+ {
+  "id": "m22-019",
+  "q": "You are driving a truck with a maximum authorised mass of 16 t in the zone of the 3.22 “No overtaking by trucks” sign. A single tractor ahead is going at about 35 km/h, the oncoming lane is clear, and the road marking is broken. May you overtake the tractor?",
+  "options": ["Yes: a tractor is a slow-moving vehicle", "Yes, if overtaking is safe: the tractor is on its own", "No: the exception is only for vehicles slower than 30 km/h", "No: in the zone of the 3.22 sign a truck may not overtake anyone"],
+  "answer": 2,
+  "explain": "The 3.22 sign allows a truck heavier than 3.5 t to overtake only single vehicles that are going slower than 30 km/h. The tractor is going about 35 km/h, so you may not overtake it until the end of the zone of the sign, even though it is on its own.",
+  "scene": {"labels.0.text": "35 km/h"}
+ },
+ {
+  "id": "m22-020",
+  "q": "You are in a truck with a maximum authorised mass of 16 t in the zone of sign 3.22, driving in the left of the two lanes in your direction, faster than a passenger car in the right lane. You will not change lanes. Are you breaking the requirement of the sign?",
+  "options": ["Yes: in the zone of the sign a truck may not pass anyone at all", "No: going faster than the next lane in your own is not overtaking", "Yes, if the passenger car is going faster than 30 km/h on its side", "No, but only if your speed is no more than 50 km/h in your lane"],
+  "answer": 1,
+  "explain": "The 3.22 sign prohibits a truck from overtaking, and overtaking is passing that involves leaving your lane and returning to it ⟦96⟧. You stay in your own lane, and driving in one lane faster than in the adjacent one is not counted as overtaking ⟦97⟧."
+ },
+ {
+  "id": "m22-021",
+  "q": "You are driving a truck with a maximum authorised mass of 8 t along a street in a built-up area and pass this sign. What is the highest speed at which you may drive?",
+  "options": ["70 km/h", "60 km/h", "90 km/h", "50 km/h"],
+  "answer": 3,
+  "explain": "The 3.24 sign only prohibits driving faster than 70 km/h. Special traffic modes introduced by signs (but not above 90 km/h) are provided by para. 73 in subpara. 1 for the other vehicles, while subpara. 2 allows trucks no more than 50 km/h in built-up areas, without exceptions."
+ },
+ {
+  "id": "m22-022",
+  "q": "You are driving a tractor unit with a semi-trailer (maximum authorised mass of the road train 40 t) along a motorway and pass this sign. What is the highest speed for you?",
+  "options": ["90 km/h", "110 km/h", "100 km/h", "80 km/h"],
+  "answer": 0,
+  "explain": "The 3.24 sign prohibits driving faster than 110 km/h, but it does not allow you to exceed the limit for your vehicle. A truck heavier than 3.5 t may drive no more than 90 km/h on a motorway, so you observe the lower of the two limits."
+ },
+ {
+  "id": "m22-023",
+  "q": "You are driving a tractor unit with a semi-trailer (maximum authorised mass of the road train 40 t) along a motorway. There are road works ahead and you pass these signs. What is the highest speed for you now?",
+  "options": ["90 km/h", "110 km/h", "80 km/h", "70 km/h"],
+  "answer": 2,
+  "explain": "Now the sign is stricter than your own limit. On a motorway a heavy truck may drive 90 km/h, but the 3.24 sign prohibits driving faster than 80 km/h. Of the two limits, you observe the lower one."
+ },
+ {
+  "id": "m22-024",
+  "q": "Your truck with a maximum authorised mass of 10 t reaches no more than 60 km/h by its technical specifications. You are driving out of town along a road without a central reservation. What is the highest speed for you?",
+  "options": ["70 km/h", "80 km/h", "60 km/h", "50 km/h"],
+  "answer": 2,
+  "explain": "For a heavy truck on such a road the Rules allow 70 km/h, but exceeding the maximum speed given in the technical specifications of the vehicle is prohibited. So your limit is 60 km/h. A “Speed limit” identification sign is fitted at the rear of such a vehicle."
+ },
+ {
+  "id": "m22-025",
+  "q": "After a breakdown on the way, your truck can go no faster than 30 km/h. The nearest workshop is at the exit from the motorway. May you drive to it along the motorway?",
+  "options": ["Yes, in the far right lane with the hazard warning lights on", "Yes, if a “Speed limit” identification sign showing 30 is fitted to the vehicle", "Yes, if you drive on the shoulder and do not impede other road users", "No: vehicles that by their condition cannot go 40 km/h are prohibited there"],
+  "answer": 3,
+  "explain": "On a motorway it is prohibited to drive vehicles whose speed, by their technical specifications or by their condition, is below 40 km/h. You may drive to the place of repair with precautions ⟦98⟧, but by another road."
+ },
+ {
+  "id": "m22-026",
+  "q": "The “Speed limit” identification sign showing 40 is fitted on the rear of the load body of your truck. You are driving out of town along a road with a central reservation. What is the highest speed for you?",
+  "options": ["80 km/h", "60 km/h", "70 km/h", "40 km/h"],
+  "answer": 3,
+  "explain": "You must not exceed the speed shown on the “Speed limit” identification sign of your vehicle, even if the general limits on this road would allow you to go faster. Such a sign is fitted on vehicles with an overweight or oversized load and on vehicles that are slow-moving by their technical specifications."
+ },
+ {
+  "id": "m22-027",
+  "q": "You are driving a truck with a maximum authorised mass of 12 t and will continue straight ahead. The right and middle lanes are occupied by a dense flow, and the left lane is clear. May you change into the left lane, as shown?",
+  "options": ["Yes: in heavy traffic, when the other lanes are occupied, you may use the left lane", "No: for a heavy truck the left lane is only for turning left or making a U-turn", "Yes, if you drive in the left lane no faster than 50 km/h, as trucks must in built-up areas", "Yes, but only with dipped headlights and the left direction indicator on"],
+  "answer": 1,
+  "explain": "For a passenger car, a dense flow in the right-hand lanes allows it to use the far left lane. But for a truck with a maximum authorised mass of more than 3500 kg on a road with three or more lanes in one direction, this lane is allowed only for turning left or making a U-turn. You are going straight ahead, so you stay in the middle lane."
+ },
+ {
+  "id": "m22-028",
+  "q": "You are driving a van with a maximum authorised mass of 3 t and will continue straight ahead. The right and middle lanes are occupied by a dense flow, and the left lane is clear. May you change into the left lane, as shown?",
+  "options": ["No: for any truck the left lane is only for turning left or making a U-turn", "No: with three lanes the far left lane is used only for overtaking", "Yes: in heavy traffic, when the other lanes are occupied, this is allowed", "Yes, but only if you will drive in the left lane no slower than 60 km/h"],
+  "answer": 2,
+  "explain": "The restriction “only for turning left or making a U-turn” applies to trucks with a maximum authorised mass of more than 3500 kg. A 3 t van may use the far left lane in heavy traffic when the other lanes are occupied, and also for overtaking, turning left and making a U-turn. When changing lanes, give way to same-direction vehicles ⟦99⟧."
+ }
+]
+}

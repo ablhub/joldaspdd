@@ -1,0 +1,293 @@
+{
+ "questions": [
+  {
+   "id": "m18-n073",
+   "q": "You are driving a route bus and your route turns right here. Before the intersection there is a sign, as in the diagram. May you turn right?",
+   "options": [
+    "No: the sign allows only straight ahead",
+    "Yes: this sign does not apply to route vehicles",
+    "Yes, but only if there are no passengers on board",
+    "No: you must go straight on and make a U-turn"
+   ],
+   "answer": 1,
+   "explain": "Sign 4.1.1 allows movement only straight ahead, but signs 4.1.1-4.1.6 do not apply to route vehicles. The bus may turn right along its route."
+  },
+  {
+   "id": "m18-n074",
+   "q": "In the middle lane there is an obstruction with a sign on it, as in the diagram. Which path may you take to drive around it?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 2,
+   "explain": "Sign 4.2.3 allows you to drive around the obstruction on either side. Sign 4.2.1 would allow it only on the right, and sign 4.2.2 only on the left."
+  },
+  {
+   "id": "m18-n075",
+   "q": "In the middle lane there is an obstruction with a sign on it, as in the diagram. Which path may you take to drive around it?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 0,
+   "explain": "Sign 4.2.2 allows you to drive around the obstruction only on the left, along path A. You may not pass on the right, even if it is clear."
+  },
+  {
+   "id": "m18-n076",
+   "q": "Which of these drivers is allowed to drive on a road with this sign?",
+   "options": [
+    "The driver of a tractor",
+    "The driver of a bus",
+    "The driver of an 8 t truck in transit",
+    "The driver of a self-propelled crane"
+   ],
+   "answer": 1,
+   "explain": "Sign 4.4 allows passenger cars, buses, motorcycles, route vehicles and trucks with a maximum authorised mass of no more than 3.5 t. Others may enter only if they serve this zone or are going to their home or place of work in it."
+  },
+  {
+   "id": "m18-n077",
+   "q": "You are driving a truck with a maximum authorised mass of 12 t and are delivering goods to a shop on the street where this sign is placed. May you enter?",
+   "options": [
+    "No: trucks heavier than 3.5 t may not come here",
+    "Yes, but only from 22 to 6 hours",
+    "Yes, along any street inside the zone",
+    "Yes, entering at the intersection nearest to the shop"
+   ],
+   "answer": 3,
+   "explain": "Sign 4.4 also allows other vehicles if they serve businesses in the marked zone. You must enter and leave the zone at the intersection nearest to your destination."
+  },
+  {
+   "id": "m18-n078",
+   "q": "May you ride a moped along a path with this sign?",
+   "options": [
+    "Yes, at walking pace",
+    "Yes, if there are no pedestrians on the path",
+    "No, but you may push the moped alongside you on foot",
+    "No, and you may not push the moped along it either"
+   ],
+   "answer": 2,
+   "explain": "Sign 4.6 allows only pedestrians. Under the Rules, a person pushing a moped is treated as a pedestrian, so you may walk with the moped but not ride it."
+  },
+  {
+   "id": "m18-n079",
+   "q": "Before an ascent, an additional lane begins on the right. On the “Start of lane” sign above it there is sign 4.7 “40”. Your truck is climbing at 30 km/h. What should you do?",
+   "options": [
+    "Move into the additional lane",
+    "Continue in the main lane with the hazard warning lights on",
+    "Stop and let the vehicles behind pass",
+    "Speed up to climb faster than 40 km/h"
+   ],
+   "answer": 0,
+   "explain": "If sign 4.7 is shown on the sign before an additional lane on an ascent, a driver who cannot drive in the main lane at the indicated speed or faster moves into the additional lane."
+  },
+  {
+   "id": "m18-n080",
+   "q": "You are driving a truck with “Dangerous goods” identification signs. There is this sign before the intersection. Which way may you go?",
+   "options": [
+    "Only straight ahead",
+    "Straight ahead or right",
+    "In any direction: the sign is for other vehicles",
+    "Only right"
+   ],
+   "answer": 3,
+   "explain": "Sign 4.9.1 allows vehicles with “Dangerous goods” identification signs to go only to the right. It does not apply to other vehicles."
+  },
+  {
+   "id": "m18-n081",
+   "q": "Before the intersection there is a sign, as in the diagram. Which paths may you take to continue?",
+   "options": [
+    "Path B only",
+    "Paths B and C",
+    "Paths A and B",
+    "All three paths"
+   ],
+   "answer": 1,
+   "explain": "Sign 4.1.6 allows movement only right or left, and a sign that allows a left turn also allows a U-turn. So you may take paths B and C, but not straight ahead (A)."
+  },
+  {
+   "id": "m18-n082",
+   "q": "Who is allowed to drive on a road with this sign?",
+   "options": [
+    "A moped rider",
+    "A tractor driver",
+    "A cyclist",
+    "A motorcyclist"
+   ],
+   "answer": 3,
+   "explain": "Sign 5.3 marks a road for motor cars and motorcycles only. The motorway rules apply on it, so mopeds, tractors and bicycles are not allowed."
+  },
+  {
+   "id": "m18-n083",
+   "q": "Because of a fault, your car cannot go faster than 35 km/h. May you continue along a road with this sign?",
+   "options": [
+    "Yes, if you switch on the hazard warning lights",
+    "Yes, but only in the far right lane",
+    "No: vehicles slower than 40 km/h may not drive here",
+    "Yes, if you drive on the shoulder"
+   ],
+   "answer": 2,
+   "explain": "On a motorway it is banned to drive vehicles whose speed, by their technical specification or their condition, is less than 40 km/h. You must choose another road or call for help."
+  },
+  {
+   "id": "m18-n084",
+   "q": "Before the entry to the road there is a sign, as in the diagram. Which path may you take to continue?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 0,
+   "explain": "Sign 5.7.1 informs you about the entry to a one-way road, where traffic flows to the right. A left turn (B) would mean driving against the traffic flow."
+  },
+  {
+   "id": "m18-n085",
+   "q": "Before the entry to the road there is a sign, as in the diagram. Which path may you take to continue?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 1,
+   "explain": "Sign 5.7.2 shows that traffic on the one-way road flows to the left. You may turn only left (B); turning right (A) is against the flow."
+  },
+  {
+   "id": "m18-n086",
+   "q": "This sign is placed before an intersection. Which lane may you make a U-turn from?",
+   "options": [
+    "Only from the far left lane",
+    "From any lane, if there is no oncoming traffic",
+    "From the far left and middle lanes",
+    "From none: the sign does not show a U-turn"
+   ],
+   "answer": 0,
+   "explain": "Sign 5.8.1, which allows a left turn from the far left lane, also allows a U-turn from it. The middle lane here is for going straight ahead only, and the right lane for going straight ahead and turning right."
+  },
+  {
+   "id": "m18-n087",
+   "q": "This sign is placed before a large intersection. There are no other such signs at the intersection itself. Where does the lane layout shown on it apply?",
+   "options": [
+    "Only up to the stop line",
+    "Only up to the middle of the intersection",
+    "Up to the nearest traffic light",
+    "Throughout the whole intersection"
+   ],
+   "answer": 3,
+   "explain": "The effect of signs 5.8.1 and 5.8.2 placed before an intersection extends over the whole intersection, unless other such signs there give different instructions."
+  },
+  {
+   "id": "m18-n088",
+   "q": "Sign 5.8.1 allows a left turn from the two left lanes. Both lanes are free. Which lane must you turn from?",
+   "options": [
+    "Either of the two, whichever is more convenient",
+    "The far left lane",
+    "The second from the left, so as not to obstruct oncoming traffic",
+    "The one with fewer vehicles behind"
+   ],
+   "answer": 1,
+   "explain": "Where the directions for lanes are set by signs 5.8.1 or 5.8.2, it is not allowed to use inner lanes while the far lanes are free. When both lanes are free, turn from the far left lane."
+  },
+  {
+   "id": "m18-n089",
+   "q": "You are driving in the zone of this sign. May you turn left into a yard, as shown?",
+   "options": [
+    "Yes, if there is no oncoming traffic",
+    "Yes: the sign allows manoeuvres to the left",
+    "No: a left turn is banned in a U-turn zone",
+    "Yes, if you switch on the direction indicator in advance"
+   ],
+   "answer": 2,
+   "explain": "Sign 5.11.2 marks a U-turn zone and its length (here 150 m). You may make a U-turn in it, but a left turn is banned."
+  },
+  {
+   "id": "m18-n090",
+   "q": "Who may park at this parking place?",
+   "options": [
+    "Any cars, if other parking places are free",
+    "Only cars of families travelling with small children",
+    "Only vehicles with the “Person with a disability” sign",
+    "Any cars, but for no longer than 15 minutes at a time"
+   ],
+   "answer": 2,
+   "explain": "Plate 7.17 means that parking place 5.15 is intended only for motorised wheelchairs and cars with the “Person with a disability” identification sign."
+  },
+  {
+   "id": "m18-n091",
+   "q": "How must you park at this parking place?",
+   "options": [
+    "On the carriageway, alongside the pavement",
+    "Entirely on the pavement",
+    "At an angle to the pavement, front end towards it",
+    "Partly on the pavement"
+   ],
+   "answer": 0,
+   "explain": "Plate 7.6.1 with sign 5.15 shows that all vehicles are parked on the carriageway alongside the pavement. Ways of parking on the pavement are shown by other plates of group 7.6."
+  },
+  {
+   "id": "m18-n092",
+   "q": "You are driving a truck with a maximum authorised mass of 8 t. May you park it at this parking place?",
+   "options": [
+    "Yes: sign 5.15 allows parking for everyone",
+    "No: the place is for cars and trucks up to 3.5 t",
+    "Yes, if you park for less than an hour",
+    "No: parking for trucks in a built-up area is banned"
+   ],
+   "answer": 1,
+   "explain": "Plate 7.4.3 limits the sign to passenger cars and trucks with a maximum authorised mass of up to 3.5 t. This parking place is not intended for your truck."
+  },
+  {
+   "id": "m18-n093",
+   "q": "There is no “zebra” marking, and the signs are placed as in the diagram. Where is the pedestrian crossing?",
+   "options": [
+    "In front of the right sign, before it",
+    "Beyond the left sign, after it",
+    "Between the signs: they mark its boundaries",
+    "Without markings it is not a pedestrian crossing"
+   ],
+   "answer": 2,
+   "explain": "If a crossing has no markings, sign 5.16.2 is placed on the right at the near boundary of the crossing, and sign 5.16.1 on the left at the far boundary. The width of the crossing is the distance between these signs."
+  },
+  {
+   "id": "m18-n094",
+   "q": "There are no other restrictions. May you drive faster than indicated on this sign?",
+   "options": [
+    "No: it is a maximum speed limit",
+    "No: it is a minimum speed, like sign 4.7",
+    "Yes, but by no more than 10 km/h",
+    "Yes: it is a recommended speed, not a limit"
+   ],
+   "answer": 3,
+   "explain": "Sign 5.18.1 (a blue square with a number) shows the recommended speed on a section of road. It does not ban driving faster, but on dangerous sections its advice should be followed."
+  },
+  {
+   "id": "m18-n095",
+   "q": "The “Recommended speed” sign is placed together with a warning sign, as in the diagram. Where does its effect end?",
+   "options": [
+    "At the nearest intersection ahead",
+    "At the end of the dangerous section",
+    "Within 150-300 m from the sign",
+    "At the nearest sign 3.25"
+   ],
+   "answer": 1,
+   "explain": "The zone of the “Recommended speed” sign extends to the nearest intersection, but if it is used together with a warning sign, it is determined by the length of the dangerous section, here a dangerous bend."
+  },
+  {
+   "id": "m18-n096",
+   "q": "Outside a built-up area, the name of a city is written on a green background on a direction sign. What does this mean?",
+   "options": [
+    "The city is near, less than 10 km away",
+    "The road to the city is a toll road, with a payment point ahead",
+    "The route to it will be along a motorway",
+    "This is the detour direction for a closed section"
+   ],
+   "answer": 2,
+   "explain": "On signs 5.20.1, 5.20.2, 5.21.1 and 5.21.2 outside a built-up area, a green background means that a motorway leads to that place, and a blue one means another road.",
+   "ref": "Annex 1, Chapter 5 (background colour of direction signs)"
+  }
+ ]
+}

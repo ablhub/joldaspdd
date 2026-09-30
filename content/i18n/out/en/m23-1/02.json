@@ -1,0 +1,319 @@
+{
+ "questions": [
+  {
+   "id": "m23-001",
+   "q": "At what total play in the steering is the operation of a bus (not built on the basis of a passenger car) prohibited?",
+   "options": [
+    "More than 20 degrees",
+    "More than 10 degrees",
+    "More than 25 degrees",
+    "More than 30 degrees"
+   ],
+   "answer": 0,
+   "explain": "For buses the maximum total steering play is 20 degrees. For passenger cars and for trucks and buses built on their basis it is 10, for trucks it is 25 ⟦56⟧."
+  },
+  {
+   "id": "m23-002",
+   "q": "A minibus has 15 seats, not counting the driver's seat. Which driving licence category (subcategory) allows you to drive it?",
+   "options": [
+    "Only B",
+    "D1 or D",
+    "Only D",
+    "C1"
+   ],
+   "answer": 1,
+   "explain": "D1 covers motor cars for carrying passengers that have more than 8 but not more than 16 seats besides the driver's seat: 15 seats fall within this range. Category D covers all motor cars for passengers with more than 8 seats, so it is suitable as well ⟦57⟧."
+  },
+  {
+   "id": "m23-003",
+   "q": "Which driving licence category is needed to drive an articulated bus like this one?",
+   "options": [
+    "D",
+    "D1E",
+    "CE",
+    "DE"
+   ],
+   "answer": 3,
+   "explain": "Under the Road Traffic Act, articulated buses fall into category DE, as do category D buses with a trailer of maximum authorised mass over 750 kg. Category D alone is not enough for an articulated (“accordion”) bus."
+  },
+  {
+   "id": "m23-004",
+   "q": "Who is admitted to carrying passengers on a category D bus?",
+   "options": [
+    "From the age of 21, with at least 3 years of experience as a driver, at least 1 year of it on C1",
+    "From the age of 25, with at least 5 years of experience as a driver in any category",
+    "From the age of 18 with category B; experience does not matter",
+    "From the age of 23, with at least 3 years of experience as a driver, at least 1 year of it on D1"
+   ],
+   "answer": 3,
+   "explain": "Under para. 151, persons aged 23 or over with at least three years of experience as a driver, including at least one year on vehicles of subcategory D1, are admitted to carrying passengers on category D buses. The requirement of “25 years of age and 5 years of experience” applies to the organised carriage of groups of children ⟦58⟧."
+  },
+  {
+   "id": "m23-005",
+   "q": "A driver is 22. He has worked as a driver for three years, one and a half of them on a minibus of subcategory D1. May he be admitted to carrying passengers on a category D bus?",
+   "options": [
+    "Yes: his experience on D1 is more than a year",
+    "Yes, if an experienced driver travels alongside",
+    "No: category D buses require a minimum age of 23",
+    "No: at least 5 years of experience as a driver is required"
+   ],
+   "answer": 2,
+   "explain": "His experience is sufficient: three years as a driver, more than a year of it on D1. But under para. 151, admission to carrying passengers on category D buses starts only from the age of 23."
+  },
+  {
+   "id": "m23-006",
+   "q": "From what age is a driver admitted to carrying passengers on a subcategory D1 bus (from 9 to 16 seats, not counting the driver)?",
+   "options": [
+    "From the age of 21",
+    "From the age of 18",
+    "From the age of 23",
+    "From the age of 25"
+   ],
+   "answer": 0,
+   "explain": "Under para. 151, persons who have reached the age of 21 and have at least three years of experience as a driver are admitted to carrying passengers on vehicles of subcategory D1. For category D the threshold is higher - 23."
+  },
+  {
+   "id": "m23-007",
+   "q": "Must the registration number be repeated on the rear wall of a bus body?",
+   "options": [
+    "No: the registration plate at the rear is enough",
+    "Yes, in figures at least 300 mm high",
+    "Yes, but only on intercity buses",
+    "No: this requirement applies only to trucks"
+   ],
+   "answer": 1,
+   "explain": "The digits and letters of the registration plate are repeated on the rear wall of the body of trucks, trailers (except trailers for passenger cars and motorcycles) and buses. The height of the characters is at least 300 mm (Basic Provisions, para. 3)."
+  },
+  {
+   "id": "m23-008",
+   "q": "You are carrying passengers through a city in a minibus with 12 seats. There are no speed limit signs. What is your limit?",
+   "options": [
+    "60 km/h, like passenger cars",
+    "40 km/h",
+    "50 km/h",
+    "70 km/h"
+   ],
+   "answer": 2,
+   "explain": "A minibus has more than 8 seats, so under the Rules it is a bus ⟦59⟧. In built-up areas buses travel at not more than 50 km/h; the rules make no exceptions for size ⟦60⟧."
+  },
+  {
+   "id": "m23-009",
+   "q": "You are driving an intercity bus outside a built-up area on a road like this. There are no limit signs. What is the maximum speed for you?",
+   "options": [
+    "70 km/h",
+    "90 km/h",
+    "100 km/h",
+    "110 km/h"
+   ],
+   "answer": 1,
+   "explain": "This is not a motorway or a road with a central reservation. For intercity buses and minibuses on other roads the limit is 90 km/h ⟦61⟧. With a central reservation it would be 100 km/h, on a motorway 110 km/h."
+  },
+  {
+   "id": "m23-010",
+   "q": "You are driving a minibus with 14 seats outside a built-up area on a road with a central reservation. It is not a motorway, and there are no limit signs. What is the highest speed at which you may drive?",
+   "options": [
+    "80 km/h",
+    "90 km/h",
+    "100 km/h",
+    "110 km/h"
+   ],
+   "answer": 2,
+   "explain": "Minibuses are in the same group as intercity buses: 110 on a motorway, 100 on a road with a central reservation, 90 km/h on other roads ⟦62⟧. A passenger car may do 110 km/h here, but a minibus has its own group."
+  },
+  {
+   "id": "m23-011",
+   "q": "An intercity bus has entered a road with this sign. There are no other signs. What is its maximum speed?",
+   "options": [
+    "140 km/h",
+    "110 km/h",
+    "100 km/h",
+    "90 km/h"
+   ],
+   "answer": 1,
+   "explain": "Sign 5.1 marks a motorway. On motorways, intercity buses and minibuses may do not more than 110 km/h ⟦63⟧. The 140 km/h limit is set only for passenger cars and motorcycles."
+  },
+  {
+   "id": "m23-012",
+   "q": "A city bus (not an intercity one) with no passengers is being driven to another city on a road with this sign. There are no other signs. What is its maximum speed?",
+   "options": [
+    "110 km/h",
+    "100 km/h",
+    "90 km/h",
+    "70 km/h"
+   ],
+   "answer": 2,
+   "explain": "Sign 5.1 marks a motorway. A city bus is not an intercity bus or minibus, it is an “other bus”: 90 on a motorway, 80 on a road with a central reservation, 70 km/h on other roads ⟦64⟧. The 110 km/h limit on a motorway applies only to intercity buses and minibuses."
+  },
+  {
+   "id": "m23-013",
+   "q": "You are carrying an organised group of children on a bus on a road outside a built-up area with no central reservation, and you pass this sign. What is the highest speed at which you may drive?",
+   "options": [
+    "90 km/h",
+    "80 km/h",
+    "70 km/h",
+    "60 km/h"
+   ],
+   "answer": 2,
+   "explain": "Sign 3.24 only prohibits driving faster than 90 km/h, but it does not cancel the limits of para. 74 for your type of vehicle. Buses carrying an organised group of children on roads without a central reservation may do not more than 70 km/h ⟦65⟧."
+  },
+  {
+   "id": "m23-014",
+   "q": "You are driving an intercity bus and pass a sign like this on a two-lane road with no central reservation. There are no other signs. What is the highest speed at which you may continue?",
+   "options": [
+    "50 km/h",
+    "60 km/h",
+    "70 km/h",
+    "90 km/h"
+   ],
+   "answer": 3,
+   "explain": "The blue sign 5.24 means that there is a built-up area, but the requirements for built-up areas do not apply on this road. So the city limit of 50 km/h for buses does not apply here, and the limit for roads outside built-up areas does: for an intercity bus on a road without a central reservation - 90 km/h ⟦66⟧."
+  },
+  {
+   "id": "m23-015",
+   "q": "You are driving a bus through a city and pass this sign. What speed must you not exceed?",
+   "options": [
+    "30 km/h",
+    "40 km/h",
+    "50 km/h",
+    "60 km/h"
+   ],
+   "answer": 1,
+   "explain": "Sign 3.24 prohibits driving faster than the speed shown on it. 40 km/h is lower than the general city limit for buses (50 km/h, para. 73), so the value on the sign applies."
+  },
+  {
+   "id": "m23-016",
+   "q": "You are driving a 12 m bus outside a built-up area on a road with one lane in each direction. There is almost no oncoming traffic, and a green car behind you is about to overtake. What following distance should you keep to the truck in front?",
+   "options": [
+    "One that allows an overtaking vehicle to move back in front of you",
+    "As small as possible, so that no one cuts in in front of you",
+    "At least 100 m at any speed and in any weather",
+    "Any: this requirement applies only to trucks"
+   ],
+   "answer": 0,
+   "explain": "Outside built-up areas, on two-way roads with two lanes, drivers of vehicles more than 7 m long keep such a following distance that overtaking vehicles can return without hindrance to the lane they occupied earlier ⟦67⟧. Your 12 m bus falls under this rule."
+  },
+  {
+   "id": "m23-018",
+   "q": "You are driving a bus along a city street with three lanes in your direction. Traffic is flowing freely. May you move into the far left lane in order to overtake a slow truck?",
+   "options": [
+    "Yes: the far left lane may be used for overtaking",
+    "No: for buses the far left lane is allowed only for turning left and U-turns",
+    "Yes, but only in heavy traffic",
+    "No: a bus always drives in the far right lane"
+   ],
+   "answer": 0,
+   "explain": "On roads with three or more lanes in one direction, the far left lane is taken in heavy traffic, for overtaking, turning left or making a U-turn ⟦68⟧. The rule “only for turning left and U-turns” applies to trucks with a mass over 3.5 t, not to buses."
+  },
+  {
+   "id": "m23-019",
+   "q": "Which identification sign is fitted on an articulated bus?",
+   "options": [
+    "“Long vehicle” - regardless of length",
+    "“Slow-moving vehicle”",
+    "“Road train” - three orange lights on the roof",
+    "None: such signs are fitted only on trucks"
+   ],
+   "answer": 2,
+   "explain": "Under the Basic Provisions on Admitting Vehicles to Operation, the “Road train” sign, in the form of three orange lights placed horizontally on the roof of the cab, is fitted on trucks and wheeled tractors with trailers, and also on articulated buses and trolleybuses."
+  },
+  {
+   "id": "m23-020",
+   "q": "The passengers have got off, and you want to turn the empty bus round right from a route vehicle stop. There are no oncoming vehicles. Is this allowed?",
+   "options": [
+    "Yes, if there are no oncoming vehicles or pedestrians",
+    "No: U-turns are prohibited at stops",
+    "Yes: the ban applies only to route buses",
+    "Yes, if you switch on the hazard warning lights"
+   ],
+   "answer": 1,
+   "explain": "U-turns are prohibited in places where stops are located ⟦69⟧. People stand and walk there, and a long bus making a U-turn blocks the whole road. Drive on to a place where a U-turn is allowed."
+  },
+  {
+   "id": "m23-021",
+   "q": "You are the driver of a route bus. The bus is standing at a red traffic light 100 m from a stop, and a passenger asks you to open the door and let him out. What should you do?",
+   "options": [
+    "Not open it: passengers alight only at a designated stop",
+    "Open the door: the bus is standing still anyway",
+    "Open only the front door, next to the driver",
+    "Let him out if there are no cars or cyclists on the right"
+   ],
+   "answer": 0,
+   "explain": "The driver of a route vehicle lets passengers board and alight only at a designated stop ⟦70⟧. Standing at a traffic light does not make it a stop, and motorcycles and bicycles may be passing beside the bus."
+  },
+  {
+   "id": "m23-022",
+   "q": "The bus is ready to pull away from a stop, but the rear door is still open: a late passenger is running towards it. May you move off so as not to fall behind schedule?",
+   "options": [
+    "Yes, if you drive slowly until he gets on",
+    "Yes, if the passengers inside hold the handrails",
+    "Yes, if you switch on the hazard warning lights",
+    "No: you may move off only with the doors closed"
+   ],
+   "answer": 3,
+   "explain": "The driver starts moving only with the doors closed and does not open them until the vehicle has come to a full stop ⟦71⟧. It is easy to fall out of an open door while moving, and a running passenger may end up under the wheels."
+  },
+  {
+   "id": "m23-023",
+   "q": "The bus is approaching a stop and is still rolling at walking speed. The passengers are in a hurry and ask you to open the doors in advance. When may the doors be opened?",
+   "options": [
+    "Straight away: the speed is already low",
+    "When 1-2 m remain to the edge of the stop area",
+    "Only after a full stop",
+    "When all the passengers are standing by the doors"
+   ],
+   "answer": 2,
+   "explain": "Doors are opened only after the vehicle has come to a full stop ⟦72⟧. A passenger who steps out of a moving bus may fall under the wheels."
+  },
+  {
+   "id": "m23-024",
+   "q": "You are driving a tourist bus of category M3 (not a route bus) and want to pick up a group at a route vehicle stop marked with marking 1.17. May you stop here to let people board?",
+   "options": [
+    "No: only route vehicles may stop at a route vehicle stop",
+    "Yes: the ban does not apply to vehicles of M2 and M3",
+    "Yes, but not closer than 15 m to the stop indicator",
+    "Yes, but only at night, when route buses no longer run"
+   ],
+   "answer": 1,
+   "explain": "Stopping on stop areas and within 15 m of them is prohibited, but this rule does not apply to vehicles of categories M2 and M3 ⟦73⟧. This exception appeared in November 2025. Passengers may be let on only after a full stop ⟦74⟧."
+  },
+  {
+   "id": "m23-025",
+   "q": "A white tourist bus of category M3 and a blue passenger car have stopped at a route vehicle stop. Which of the drivers stopped in accordance with the rules?",
+   "options": [
+    "Only the driver of the white bus",
+    "Only the driver of the blue car",
+    "Both drivers",
+    "Neither of them"
+   ],
+   "answer": 0,
+   "explain": "The blue car is standing 10 m from the stop area, and stopping closer than 15 m to it is prohibited ⟦75⟧. This ban does not apply to vehicles of categories M2 and M3, so the white bus may stand at the stop area, for example to pick up tourists."
+  },
+  {
+   "id": "m23-026",
+   "q": "You are carrying tourists on a charter (not route) bus. Sign 3.27 “No stopping” is in force, and there is no stop nearby. The tourists ask you to drop them at the museum entrance. May you stop here?",
+   "options": [
+    "Yes: letting passengers off is not parking",
+    "Yes, if letting them off takes less than 5 min",
+    "Yes: a charter bus is also counted as a route vehicle",
+    "No: sign 3.27 does not apply only to route vehicles"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.27 prohibits both stopping and parking. It does not apply only to route vehicles ⟦76⟧, and a charter bus is not one of them: it does not run on a set route with stops ⟦77⟧. Let the tourists off where stopping is allowed.",
+   "scene": {
+    "labels.0.text": "museum"
+   }
+  },
+  {
+   "id": "m23-027",
+   "q": "You are driving a route bus. Sign 3.27 “No stopping” is in force on the street, but your stop is ahead. May you stop at it to let passengers board and alight?",
+   "options": [
+    "No: sign 3.27 applies to everyone without exception",
+    "Yes, but only to let passengers off, boarding is prohibited",
+    "Yes: sign 3.27 does not apply to route vehicles",
+    "Yes, if you stand at the stop for less than a minute"
+   ],
+   "answer": 2,
+   "explain": "Sign 3.27 does not apply to route vehicles (Annex 1). And under para. 155 the driver of a route vehicle lets passengers board and alight only at a designated stop. Letting people off within the zone of the sign away from a stop would be a violation of para. 155."
+  }
+ ]
+}

@@ -1,0 +1,768 @@
+[
+ {
+  "code": "1.3.2",
+  "name": "Многопутная железная дорога",
+  "group": "Предупреждающие знаки",
+  "meaning": "Обозначает железнодорожный переезд без шлагбаума, где путей два или больше.",
+  "note": "Ставится непосредственно перед переездом без шлагбаума. На таком переезде водитель сам убеждается, что поезда нет.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><g transform='rotate(45 50 31)'><rect x='41' y='0' width='18' height='62' fill='#D52B1E'/></g><g transform='rotate(-45 50 31)'><rect x='41' y='0' width='18' height='62' fill='#D52B1E'/></g><path d='M24.5 91.5 L50 66 L75.5 91.5' fill='none' stroke='#D52B1E' stroke-width='18' stroke-linejoin='miter' stroke-miterlimit='4'/><g transform='rotate(45 50 31)'><rect x='44.5' y='3.5' width='11' height='55' fill='#FFFFFF'/></g><g transform='rotate(-45 50 31)'><rect x='44.5' y='3.5' width='11' height='55' fill='#FFFFFF'/></g><path d='M27 89 L50 66 L73 89' fill='none' stroke='#FFFFFF' stroke-width='11' stroke-linejoin='miter' stroke-miterlimit='4'/></svg>"
+ },
+ {
+  "code": "1.4.1",
+  "name": "Приближение к железнодорожному переезду (три полосы)",
+  "group": "Предупреждающие знаки",
+  "meaning": "Дополнительное предупреждение о приближении к железнодорожному переезду вне населенного пункта: чем меньше красных полос, тем ближе переезд.",
+  "note": "Ставится под первым по ходу движения знаком 1.1 или 1.2. Знаки 1.4.1-1.4.3 ставят справа от дороги, такие же 1.4.4-1.4.6 - слева.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='34' y='4' width='32' height='92' rx='2' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='1.5'/><path d='M35 80 L65 62 L65 74 L35 92 Z' fill='#D52B1E'/><path d='M35 55 L65 37 L65 49 L35 67 Z' fill='#D52B1E'/><path d='M35 30 L65 12 L65 24 L35 42 Z' fill='#D52B1E'/></svg>"
+ },
+ {
+  "code": "1.4.2",
+  "name": "Приближение к железнодорожному переезду (две полосы)",
+  "group": "Предупреждающие знаки",
+  "meaning": "Дополнительное предупреждение о приближении к железнодорожному переезду вне населенного пункта: чем меньше красных полос, тем ближе переезд.",
+  "note": "Ставится отдельно, посередине между первым и вторым знаками 1.1 или 1.2. Знаки 1.4.1-1.4.3 ставят справа от дороги, такие же 1.4.4-1.4.6 - слева.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='34' y='4' width='32' height='92' rx='2' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='1.5'/><path d='M35 80 L65 62 L65 74 L35 92 Z' fill='#D52B1E'/><path d='M35 55 L65 37 L65 49 L35 67 Z' fill='#D52B1E'/></svg>"
+ },
+ {
+  "code": "1.4.3",
+  "name": "Приближение к железнодорожному переезду (одна полоса)",
+  "group": "Предупреждающие знаки",
+  "meaning": "Дополнительное предупреждение о приближении к железнодорожному переезду вне населенного пункта: чем меньше красных полос, тем ближе переезд.",
+  "note": "Ставится под вторым (повторным) знаком 1.1 или 1.2. Знаки 1.4.1-1.4.3 ставят справа от дороги, такие же 1.4.4-1.4.6 - слева.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='34' y='4' width='32' height='92' rx='2' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='1.5'/><path d='M35 80 L65 62 L65 74 L35 92 Z' fill='#D52B1E'/></svg>"
+ },
+ {
+  "code": "1.9",
+  "name": "Разводной мост",
+  "group": "Предупреждающие знаки",
+  "meaning": "Впереди разводной мост или паромная переправа.",
+  "note": "Вне населенных пунктов знак повторяется: второй знак ставят не ближе 50 м до начала опасного участка. Вне населенного пункта ставится за 150-300 м до опасного участка, в населенном пункте - за 50-100 м; другое расстояние указывают табличкой 7.1.1.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M50 8 L95 88 H5 Z' fill='#FFFFFF' stroke='#D52B1E' stroke-width='8' stroke-linejoin='round'/><g fill='#1A1A1A'><path d='M22 64 L46 50 L47 55 L27 66 Z'/><path d='M78 64 L54 50 L53 55 L73 66 Z'/><rect x='18' y='62' width='9' height='14'/><rect x='73' y='62' width='9' height='14'/></g><path d='M20 81 Q26 77 32 81 T44 81 T56 81 T68 81 T80 81' fill='none' stroke='#1A1A1A' stroke-width='3'/></svg>"
+ },
+ {
+  "code": "1.10",
+  "name": "Выезд на набережную",
+  "group": "Предупреждающие знаки",
+  "meaning": "Впереди выезд на набережную или берег водоема.",
+  "note": "Вне населенных пунктов знак повторяется: второй знак ставят не ближе 50 м до начала опасного участка. Вне населенного пункта ставится за 150-300 м до опасного участка, в населенном пункте - за 50-100 м; другое расстояние указывают табличкой 7.1.1.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M50 8 L95 88 H5 Z' fill='#FFFFFF' stroke='#D52B1E' stroke-width='8' stroke-linejoin='round'/><path d='M13 84 L20 62 H38 V84 Z' fill='#1A1A1A'/><g transform='rotate(28 54 60)'><g transform='translate(54 58) scale(0.52) translate(-50 -55)'><path d='M24 58 L31 47 Q33 43 39 43 L58 43 Q63 43 66 48 L72 52 Q76 53 76 58 L76 63 L24 63 Z' fill='#1A1A1A'/><path d='M34 52 L39 46 L48 46 L48 52 Z' fill='#FFFFFF'/><path d='M51 46 L51 52 L63 52 L59 46 Z' fill='#FFFFFF'/><circle cx='36' cy='63' r='5.5' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1.5'/><circle cx='64' cy='63' r='5.5' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1.5'/></g></g><path d='M40 81 Q45 77 50 81 T60 81 T70 81 T80 81' fill='none' stroke='#1A1A1A' stroke-width='3'/></svg>"
+ },
+ {
+  "code": "1.11.2",
+  "name": "Опасный поворот налево",
+  "group": "Предупреждающие знаки",
+  "meaning": "Закругление дороги малого радиуса или с ограниченной видимостью: поворот налево.",
+  "note": "Вне населенного пункта ставится за 150-300 м до опасного участка, в населенном пункте - за 50-100 м; другое расстояние указывают табличкой 7.1.1.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M50 8 L95 88 H5 Z' fill='#FFFFFF' stroke='#D52B1E' stroke-width='8' stroke-linejoin='round'/><g transform='translate(100 0) scale(-1 1)'><path d='M42 82 V58 Q42 46 54 46 H58' fill='none' stroke='#1A1A1A' stroke-width='7'/><path d='M58 55 L71 46 L58 37 Z' fill='#1A1A1A'/></g></svg>"
+ },
+ {
+  "code": "1.12.2",
+  "name": "Опасные повороты (первый налево)",
+  "group": "Предупреждающие знаки",
+  "meaning": "Участок дороги с опасными поворотами, первый поворот - налево.",
+  "note": "Вне населенного пункта ставится за 150-300 м до опасного участка, в населенном пункте - за 50-100 м; другое расстояние указывают табличкой 7.1.1.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M50 8 L95 88 H5 Z' fill='#FFFFFF' stroke='#D52B1E' stroke-width='8' stroke-linejoin='round'/><g transform='translate(100 0) scale(-1 1)'><path d='M45 83 V71 L57 61 L45 51 V46' fill='none' stroke='#1A1A1A' stroke-width='6' stroke-linejoin='round'/><path d='M53.5 46 L45 33 L36.5 46 Z' fill='#1A1A1A'/></g></svg>"
+ },
+ {
+  "code": "1.16",
+  "name": "Неровная дорога",
+  "group": "Предупреждающие знаки",
+  "meaning": "Участок дороги с неровностями покрытия: волнистостью, выбоинами, неровными сопряжениями с мостами.",
+  "note": "Вне населенного пункта ставится за 150-300 м до опасного участка, в населенном пункте - за 50-100 м; другое расстояние указывают табличкой 7.1.1.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M50 8 L95 88 H5 Z' fill='#FFFFFF' stroke='#D52B1E' stroke-width='8' stroke-linejoin='round'/><path d='M16 82 L22 82 Q30 64 38 76 Q44 84 50 76 Q58 62 66 76 Q70 82 78 82 L84 82 L84 84 L16 84 Z' fill='#1A1A1A'/></svg>"
+ },
+ {
+  "code": "1.17",
+  "name": "Выброс гравия",
+  "group": "Предупреждающие знаки",
+  "meaning": "Участок дороги, где из-под колес может вылетать гравий, щебень и т.п.",
+  "note": "Вне населенного пункта ставится за 150-300 м до опасного участка, в населенном пункте - за 50-100 м; другое расстояние указывают табличкой 7.1.1.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M50 8 L95 88 H5 Z' fill='#FFFFFF' stroke='#D52B1E' stroke-width='8' stroke-linejoin='round'/><g transform='translate(56 70) scale(0.62) translate(-50 -55)'><path d='M24 58 L31 47 Q33 43 39 43 L58 43 Q63 43 66 48 L72 52 Q76 53 76 58 L76 63 L24 63 Z' fill='#1A1A1A'/><path d='M34 52 L39 46 L48 46 L48 52 Z' fill='#FFFFFF'/><path d='M51 46 L51 52 L63 52 L59 46 Z' fill='#FFFFFF'/><circle cx='36' cy='63' r='5.5' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1.5'/><circle cx='64' cy='63' r='5.5' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1.5'/></g><g fill='#1A1A1A'><path d='M28 60 l4 -3 l3 3 l-3 3 z'/><path d='M34 50 l5 -2 l2 4 l-5 2 z'/><path d='M24 70 l4 -1 l1 4 l-4 1 z'/><path d='M40 42 l3 -3 l3 3 l-3 3 z'/><path d='M30 44 l3 -1 l1 3 l-3 1 z'/></g></svg>"
+ },
+ {
+  "code": "1.18.2",
+  "name": "Сужение дороги справа",
+  "group": "Предупреждающие знаки",
+  "meaning": "Впереди дорога сужается с правой стороны.",
+  "note": "Вне населенного пункта ставится за 150-300 м до опасного участка, в населенном пункте - за 50-100 м; другое расстояние указывают табличкой 7.1.1.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M50 8 L95 88 H5 Z' fill='#FFFFFF' stroke='#D52B1E' stroke-width='8' stroke-linejoin='round'/><path d='M37 82 V38' fill='none' stroke='#1A1A1A' stroke-width='5'/><path d='M65 82 V68 L55 56 V38' fill='none' stroke='#1A1A1A' stroke-width='5'/></svg>"
+ },
+ {
+  "code": "1.18.3",
+  "name": "Сужение дороги слева",
+  "group": "Предупреждающие знаки",
+  "meaning": "Впереди дорога сужается с левой стороны.",
+  "note": "Вне населенного пункта ставится за 150-300 м до опасного участка, в населенном пункте - за 50-100 м; другое расстояние указывают табличкой 7.1.1.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M50 8 L95 88 H5 Z' fill='#FFFFFF' stroke='#D52B1E' stroke-width='8' stroke-linejoin='round'/><path d='M63 82 V38' fill='none' stroke='#1A1A1A' stroke-width='5'/><path d='M35 82 V68 L45 56 V38' fill='none' stroke='#1A1A1A' stroke-width='5'/></svg>"
+ },
+ {
+  "code": "1.22",
+  "name": "Пересечение с велосипедной дорожкой",
+  "group": "Предупреждающие знаки",
+  "meaning": "Впереди пересечение с велосипедной дорожкой или велопереходом.",
+  "note": "Вне населенного пункта ставится за 150-300 м до опасного участка, в населенном пункте - за 50-100 м; другое расстояние указывают табличкой 7.1.1.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M50 8 L95 88 H5 Z' fill='#FFFFFF' stroke='#D52B1E' stroke-width='8' stroke-linejoin='round'/><g transform='translate(50 66) scale(0.52) translate(-50 -50)'><g fill='none' stroke='#1A1A1A' stroke-width='5'><circle cx='30' cy='60' r='13'/><circle cx='70' cy='60' r='13'/><path d='M30 60 L42 40 H62 L70 60 M42 40 L50 60 L62 40 M50 60 H30' stroke-linejoin='round'/><path d='M40 34 H48 M60 40 L57 32 H64'/></g></g></svg>"
+ },
+ {
+  "code": "1.24",
+  "name": "Перегон скота",
+  "group": "Предупреждающие знаки",
+  "meaning": "Впереди участок, где возможно появление на дороге скота.",
+  "note": "Вне населенного пункта ставится за 150-300 м до опасного участка, в населенном пункте - за 50-100 м; другое расстояние указывают табличкой 7.1.1.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M50 8 L95 88 H5 Z' fill='#FFFFFF' stroke='#D52B1E' stroke-width='8' stroke-linejoin='round'/><g transform='translate(50 63) scale(0.8) translate(-52 -55)'><path d='M24 45 Q24 38 32 38 H60 Q65 38 68 42 L71 45 H78 Q82 46 82 51 L81 57 Q80 60 76 59 L71 56 Q69 59 66 60 V72 H61 V62 H37 V72 H32 V61 Q24 59 24 52 Z' fill='#1A1A1A'/><path d='M74 45 Q73 39 77 37 M79 45 Q81 40 85 39' fill='none' stroke='#1A1A1A' stroke-width='2.6' stroke-linecap='round'/><path d='M25 43 Q19 48 20 60' fill='none' stroke='#1A1A1A' stroke-width='2.4' stroke-linecap='round'/><ellipse cx='20' cy='61' rx='2.6' ry='4' fill='#1A1A1A'/></g></svg>"
+ },
+ {
+  "code": "1.25",
+  "name": "Дикие животные",
+  "group": "Предупреждающие знаки",
+  "meaning": "Впереди участок, где возможно появление на дороге диких животных.",
+  "note": "Вне населенного пункта ставится за 150-300 м до опасного участка, в населенном пункте - за 50-100 м; другое расстояние указывают табличкой 7.1.1.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M50 8 L95 88 H5 Z' fill='#FFFFFF' stroke='#D52B1E' stroke-width='8' stroke-linejoin='round'/><g transform='translate(50 62) scale(0.72) translate(-48 -44)'><g transform='rotate(-14 48 52)'><ellipse cx='47' cy='52' rx='18' ry='8' fill='#1A1A1A'/></g><path d='M60 48 L68 32' stroke='#1A1A1A' stroke-width='8' stroke-linecap='round'/><path d='M66 27 Q72 24 76 28 L80 31 Q80 34 76 34 L70 34 Z' fill='#1A1A1A'/><path d='M69 27 L66 18 L61 15 M66 18 L67 12 M72 26 L76 17 L81 15 M76 17 L75 11' fill='none' stroke='#1A1A1A' stroke-width='2.4' stroke-linecap='round' stroke-linejoin='round'/><path d='M58 55 L68 60 L66 70 M54 57 L62 64 L58 72' fill='none' stroke='#1A1A1A' stroke-width='3.6' stroke-linecap='round' stroke-linejoin='round'/><path d='M34 55 L24 64 L16 66 M37 58 L30 68 L24 72' fill='none' stroke='#1A1A1A' stroke-width='3.6' stroke-linecap='round' stroke-linejoin='round'/><path d='M30 50 L26 46' stroke='#1A1A1A' stroke-width='3' stroke-linecap='round'/></g></svg>"
+ },
+ {
+  "code": "1.26",
+  "name": "Падение камней",
+  "group": "Предупреждающие знаки",
+  "meaning": "Участок дороги, где возможны обвалы, оползни, падение камней.",
+  "note": "Вне населенного пункта ставится за 150-300 м до опасного участка, в населенном пункте - за 50-100 м; другое расстояние указывают табличкой 7.1.1.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M50 8 L95 88 H5 Z' fill='#FFFFFF' stroke='#D52B1E' stroke-width='8' stroke-linejoin='round'/><path d='M84 84 L62 84 L60 70 L66 62 L64 50 L70 44 L76 58 Z' fill='#1A1A1A'/><g fill='#1A1A1A'><path d='M50 58 l6 -2 l3 5 l-4 5 l-6 -1 z'/><path d='M40 70 l7 -1 l2 6 l-6 3 l-4 -4 z'/><path d='M46 46 l4 -1 l2 4 l-3 3 l-4 -2 z'/><path d='M28 78 l6 0 l2 5 l-8 1 z'/></g></svg>"
+ },
+ {
+  "code": "1.27",
+  "name": "Боковой ветер",
+  "group": "Предупреждающие знаки",
+  "meaning": "Участок дороги, где возможен сильный боковой ветер.",
+  "note": "Вне населенного пункта ставится за 150-300 м до опасного участка, в населенном пункте - за 50-100 м; другое расстояние указывают табличкой 7.1.1.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M50 8 L95 88 H5 Z' fill='#FFFFFF' stroke='#D52B1E' stroke-width='8' stroke-linejoin='round'/><rect x='33' y='48' width='4' height='36' fill='#1A1A1A'/><path d='M37 50 L72 55 L72 62 L37 67 Z' fill='#1A1A1A'/><path d='M48 52 V65 M60 53.5 V63.5' stroke='#FFFFFF' stroke-width='3'/></svg>"
+ },
+ {
+  "code": "1.28",
+  "name": "Низколетящие самолеты",
+  "group": "Предупреждающие знаки",
+  "meaning": "Участок дороги, над которым самолеты или вертолеты пролетают на малой высоте.",
+  "note": "Вне населенного пункта ставится за 150-300 м до опасного участка, в населенном пункте - за 50-100 м; другое расстояние указывают табличкой 7.1.1.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M50 8 L95 88 H5 Z' fill='#FFFFFF' stroke='#D52B1E' stroke-width='8' stroke-linejoin='round'/><g transform='rotate(40 50 62)'><g transform='translate(50 62) scale(0.46) translate(-50 -50)'><path d='M50 18 Q54 18 54 26 L54 44 L80 58 L80 64 L54 56 L54 72 L62 78 L62 82 L50 79 L38 82 L38 78 L46 72 L46 56 L20 64 L20 58 L46 44 L46 26 Q46 18 50 18 Z' fill='#1A1A1A'/></g></g></svg>"
+ },
+ {
+  "code": "1.29",
+  "name": "Тоннель",
+  "group": "Предупреждающие знаки",
+  "meaning": "Впереди тоннель, в котором нет освещения или видимость въездного портала ограничена.",
+  "note": "Вне населенного пункта ставится за 150-300 м до опасного участка, в населенном пункте - за 50-100 м; другое расстояние указывают табличкой 7.1.1.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M50 8 L95 88 H5 Z' fill='#FFFFFF' stroke='#D52B1E' stroke-width='8' stroke-linejoin='round'/><path d='M18 84 L30 56 Q50 40 70 56 L82 84 Z' fill='#1A1A1A'/><path d='M36 84 V68 Q36 56 50 56 Q64 56 64 68 V84 Z' fill='#FFFFFF'/></svg>"
+ },
+ {
+  "code": "1.31.1",
+  "name": "Направление поворота",
+  "group": "Предупреждающие знаки",
+  "meaning": "Показывает направление движения на закруглении дороги малого радиуса с ограниченной видимостью или направление объезда ремонтируемого участка.",
+  "note": "Стрелки показывают, куда уходит дорога: ехать нужно в сторону стрелок.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='6' y='24' width='88' height='52' rx='4' fill='#D52B1E' stroke='#FFFFFF' stroke-width='2'/><path d='M22 32 L38 50 L22 68' fill='none' stroke='#FFFFFF' stroke-width='7' stroke-linejoin='miter'/><path d='M44 32 L60 50 L44 68' fill='none' stroke='#FFFFFF' stroke-width='7' stroke-linejoin='miter'/><path d='M66 32 L82 50 L66 68' fill='none' stroke='#FFFFFF' stroke-width='7' stroke-linejoin='miter'/></svg>"
+ },
+ {
+  "code": "1.31.2",
+  "name": "Направление поворота",
+  "group": "Предупреждающие знаки",
+  "meaning": "Показывает направление движения на закруглении дороги малого радиуса с ограниченной видимостью или направление объезда ремонтируемого участка.",
+  "note": "Стрелки показывают, куда уходит дорога: ехать нужно в сторону стрелок.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='6' y='24' width='88' height='52' rx='4' fill='#D52B1E' stroke='#FFFFFF' stroke-width='2'/><path d='M34 32 L18 50 L34 68' fill='none' stroke='#FFFFFF' stroke-width='7' stroke-linejoin='miter'/><path d='M56 32 L40 50 L56 68' fill='none' stroke='#FFFFFF' stroke-width='7' stroke-linejoin='miter'/><path d='M78 32 L62 50 L78 68' fill='none' stroke='#FFFFFF' stroke-width='7' stroke-linejoin='miter'/></svg>"
+ },
+ {
+  "code": "1.31.3",
+  "name": "Направление поворота на Т-образном перекрестке",
+  "group": "Предупреждающие знаки",
+  "meaning": "Показывает направления движения на Т-образном перекрестке или разветвлении дорог, а также направления объезда ремонтируемого участка.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='6' y='24' width='88' height='52' rx='4' fill='#D52B1E' stroke='#FFFFFF' stroke-width='2'/><path d='M28 32 L12 50 L28 68' fill='none' stroke='#FFFFFF' stroke-width='7' stroke-linejoin='miter'/><path d='M46 32 L30 50 L46 68' fill='none' stroke='#FFFFFF' stroke-width='7' stroke-linejoin='miter'/><path d='M54 32 L70 50 L54 68' fill='none' stroke='#FFFFFF' stroke-width='7' stroke-linejoin='miter'/><path d='M72 32 L88 50 L72 68' fill='none' stroke='#FFFFFF' stroke-width='7' stroke-linejoin='miter'/></svg>"
+ },
+ {
+  "code": "2.3.3",
+  "name": "Примыкание второстепенной дороги слева",
+  "group": "Знаки приоритета",
+  "meaning": "Вы на главной дороге, слева к ней примыкает второстепенная дорога.",
+  "note": "Знаки 2.1, 2.3.1-2.3.3 и 5.1 обозначают главную дорогу (пп. 9 п. 2 ПДД).",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M50 8 L95 88 H5 Z' fill='#FFFFFF' stroke='#D52B1E' stroke-width='8' stroke-linejoin='round'/><g fill='#1A1A1A'><rect x='45' y='34' width='10' height='48'/><rect x='26' y='58' width='24' height='5'/></g></svg>"
+ },
+ {
+  "code": "3.5",
+  "name": "Движение мотоциклов запрещено",
+  "group": "Запрещающие знаки",
+  "meaning": "Запрещено движение мотоциклов и мопедов.",
+  "note": "Запрещает движение в обоих направлениях. Не распространяется на ТС, которые обслуживают предприятия или граждан в обозначенной зоне либо принадлежат гражданам, живущим или работающим в ней: въезжать и выезжать нужно на ближайшем к цели перекрестке.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='44' fill='#FFFFFF' stroke='#D52B1E' stroke-width='10'/><g transform='translate(50 52) scale(0.8) translate(-50 -52)'><circle cx='27' cy='62' r='10' fill='none' stroke='#1A1A1A' stroke-width='5'/><circle cx='73' cy='62' r='10' fill='none' stroke='#1A1A1A' stroke-width='5'/><path d='M34 46 H52 L58 42 H66 L62 50 L56 58 H40 Z' fill='#1A1A1A'/><rect x='42' y='52' width='14' height='10' rx='2' fill='#1A1A1A'/><path d='M27 62 L36 52' stroke='#1A1A1A' stroke-width='4'/><path d='M73 62 L65 38 H60' fill='none' stroke='#1A1A1A' stroke-width='4.5' stroke-linecap='round' stroke-linejoin='round'/><path d='M30 44 H46' stroke='#1A1A1A' stroke-width='4' stroke-linecap='round'/></g></svg>"
+ },
+ {
+  "code": "3.6",
+  "name": "Движение тракторов запрещено",
+  "group": "Запрещающие знаки",
+  "meaning": "Запрещено движение тракторов и самоходных машин.",
+  "note": "Запрещает движение в обоих направлениях. Не распространяется на ТС, которые обслуживают предприятия или граждан в обозначенной зоне либо принадлежат гражданам, живущим или работающим в ней: въезжать и выезжать нужно на ближайшем к цели перекрестке.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='44' fill='#FFFFFF' stroke='#D52B1E' stroke-width='10'/><g transform='translate(50 50) scale(0.8) translate(-50 -50)'><circle cx='34' cy='60' r='13' fill='#1A1A1A'/><circle cx='34' cy='60' r='4' fill='#FFFFFF'/><circle cx='70' cy='66' r='7' fill='#1A1A1A'/><circle cx='70' cy='66' r='2.5' fill='#FFFFFF'/><path d='M24 44 V30 H44 L46 44 H76 V58 H50 Z' fill='#1A1A1A'/><path d='M28 33 H41 L42 42 H28 Z' fill='#FFFFFF'/><rect x='62' y='36' width='4' height='8' fill='#1A1A1A'/></g></svg>"
+ },
+ {
+  "code": "3.7",
+  "name": "Движение с прицепом запрещено",
+  "group": "Запрещающие знаки",
+  "meaning": "Запрещено движение грузовых автомобилей и тракторов с прицепами любого типа, а также буксировка механических транспортных средств.",
+  "note": "Запрещает движение в обоих направлениях. Легкового автомобиля с прицепом этот знак не касается. Не распространяется на ТС, которые обслуживают предприятия или граждан в обозначенной зоне либо принадлежат гражданам, живущим или работающим в ней: въезжать и выезжать нужно на ближайшем к цели перекрестке.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='44' fill='#FFFFFF' stroke='#D52B1E' stroke-width='10'/><g transform='translate(60 50) scale(0.6) translate(-50 -52)'><rect x='22' y='38' width='36' height='22' fill='#1A1A1A'/><path d='M60 44 H70 L78 52 V60 H60 Z' fill='#1A1A1A'/><path d='M63 47 H69 L74 52 H63 Z' fill='#FFFFFF'/><circle cx='32' cy='62' r='5.5' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1.5'/><circle cx='70' cy='62' r='5.5' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1.5'/></g><rect x='16' y='40' width='22' height='14' fill='#1A1A1A'/><circle cx='27' cy='57' r='3.6' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1'/><path d='M38 51 H44' stroke='#1A1A1A' stroke-width='2.2'/></svg>"
+ },
+ {
+  "code": "3.8",
+  "name": "Движение гужевых повозок запрещено",
+  "group": "Запрещающие знаки",
+  "meaning": "Запрещено движение гужевых повозок (саней), верховых и вьючных животных, а также прогон скота.",
+  "note": "Запрещает движение в обоих направлениях. Не распространяется на ТС, которые обслуживают предприятия или граждан в обозначенной зоне либо принадлежат гражданам, живущим или работающим в ней: въезжать и выезжать нужно на ближайшем к цели перекрестке.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='44' fill='#FFFFFF' stroke='#D52B1E' stroke-width='10'/><g transform='translate(50 51) scale(0.84) translate(-50 -44)'><path d='M46 44 Q46 38 54 38 H66 Q68 32 72 27 L76 22 Q78 20 80 22 L84 28 Q86 32 83 33 L79 32 Q76 36 74 42 L72 48 V64 H68 V51 H58 L56 64 H52 V51 Q46 50 46 46 Z' fill='#1A1A1A'/><path d='M46 42 Q40 44 40 54' fill='none' stroke='#1A1A1A' stroke-width='2.6' stroke-linecap='round'/><path d='M16 40 H38 V50 H16 Z' fill='#1A1A1A'/><circle cx='26' cy='57' r='9' fill='none' stroke='#1A1A1A' stroke-width='3'/><path d='M26 48 V66 M17 57 H35' stroke='#1A1A1A' stroke-width='1.8'/><path d='M36 44 L60 40' stroke='#1A1A1A' stroke-width='2.5'/></g></svg>"
+ },
+ {
+  "code": "3.9",
+  "name": "Движение на велосипедах запрещено",
+  "group": "Запрещающие знаки",
+  "meaning": "Запрещено движение на велосипедах, электросамокатах и малых электрических транспортных средствах.",
+  "note": "Запрещает движение в обоих направлениях.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='44' fill='#FFFFFF' stroke='#D52B1E' stroke-width='10'/><g transform='translate(50 52) scale(0.66) translate(-50 -50)'><g fill='none' stroke='#1A1A1A' stroke-width='5'><circle cx='30' cy='60' r='13'/><circle cx='70' cy='60' r='13'/><path d='M30 60 L42 40 H62 L70 60 M42 40 L50 60 L62 40 M50 60 H30' stroke-linejoin='round'/><path d='M40 34 H48 M60 40 L57 32 H64'/></g></g></svg>"
+ },
+ {
+  "code": "3.9.1",
+  "name": "Движение на электросамокатах запрещено",
+  "group": "Запрещающие знаки",
+  "meaning": "Запрещено движение на электросамокатах.",
+  "note": "Велосипедов этот знак не касается (для них есть знак 3.9).",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='44' fill='#FFFFFF' stroke='#D52B1E' stroke-width='10'/><g transform='translate(50 50) scale(0.8) translate(-50 -50)'><circle cx='30' cy='70' r='6' fill='none' stroke='#1A1A1A' stroke-width='4'/><circle cx='70' cy='70' r='6' fill='none' stroke='#1A1A1A' stroke-width='4'/><path d='M30 66 H62 L66 28' fill='none' stroke='#1A1A1A' stroke-width='5' stroke-linejoin='round' stroke-linecap='round'/><path d='M59 28 H74' stroke='#1A1A1A' stroke-width='5' stroke-linecap='round'/><path d='M64 60 L70 70' stroke='#1A1A1A' stroke-width='4'/></g></svg>"
+ },
+ {
+  "code": "3.10",
+  "name": "Движение пешеходов запрещено",
+  "group": "Запрещающие знаки",
+  "meaning": "Запрещено движение пешеходов.",
+  "note": "Действует только на той стороне дороги, где установлен.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='44' fill='#FFFFFF' stroke='#D52B1E' stroke-width='10'/><g transform='translate(50 50) scale(0.72) translate(-50 -47)'><circle cx='53.2' cy='20' r='8' fill='#1A1A1A'/><line x1='51.6' y1='31.2' x2='48.4' y2='55.2' stroke='#1A1A1A' stroke-width='6.7' stroke-linecap='round'/><line x1='48.4' y1='55.2' x2='37.2' y2='74.4' stroke='#1A1A1A' stroke-width='6.7' stroke-linecap='round'/><line x1='48.4' y1='55.2' x2='61.2' y2='72.8' stroke='#1A1A1A' stroke-width='6.7' stroke-linecap='round'/><line x1='50.8' y1='36' x2='37.2' y2='48.8' stroke='#1A1A1A' stroke-width='6.7' stroke-linecap='round'/><line x1='50.8' y1='36' x2='62.8' y2='45.6' stroke='#1A1A1A' stroke-width='6.7' stroke-linecap='round'/></g><line x1='21' y1='21' x2='79' y2='79' stroke='#D52B1E' stroke-width='8'/></svg>"
+ },
+ {
+  "code": "3.11",
+  "name": "Ограничение массы",
+  "group": "Запрещающие знаки",
+  "meaning": "Запрещено движение транспортных средств, в том числе составов, общая фактическая масса которых больше указанной на знаке.",
+  "note": "Фактическая масса - это масса машины вместе с грузом и пассажирами в данный момент.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='44' fill='#FFFFFF' stroke='#D52B1E' stroke-width='10'/><text x='50' y='59' font-family='Arial,sans-serif' font-weight='bold' font-size='27' text-anchor='middle' fill='#1A1A1A'>10 т</text></svg>"
+ },
+ {
+  "code": "3.12",
+  "name": "Ограничение нагрузки на ось",
+  "group": "Запрещающие знаки",
+  "meaning": "Запрещено движение транспортных средств, у которых фактическая нагрузка на какую-либо ось больше указанной на знаке.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='44' fill='#FFFFFF' stroke='#D52B1E' stroke-width='10'/><text x='50' y='52' font-family='Arial,sans-serif' font-weight='bold' font-size='26' text-anchor='middle' fill='#1A1A1A'>6 т</text><g fill='#1A1A1A'><rect x='30' y='60' width='8' height='14' rx='2'/><rect x='62' y='60' width='8' height='14' rx='2'/><rect x='38' y='65' width='24' height='4'/></g></svg>"
+ },
+ {
+  "code": "3.14",
+  "name": "Ограничение ширины",
+  "group": "Запрещающие знаки",
+  "meaning": "Запрещено движение транспортных средств, габаритная ширина которых (с грузом или без груза) больше указанной на знаке.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='44' fill='#FFFFFF' stroke='#D52B1E' stroke-width='10'/><text x='50' y='59' font-family='Arial,sans-serif' font-weight='bold' font-size='22' text-anchor='middle' fill='#1A1A1A'>2,5 м</text><path d='M13 43 L22 50 L13 57 Z' fill='#1A1A1A'/><path d='M87 43 L78 50 L87 57 Z' fill='#1A1A1A'/></svg>"
+ },
+ {
+  "code": "3.15",
+  "name": "Ограничение длины",
+  "group": "Запрещающие знаки",
+  "meaning": "Запрещено движение транспортных средств (составов), габаритная длина которых (с грузом или без груза) больше указанной на знаке.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='44' fill='#FFFFFF' stroke='#D52B1E' stroke-width='10'/><text x='50' y='46' font-family='Arial,sans-serif' font-weight='bold' font-size='22' text-anchor='middle' fill='#1A1A1A'>10 м</text><path d='M22 58 H78' stroke='#1A1A1A' stroke-width='3'/><path d='M28 53 L20 58 L28 63 Z' fill='#1A1A1A'/><path d='M72 53 L80 58 L72 63 Z' fill='#1A1A1A'/><path d='M20 52 V64 M80 52 V64' stroke='#1A1A1A' stroke-width='2.5'/></svg>"
+ },
+ {
+  "code": "3.16",
+  "name": "Ограничение минимальной дистанции",
+  "group": "Запрещающие знаки",
+  "meaning": "Запрещено движение транспортных средств с дистанцией между ними меньше указанной на знаке.",
+  "note": "Зона действия - до ближайшего перекрестка; уменьшить ее можно табличкой 7.2.1.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='44' fill='#FFFFFF' stroke='#D52B1E' stroke-width='10'/><text x='50' y='44' font-family='Arial,sans-serif' font-weight='bold' font-size='20' text-anchor='middle' fill='#1A1A1A'>30 м</text><g transform='translate(26 62) scale(0.34) translate(-50 -55)'><path d='M24 58 L31 47 Q33 43 39 43 L58 43 Q63 43 66 48 L72 52 Q76 53 76 58 L76 63 L24 63 Z' fill='#1A1A1A'/><path d='M34 52 L39 46 L48 46 L48 52 Z' fill='#FFFFFF'/><path d='M51 46 L51 52 L63 52 L59 46 Z' fill='#FFFFFF'/><circle cx='36' cy='63' r='5.5' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1.5'/><circle cx='64' cy='63' r='5.5' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1.5'/></g><g transform='translate(74 62) scale(0.34) translate(-50 -55)'><path d='M24 58 L31 47 Q33 43 39 43 L58 43 Q63 43 66 48 L72 52 Q76 53 76 58 L76 63 L24 63 Z' fill='#1A1A1A'/><path d='M34 52 L39 46 L48 46 L48 52 Z' fill='#FFFFFF'/><path d='M51 46 L51 52 L63 52 L59 46 Z' fill='#FFFFFF'/><circle cx='36' cy='63' r='5.5' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1.5'/><circle cx='64' cy='63' r='5.5' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1.5'/></g><path d='M38 62 H62' stroke='#1A1A1A' stroke-width='2.5'/><path d='M42 58 L36 62 L42 66 Z' fill='#1A1A1A'/><path d='M58 58 L64 62 L58 66 Z' fill='#1A1A1A'/></svg>"
+ },
+ {
+  "code": "3.17.1",
+  "name": "Таможня",
+  "group": "Запрещающие знаки",
+  "meaning": "Запрещен проезд без остановки у таможни (контрольного пункта).",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='44' fill='#FFFFFF' stroke='#D52B1E' stroke-width='10'/><rect x='12' y='44' width='76' height='12' fill='#FFFFFF'/><text x='50' y='55' font-family='Arial,sans-serif' font-weight='bold' font-size='13.5' text-anchor='middle' fill='#1A1A1A'>ТАМОЖНЯ</text></svg>"
+ },
+ {
+  "code": "3.17.2",
+  "name": "Опасность",
+  "group": "Запрещающие знаки",
+  "meaning": "Запрещено дальнейшее движение всех без исключения транспортных средств в связи с ДТП, аварией или другой опасностью.",
+  "note": "Под этот знак не могут ехать даже маршрутные ТС.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='44' fill='#FFFFFF' stroke='#D52B1E' stroke-width='10'/><rect x='12' y='43' width='76' height='14' fill='#D52B1E'/></svg>"
+ },
+ {
+  "code": "3.17.3",
+  "name": "Контроль",
+  "group": "Запрещающие знаки",
+  "meaning": "Запрещен проезд без остановки через контрольные пункты.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='44' fill='#FFFFFF' stroke='#D52B1E' stroke-width='10'/><text x='50' y='55' font-family='Arial,sans-serif' font-weight='bold' font-size='12.5' text-anchor='middle' fill='#1A1A1A'>КОНТРОЛЬ</text></svg>"
+ },
+ {
+  "code": "3.22",
+  "name": "Обгон грузовым автомобилям запрещен",
+  "group": "Запрещающие знаки",
+  "meaning": "Грузовым автомобилям с разрешенной максимальной массой более 3,5 т запрещен обгон всех ТС, кроме одиночных, движущихся со скоростью менее 30 км/ч. Тракторам запрещен обгон всех ТС, кроме гужевых повозок и велосипедов.",
+  "note": "Зона действия - до ближайшего перекрестка; раньше ее заканчивает знак 3.23 или табличка 7.2.1. Легковых автомобилей знак не касается.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='44' fill='#FFFFFF' stroke='#D52B1E' stroke-width='10'/><g transform='translate(33 50) scale(0.55) translate(-50 -52)'><rect x='22' y='38' width='36' height='22' fill='#D52B1E'/><path d='M60 44 H70 L78 52 V60 H60 Z' fill='#D52B1E'/><path d='M63 47 H69 L74 52 H63 Z' fill='#FFFFFF'/><circle cx='32' cy='62' r='5.5' fill='#D52B1E' stroke='#FFFFFF' stroke-width='1.5'/><circle cx='70' cy='62' r='5.5' fill='#D52B1E' stroke='#FFFFFF' stroke-width='1.5'/></g><g transform='translate(68 50) scale(0.5) translate(-50 -55)'><path d='M24 58 L31 47 Q33 43 39 43 L58 43 Q63 43 66 48 L72 52 Q76 53 76 58 L76 63 L24 63 Z' fill='#1A1A1A'/><path d='M34 52 L39 46 L48 46 L48 52 Z' fill='#FFFFFF'/><path d='M51 46 L51 52 L63 52 L59 46 Z' fill='#FFFFFF'/><circle cx='36' cy='63' r='5.5' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1.5'/><circle cx='64' cy='63' r='5.5' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1.5'/></g></svg>"
+ },
+ {
+  "code": "3.23",
+  "name": "Конец зоны запрещения обгона грузовым автомобилям",
+  "group": "Запрещающие знаки",
+  "meaning": "Здесь заканчивается запрет обгона для грузовых автомобилей, введенный знаком 3.22.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='46' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='2'/><g transform='translate(33 50) scale(0.55) translate(-50 -52)'><rect x='22' y='38' width='36' height='22' fill='#8A8A8A'/><path d='M60 44 H70 L78 52 V60 H60 Z' fill='#8A8A8A'/><path d='M63 47 H69 L74 52 H63 Z' fill='#FFFFFF'/><circle cx='32' cy='62' r='5.5' fill='#8A8A8A' stroke='#FFFFFF' stroke-width='1.5'/><circle cx='70' cy='62' r='5.5' fill='#8A8A8A' stroke='#FFFFFF' stroke-width='1.5'/></g><g transform='translate(68 50) scale(0.5) translate(-50 -55)'><path d='M24 58 L31 47 Q33 43 39 43 L58 43 Q63 43 66 48 L72 52 Q76 53 76 58 L76 63 L24 63 Z' fill='#8A8A8A'/><path d='M34 52 L39 46 L48 46 L48 52 Z' fill='#FFFFFF'/><path d='M51 46 L51 52 L63 52 L59 46 Z' fill='#FFFFFF'/><circle cx='36' cy='63' r='5.5' fill='#8A8A8A' stroke='#FFFFFF' stroke-width='1.5'/><circle cx='64' cy='63' r='5.5' fill='#8A8A8A' stroke='#FFFFFF' stroke-width='1.5'/></g><line x1='11.2' y1='66.1' x2='66.1' y2='11.2' stroke='#1A1A1A' stroke-width='2.5'/><line x1='15.2' y1='73.5' x2='73.5' y2='15.2' stroke='#1A1A1A' stroke-width='2.5'/><line x1='20.3' y1='79.7' x2='79.7' y2='20.3' stroke='#1A1A1A' stroke-width='2.5'/><line x1='26.5' y1='84.8' x2='84.8' y2='26.5' stroke='#1A1A1A' stroke-width='2.5'/><line x1='33.9' y1='88.8' x2='88.8' y2='33.9' stroke='#1A1A1A' stroke-width='2.5'/></svg>"
+ },
+ {
+  "code": "3.26",
+  "name": "Подача звукового сигнала запрещена",
+  "group": "Запрещающие знаки",
+  "meaning": "Запрещено пользоваться звуковыми сигналами, кроме случаев, когда сигнал подают, чтобы предотвратить ДТП.",
+  "note": "Зона действия - до ближайшего перекрестка, а в населенном пункте без перекрестков - до его конца; уменьшить ее можно табличкой 7.2.1.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='44' fill='#FFFFFF' stroke='#D52B1E' stroke-width='10'/><g transform='translate(48 50) scale(0.72) translate(-48 -50)'><path d='M24 44 H36 L66 28 V72 L36 56 H24 Z' fill='#1A1A1A'/><path d='M72 38 Q78 50 72 62' fill='none' stroke='#1A1A1A' stroke-width='4' stroke-linecap='round'/></g><line x1='21' y1='21' x2='79' y2='79' stroke='#D52B1E' stroke-width='8'/></svg>"
+ },
+ {
+  "code": "3.30",
+  "name": "Стоянка запрещена по четным числам месяца",
+  "group": "Запрещающие знаки",
+  "meaning": "По четным числам месяца стоянка запрещена, остановка разрешена.",
+  "note": "Действует только на той стороне дороги, где установлен. При одновременном применении знаков 3.29 и 3.30 машины переставляют с 19 до 21 ч. Не действует на такси с включенным таксометром и на ТС, которыми управляют инвалиды I и II групп или которые их перевозят.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='44' fill='#1F5AA6' stroke='#D52B1E' stroke-width='10'/><rect x='34' y='26' width='9' height='48' fill='#FFFFFF'/><rect x='57' y='26' width='9' height='48' fill='#FFFFFF'/><line x1='21' y1='21' x2='79' y2='79' stroke='#D52B1E' stroke-width='8'/></svg>"
+ },
+ {
+  "code": "3.32",
+  "name": "Движение транспортных средств с опасными грузами запрещено",
+  "group": "Запрещающие знаки",
+  "meaning": "Запрещено движение транспортных средств с опознавательными знаками «Опасный груз».",
+  "note": "Запрещает движение в обоих направлениях.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='44' fill='#FFFFFF' stroke='#D52B1E' stroke-width='10'/><rect x='24' y='36' width='52' height='28' rx='2' fill='#F07F16' stroke='#1A1A1A' stroke-width='3'/></svg>"
+ },
+ {
+  "code": "3.33",
+  "name": "Движение транспортных средств с взрывчатыми и легковоспламеняющимися грузами запрещено",
+  "group": "Запрещающие знаки",
+  "meaning": "Запрещено движение транспортных средств, перевозящих взрывчатые вещества и изделия, а также другие опасные грузы, подлежащие маркировке как легковоспламеняющиеся.",
+  "note": "Запрещает движение в обоих направлениях.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='44' fill='#FFFFFF' stroke='#D52B1E' stroke-width='10'/><g transform='translate(50 50) scale(0.9) translate(-50 -50)'><path d='M50 20 L55 38 L70 26 L63 43 L82 42 L66 52 L80 64 L61 60 L64 80 L52 64 L42 80 L42 61 L22 66 L36 53 L20 42 L39 43 L32 26 L46 37 Z' fill='#1A1A1A'/><circle cx='50' cy='50' r='7' fill='#F07F16'/></g></svg>"
+ },
+ {
+  "code": "4.1.6",
+  "name": "Движение направо или налево",
+  "group": "Предписывающие знаки",
+  "meaning": "Разрешено движение только направо или налево.",
+  "note": "Действует на пересечение проезжих частей, перед которым установлен. Знак, разрешающий поворот налево, разрешает и разворот. Не распространяется на маршрутные ТС.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='47' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><path d='M50 84 V56 Q50 44 38 44 H32' fill='none' stroke='#FFFFFF' stroke-width='9'/><path d='M50 56 Q50 44 62 44 H68' fill='none' stroke='#FFFFFF' stroke-width='9'/><path d='M33 33 L18 44 L33 55 Z' fill='#FFFFFF'/><path d='M67 33 L82 44 L67 55 Z' fill='#FFFFFF'/></svg>"
+ },
+ {
+  "code": "4.2.2",
+  "name": "Объезд препятствия слева",
+  "group": "Предписывающие знаки",
+  "meaning": "Объезжать препятствие разрешено только слева.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='47' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><line x1='70' y1='30' x2='38' y2='62' stroke='#FFFFFF' stroke-width='11'/><path d='M49.7 71.5 L25 75 L28.5 50.3 Z' fill='#FFFFFF'/></svg>"
+ },
+ {
+  "code": "4.2.3",
+  "name": "Объезд препятствия справа или слева",
+  "group": "Предписывающие знаки",
+  "meaning": "Объезжать препятствие разрешено с любой стороны.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='47' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><path d='M50 20 V36 L32 56' fill='none' stroke='#FFFFFF' stroke-width='9' stroke-linejoin='round'/><path d='M50 36 L68 56' fill='none' stroke='#FFFFFF' stroke-width='9'/><path d='M38.5 66.9 L22 70 L25.1 53.5 Z' fill='#FFFFFF'/><path d='M61.5 66.9 L78 70 L74.9 53.5 Z' fill='#FFFFFF'/></svg>"
+ },
+ {
+  "code": "4.4",
+  "name": "Движение легковых автомобилей",
+  "group": "Предписывающие знаки",
+  "meaning": "Разрешено движение только легковых автомобилей, автобусов, мотоциклов, маршрутных ТС и грузовых автомобилей с разрешенной максимальной массой не более 3,5 т.",
+  "note": "Знак разрешает движение и других ТС, которые обслуживают предприятия или граждан в обозначенной зоне либо принадлежат гражданам, живущим или работающим в ней.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='47' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><g transform='translate(50 52) scale(1.0) translate(-50 -55)'><path d='M24 58 L31 47 Q33 43 39 43 L58 43 Q63 43 66 48 L72 52 Q76 53 76 58 L76 63 L24 63 Z' fill='#FFFFFF'/><path d='M34 52 L39 46 L48 46 L48 52 Z' fill='#1F5AA6'/><path d='M51 46 L51 52 L63 52 L59 46 Z' fill='#1F5AA6'/><circle cx='36' cy='63' r='5.5' fill='#FFFFFF' stroke='#1F5AA6' stroke-width='1.5'/><circle cx='64' cy='63' r='5.5' fill='#FFFFFF' stroke='#1F5AA6' stroke-width='1.5'/></g></svg>"
+ },
+ {
+  "code": "4.5.1",
+  "name": "Конец велосипедной дорожки или велосипедной полосы движения",
+  "group": "Предписывающие знаки",
+  "meaning": "Здесь заканчивается велосипедная дорожка или полоса, обозначенная знаком 4.5.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='47' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><g transform='translate(50 50) scale(1.0) translate(-50 -50)'><g fill='none' stroke='#FFFFFF' stroke-width='4'><circle cx='30' cy='60' r='13'/><circle cx='70' cy='60' r='13'/><path d='M30 60 L42 40 H62 L70 60 M42 40 L50 60 L62 40 M50 60 H30' stroke-linejoin='round'/><path d='M40 34 H48 M60 40 L57 32 H64'/></g></g><line x1='17' y1='83' x2='83' y2='17' stroke='#D52B1E' stroke-width='7'/></svg>"
+ },
+ {
+  "code": "4.8",
+  "name": "Конец зоны ограничения минимальной скорости",
+  "group": "Предписывающие знаки",
+  "meaning": "Здесь заканчивается зона, где действовало ограничение минимальной скорости (знак 4.7).",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='47' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><text x='50' y='64' font-family='Arial,sans-serif' font-weight='bold' font-size='40' text-anchor='middle' fill='#FFFFFF'>30</text><line x1='17' y1='83' x2='83' y2='17' stroke='#D52B1E' stroke-width='7'/></svg>"
+ },
+ {
+  "code": "4.9.1",
+  "name": "Направление движения транспортных средств с опасными грузами (направо)",
+  "group": "Предписывающие знаки",
+  "meaning": "Транспортным средствам с опознавательными знаками «Опасный груз» разрешено движение только направо.",
+  "note": "Касается только ТС с опознавательными знаками «Опасный груз».",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='47' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><path d='M40 84 V56 Q40 44 52 44 H58' fill='none' stroke='#FFFFFF' stroke-width='10'/><path d='M58 32 L76 44 L58 56 Z' fill='#FFFFFF'/><rect x='18' y='62' width='18' height='12' fill='#F07F16' stroke='#1A1A1A' stroke-width='2'/></svg>"
+ },
+ {
+  "code": "4.9.2",
+  "name": "Направление движения транспортных средств с опасными грузами (налево)",
+  "group": "Предписывающие знаки",
+  "meaning": "Транспортным средствам с опознавательными знаками «Опасный груз» разрешено движение только налево.",
+  "note": "Касается только ТС с опознавательными знаками «Опасный груз».",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='47' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><path d='M60 84 V56 Q60 44 48 44 H42' fill='none' stroke='#FFFFFF' stroke-width='10'/><path d='M42 32 L24 44 L42 56 Z' fill='#FFFFFF'/><rect x='64' y='62' width='18' height='12' fill='#F07F16' stroke='#1A1A1A' stroke-width='2'/></svg>"
+ },
+ {
+  "code": "4.9.3",
+  "name": "Направление движения транспортных средств с опасными грузами (прямо)",
+  "group": "Предписывающие знаки",
+  "meaning": "Транспортным средствам с опознавательными знаками «Опасный груз» разрешено движение только прямо.",
+  "note": "Касается только ТС с опознавательными знаками «Опасный груз».",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='47' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><rect x='50.5' y='33' width='11' height='53' fill='#FFFFFF'/><path d='M41 34 L56 14 L71 34 Z' fill='#FFFFFF'/><rect x='22' y='62' width='18' height='12' fill='#F07F16' stroke='#1A1A1A' stroke-width='2'/></svg>"
+ },
+ {
+  "code": "5.2",
+  "name": "Конец автомагистрали",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Здесь заканчивается автомагистраль и особые правила движения по ней.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='4' y='4' width='92' height='92' rx='7' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><path d='M20 88 L44 44 H56 L80 88 Z' fill='#FFFFFF'/><path d='M50 88 V46' stroke='#1F5AA6' stroke-width='3'/><rect x='12' y='24' width='76' height='9' fill='#FFFFFF'/><rect x='20' y='33' width='6' height='20' fill='#FFFFFF'/><rect x='74' y='33' width='6' height='20' fill='#FFFFFF'/><line x1='12' y1='88' x2='88' y2='12' stroke='#D52B1E' stroke-width='6'/></svg>"
+ },
+ {
+  "code": "5.3",
+  "name": "Дорога для автомобилей",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Дорога, предназначенная для движения только автомобилей и мотоциклов.",
+  "note": "На такой дороге действуют те же запреты, что и на автомагистрали (п. 120). Конец - знак 5.4.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='4' y='4' width='92' height='92' rx='7' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><g transform='translate(50 52) scale(1.12) translate(-50 -55)'><path d='M24 58 L31 47 Q33 43 39 43 L58 43 Q63 43 66 48 L72 52 Q76 53 76 58 L76 63 L24 63 Z' fill='#FFFFFF'/><path d='M34 52 L39 46 L48 46 L48 52 Z' fill='#1F5AA6'/><path d='M51 46 L51 52 L63 52 L59 46 Z' fill='#1F5AA6'/><circle cx='36' cy='63' r='5.5' fill='#FFFFFF' stroke='#1F5AA6' stroke-width='1.5'/><circle cx='64' cy='63' r='5.5' fill='#FFFFFF' stroke='#1F5AA6' stroke-width='1.5'/></g></svg>"
+ },
+ {
+  "code": "5.4",
+  "name": "Конец дороги для автомобилей",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Здесь заканчивается дорога, обозначенная знаком 5.3.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='4' y='4' width='92' height='92' rx='7' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><g transform='translate(50 52) scale(1.12) translate(-50 -55)'><path d='M24 58 L31 47 Q33 43 39 43 L58 43 Q63 43 66 48 L72 52 Q76 53 76 58 L76 63 L24 63 Z' fill='#FFFFFF'/><path d='M34 52 L39 46 L48 46 L48 52 Z' fill='#1F5AA6'/><path d='M51 46 L51 52 L63 52 L59 46 Z' fill='#1F5AA6'/><circle cx='36' cy='63' r='5.5' fill='#FFFFFF' stroke='#1F5AA6' stroke-width='1.5'/><circle cx='64' cy='63' r='5.5' fill='#FFFFFF' stroke='#1F5AA6' stroke-width='1.5'/></g><line x1='12' y1='88' x2='88' y2='12' stroke='#D52B1E' stroke-width='6'/></svg>"
+ },
+ {
+  "code": "5.6",
+  "name": "Конец дороги с односторонним движением",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Здесь заканчивается дорога с односторонним движением: дальше движение может быть встречным.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='4' y='4' width='92' height='92' rx='7' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><rect x='43' y='37' width='14' height='49' fill='#FFFFFF'/><path d='M32 38 L50 14 L68 38 Z' fill='#FFFFFF'/><line x1='12' y1='88' x2='88' y2='12' stroke='#D52B1E' stroke-width='6'/></svg>"
+ },
+ {
+  "code": "5.7.2",
+  "name": "Выезд на дорогу с односторонним движением (налево)",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Впереди выезд на дорогу с односторонним движением, поток по ней идет налево.",
+  "note": "Поворачивать против стрелки нельзя: там движение навстречу запрещено.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='3' y='24' width='94' height='52' rx='6' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><rect x='36' y='45' width='50' height='10' fill='#FFFFFF'/><path d='M37 67 L12 50 L37 33 Z' fill='#FFFFFF'/></svg>"
+ },
+ {
+  "code": "5.8.1",
+  "name": "Направления движения по полосам",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Показывает число полос и разрешенные направления движения по каждой из них.",
+  "note": "Если знак разрешает поворот налево из крайней левой полосы, с нее разрешен и разворот. Знак перед перекрестком действует на весь перекресток, если другие знаки 5.8.1, 5.8.2 на нем не указывают иное.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='4' y='4' width='92' height='92' rx='7' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><rect x='26.8' y='50' width='6.5' height='36' fill='#FFFFFF'/><path d='M30 60 Q30 50 25 50' fill='none' stroke='#FFFFFF' stroke-width='6.5'/><path d='M25 43 L16 50 L25 57 Z' fill='#FFFFFF'/><rect x='46.8' y='31' width='6.5' height='55' fill='#FFFFFF'/><path d='M42.5 33 L50 22 L57.5 33 Z' fill='#FFFFFF'/><rect x='66.8' y='31' width='6.5' height='55' fill='#FFFFFF'/><path d='M62.5 33 L70 22 L77.5 33 Z' fill='#FFFFFF'/><path d='M70 60 Q70 50 75 50' fill='none' stroke='#FFFFFF' stroke-width='6.5'/><path d='M75 43 L84 50 L75 57 Z' fill='#FFFFFF'/><path d='M40 30 V90 M60 30 V90' stroke='#FFFFFF' stroke-width='2' stroke-dasharray='6 5'/></svg>"
+ },
+ {
+  "code": "5.8.2",
+  "name": "Направления движения по полосе",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Показывает разрешенные направления движения по полосе, над которой или у которой установлен.",
+  "note": "Знак, разрешающий поворот налево из крайней левой полосы, разрешает и разворот с этой полосы.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='22' y='4' width='56' height='92' rx='6' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><rect x='42.5' y='28' width='7' height='60' fill='#FFFFFF'/><path d='M38 30 L46 18 L54 30 Z' fill='#FFFFFF'/><path d='M46 62 Q46 50 54 50' fill='none' stroke='#FFFFFF' stroke-width='7'/><path d='M53 42.5 L64 50 L53 57.5 Z' fill='#FFFFFF'/></svg>"
+ },
+ {
+  "code": "5.9",
+  "name": "Полоса для маршрутных транспортных средств",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Полоса, предназначенная для движения только маршрутных транспортных средств, движущихся попутно общему потоку.",
+  "note": "Знак над полосой действует на эту полосу; знак справа от дороги - на правую полосу. Конец полосы - знак 5.9.1.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='4' y='4' width='92' height='92' rx='7' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><path d='M37 36 L50 16 L63 36 Z' fill='#FFFFFF'/><rect x='46' y='34' width='8' height='18' fill='#FFFFFF'/><rect x='33' y='55' width='34' height='28' rx='4' fill='#FFFFFF'/><rect x='37' y='59' width='26' height='12' rx='1.5' fill='#1F5AA6'/><circle cx='40' cy='77' r='2.2' fill='#1F5AA6'/><circle cx='60' cy='77' r='2.2' fill='#1F5AA6'/><rect x='35' y='83' width='7' height='5' fill='#FFFFFF'/><rect x='58' y='83' width='7' height='5' fill='#FFFFFF'/></svg>"
+ },
+ {
+  "code": "5.9.1",
+  "name": "Конец полосы для маршрутных транспортных средств",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Здесь заканчивается полоса, предназначенная только для маршрутных ТС.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='4' y='4' width='92' height='92' rx='7' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><rect x='30' y='12' width='5' height='76' fill='#FFFFFF'/><g transform='translate(62 44) scale(1.25)'><rect x='-14' y='-18' width='28' height='32' rx='4' fill='#FFFFFF'/><rect x='-11' y='-14' width='22' height='13' rx='1.5' fill='#1F5AA6'/><rect x='-11' y='14' width='6' height='5' fill='#FFFFFF'/><rect x='5' y='14' width='6' height='5' fill='#FFFFFF'/><circle cx='-8' cy='7' r='2.2' fill='#1F5AA6'/><circle cx='8' cy='7' r='2.2' fill='#1F5AA6'/></g><path d='M54 80 L62 70 L70 80 Z' fill='#FFFFFF'/><rect x='59' y='79' width='6' height='10' fill='#FFFFFF'/><line x1='12' y1='88' x2='88' y2='12' stroke='#D52B1E' stroke-width='6'/></svg>"
+ },
+ {
+  "code": "5.10.1",
+  "name": "Дорога с полосой для маршрутных транспортных средств",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Дорога, по которой маршрутные ТС движутся по специально выделенной полосе навстречу общему потоку.",
+  "note": "Конец такой дороги - знак 5.10.4.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='4' y='4' width='92' height='92' rx='7' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><rect x='52' y='5' width='4' height='90' fill='#FFFFFF'/><rect x='14' y='14' width='30' height='28' rx='4' fill='#FFFFFF'/><rect x='17.5' y='18' width='23' height='11' rx='1.5' fill='#1F5AA6'/><circle cx='20.5' cy='35' r='2' fill='#1F5AA6'/><circle cx='37.5' cy='35' r='2' fill='#1F5AA6'/><rect x='16' y='42' width='6' height='5' fill='#FFFFFF'/><rect x='36' y='42' width='6' height='5' fill='#FFFFFF'/><rect x='25' y='54' width='8' height='18' fill='#FFFFFF'/><path d='M18 70 L29 88 L40 70 Z' fill='#FFFFFF'/><rect x='70' y='30' width='8' height='60' fill='#FFFFFF'/><path d='M62 32 L74 12 L86 32 Z' fill='#FFFFFF'/></svg>"
+ },
+ {
+  "code": "5.10.4",
+  "name": "Конец дороги с полосой для маршрутных транспортных средств",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Здесь заканчивается дорога с выделенной встречной полосой для маршрутных ТС (знак 5.10.1).",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='4' y='4' width='92' height='92' rx='7' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><rect x='20' y='27' width='8' height='61' fill='#FFFFFF'/><path d='M14 28 L24 14 L34 28 Z' fill='#FFFFFF'/><rect x='38' y='12' width='4' height='76' fill='#FFFFFF'/><g transform='translate(66 38) scale(1.15)'><rect x='-14' y='-18' width='28' height='32' rx='4' fill='#FFFFFF'/><rect x='-11' y='-14' width='22' height='13' rx='1.5' fill='#1F5AA6'/><rect x='-11' y='14' width='6' height='5' fill='#FFFFFF'/><rect x='5' y='14' width='6' height='5' fill='#FFFFFF'/><circle cx='-8' cy='7' r='2.2' fill='#1F5AA6'/><circle cx='8' cy='7' r='2.2' fill='#1F5AA6'/></g><rect x='63' y='60' width='6' height='12' fill='#FFFFFF'/><path d='M58 72 L66 84 L74 72 Z' fill='#FFFFFF'/><line x1='12' y1='88' x2='88' y2='12' stroke='#D52B1E' stroke-width='6'/></svg>"
+ },
+ {
+  "code": "5.11.2",
+  "name": "Зона для разворота",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Показывает протяженность зоны, в которой можно развернуться. Поворот налево в этой зоне запрещен.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='4' y='4' width='92' height='92' rx='7' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><g transform='translate(8 -6) scale(0.84)'><path d='M62 86 V42 Q62 24 46 24 Q30 24 30 42 V50' fill='none' stroke='#FFFFFF' stroke-width='10'/><path d='M16 52 L30 72 L44 52 Z' fill='#FFFFFF'/></g><rect x='10' y='72' width='80' height='18' rx='2' fill='#FFFFFF'/><text x='50' y='86' font-family='Arial,sans-serif' font-weight='bold' font-size='15' text-anchor='middle' fill='#1F5AA6'>150 м</text></svg>"
+ },
+ {
+  "code": "5.13",
+  "name": "Место остановки трамвая",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Обозначает место остановки трамвая.",
+  "note": "Стоять ближе 15 м от указателя остановки маршрутных ТС запрещено (п. 87). У остановки без посадочной площадки уступите дорогу пешеходам, идущим к трамваю или от него со стороны дверей (п. 111).",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='4' y='4' width='92' height='92' rx='7' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><rect x='14' y='14' width='72' height='72' rx='3' fill='#FFFFFF'/><g transform='translate(50 51) scale(0.95) translate(-50 -40)'><path d='M50 12 L42 22 H58 Z' fill='none' stroke='#1A1A1A' stroke-width='2.5'/><rect x='38' y='22' width='24' height='3' fill='#1A1A1A'/><rect x='32' y='26' width='36' height='38' rx='5' fill='#1A1A1A'/><rect x='36' y='30' width='28' height='14' rx='1.5' fill='#FFFFFF'/><circle cx='39' cy='54' r='2.5' fill='#FFFFFF'/><circle cx='61' cy='54' r='2.5' fill='#FFFFFF'/><rect x='34' y='64' width='7' height='5' fill='#1A1A1A'/><rect x='59' y='64' width='7' height='5' fill='#1A1A1A'/></g></svg>"
+ },
+ {
+  "code": "5.14",
+  "name": "Место стоянки легковых такси",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Обозначает место стоянки легковых такси.",
+  "note": "Другим ТС останавливаться ближе 15 м от указателя стоянки такси запрещено (п. 87).",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='4' y='4' width='92' height='92' rx='7' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><rect x='14' y='14' width='72' height='72' rx='3' fill='#FFFFFF'/><g transform='translate(50 50) scale(1.0) translate(-50 -45)'><rect x='24' y='40' width='52' height='24' rx='5' fill='#1A1A1A'/><path d='M30 40 L36 28 H64 L70 40 Z' fill='#1A1A1A'/><path d='M35 39 L39 31 H61 L65 39 Z' fill='#FFFFFF'/><circle cx='33' cy='52' r='3.5' fill='#FFFFFF'/><circle cx='67' cy='52' r='3.5' fill='#FFFFFF'/><rect x='27' y='64' width='9' height='7' fill='#1A1A1A'/><rect x='64' y='64' width='9' height='7' fill='#1A1A1A'/><rect x='41' y='19' width='18' height='8' rx='1' fill='#1A1A1A'/></g><text x='50' y='83' font-family='Arial,sans-serif' font-weight='bold' font-size='11' text-anchor='middle' fill='#1A1A1A'>TAXI</text></svg>"
+ },
+ {
+  "code": "5.16.2",
+  "name": "Пешеходный переход (справа)",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Обозначает само место пешеходного перехода.",
+  "note": "Если «зебры» нет, знак 5.16.2 ставят справа от дороги на ближней границе перехода, а 5.16.1 - слева на дальней. На нерегулируемом переходе уступите пешеходам (п. 106).",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='4' y='4' width='92' height='92' rx='7' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><path d='M50 12 L88 82 H12 Z' fill='#FFFFFF'/><g transform='translate(100 0) scale(-1 1)'><circle cx='51.9' cy='36' r='4.8' fill='#1A1A1A'/><line x1='51' y1='42.6' x2='49' y2='56.9' stroke='#1A1A1A' stroke-width='4.3' stroke-linecap='round'/><line x1='49' y1='56.9' x2='42.4' y2='68.3' stroke='#1A1A1A' stroke-width='4.3' stroke-linecap='round'/><line x1='49' y1='56.9' x2='56.6' y2='67.3' stroke='#1A1A1A' stroke-width='4.3' stroke-linecap='round'/><line x1='50.5' y1='45.5' x2='42.4' y2='53.1' stroke='#1A1A1A' stroke-width='4.3' stroke-linecap='round'/><line x1='50.5' y1='45.5' x2='57.6' y2='51.2' stroke='#1A1A1A' stroke-width='4.3' stroke-linecap='round'/></g><rect x='34' y='73' width='6' height='5' fill='#1A1A1A'/><rect x='44' y='73' width='6' height='5' fill='#1A1A1A'/><rect x='54' y='73' width='6' height='5' fill='#1A1A1A'/><rect x='64' y='73' width='6' height='5' fill='#1A1A1A'/></svg>"
+ },
+ {
+  "code": "5.17.1",
+  "name": "Подземный пешеходный переход",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Обозначает подземный пешеходный переход.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='4' y='4' width='92' height='92' rx='7' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><path d='M14 40 H34 V52 H44 V64 H54 V76 H86 V86 H14 Z' fill='#FFFFFF'/><g transform='translate(40 30) scale(0.44) translate(-50 -47)'><circle cx='53.2' cy='20' r='8' fill='#FFFFFF'/><line x1='51.6' y1='31.2' x2='48.4' y2='55.2' stroke='#FFFFFF' stroke-width='6.5' stroke-linecap='round'/><line x1='48.4' y1='55.2' x2='37.2' y2='74.4' stroke='#FFFFFF' stroke-width='6.5' stroke-linecap='round'/><line x1='48.4' y1='55.2' x2='61.2' y2='72.8' stroke='#FFFFFF' stroke-width='6.5' stroke-linecap='round'/><line x1='50.8' y1='36' x2='37.2' y2='48.8' stroke='#FFFFFF' stroke-width='6.5' stroke-linecap='round'/><line x1='50.8' y1='36' x2='62.8' y2='45.6' stroke='#FFFFFF' stroke-width='6.5' stroke-linecap='round'/></g></svg>"
+ },
+ {
+  "code": "5.17.3",
+  "name": "Надземный пешеходный переход",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Обозначает надземный пешеходный переход.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='4' y='4' width='92' height='92' rx='7' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><path d='M12 86 V74 H22 V62 H32 V50 H68 V62 H78 V74 H88 V86 H80 V78 H70 V66 H60 V58 H40 V66 H30 V78 H20 V86 Z' fill='#FFFFFF'/><g transform='translate(50 28) scale(0.44) translate(-50 -47)'><circle cx='53.2' cy='20' r='8' fill='#FFFFFF'/><line x1='51.6' y1='31.2' x2='48.4' y2='55.2' stroke='#FFFFFF' stroke-width='6.5' stroke-linecap='round'/><line x1='48.4' y1='55.2' x2='37.2' y2='74.4' stroke='#FFFFFF' stroke-width='6.5' stroke-linecap='round'/><line x1='48.4' y1='55.2' x2='61.2' y2='72.8' stroke='#FFFFFF' stroke-width='6.5' stroke-linecap='round'/><line x1='50.8' y1='36' x2='37.2' y2='48.8' stroke='#FFFFFF' stroke-width='6.5' stroke-linecap='round'/><line x1='50.8' y1='36' x2='62.8' y2='45.6' stroke='#FFFFFF' stroke-width='6.5' stroke-linecap='round'/></g></svg>"
+ },
+ {
+  "code": "5.18.1",
+  "name": "Рекомендуемая скорость",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Показывает скорость, с которой рекомендуется ехать на этом участке.",
+  "note": "Зона действия - до ближайшего перекрестка, а вместе с предупреждающим знаком - протяженность опасного участка. Это рекомендация, а не ограничение.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='4' y='4' width='92' height='92' rx='7' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><text x='50' y='66' font-family='Arial,sans-serif' font-weight='bold' font-size='44' text-anchor='middle' fill='#FFFFFF'>50</text></svg>"
+ },
+ {
+  "code": "5.25",
+  "name": "Конец населенного пункта (синий фон)",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Конец населенного пункта, обозначенного знаком 5.24.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='3' y='24' width='94' height='52' rx='4' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='3'/><text x='50' y='57' font-family='Arial,sans-serif' font-weight='bold' font-size='17' text-anchor='middle' fill='#FFFFFF'>АККОЛЬ</text><line x1='10' y1='70' x2='90' y2='30' stroke='#D52B1E' stroke-width='5'/></svg>"
+ },
+ {
+  "code": "5.33",
+  "name": "Стоп-линия",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Место остановки транспортных средств при запрещающем сигнале светофора (регулировщика).",
+  "note": "Применяется, когда стоп-линии 1.12 нет или ее не видно (п. 36).",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='4' y='4' width='92' height='92' rx='7' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><text x='50' y='38' font-family='Arial,sans-serif' font-weight='bold' font-size='22' text-anchor='middle' fill='#FFFFFF'>СТОП</text><line x1='50' y1='44' x2='50' y2='60' stroke='#FFFFFF' stroke-width='6'/><path d='M42 59 L50 70 L58 59 Z' fill='#FFFFFF'/><rect x='16' y='74' width='68' height='8' fill='#FFFFFF'/></svg>"
+ },
+ {
+  "code": "5.35",
+  "name": "Реверсивное движение",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Начало участка дороги, где на одной или нескольких полосах направление движения может меняться на противоположное.",
+  "note": "По полосам такого участка ориентируются по реверсивным светофорам. Конец участка - знак 5.36.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='4' y='4' width='92' height='92' rx='7' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><rect x='30' y='29' width='8' height='59' fill='#FFFFFF'/><path d='M24 30 L34 14 L44 30 Z' fill='#FFFFFF'/><g transform='rotate(180 66 51)'><rect x='62' y='29' width='8' height='59' fill='#FFFFFF'/><path d='M56 30 L66 14 L76 30 Z' fill='#FFFFFF'/></g><path d='M50 16 V86' stroke='#FFFFFF' stroke-width='3' stroke-dasharray='7 5'/></svg>"
+ },
+ {
+  "code": "5.36",
+  "name": "Конец реверсивного движения",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Здесь заканчивается участок дороги с реверсивным движением.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='4' y='4' width='92' height='92' rx='7' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><rect x='30' y='29' width='8' height='59' fill='#FFFFFF'/><path d='M24 30 L34 14 L44 30 Z' fill='#FFFFFF'/><g transform='rotate(180 66 51)'><rect x='62' y='29' width='8' height='59' fill='#FFFFFF'/><path d='M56 30 L66 14 L76 30 Z' fill='#FFFFFF'/></g><path d='M50 16 V86' stroke='#FFFFFF' stroke-width='3' stroke-dasharray='7 5'/><line x1='12' y1='88' x2='88' y2='12' stroke='#D52B1E' stroke-width='6'/></svg>"
+ },
+ {
+  "code": "5.42",
+  "name": "Фотовидеофиксация",
+  "group": "Информационно-указательные знаки",
+  "meaning": "Предупреждает о приближении к участку, где нарушения Правил фиксирует стационарное сертифицированное специальное техническое средство.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='4' y='4' width='92' height='92' rx='7' fill='#1F5AA6' stroke='#FFFFFF' stroke-width='2'/><rect x='22' y='40' width='44' height='26' rx='4' fill='#FFFFFF'/><path d='M66 46 L80 38 V68 L66 60 Z' fill='#FFFFFF'/><circle cx='36' cy='53' r='7' fill='#1F5AA6'/><circle cx='36' cy='53' r='3.5' fill='#FFFFFF'/><rect x='40' y='66' width='6' height='16' fill='#FFFFFF'/><rect x='32' y='80' width='22' height='5' fill='#FFFFFF'/></svg>"
+ },
+ {
+  "code": "6.5",
+  "name": "Мойка автомобилей",
+  "group": "Знаки сервиса",
+  "meaning": "Сообщает, где находится мойка автомобилей.",
+  "note": "Знаки сервиса только сообщают о расположении объектов, ничего не запрещают.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='12' y='3' width='76' height='94' rx='6' fill='#1F5AA6'/><rect x='19' y='10' width='62' height='62' rx='3' fill='#FFFFFF'/><g transform='translate(50 41) scale(1.0) translate(-50 -44)'><g transform='translate(50 52) scale(0.62) translate(-50 -55)'><path d='M24 58 L31 47 Q33 43 39 43 L58 43 Q63 43 66 48 L72 52 Q76 53 76 58 L76 63 L24 63 Z' fill='#1A1A1A'/><path d='M34 52 L39 46 L48 46 L48 52 Z' fill='#FFFFFF'/><path d='M51 46 L51 52 L63 52 L59 46 Z' fill='#FFFFFF'/><circle cx='36' cy='63' r='5.5' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1.5'/><circle cx='64' cy='63' r='5.5' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1.5'/></g><g fill='#1A1A1A'><path d='M34 30 q-3 5 0 7 q3 -2 0 -7z'/><path d='M44 26 q-3 5 0 7 q3 -2 0 -7z'/><path d='M54 26 q-3 5 0 7 q3 -2 0 -7z'/><path d='M64 30 q-3 5 0 7 q3 -2 0 -7z'/></g><path d='M30 22 H70' stroke='#1A1A1A' stroke-width='3'/></g></svg>"
+ },
+ {
+  "code": "6.6",
+  "name": "Телефон",
+  "group": "Знаки сервиса",
+  "meaning": "Сообщает, где находится телефон.",
+  "note": "Знаки сервиса только сообщают о расположении объектов, ничего не запрещают.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='12' y='3' width='76' height='94' rx='6' fill='#1F5AA6'/><rect x='19' y='10' width='62' height='62' rx='3' fill='#FFFFFF'/><g transform='translate(50 41) scale(1.0) translate(-50 -47)'><path d='M30 36 Q30 28 38 28 L62 28 Q70 28 70 36 L70 40 L60 40 L58 34 H42 L40 40 H30 Z' fill='#1A1A1A'/><path d='M36 44 H64 L68 62 Q68 66 64 66 H36 Q32 66 32 62 Z' fill='#1A1A1A'/><circle cx='50' cy='55' r='6' fill='#FFFFFF'/><circle cx='50' cy='55' r='2.5' fill='#1A1A1A'/></g></svg>"
+ },
+ {
+  "code": "6.7",
+  "name": "Пункт питания",
+  "group": "Знаки сервиса",
+  "meaning": "Сообщает, где находится пункт питания (кафе, столовая).",
+  "note": "Знаки сервиса только сообщают о расположении объектов, ничего не запрещают.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='12' y='3' width='76' height='94' rx='6' fill='#1F5AA6'/><rect x='19' y='10' width='62' height='62' rx='3' fill='#FFFFFF'/><g transform='translate(50 41) scale(0.95) translate(-50 -47)'><path d='M36 20 V38 Q36 44 41 45 V74 H45 V45 Q50 44 50 38 V20 H47 V36 H45 V20 H41 V36 H39 V20 Z' fill='#1A1A1A'/><path d='M58 74 V20 Q68 24 68 40 Q68 48 62 49 V74 Z' fill='#1A1A1A'/></g></svg>"
+ },
+ {
+  "code": "6.8",
+  "name": "Питьевая вода",
+  "group": "Знаки сервиса",
+  "meaning": "Сообщает, где находится источник питьевой воды.",
+  "note": "Знаки сервиса только сообщают о расположении объектов, ничего не запрещают.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='12' y='3' width='76' height='94' rx='6' fill='#1F5AA6'/><rect x='19' y='10' width='62' height='62' rx='3' fill='#FFFFFF'/><g transform='translate(50 41) scale(0.95) translate(-48 -48)'><rect x='22' y='30' width='30' height='10' rx='2' fill='#1A1A1A'/><rect x='32' y='24' width='10' height='8' fill='#1A1A1A'/><rect x='27' y='21' width='20' height='4' rx='1' fill='#1A1A1A'/><path d='M52 30 H60 Q66 30 66 36 V42 H58 V38 H52 Z' fill='#1A1A1A'/><path d='M62 48 q-3 6 0 8 q3 -2 0 -8z' fill='#1A1A1A'/><path d='M52 60 H74 L71 76 H55 Z' fill='#1A1A1A'/></g></svg>"
+ },
+ {
+  "code": "6.11",
+  "name": "Место отдыха",
+  "group": "Знаки сервиса",
+  "meaning": "Сообщает, где находится место отдыха.",
+  "note": "На автомагистрали останавливаться можно только на площадках для стоянки, обозначенных знаками 5.15 или 6.11 (п. 118).",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='12' y='3' width='76' height='94' rx='6' fill='#1F5AA6'/><rect x='19' y='10' width='62' height='62' rx='3' fill='#FFFFFF'/><g transform='translate(51 41) scale(0.86) translate(-48 -44)'><path d='M30 18 L42 40 H36 L46 56 H34 V66 H26 V56 H14 L24 40 H18 Z' fill='#1A1A1A'/><rect x='46' y='50' width='34' height='5' fill='#1A1A1A'/><rect x='61' y='55' width='4' height='15' fill='#1A1A1A'/><rect x='48' y='62' width='12' height='4' fill='#1A1A1A'/><rect x='66' y='62' width='12' height='4' fill='#1A1A1A'/><rect x='50' y='66' width='3' height='5' fill='#1A1A1A'/><rect x='73' y='66' width='3' height='5' fill='#1A1A1A'/></g></svg>"
+ },
+ {
+  "code": "6.18",
+  "name": "Туалет",
+  "group": "Знаки сервиса",
+  "meaning": "Сообщает, где находится туалет.",
+  "note": "Знаки сервиса только сообщают о расположении объектов, ничего не запрещают.",
+  "svg": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='12' y='3' width='76' height='94' rx='6' fill='#1F5AA6'/><rect x='19' y='10' width='62' height='62' rx='3' fill='#FFFFFF'/><g transform='translate(50 41) scale(0.95) translate(-50 -44)'><circle cx='34' cy='24' r='5' fill='#1A1A1A'/><path d='M28 31 H40 V52 H37 V70 H31 V52 H28 Z' fill='#1A1A1A'/><rect x='49' y='18' width='2.5' height='54' fill='#1A1A1A'/><circle cx='66' cy='24' r='5' fill='#1A1A1A'/><path d='M61 31 H71 L77 54 H70 V70 H62 V54 H55 Z' fill='#1A1A1A'/></g></svg>"
+ },
+ {
+  "code": "7.1.2",
+  "name": "Расстояние до объекта (до перекрестка со знаком 2.5)",
+  "group": "Знаки дополнительной информации (таблички)",
+  "meaning": "Указывает расстояние от знака 2.4 до перекрестка, если прямо перед перекрестком установлен знак 2.5.",
+  "note": "Встретив 2.4 с такой табличкой, будьте готовы остановиться у знака 2.5 впереди.",
+  "svg": "<svg viewBox='0 0 100 60' xmlns='http://www.w3.org/2000/svg'><rect x='3' y='3' width='94' height='54' rx='4' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='3'/><path d='M36.8 36.1 L28.1 44.8 L15.9 44.8 L7.2 36.1 L7.2 23.9 L15.9 15.2 L28.1 15.2 L36.8 23.9 Z' fill='#FFFFFF'/><path d='M35.4 35.5 L27.5 43.4 L16.5 43.4 L8.6 35.5 L8.6 24.5 L16.5 16.6 L27.5 16.6 L35.4 24.5 Z' fill='#D52B1E'/><text x='22' y='33.5' font-family='Arial,sans-serif' font-weight='bold' font-size='8.5' text-anchor='middle' fill='#FFFFFF'>STOP</text><text x='65' y='38' font-family='Arial,sans-serif' font-weight='bold' font-size='19' text-anchor='middle' fill='#1A1A1A'>250 м</text></svg>"
+ },
+ {
+  "code": "7.1.3",
+  "name": "Расстояние до объекта (в стороне справа)",
+  "group": "Знаки дополнительной информации (таблички)",
+  "meaning": "Указывает расстояние до объекта, находящегося в стороне от дороги справа.",
+  "svg": "<svg viewBox='0 0 100 60' xmlns='http://www.w3.org/2000/svg'><rect x='3' y='3' width='94' height='54' rx='4' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='3'/><text x='35' y='38' font-family='Arial,sans-serif' font-weight='bold' font-size='19' text-anchor='middle' fill='#1A1A1A'>200 м</text><line x1='64' y1='30' x2='81' y2='30' stroke='#1A1A1A' stroke-width='5'/><path d='M80 23 L90 30 L80 37 Z' fill='#1A1A1A'/></svg>"
+ },
+ {
+  "code": "7.1.4",
+  "name": "Расстояние до объекта (в стороне слева)",
+  "group": "Знаки дополнительной информации (таблички)",
+  "meaning": "Указывает расстояние до объекта, находящегося в стороне от дороги слева.",
+  "svg": "<svg viewBox='0 0 100 60' xmlns='http://www.w3.org/2000/svg'><rect x='3' y='3' width='94' height='54' rx='4' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='3'/><line x1='19' y1='30' x2='36' y2='30' stroke='#1A1A1A' stroke-width='5'/><path d='M20 23 L10 30 L20 37 Z' fill='#1A1A1A'/><text x='65' y='38' font-family='Arial,sans-serif' font-weight='bold' font-size='19' text-anchor='middle' fill='#1A1A1A'>200 м</text></svg>"
+ },
+ {
+  "code": "7.2.2",
+  "name": "Зона действия (начало)",
+  "group": "Знаки дополнительной информации (таблички)",
+  "meaning": "Указывает протяженность зоны действия знаков 3.27-3.30 от места их установки.",
+  "note": "Под знаком 3.27 с табличкой «20 м» остановка запрещена на ближайших 20 м.",
+  "svg": "<svg viewBox='0 0 100 60' xmlns='http://www.w3.org/2000/svg'><rect x='3' y='3' width='94' height='54' rx='4' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='3'/><rect x='12' y='46' width='26' height='4' fill='#1A1A1A'/><line x1='25' y1='19' x2='25' y2='47' stroke='#1A1A1A' stroke-width='4.5'/><path d='M18 20 L25 10 L32 20 Z' fill='#1A1A1A'/><text x='66' y='39' font-family='Arial,sans-serif' font-weight='bold' font-size='22' text-anchor='middle' fill='#1A1A1A'>20 м</text></svg>"
+ },
+ {
+  "code": "7.2.3",
+  "name": "Зона действия (конец)",
+  "group": "Знаки дополнительной информации (таблички)",
+  "meaning": "Указывает конец зоны действия знаков 3.27-3.30.",
+  "note": "Повторный знак 3.27-3.30 с этой табличкой заканчивает зону раньше ближайшего перекрестка.",
+  "svg": "<svg viewBox='0 0 100 60' xmlns='http://www.w3.org/2000/svg'><rect x='3' y='3' width='94' height='54' rx='4' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='3'/><rect x='30' y='46' width='40' height='4' fill='#1A1A1A'/><line x1='50' y1='10' x2='50' y2='37' stroke='#1A1A1A' stroke-width='5'/><path d='M42 36 L50 47 L58 36 Z' fill='#1A1A1A'/></svg>"
+ },
+ {
+  "code": "7.2.4",
+  "name": "Зона действия (вы в зоне)",
+  "group": "Знаки дополнительной информации (таблички)",
+  "meaning": "Сообщает водителю, что он находится в зоне действия знаков 3.27-3.30.",
+  "svg": "<svg viewBox='0 0 100 60' xmlns='http://www.w3.org/2000/svg'><rect x='3' y='3' width='94' height='54' rx='4' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='3'/><line x1='50' y1='18' x2='50' y2='42' stroke='#1A1A1A' stroke-width='5'/><path d='M42 19 L50 8 L58 19 Z' fill='#1A1A1A'/><path d='M42 41 L50 52 L58 41 Z' fill='#1A1A1A'/></svg>"
+ },
+ {
+  "code": "7.3.1",
+  "name": "Направления действия (в обе стороны)",
+  "group": "Знаки дополнительной информации (таблички)",
+  "meaning": "Указывает, что знак, установленный перед перекрестком, действует в обе стороны от него, или направления к обозначенным объектам.",
+  "svg": "<svg viewBox='0 0 100 60' xmlns='http://www.w3.org/2000/svg'><rect x='3' y='3' width='94' height='54' rx='4' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='3'/><line x1='26' y1='30' x2='74' y2='30' stroke='#1A1A1A' stroke-width='6'/><path d='M73 21 L86 30 L73 39 Z' fill='#1A1A1A'/><path d='M27 21 L14 30 L27 39 Z' fill='#1A1A1A'/></svg>"
+ },
+ {
+  "code": "7.3.2",
+  "name": "Направление действия (направо)",
+  "group": "Знаки дополнительной информации (таблички)",
+  "meaning": "Указывает, что знак, установленный перед перекрестком, действует направо от него, или направление к объекту справа.",
+  "svg": "<svg viewBox='0 0 100 60' xmlns='http://www.w3.org/2000/svg'><rect x='3' y='3' width='94' height='54' rx='4' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='3'/><line x1='20' y1='30' x2='72' y2='30' stroke='#1A1A1A' stroke-width='6'/><path d='M71 21 L84 30 L71 39 Z' fill='#1A1A1A'/></svg>"
+ },
+ {
+  "code": "7.3.3",
+  "name": "Направление действия (налево)",
+  "group": "Знаки дополнительной информации (таблички)",
+  "meaning": "Указывает, что знак, установленный перед перекрестком, действует налево от него, или направление к объекту слева.",
+  "svg": "<svg viewBox='0 0 100 60' xmlns='http://www.w3.org/2000/svg'><rect x='3' y='3' width='94' height='54' rx='4' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='3'/><line x1='28' y1='30' x2='80' y2='30' stroke='#1A1A1A' stroke-width='6'/><path d='M29 21 L16 30 L29 39 Z' fill='#1A1A1A'/></svg>"
+ },
+ {
+  "code": "7.4.1",
+  "name": "Вид транспортного средства (грузовые более 3,5 т)",
+  "group": "Знаки дополнительной информации (таблички)",
+  "meaning": "Знак, под которым она размещена, распространяется только на грузовые автомобили (в том числе с прицепом) с разрешенной максимальной массой более 3,5 т.",
+  "svg": "<svg viewBox='0 0 100 60' xmlns='http://www.w3.org/2000/svg'><rect x='3' y='3' width='94' height='54' rx='4' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='3'/><g transform='translate(50 31) scale(0.82) translate(-50 -52)'><rect x='22' y='38' width='36' height='22' fill='#1A1A1A'/><path d='M60 44 H70 L78 52 V60 H60 Z' fill='#1A1A1A'/><path d='M63 47 H69 L74 52 H63 Z' fill='#FFFFFF'/><circle cx='32' cy='62' r='5.5' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1.5'/><circle cx='70' cy='62' r='5.5' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1.5'/></g></svg>"
+ },
+ {
+  "code": "7.4.3",
+  "name": "Вид транспортного средства (легковые)",
+  "group": "Знаки дополнительной информации (таблички)",
+  "meaning": "Знак распространяется только на легковые автомобили, а также на грузовые автомобили с разрешенной максимальной массой до 3,5 т.",
+  "svg": "<svg viewBox='0 0 100 60' xmlns='http://www.w3.org/2000/svg'><rect x='3' y='3' width='94' height='54' rx='4' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='3'/><g transform='translate(50 32) scale(0.9) translate(-50 -55)'><path d='M24 58 L31 47 Q33 43 39 43 L58 43 Q63 43 66 48 L72 52 Q76 53 76 58 L76 63 L24 63 Z' fill='#1A1A1A'/><path d='M34 52 L39 46 L48 46 L48 52 Z' fill='#FFFFFF'/><path d='M51 46 L51 52 L63 52 L59 46 Z' fill='#FFFFFF'/><circle cx='36' cy='63' r='5.5' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1.5'/><circle cx='64' cy='63' r='5.5' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1.5'/></g></svg>"
+ },
+ {
+  "code": "7.4.8",
+  "name": "Вид транспортного средства (опасный груз)",
+  "group": "Знаки дополнительной информации (таблички)",
+  "meaning": "Знак распространяется только на транспортные средства с опознавательными знаками «Опасный груз».",
+  "svg": "<svg viewBox='0 0 100 60' xmlns='http://www.w3.org/2000/svg'><rect x='3' y='3' width='94' height='54' rx='4' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='3'/><rect x='30' y='14' width='40' height='32' rx='2' fill='#F07F16' stroke='#1A1A1A' stroke-width='3'/></svg>"
+ },
+ {
+  "code": "7.5.4",
+  "name": "Время действия",
+  "group": "Знаки дополнительной информации (таблички)",
+  "meaning": "Указывает время суток, в течение которого действует знак.",
+  "note": "В остальное время знак не действует.",
+  "svg": "<svg viewBox='0 0 100 60' xmlns='http://www.w3.org/2000/svg'><rect x='3' y='3' width='94' height='54' rx='4' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='3'/><text x='50' y='37' font-family='Arial,sans-serif' font-weight='bold' font-size='16' text-anchor='middle' fill='#1A1A1A'>8.00-17.30</text></svg>"
+ },
+ {
+  "code": "7.6.1",
+  "name": "Способ постановки транспортного средства на стоянку (на проезжей части)",
+  "group": "Знаки дополнительной информации (таблички)",
+  "meaning": "Указывает, что все транспортные средства ставят на стоянку на проезжей части вдоль тротуара.",
+  "note": "Таблички 7.6.2-7.6.9 показывают способы постановки легковых автомобилей и мотоциклов с заездом на тротуар; применяются со знаком 5.15.",
+  "svg": "<svg viewBox='0 0 100 60' xmlns='http://www.w3.org/2000/svg'><rect x='3' y='3' width='94' height='54' rx='4' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='3'/><path d='M8 40 H62 V32 H92' fill='none' stroke='#1A1A1A' stroke-width='3'/><rect x='62' y='32' width='30' height='20' fill='#1A1A1A'/><g transform='translate(34 29) scale(0.66) translate(-50 -55)'><path d='M24 58 L31 47 Q33 43 39 43 L58 43 Q63 43 66 48 L72 52 Q76 53 76 58 L76 63 L24 63 Z' fill='#1A1A1A'/><path d='M34 52 L39 46 L48 46 L48 52 Z' fill='#FFFFFF'/><path d='M51 46 L51 52 L63 52 L59 46 Z' fill='#FFFFFF'/><circle cx='36' cy='63' r='5.5' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1.5'/><circle cx='64' cy='63' r='5.5' fill='#1A1A1A' stroke='#FFFFFF' stroke-width='1.5'/></g></svg>"
+ },
+ {
+  "code": "7.14",
+  "name": "Полоса движения",
+  "group": "Знаки дополнительной информации (таблички)",
+  "meaning": "Указывает полосу движения, на которую распространяется действие знака или светофора.",
+  "svg": "<svg viewBox='0 0 100 60' xmlns='http://www.w3.org/2000/svg'><rect x='3' y='3' width='94' height='54' rx='4' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='3'/><path d='M34 6 V54 M66 6 V54' stroke='#1A1A1A' stroke-width='3'/><line x1='50' y1='8' x2='50' y2='39' stroke='#1A1A1A' stroke-width='7'/><path d='M40 38 L50 52 L60 38 Z' fill='#1A1A1A'/></svg>"
+ },
+ {
+  "code": "7.15",
+  "name": "Слепые пешеходы",
+  "group": "Знаки дополнительной информации (таблички)",
+  "meaning": "Указывает, что пешеходным переходом пользуются слепые (лица с полной потерей зрения). Применяется со знаками 1.20, 5.16.1, 5.16.2.",
+  "note": "Водитель пропускает пешеходов с полной потерей зрения, подающих сигнал белой тростью (п. 110).",
+  "svg": "<svg viewBox='0 0 100 60' xmlns='http://www.w3.org/2000/svg'><rect x='3' y='3' width='94' height='54' rx='4' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='3'/><g transform='translate(50 31) scale(0.95) translate(-55 -33)'><circle cx='52' cy='14' r='5' fill='#1A1A1A'/><path d='M52 21 L49 36' stroke='#1A1A1A' stroke-width='6' stroke-linecap='round'/><path d='M49 36 L43 50 M49 36 L56 49' stroke='#1A1A1A' stroke-width='5' stroke-linecap='round'/><path d='M51 25 L60 33 L64 31' fill='none' stroke='#1A1A1A' stroke-width='4' stroke-linecap='round' stroke-linejoin='round'/><path d='M63 32 L74 52' stroke='#1A1A1A' stroke-width='2.2'/><path d='M50 25 L42 32' stroke='#1A1A1A' stroke-width='4' stroke-linecap='round'/></g></svg>"
+ },
+ {
+  "code": "7.17",
+  "name": "Инвалиды",
+  "group": "Знаки дополнительной информации (таблички)",
+  "meaning": "Указывает, что место стоянки 5.15 предназначено только для мотоколясок и автомобилей с опознавательным знаком «Инвалид».",
+  "svg": "<svg viewBox='0 0 100 60' xmlns='http://www.w3.org/2000/svg'><rect x='3' y='3' width='94' height='54' rx='4' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='3'/><g transform='translate(50 30) scale(1.0) translate(-48 -30)'><circle cx='44' cy='12' r='4.5' fill='#1A1A1A'/><path d='M43 19 V33 H56 L61 45' fill='none' stroke='#1A1A1A' stroke-width='5' stroke-linecap='round' stroke-linejoin='round'/><path d='M43 25 H53' stroke='#1A1A1A' stroke-width='4' stroke-linecap='round'/><path d='M38 27 A12 12 0 1 0 55 42' fill='none' stroke='#1A1A1A' stroke-width='4'/></g></svg>"
+ },
+ {
+  "code": "7.18",
+  "name": "Кроме инвалидов",
+  "group": "Знаки дополнительной информации (таблички)",
+  "meaning": "Указывает, что действие знака не распространяется на мотоколяски и автомобили с опознавательным знаком «Инвалид».",
+  "svg": "<svg viewBox='0 0 100 60' xmlns='http://www.w3.org/2000/svg'><rect x='3' y='3' width='94' height='54' rx='4' fill='#FFFFFF' stroke='#1A1A1A' stroke-width='3'/><text x='34' y='36' font-family='Arial,sans-serif' font-weight='bold' font-size='15' text-anchor='middle' fill='#1A1A1A'>кроме</text><g transform='translate(76 30) scale(0.85) translate(-48 -30)'><circle cx='44' cy='12' r='4.5' fill='#1A1A1A'/><path d='M43 19 V33 H56 L61 45' fill='none' stroke='#1A1A1A' stroke-width='5' stroke-linecap='round' stroke-linejoin='round'/><path d='M43 25 H53' stroke='#1A1A1A' stroke-width='4' stroke-linecap='round'/><path d='M38 27 A12 12 0 1 0 55 42' fill='none' stroke='#1A1A1A' stroke-width='4'/></g></svg>"
+ }
+]

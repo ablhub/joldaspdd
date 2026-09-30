@@ -1,0 +1,191 @@
+{
+ "questions": [
+  {
+   "id": "m01-n017",
+   "q": "You are driving on a dirt road with no markings, and the edge of the surface cannot be made out. How is the edge of the carriageway determined?",
+   "options": [
+    "By the line of the nearest road signs",
+    "By the road user, from the edge of the worn track",
+    "The middle of the dirt road is considered the edge",
+    "There is no carriageway edge on a dirt road"
+   ],
+   "answer": 1,
+   "explain": "The edge of the carriageway is defined by road markings or, if there are none, by the edge of the road surface. If it is impossible to identify the edge of the surface, road users determine the edge themselves by the edge of the worn track."
+  },
+  {
+   "id": "m01-n018",
+   "q": "You have entered a road with sign 5.1 “Motorway”. Which feature does NOT fit the definition of a motorway in the Rules?",
+   "options": [
+    "You can drive onto it directly from a yard or a roadside property",
+    "The carriageways for each direction are separated by a central reservation",
+    "It does not cross roads, railway or tram tracks at the same level",
+    "It can be entered only from other roads via grade-separated interchanges"
+   ],
+   "answer": 0,
+   "explain": "A motorway does not serve roadside properties: you can get onto it only from other roads via grade-separated interchanges. It has separate carriageways with a central reservation and no crossings at the same level."
+  },
+  {
+   "id": "m01-n019",
+   "q": "On which path will the red car overtake the truck?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 0,
+   "explain": "On path A the car leaves its lane, passes the truck and returns to its original lane: this is overtaking. On path B it only changes lanes and stays in the left lane, and without a return to the original lane there is no overtaking."
+  },
+  {
+   "id": "m01-n020",
+   "q": "There are no markings, but the carriageway is wide enough for two lines of traffic. On which path will the red car change lanes?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path: there are no lanes without markings"
+   ],
+   "answer": 1,
+   "explain": "A traffic lane does not have to be marked: if the width allows two lines of traffic, there are two lanes. Moving into the adjacent line on path B is changing lanes, while on path A the car stays in its lane."
+  },
+  {
+   "id": "m01-n021",
+   "q": "On which path will you be turning at an intersection?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 1,
+   "explain": "On the right, a road joins the street: this is an intersection. On the left is an entrance to a yard, that is, to an adjacent area, and exits from adjacent areas (and entrances to them) are not intersections.",
+   "scene": {
+    "side.0.text": "yard"
+   }
+  },
+  {
+   "id": "m01-n022",
+   "q": "On the left, a field track joins the highway; on the right is the entrance to a filling station. On which path will you be turning at an intersection?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 3,
+   "explain": "Neither of these places is an intersection. Places where field and forest tracks join a road are not intersections, and neither are exits from adjacent areas (and entrances to them), such as a filling station.",
+   "scene": {
+    "labels.0.text": "field track",
+    "side.1.text": "filling station"
+   }
+  },
+  {
+   "id": "m01-n023",
+   "q": "A road outside a built-up area. The blue car has pulled onto the shoulder, and the white car is standing at the right-hand edge of the asphalt. Which of them is on the carriageway?",
+   "options": [
+    "Only the blue car",
+    "Only the white car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 1,
+   "explain": "There is no edge marking line, so the edge of the carriageway is the edge of the asphalt, and the white car is on the carriageway. The blue car is on the shoulder: the shoulder adjoins the carriageway but is not part of it."
+  },
+  {
+   "id": "m01-n024",
+   "q": "Which of the actions shown do the Rules classify as manoeuvring?",
+   "options": [
+    "A only: stopping at the edge",
+    "B only: changing lanes",
+    "Both actions",
+    "Neither of them"
+   ],
+   "answer": 2,
+   "explain": "Manoeuvring means moving off from a standstill, stopping, turning and making a U-turn, changing lanes, braking and reversing. So both stopping at the edge (A) and changing lanes (B) are manoeuvres."
+  },
+  {
+   "id": "m01-n025",
+   "q": "A vehicle has 8 seats, not counting the driver's seat. Is it a bus as defined by the Rules?",
+   "options": [
+    "Yes, as it has more than five seats",
+    "Yes, if it carries passengers for payment",
+    "No: a bus needs more than eight seats besides the driver's",
+    "No: only a vehicle with two passenger doors is classed as a bus"
+   ],
+   "answer": 2,
+   "explain": "A bus is a motor car for carrying passengers and luggage that has more than eight seats, not including the driver's seat. Eight seats are not enough."
+  },
+  {
+   "id": "m01-n026",
+   "q": "Which of the following do the Rules classify as a motor car?",
+   "options": [
+    "A tractor",
+    "A tram",
+    "A self-propelled machine, such as a loader",
+    "A trolleybus"
+   ],
+   "answer": 3,
+   "explain": "A motor car is a motor vehicle for carrying people, goods or equipment, including trolleybuses. Tractors and self-propelled machines are not motor cars, and a tram is a rail vehicle."
+  },
+  {
+   "id": "m01-n027",
+   "q": "Which of these vehicles is NOT a motor vehicle as defined by the Rules?",
+   "options": [
+    "A tram",
+    "A tractor",
+    "A motorcycle",
+    "A moped"
+   ],
+   "answer": 0,
+   "explain": "A motor vehicle is a self-propelled road vehicle with an engine. The exceptions are named explicitly: e-scooters, small electric vehicles and rail vehicles, which include trams. Tractors, on the other hand, are included in the term."
+  },
+  {
+   "id": "m01-n028",
+   "q": "Which vehicle do the Rules call an e-scooter?",
+   "options": [
+    "Any two- or three-wheeled vehicle with an electric motor",
+    "With a seat, for one person, no faster than 50 km/h",
+    "Any electric unicycle or hoverboard for one person",
+    "Two or three wheels, no seat, no faster than 25 km/h"
+   ],
+   "answer": 3,
+   "explain": "An e-scooter is a personal mobility device with two or three wheels for one person, without a seat, with a maximum design speed of no more than 25 km/h. It is not a motor vehicle."
+  },
+  {
+   "id": "m01-n029",
+   "q": "A scooter has a 50 cm³ engine and a maximum design speed of 45 km/h. Which category of vehicles does it belong to under the Rules?",
+   "options": [
+    "Mopeds",
+    "Motorcycles",
+    "Bicycles",
+    "Small electric vehicles"
+   ],
+   "answer": 0,
+   "explain": "A moped is a two- or three-wheeled motor vehicle with an internal combustion engine of no more than 50 cm³ (or an electric motor) and a speed of no more than 50 km/h. Scooters with these characteristics are explicitly treated as mopeds."
+  },
+  {
+   "id": "m01-n030",
+   "q": "A three-wheeled vehicle with a 250 cm³ engine has an unladen mass of 380 kg. What do the Rules treat it as?",
+   "options": [
+    "A moped",
+    "A motorcycle",
+    "A motor car",
+    "A tractor"
+   ],
+   "answer": 1,
+   "explain": "The engine is larger than 50 cm³, so it is not a moped. Three- and four-wheeled vehicles with an unladen mass of no more than 400 kg are treated as motorcycles, and 380 kg is within this limit."
+  },
+  {
+   "id": "m01-n031",
+   "q": "The maximum authorised mass of a car is 2000 kg, and that of its trailer is 750 kg. What is the maximum authorised mass of this road train?",
+   "options": [
+    "750 kg",
+    "1250 kg",
+    "2000 kg",
+    "2750 kg"
+   ],
+   "answer": 3,
+   "explain": "The maximum authorised mass of a vehicle combination is the sum of the maximum authorised masses of all the vehicles in it: 2000 + 750 = 2750 kg."
+  }
+ ]
+}

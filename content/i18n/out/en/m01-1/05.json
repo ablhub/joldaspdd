@@ -1,0 +1,196 @@
+{
+ "questions": [
+  {
+   "id": "m01-n032",
+   "q": "Which of these people can act as a traffic controller?",
+   "options": [
+    "A driver who was first to arrive at an accident scene and stepped into the road",
+    "A security guard from a nearby shop with a whistle and a torch",
+    "A road maintenance worker with an ID card and a baton",
+    "Any adult pedestrian in a reflective vest"
+   ],
+   "answer": 2,
+   "explain": "A traffic controller can be not only a police officer but also, for example, a road maintenance worker or an attendant at a level crossing or ferry crossing. The condition is the appropriate ID and equipment (a uniform or armband, a baton, a disc with a red signal, a red lamp or a flag)."
+  },
+  {
+   "id": "m01-n033",
+   "q": "Which vehicle is a route vehicle as defined by the Rules?",
+   "options": [
+    "A taxi carrying a passenger on a booked trip",
+    "A truck delivering goods to shops",
+    "The private car you use to drive to work",
+    "A tram running on its route"
+   ],
+   "answer": 3,
+   "explain": "A route vehicle is a public bus, trolleybus or tram carrying passengers on an established route with designated stops. A taxi is also public transport, but it is not a route vehicle."
+  },
+  {
+   "id": "m01-n034",
+   "q": "Which of these events is a road traffic accident?",
+   "options": [
+    "A moving car hit and damaged a barrier",
+    "A tree branch fell on a parked car",
+    "A pedestrian slipped and fell on the pavement by the road",
+    "A driver broke the key in the ignition in a car park"
+   ],
+   "answer": 0,
+   "explain": "A road traffic accident is an event that occurs while a vehicle is moving on a road and involves that vehicle, resulting in injury, death, damage to vehicles, structures or goods, or other material damage. A barrier damaged by a moving car fits this definition; the other cases do not."
+  },
+  {
+   "id": "m01-n035",
+   "q": "A pedestrian is wearing a retroreflective item at night. From what distance must this item make the pedestrian visible in dipped headlights?",
+   "options": [
+    "50 m",
+    "100 m",
+    "150 m",
+    "400 m"
+   ],
+   "answer": 2,
+   "explain": "A retroreflective item reflects headlight beams back towards their source and ensures visibility from 150 m with dipped headlights and from 400 m with main-beam headlights."
+  },
+  {
+   "id": "m01-n036",
+   "q": "Which of these people is NOT considered a pedestrian?",
+   "options": [
+    "A person pushing a moped beside them",
+    "A person in a wheelchair",
+    "A person pushing a pram",
+    "A worker repairing the road surface"
+   ],
+   "answer": 3,
+   "explain": "A pedestrian is a person on the road outside a vehicle who is not doing any work on it. So a worker repairing the surface is not a pedestrian. The Rules treat people in wheelchairs and those pushing a moped or a pram as pedestrians."
+  },
+  {
+   "id": "m01-n037",
+   "q": "Which of these people is a passenger?",
+   "options": [
+    "A person on the rear seat of a motorcycle",
+    "A person pushing a motorcycle beside them",
+    "A driving instructor during a lesson",
+    "A drover leading horses along the road"
+   ],
+   "answer": 0,
+   "explain": "A passenger is a person who is on or in a vehicle and is not driving it. A person pushing a motorcycle is treated as a pedestrian, while a driving instructor and a drover are treated as drivers."
+  },
+  {
+   "id": "m01-n038",
+   "q": "A man is herding a flock of sheep along the road. How do the Rules classify him?",
+   "options": [
+    "A pedestrian",
+    "A traffic controller",
+    "A passenger",
+    "A driver"
+   ],
+   "answer": 3,
+   "explain": "A driver is not only a person who drives a vehicle. A drover leading livestock or pack, draught or saddle animals along a road is also considered a driver."
+  },
+  {
+   "id": "m01-n039",
+   "q": "Which of the following is NOT part of the road?",
+   "options": [
+    "The pavement",
+    "A residential yard",
+    "The road shoulder",
+    "The tram tracks"
+   ],
+   "answer": 1,
+   "explain": "A road includes carriageways and, where they exist, tram tracks, pavements, shoulders and central reservations. A yard is an adjacent area: it only adjoins the road."
+  },
+  {
+   "id": "m01-n040",
+   "q": "How is the width of a pedestrian crossing determined if it has no road markings?",
+   "options": [
+    "By the width of the pavements on both sides of the road",
+    "It is always taken as 4 m along the centre line of the road",
+    "By the distance between signs 5.16.1 and 5.16.2",
+    "There is no pedestrian crossing without road markings"
+   ],
+   "answer": 2,
+   "explain": "A pedestrian crossing is marked with signs 5.16.1-5.16.3 and/or road markings. If there are no markings, its width is determined by the distance between signs 5.16.1 and 5.16.2 along the centre line of the road."
+  },
+  {
+   "id": "m01-n041",
+   "q": "When is a pedestrian allowed to stop on a central reservation?",
+   "options": [
+    "When forced to stop outside a built-up area",
+    "Never: a central reservation is not for pedestrians",
+    "Anywhere, if there are no vehicles nearby",
+    "Only in a built-up area, next to a pedestrian crossing"
+   ],
+   "answer": 0,
+   "explain": "A central reservation is not intended for non-rail vehicles or pedestrians to move or stop on. The only exception is a forced stop by pedestrians crossing the road outside a built-up area."
+  },
+  {
+   "id": "m01-n042",
+   "q": "You are approaching an intersection with an asphalt road along a dirt road. There are no signs. On which path may you move off before the blue car?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 3,
+   "explain": "The asphalt road is the main road in relation to the dirt road, so you must let the blue car go first whichever way you are going. Going straight on (A), you would cross its path, and turning right (B), you would pull out right in front of it into its lane."
+  },
+  {
+   "id": "m01-n043",
+   "q": "Under the Rules, what makes an area a residential zone?",
+   "options": [
+    "Residential buildings around it",
+    "A children's playground nearby",
+    "Sign 5.38 “Residential zone”",
+    "A speed limit of 20 km/h"
+   ],
+   "answer": 2,
+   "explain": "A residential zone is a site, developed area or housing estate marked with sign 5.38. Without this sign, an area is not a residential zone, even if there are residential buildings all around."
+  },
+  {
+   "id": "m01-n044",
+   "q": "Which type of traffic is established for vehicles in Kazakhstan?",
+   "options": [
+    "Left-hand traffic",
+    "It depends on the region",
+    "Left-hand on motorways, right-hand on other roads",
+    "Right-hand traffic"
+   ],
+   "answer": 3,
+   "explain": "Right-hand traffic is established for vehicles throughout the Republic of Kazakhstan."
+  },
+  {
+   "id": "m01-n045",
+   "q": "Temporary road signs have been put up at a road works site. What background do they have?",
+   "options": [
+    "A yellow background",
+    "A blue background",
+    "A green background",
+    "A white background"
+   ],
+   "answer": 0,
+   "explain": "At road works and where the direction of traffic is temporarily changed, temporary road signs on a yellow background are used. Traffic management may be changed only by road signs, road markings, traffic lights, traffic controllers and orders of authorised persons."
+  },
+  {
+   "id": "m01-n046",
+   "q": "You notice a large branch lying on the carriageway: it has fallen from a tree. What do the Rules require of a road user in this situation?",
+   "options": [
+    "Nothing: clearing the road is only the road services' job",
+    "Drive around it and carry on without telling anyone",
+    "Report it only if someone has already damaged a car on it",
+    "Remove it or, if you cannot, mark it and report it"
+   ],
+   "answer": 3,
+   "explain": "On finding an obstruction on the road, a road user must take steps to remove it. If it cannot be removed, the obstruction must be marked and reported to the authorised road safety body or to the road owners."
+  },
+  {
+   "id": "m01-n047",
+   "q": "A resident has put up a home-made “No parking” sign by the entrance to their block of flats so that nobody parks there. Is this allowed?",
+   "options": [
+    "Yes, if the sign looks like a real one",
+    "No, signs may not be put up without authorisation",
+    "Yes, residents may do so by their own entrance",
+    "Yes, if the sign is temporary and on a yellow background"
+   ],
+   "answer": 1,
+   "explain": "Road users must not put up road signs, traffic lights or other traffic management devices without authorisation, or remove, obscure or damage signs."
+  }
+ ]
+}

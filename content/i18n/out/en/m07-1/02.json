@@ -1,0 +1,243 @@
+{
+ "questions": [
+  {
+   "id": "m07-01",
+   "q": "You are driving a car along a city street. There are no signs changing the speed limit. What is the maximum speed you may drive at?",
+   "options": [
+    "50 km/h",
+    "60 km/h",
+    "70 km/h",
+    "90 km/h"
+   ],
+   "answer": 1,
+   "explain": "In built-up areas, vehicles may travel at no more than 60 km/h. A higher speed, but not above 90 km/h, is allowed only where it is set by signs."
+  },
+  {
+   "id": "m07-02",
+   "q": "You are driving a truck with a maximum authorised mass of 3 t (category B) through a built-up area with no speed limit signs. What is your speed limit?",
+   "options": [
+    "60 km/h",
+    "40 km/h",
+    "50 km/h",
+    "70 km/h"
+   ],
+   "answer": 2,
+   "explain": "From 23 November 2025, trucks, like buses, may travel no faster than 50 km/h in built-up areas. The rule does not divide trucks by mass, so it also covers light ones."
+  },
+  {
+   "id": "m07-03",
+   "q": "You have driven into the yard of a block of flats. What is the maximum speed allowed in a yard?",
+   "options": [
+    "20 km/h",
+    "10 km/h",
+    "30 km/h",
+    "40 km/h"
+   ],
+   "answer": 0,
+   "explain": "In residential zones and yards, no more than 20 km/h is allowed: pedestrians and children may be right on the carriageway here."
+  },
+  {
+   "id": "m07-04",
+   "q": "Sign 3.24 is installed on a motorway. What is the absolute maximum speed that the Rules allow for a car on a motorway?",
+   "options": [
+    "110 km/h",
+    "120 km/h",
+    "130 km/h",
+    "140 km/h"
+   ],
+   "answer": 3,
+   "explain": "On motorways, passenger cars and motorcycles travel at the speed set by sign 3.24, but no more than 140 km/h."
+  },
+  {
+   "id": "m07-05",
+   "q": "You are driving a car outside a built-up area and have passed sign 5.2 “End of motorway”, as shown in the diagram. Ahead is a road with a central reservation, and there are no speed limit signs. What is the maximum speed you may drive at?",
+   "options": [
+    "90 km/h",
+    "100 km/h",
+    "110 km/h",
+    "140 km/h"
+   ],
+   "answer": 2,
+   "explain": "Beyond sign 5.2, the rules for motorways, including the limit of up to 140 km/h, no longer apply. Outside a built-up area, a car may travel at no more than 110 km/h on a road with a central reservation and 100 km/h on other roads."
+  },
+  {
+   "id": "m07-06",
+   "q": "You are driving a car with a trailer on a two-lane out-of-town road without a central reservation. What is the maximum speed you may drive at?",
+   "options": [
+    "70 km/h",
+    "80 km/h",
+    "90 km/h",
+    "100 km/h"
+   ],
+   "answer": 0,
+   "explain": "A car with a trailer belongs to the same group as trucks over 3.5 t: motorway 90, road with a central reservation 80, other roads 70 km/h."
+  },
+  {
+   "id": "m07-07",
+   "q": "You are driving a truck with a maximum authorised mass of 3.5 t outside a built-up area on a road without a central reservation. What is your limit?",
+   "options": [
+    "80 km/h",
+    "100 km/h",
+    "110 km/h",
+    "90 km/h"
+   ],
+   "answer": 3,
+   "explain": "Trucks with a mass of no more than 3.5 t, intercity buses and minibuses are allowed up to 90 km/h on ordinary out-of-town roads (100 on a road with a central reservation, 110 on a motorway)."
+  },
+  {
+   "id": "m07-08",
+   "q": "You are towing a friend's broken-down car along an out-of-town highway. Signs allow 100 km/h. What is the maximum speed you may drive at?",
+   "options": [
+    "60 km/h",
+    "70 km/h",
+    "50 km/h",
+    "40 km/h"
+   ],
+   "answer": 2,
+   "explain": "When towing motor vehicles, speed must not exceed 50 km/h, whatever the signs allow."
+  },
+  {
+   "id": "m07-09",
+   "q": "A truck is carrying people in its load body on an out-of-town road. What speed must the driver not exceed?",
+   "options": [
+    "50 km/h",
+    "70 km/h",
+    "90 km/h",
+    "60 km/h"
+   ],
+   "answer": 3,
+   "explain": "When passengers are carried in the load body of a truck, speed is limited to 60 km/h. In a built-up area, an even stricter limit applies to a truck: 50 km/h."
+  },
+  {
+   "id": "m07-10",
+   "q": "Your vehicle displays a “Speed limit” identification sign. Road signs on the highway allow a higher speed. What should you do?",
+   "options": [
+    "Do not exceed the speed shown on your vehicle's identification sign",
+    "Follow the road signs, as they take precedence",
+    "You may exceed the number on the identification sign by 10 km/h",
+    "Be guided only by the technical maximum speed of the vehicle"
+   ],
+   "answer": 0,
+   "explain": "The Rules explicitly prohibit exceeding the speed shown on the “Speed limit” identification sign fitted to the vehicle."
+  },
+  {
+   "id": "m07-11",
+   "q": "You are driving on an out-of-town road and notice an obstacle ahead in your lane, as shown in the diagram. What do the Rules require?",
+   "options": [
+    "Sound the horn and carry on at the same speed",
+    "Change lanes abruptly into the next lane without slowing down",
+    "Reduce speed, even to a stop, or drive around it safely"
+   ],
+   "answer": 2,
+   "explain": "The obstacle in your lane can be seen in advance. In this case, the driver must take measures to reduce speed, even to a stop, or to drive around the obstacle in a way that is safe for others."
+  },
+  {
+   "id": "m07-12",
+   "q": "Cameras on a highway showed that you covered the section between two monitoring points too fast, although your speed at the cameras themselves was within the limit. Can this count as speeding?",
+   "options": [
+    "No, only your speed at the moment of passing each camera counts",
+    "Yes, speeding can be determined from the average speed on the section",
+    "No, under the Rules average speed is not taken into account",
+    "Only if the driver has admitted the offence themselves"
+   ],
+   "answer": 1,
+   "explain": "From 12 July 2026, the Rules explicitly state that exceeding the maximum speed is established through detection, recording or calculation of the average speed by certified devices operating in automatic mode. Slowing down only at the camera is not enough."
+  },
+  {
+   "id": "m07-n001",
+   "q": "What is the highest speed that road signs may permit in a built-up area?",
+   "options": [
+    "90 km/h",
+    "60 km/h",
+    "80 km/h",
+    "110 km/h"
+   ],
+   "answer": 0,
+   "explain": "The general limit in built-up areas is 60 km/h. Signs may set a special traffic regime, but no more than 90 km/h."
+  },
+  {
+   "id": "m07-n002",
+   "q": "You are driving a city bus along a street. There are no speed limit signs. What is the maximum speed you may drive at?",
+   "options": [
+    "40 km/h",
+    "50 km/h",
+    "60 km/h",
+    "70 km/h"
+   ],
+   "answer": 1,
+   "explain": "You are driving a bus in town. Buses and trucks may travel at no more than 50 km/h in built-up areas, although cars may go up to 60 km/h here."
+  },
+  {
+   "id": "m07-n003",
+   "q": "You are driving a truck with a maximum authorised mass of 12 t and have just passed the sign shown in the diagram. There are no other signs. What is your speed limit?",
+   "options": [
+    "50 km/h",
+    "60 km/h",
+    "70 km/h",
+    "40 km/h"
+   ],
+   "answer": 0,
+   "explain": "Sign 5.22 marks the start of a built-up area. Trucks of any mass may travel at no more than 50 km/h in built-up areas."
+  },
+  {
+   "id": "m07-n004",
+   "q": "You are driving through a built-up area with no speed limit signs. For which of these drivers is the limit 50 km/h: the driver of a car, a bus, or a goods van with a maximum authorised mass of 2.5 t?",
+   "options": [
+    "Only for the bus driver",
+    "For the bus and car drivers",
+    "For the bus and van drivers",
+    "Only for the van driver"
+   ],
+   "answer": 2,
+   "explain": "In built-up areas, buses and trucks may travel at no more than 50 km/h, and the mass of the truck does not matter (para. 73 as amended by Ministry of Internal Affairs Order No. 859 of 10.11.2025). Where there are no signs, a car is allowed up to 60 km/h."
+  },
+  {
+   "id": "m07-n005",
+   "q": "In a car, you have left a zone whose end is marked with this sign and driven onto an ordinary city street. There are no speed limit signs. What is the maximum speed you may drive at?",
+   "options": [
+    "20 km/h",
+    "40 km/h",
+    "60 km/h",
+    "90 km/h"
+   ],
+   "answer": 2,
+   "explain": "Sign 5.39 means the end of a residential zone, where the 20 km/h limit applied. On an ordinary street in a built-up area, a car may travel at no more than 60 km/h."
+  },
+  {
+   "id": "m07-n006",
+   "q": "You are driving a car on an out-of-town road with one lane in each direction. There are no speed limit signs. What is your speed limit?",
+   "options": [
+    "90 km/h",
+    "100 km/h",
+    "110 km/h",
+    "120 km/h"
+   ],
+   "answer": 1,
+   "explain": "There is no central reservation and it is not a motorway, so it is an “other” road. Outside built-up areas, passenger cars and motorcycles may travel at no more than 100 km/h on such roads."
+  },
+  {
+   "id": "m07-n007",
+   "q": "You are riding a motorcycle outside a built-up area on the road shown in the diagram. It is not a motorway, and there are no signs. What is your speed limit?",
+   "options": [
+    "90 km/h",
+    "100 km/h",
+    "110 km/h",
+    "140 km/h"
+   ],
+   "answer": 2,
+   "explain": "Here a lawn separates the carriageways for opposite directions: this is a road with a central reservation. Outside built-up areas, motorcycles follow the same limits as passenger cars: no more than 110 km/h on such roads."
+  },
+  {
+   "id": "m07-n008",
+   "q": "You are driving a car on a motorway and have passed the signs shown in the diagram. What is the maximum speed you may drive at?",
+   "options": [
+    "140 km/h",
+    "130 km/h",
+    "110 km/h",
+    "120 km/h"
+   ],
+   "answer": 3,
+   "explain": "On a motorway, passenger cars travel no faster than the speed shown on sign 3.24, but no more than 140 km/h. Here the sign allows 120 km/h."
+  }
+ ]
+}

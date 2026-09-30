@@ -1,0 +1,304 @@
+{
+ "questions": [
+  {
+   "id": "m11-n001",
+   "q": "There are no priority signs or traffic lights. Who must you give way to?",
+   "options": [
+    "Only the truck",
+    "Only the green car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "There are no signs or traffic lights, so this is an intersection of roads of equal status. The truck is approaching from the right, so you give way to it. The green car on the left is turning right, and its path does not cross yours."
+  },
+  {
+   "id": "m11-n002",
+   "q": "Who must the driver of the white truck give way to?",
+   "options": [
+    "Only the blue car",
+    "Only the green car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 3,
+   "explain": "The intersection is one of equal status. The blue car is approaching you from the left, so it is the one giving way to you ⟦69⟧. The green car is turning right, away from you, so your paths do not cross."
+  },
+  {
+   "id": "m11-n003",
+   "q": "There are no signs. Who do you give way to when turning left?",
+   "options": [
+    "Only the motorcycle",
+    "Only the bus",
+    "Both",
+    "Neither"
+   ],
+   "answer": 1,
+   "explain": "The oncoming bus is going straight ahead, so when turning left you must give way to it ⟦70⟧. The motorcycle on the left is turning right and does not cross your path. It will actually go first: for the bus, the motorcycle is approaching from the right ⟦71⟧."
+  },
+  {
+   "id": "m11-n004",
+   "q": "There are no signs. In what order will the vehicles go through the intersection?",
+   "options": [
+    "White, blue, truck",
+    "Truck, blue, white",
+    "Blue, white, truck",
+    "White, truck, blue"
+   ],
+   "answer": 2,
+   "explain": "The intersection is one of equal status: the blue car is on the white car's right, so the white car waits for it even though it is going straight ahead ⟦72⟧. The truck is turning left and gives way to the oncoming white car ⟦73⟧. Result: blue, white, truck."
+  },
+  {
+   "id": "m11-n005",
+   "q": "You want to make a U-turn at this intersection. Who must you give way to?",
+   "options": [
+    "Only the taxi",
+    "Blue car only",
+    "Both",
+    "Neither"
+   ],
+   "answer": 1,
+   "explain": "When making a U-turn at an intersection of equal status, you give way to oncoming vehicles going straight ahead or turning right ⟦74⟧, that is, the blue car. The taxi on the right is turning right and leaving the intersection without crossing your path."
+  },
+  {
+   "id": "m11-n006",
+   "q": "Who must the driver of the blue car give way to?",
+   "options": [
+    "Only the white car",
+    "Only the taxi",
+    "Both",
+    "Neither"
+   ],
+   "answer": 3,
+   "explain": "The white car is making a U-turn and must give way to you as an oncoming vehicle going straight ahead ⟦75⟧. The taxi is on your left and is turning right, so your paths do not cross. You do not need to give way to anyone."
+  },
+  {
+   "id": "m11-n007",
+   "q": "There are no signs or traffic lights. In what order will all the vehicles go through the intersection?",
+   "options": [
+    "Green, blue, truck, you",
+    "Blue, green, truck, you",
+    "Truck, blue, green, you",
+    "Green, truck, blue, you"
+   ],
+   "answer": 0,
+   "explain": "For the blue car, the green car is on the right and is turning into the same road the blue car is taking, so the blue car gives way to it; and for the truck, the blue car is on the right ⟦76⟧. You are turning left and give way both to the oncoming blue car ⟦77⟧ and to the truck on your right ⟦78⟧. So: green, blue, truck, you."
+  },
+  {
+   "id": "m11-n008",
+   "q": "There are no signs, and both roads are paved. Who do you give way to when turning left?",
+   "options": [
+    "Only the green car",
+    "Only the truck",
+    "Both",
+    "Neither"
+   ],
+   "answer": 1,
+   "explain": "There are no priority signs and the surface is the same on both roads, so the intersection is one of equal status, even though one of the roads runs straight through. The truck is approaching from the right, so you give way to it. For the green car, you yourself are on the right, so it gives way to you ⟦79⟧."
+  },
+  {
+   "id": "m11-n009",
+   "q": "There are no signs, and both roads are paved. Who must the driver of the green car give way to?",
+   "options": [
+    "Blue car only",
+    "Only the truck",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "The blue car is coming out of a joining road on your right. There are no signs, so priority to the right applies, and you must give way to it ⟦80⟧. You and the truck are travelling straight towards each other, so your paths do not cross."
+  },
+  {
+   "id": "m11-n010",
+   "q": "There are no signs. In what order will the taxi, the blue car and the motorcycle go through the intersection?",
+   "options": [
+    "Motorcycle, blue, taxi",
+    "Blue, taxi, motorcycle",
+    "Taxi, blue, motorcycle",
+    "Blue, motorcycle, taxi"
+   ],
+   "answer": 3,
+   "explain": "The taxi is turning left: it gives way both to the oncoming blue car ⟦81⟧ and to the motorcycle, which is on its right ⟦82⟧. The motorcycle gives way to the blue car, because the blue car is on its right. So: blue, motorcycle, taxi."
+  },
+  {
+   "id": "m11-n011",
+   "q": "There are no signs. Who must the driver of the truck give way to?",
+   "options": [
+    "The orange car and the green car",
+    "Only the orange car",
+    "The orange car and the blue car",
+    "No one"
+   ],
+   "answer": 1,
+   "explain": "The orange car on the right is turning right into the same road you are taking, so you must give way to it ⟦83⟧. The green car is turning left and gives way to you, because you are on its right. You and the blue car are travelling straight towards each other and do not cross paths."
+  },
+  {
+   "id": "m11-n012",
+   "q": "There are no signs. Who must the driver of the green car give way to?",
+   "options": [
+    "Only the orange car",
+    "Only the truck",
+    "The truck and the orange car",
+    "The truck, the orange car and the blue car"
+   ],
+   "answer": 2,
+   "explain": "You are turning left, and the oncoming orange car is turning right into the same road, so you must give way to it ⟦84⟧. The truck is approaching from the right, so you give way to it too ⟦85⟧. For the blue car, you yourself are on the right, so it waits for you."
+  },
+  {
+   "id": "m11-n013",
+   "q": "There are no signs. Who must you give way to when turning right?",
+   "options": [
+    "Only the white car",
+    "Only the black car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 3,
+   "explain": "The white car is approaching from the left, so it gives way to you ⟦86⟧. The black car is coming towards you and turning left into the same road as you, so it gives way to you as an oncoming vehicle turning right ⟦87⟧."
+  },
+  {
+   "id": "m11-n014",
+   "q": "There are no signs. Who must the driver of the black car give way to?",
+   "options": [
+    "Only the motorcycle",
+    "Only the white car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 2,
+   "explain": "You are turning left into the same road that the motorcycle and the white car are taking. The motorcycle is an oncoming vehicle turning right, and you give way to it when turning left ⟦88⟧. The white car is approaching from the right ⟦89⟧, so you must give way to both."
+  },
+  {
+   "id": "m11-n015",
+   "q": "There are no signs. In what order will the bus, the blue car and the red car go through the intersection?",
+   "options": [
+    "Blue, bus, red",
+    "Bus, blue, red",
+    "Red, blue, bus",
+    "Blue, red, bus"
+   ],
+   "answer": 0,
+   "explain": "The bus is turning left and gives way to the blue car, which is on its right ⟦90⟧. For the red car, the bus is on the right, so the red car waits for the bus, even though its path does not cross the blue car's. Result: blue, bus, red."
+  },
+  {
+   "id": "m11-n016",
+   "q": "There are no signs. Who must you give way to?",
+   "options": [
+    "Only the cyclist",
+    "Only the blue car",
+    "The cyclist and the blue car",
+    "No one"
+   ],
+   "answer": 0,
+   "explain": "A cyclist is also a driver, and at an intersection of equal status, priority to the right applies to them too ⟦91⟧. The cyclist is on your right, so you give way to them. The blue car is coming towards you going straight ahead and does not cross your path, but it will go first: for the cyclist, it is on the right."
+  },
+  {
+   "id": "m11-n017",
+   "q": "There are no signs. The white car is making a U-turn. In what order will the vehicles go through the intersection?",
+   "options": [
+    "Truck, green, white",
+    "Green, truck, white",
+    "Green, white, truck",
+    "White, green, truck"
+   ],
+   "answer": 1,
+   "explain": "The white car is making a U-turn: it gives way to the oncoming green car ⟦92⟧ and to the truck on its right ⟦93⟧. The truck gives way to the green car, because the green car is on its right. Result: green, truck, white."
+  },
+  {
+   "id": "m11-n018",
+   "q": "There are no signs. Who do you give way to when turning left?",
+   "options": [
+    "Only the green car",
+    "Both",
+    "Only the blue car",
+    "Neither"
+   ],
+   "answer": 2,
+   "explain": "When turning left, you give way to oncoming vehicles going straight ahead or turning right ⟦94⟧. The oncoming blue car is turning right into the same road you are turning into, so you must give way to it. The green car on the left is turning right and driving away without crossing your path."
+  },
+  {
+   "id": "m11-n019",
+   "q": "There are no signs. Who must you give way to?",
+   "options": [
+    "Only the green car",
+    "Only the blue car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 3,
+   "explain": "The intersection is one of equal status. The green car is approaching from the left, so it is the one giving way to you ⟦95⟧. The oncoming blue car is turning right and does not cross your path."
+  },
+  {
+   "id": "m11-n020",
+   "q": "There are no signs. Who must the driver of the green car give way to?",
+   "options": [
+    "Only the blue car",
+    "Only the white car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 1,
+   "explain": "The white car is approaching you from the right, and there are no priority signs, so you must give way to it ⟦96⟧. The blue car is turning right and driving away in the lane that is oncoming for you, so your paths do not cross."
+  },
+  {
+   "id": "m11-n021",
+   "q": "Who must you give way to when turning right?",
+   "options": [
+    "Only the blue car",
+    "Only the green car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 0,
+   "explain": "You are on a minor road (sign 2.4) and give way to vehicles on the main road if they would otherwise have to brake because of you ⟦97⟧. The blue car on the left is travelling in the lane you are turning into, so you must give way to it. The green car is travelling in the far lane in the other direction, so it does not get in the way of your turn."
+  },
+  {
+   "id": "m11-n022",
+   "q": "Who must you give way to?",
+   "options": [
+    "Only the white car",
+    "Only the green car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 3,
+   "explain": "You are on the main road (sign 2.1). The white car, on the minor road (sign 2.4), must give way to you, even though it is turning into your lane ⟦98⟧. The green car is coming towards you going straight ahead and does not cross your path."
+  },
+  {
+   "id": "m11-n023",
+   "q": "Who must you give way to?",
+   "options": [
+    "The truck and the blue car",
+    "Only the truck",
+    "Everyone",
+    "No one"
+   ],
+   "answer": 1,
+   "explain": "You are on the minor road, and the truck, coming from the main road, is turning left and crossing your path, so you give way to it ⟦99⟧. The blue car, from the main road, is turning right and does not cross your path. The taxi is coming towards you along the same minor road going straight ahead, so your paths do not cross either."
+  },
+  {
+   "id": "m11-n024",
+   "q": "In what order will the truck, the red car and the blue car go through the intersection?",
+   "options": [
+    "Red, truck, blue",
+    "Blue, red, truck",
+    "Truck, blue, red",
+    "Truck, red, blue"
+   ],
+   "answer": 3,
+   "explain": "The truck is on the main road, so it goes first, even though it is turning left ⟦100⟧. The red car and the blue car are on the minor road: they stop at sign 2.5, and among themselves they follow the rules for a road of equal status. The blue car is turning left and gives way to the oncoming red car ⟦101⟧."
+  },
+  {
+   "id": "m11-n025",
+   "q": "Who must you give way to?",
+   "options": [
+    "Only the bus",
+    "Only the green car",
+    "Both",
+    "Neither"
+   ],
+   "answer": 3,
+   "explain": "You are driving on the main road (sign 2.1), so priority to the right does not apply here: the bus, on the minor road (sign 2.4), gives way to you ⟦102⟧. The green car is turning right and does not cross your path."
+  }
+ ]
+}

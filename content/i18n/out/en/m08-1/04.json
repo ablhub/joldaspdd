@@ -1,0 +1,256 @@
+{
+ "questions": [
+  {
+   "id": "m08-n029",
+   "q": "You want to overtake a truck using the left lane. A blue car is quickly approaching from behind in that lane and flashing its headlights. May you change to the left lane now?",
+   "options": [
+    "Yes: you have switched on your direction indicator",
+    "Yes, if you accelerate hard straight away",
+    "No: you would impede the blue car",
+    "Yes, as there is no one ahead in that lane"
+   ],
+   "answer": 2,
+   "explain": "When moving into another lane to overtake, you must not impede vehicles coming up behind in that lane, including those giving warning signals. Let the blue car pass, then start overtaking."
+  },
+  {
+   "id": "m08-n030",
+   "q": "A blue truck is overtaking you, and a green car is approaching it from the opposite direction, as shown in the diagram. What is the best thing for you to do?",
+   "options": [
+    "Speed up so that the truck abandons the overtaking",
+    "Move towards the centre line so that the truck cannot return in front of you",
+    "Do not accelerate and, if necessary, slow down",
+    "Switch on the hazard warning lights and carry on as before"
+   ],
+   "answer": 2,
+   "explain": "The driver being overtaken must not hinder the overtaking by increasing speed or by other actions. There is a risk of a head-on collision, so it is sensible to reduce speed and help the truck return to its lane sooner."
+  },
+  {
+   "id": "m08-n031",
+   "q": "You are driving an oversized road train on a narrow road outside a built-up area. It is difficult to overtake you, and a queue of vehicles has built up behind. What must you do?",
+   "options": [
+    "Carry on: whether to overtake is up to the other drivers",
+    "Switch on the left indicator so that the vehicles behind do not overtake",
+    "Drive in the middle of the road so that no one tries to overtake",
+    "Move over to the right and, if necessary, stop"
+   ],
+   "answer": 3,
+   "explain": "Outside built-up areas, the driver of a slow-moving or oversized vehicle that is difficult to overtake moves as far to the right as possible and, if necessary, stops to let the vehicles queuing behind pass."
+  },
+  {
+   "id": "m08-n032",
+   "q": "The blue car ahead is driving around a broken-down car, as shown in the diagram. May you overtake the blue car at this moment?",
+   "options": [
+    "Yes, provided the oncoming lane is clear",
+    "Yes, if you sound the horn first",
+    "Yes, but only on the right-hand side",
+    "No: it is driving around an obstruction"
+   ],
+   "answer": 3,
+   "explain": "Overtaking a vehicle that is overtaking or driving around an obstruction is prohibited. The blue car has already moved to the left to drive around the obstruction, so you must not overtake it at this moment."
+  },
+  {
+   "id": "m08-n033",
+   "q": "There is a dangerous bend ahead, and the road is visible for about 60 m. You want to overtake a truck, as shown by the arrow. May you do this?",
+   "options": [
+    "Yes, if no oncoming vehicles are visible",
+    "Yes, if you sound the horn before the bend",
+    "Yes, if the truck is travelling slower than 30 km/h",
+    "No: the view is restricted here"
+   ],
+   "answer": 3,
+   "explain": "A restricted view means the road is visible for less than 100 m in the direction of travel. On such sections, overtaking that involves moving into the oncoming lane is prohibited: an oncoming vehicle may appear suddenly.",
+   "scene": {
+    "labels.0.text": "visibility 60 m"
+   }
+  },
+  {
+   "id": "m08-n034",
+   "q": "There is a dangerous bend ahead, and the road is visible for about 60 m. There are two lanes in your direction, and the left one is clear. May you overtake the truck in the left lane of your direction, as shown by the arrow?",
+   "options": [
+    "Yes: only overtaking via the oncoming lane is prohibited",
+    "No: any overtaking is prohibited where the view is restricted",
+    "Yes, but only if the truck signals a right turn",
+    "No: overtaking is always prohibited on a four-lane road"
+   ],
+   "answer": 0,
+   "explain": "On sections with a restricted view, the Rules prohibit overtaking that involves moving into the oncoming lane. Overtaking in the left lane of your own direction is not prohibited by this provision.",
+   "scene": {
+    "labels.0.text": "visibility 60 m"
+   }
+  },
+  {
+   "id": "m08-n035",
+   "q": "You have driven past the sign shown in the diagram. A single truck ahead is travelling at about 20 km/h. May you overtake it on the path shown if the oncoming lane is clear and there are no other prohibitions?",
+   "options": [
+    "Yes: a single vehicle slower than 30 km/h may be overtaken",
+    "No: in the zone of sign 3.20, overtaking any vehicle is prohibited",
+    "Yes, but only with the hazard warning lights on",
+    "No: the truck may only be driven around on the shoulder"
+   ],
+   "answer": 0,
+   "explain": "Sign 3.20 “No overtaking” prohibits overtaking all vehicles except single vehicles travelling at less than 30 km/h. The truck is travelling at about 20 km/h, so it may be overtaken if there are no other prohibitions.",
+   "scene": {
+    "labels.0.text": "20 km/h"
+   }
+  },
+  {
+   "id": "m08-n036",
+   "q": "You have driven past the sign shown in the diagram. A passenger car ahead is travelling at about 50 km/h. May you overtake it on the path shown if the oncoming lane is clear?",
+   "options": [
+    "Yes, if you complete the overtaking quickly",
+    "Yes, if you sound the horn",
+    "No: it is travelling faster than 30 km/h",
+    "No: only trucks may be overtaken in the zone of this sign"
+   ],
+   "answer": 2,
+   "explain": "The car is travelling at 50 km/h, so the exception for single vehicles slower than 30 km/h does not apply to it. In the zone of sign 3.20, overtaking it is prohibited.",
+   "scene": {
+    "labels.0.text": "50 km/h"
+   }
+  },
+  {
+   "id": "m08-n037",
+   "q": "You have driven past the “No overtaking” sign and then through an intersection, as shown in the diagram. There were no other signs. May you overtake the truck now?",
+   "options": [
+    "Yes: the zone of sign 3.20 ended at the intersection",
+    "No: the prohibition applies until sign 3.21",
+    "No: the prohibition applies until the end of the road",
+    "Yes, but only if the truck is travelling slower than 30 km/h"
+   ],
+   "answer": 0,
+   "explain": "The zone of sign 3.20 extends to the nearest intersection after the sign. After the intersection, the prohibition no longer applies, and you may overtake, following the other rules."
+  },
+  {
+   "id": "m08-n038",
+   "q": "You are driving a truck with a maximum authorised mass of 12 t and have driven past the sign shown in the diagram. A passenger car ahead is travelling at about 60 km/h. May you overtake it?",
+   "options": [
+    "Yes, if the oncoming lane is clear",
+    "Yes: the sign only prohibits overtaking trucks",
+    "No: the sign prohibits trucks from moving at all",
+    "No: the car is travelling faster than 30 km/h"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.22 “No overtaking by trucks” applies to trucks with a maximum authorised mass of more than 3.5 t. They are prohibited from overtaking all vehicles except single vehicles travelling slower than 30 km/h."
+  },
+  {
+   "id": "m08-n039",
+   "q": "You are in a passenger car and have driven past the sign shown in the diagram. There is a truck ahead. May you overtake it if the oncoming lane is clear and there are no other prohibitions?",
+   "options": [
+    "No: the sign prohibits overtaking trucks",
+    "No: the sign prohibits all overtaking",
+    "Yes: the sign does not apply to cars",
+    "Yes, but only after sign 3.21"
+   ],
+   "answer": 2,
+   "explain": "Sign 3.22 prohibits overtaking by trucks with a maximum authorised mass of more than 3.5 t. It does not apply to a passenger car, so you may overtake the truck, following the other rules."
+  },
+  {
+   "id": "m08-n040",
+   "q": "On a narrow road, a broken-down car is standing in the lane of the oncoming green car. There are no priority signs, and it is difficult to pass each other. Who goes through this spot first?",
+   "options": [
+    "The green car",
+    "You",
+    "Whoever sounds the horn first",
+    "Whoever has the bigger vehicle"
+   ],
+   "answer": 1,
+   "explain": "If passing oncoming vehicles is difficult and there are no signs 2.6 and 2.7, the driver on whose side the obstruction is gives way. The obstruction is on the green car’s side, so you go first."
+  },
+  {
+   "id": "m08-n041",
+   "q": "Before a narrow section, the sign shown in the diagram is placed for your direction. A broken-down car is standing in your lane, and a green car is coming towards you. It is difficult to pass each other. Who goes first?",
+   "options": [
+    "The green car: the obstruction is on your side",
+    "Whoever was first to reach the obstruction",
+    "No one, until the broken-down car has been removed",
+    "You: sign 2.7 gives you priority over oncoming traffic"
+   ],
+   "answer": 3,
+   "explain": "The rule “the driver on whose side the obstruction is gives way” applies only if the order of passage is not set by signs 2.6 and 2.7. Sign 2.7 “Priority over oncoming traffic” is placed for your direction, so you go first."
+  },
+  {
+   "id": "m08-n042",
+   "q": "Before a narrow section, the sign shown in the diagram is placed for your direction. A broken-down car is standing in the lane of the oncoming green car. It is difficult to pass each other. Who goes first?",
+   "options": [
+    "The green car: you have sign 2.6",
+    "You: the obstruction is on the oncoming side",
+    "Whoever sounds the horn first",
+    "Both at the same time, each in their own lane"
+   ],
+   "answer": 0,
+   "explain": "Sign 2.6 “Priority to oncoming traffic” requires you to give way to oncoming vehicles that are on the narrow section or approaching it. The order of passage is set by the sign, so the obstruction rule does not apply here."
+  },
+  {
+   "id": "m08-n043",
+   "q": "You are driving up a steep ascent marked with a sign, as shown in the diagram. A broken-down car is standing in your lane, and a green car is coming down from above. It is difficult to pass each other. Who goes first?",
+   "options": [
+    "The green car: the obstruction is on your side",
+    "Whoever switches on the hazard warning lights first",
+    "Whoever has more passengers",
+    "You: the driver going downhill gives way"
+   ],
+   "answer": 3,
+   "explain": "On gradients marked with signs 1.13 and 1.14, if there is an obstruction, the driver going downhill gives way. The green car is going downhill, so it lets you pass, even though the obstruction is on your side."
+  },
+  {
+   "id": "m08-n044",
+   "q": "You are driving down a gentle gradient; there are no signs 1.13 or 1.14. A broken-down car is standing in the lane of the oncoming green car, which is going uphill. It is difficult to pass each other. Who goes first?",
+   "options": [
+    "You: the obstruction is on the green car’s side",
+    "The green car: the driver going downhill always gives way",
+    "Whoever reached the obstruction first",
+    "Both at the same time"
+   ],
+   "answer": 0,
+   "explain": "The special rule “the driver going downhill gives way” applies on gradients marked with signs 1.13 and 1.14. There are none here, so the general rule applies: the driver on whose side the obstruction is gives way, that is, the driver of the green car."
+  },
+  {
+   "id": "m08-n045",
+   "q": "At the intersection, the main road turns left, as shown by the plate. You are driving along it behind a truck. May you overtake the truck on the left at this intersection?",
+   "options": [
+    "No: the main road changes direction here",
+    "Yes: overtaking at an intersection is permitted on a main road",
+    "Yes, if the truck is travelling slower than 30 km/h",
+    "Yes, if you sound the horn in advance"
+   ],
+   "answer": 0,
+   "explain": "The main road changes direction here, and overtaking is prohibited at such an uncontrolled intersection. The Rules make an exception only for permitted overtaking on the right."
+  },
+  {
+   "id": "m08-n046",
+   "q": "The traffic light at the intersection is flashing amber. You are driving straight on along the main road behind a slow passenger car. May you overtake it at the intersection, as shown by the arrow?",
+   "options": [
+    "No: overtaking is always prohibited at intersections with traffic lights",
+    "Yes, but only if the car is travelling slower than 30 km/h",
+    "Yes: the intersection is uncontrolled and the main road goes straight on",
+    "No: you must stop when the amber light is flashing"
+   ],
+   "answer": 2,
+   "explain": "When the amber signal is flashing, the intersection is considered uncontrolled. At an uncontrolled intersection, overtaking is prohibited for those driving on a minor road or on a main road that changes direction. You are going straight on along the main road, so overtaking is not prohibited here."
+  },
+  {
+   "id": "m08-n047",
+   "q": "You have started overtaking and are driving in the oncoming lane alongside a truck, but an oncoming car has appeared ahead, and you will not be able to complete the overtaking safely. What should you do?",
+   "options": [
+    "Accelerate as hard as possible to complete the overtaking in time",
+    "Switch on the hazard warning lights and carry on in the oncoming lane",
+    "Pull onto the shoulder on the oncoming side",
+    "Abandon the overtaking: slow down and return behind the truck"
+   ],
+   "answer": 3,
+   "explain": "When a hazard arises, the driver takes measures to reduce speed. The oncoming lane is no longer clear for a distance sufficient for overtaking, so it is safer to abandon the manoeuvre and return to your lane behind the truck."
+  },
+  {
+   "id": "m08-n048",
+   "q": "A blue car coming towards you starts to overtake a truck and moves into your lane, as shown in the diagram. What should you do?",
+   "options": [
+    "Keep going without slowing down: you are in your own lane",
+    "Move into the oncoming lane to get past each other",
+    "Slow down, even to a stop, and keep to the right",
+    "Flash your headlights and speed up"
+   ],
+   "answer": 2,
+   "explain": "An oncoming car in your lane is a hazard that you can see. You must reduce speed, even to a stop, and keep closer to the right-hand edge so that it has time to return to its lane."
+  }
+ ]
+}

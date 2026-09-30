@@ -1,0 +1,211 @@
+{
+ "signs": [
+  {
+   "code": "4.1.1",
+   "meaning": "Movement is permitted only straight ahead.",
+   "note": "If the sign is at the start of a section of road, it applies up to the nearest intersection and does not prohibit a right turn into yards and adjacent areas. Does not apply to route vehicles."
+  },
+  {
+   "code": "4.1.2",
+   "meaning": "Only a right turn is permitted.",
+   "note": "Applies to the intersection of carriageways before which it is placed. Does not apply to route vehicles."
+  },
+  {
+   "code": "4.1.3",
+   "meaning": "Only a left turn is permitted; a sign that permits a left turn also permits a U-turn.",
+   "note": "Applies to the intersection of carriageways before which it is placed. Does not apply to route vehicles."
+  },
+  {
+   "code": "4.1.4",
+   "meaning": "Movement is permitted only straight ahead or to the right.",
+   "note": "Applies to the intersection of carriageways before which it is placed. Does not apply to route vehicles."
+  },
+  {
+   "code": "4.1.5",
+   "meaning": "Movement is permitted only straight ahead or to the left; since a left turn is permitted, a U-turn is permitted too.",
+   "note": "Applies to the intersection of carriageways before which it is placed. Does not apply to route vehicles."
+  },
+  {
+   "code": "4.2.1",
+   "meaning": "An obstacle may be driven around only on the right (4.2.2 - only on the left, 4.2.3 - on either side)."
+  },
+  {
+   "code": "4.3",
+   "meaning": "Movement around the circle is permitted in the direction shown by the arrows."
+  },
+  {
+   "code": "4.5",
+   "meaning": "Movement is permitted only on bicycles, e-scooters and small electric vehicles; pedestrians may walk on it if there is no pavement or footpath."
+  },
+  {
+   "code": "4.6",
+   "meaning": "Movement is permitted only for pedestrians."
+  },
+  {
+   "code": "4.7",
+   "meaning": "Movement is permitted only at the speed shown (km/h) or higher.",
+   "note": "The end of the zone is sign 4.8."
+  },
+  {
+   "code": "5.1",
+   "meaning": "The start of a road on which the special rules for motorways apply.",
+   "note": "On a motorway the following are prohibited: pedestrians being outside a vehicle; riding bicycles, mopeds or tractors, or driving vehicles at less than 40 km/h; U-turns; reversing; giving driving instruction; stopping outside areas 5.15 or 6.11 ⟦2⟧. The end is sign 5.2."
+  },
+  {
+   "code": "5.5",
+   "meaning": "A road or carriageway on which traffic over the whole width goes in one direction.",
+   "note": "The end is sign 5.6. Entry onto such a road is shown by signs 5.7.1, 5.7.2."
+  },
+  {
+   "code": "5.7.1",
+   "meaning": "Ahead is an entry onto a one-way road; the arrow shows the direction of the traffic flow.",
+   "note": "You must not turn against the arrow: oncoming traffic is prohibited there."
+  },
+  {
+   "code": "5.11.1",
+   "meaning": "Marks a place where you can make a U-turn; a left turn is prohibited here."
+  },
+  {
+   "code": "5.12",
+   "meaning": "Marks a bus and (or) trolleybus stop.",
+   "note": "The stop area is also marked by yellow zigzag road marking 1.17."
+  },
+  {
+   "code": "5.15",
+   "meaning": "Marks a place where parking of vehicles is permitted.",
+   "note": "The method of parking is specified by plates 7.6.1-7.6.9; plate 7.17 leaves the space only for vehicles of persons with disabilities."
+  },
+  {
+   "code": "5.16.1",
+   "meaning": "Marks the pedestrian crossing itself.",
+   "note": "If there is no marking 1.14.1-1.14.3, sign 5.16.2 is placed on the right at the near edge of the crossing and 5.16.1 on the left at the far edge. At an uncontrolled crossing, give way to pedestrians ⟦3⟧."
+  },
+  {
+   "code": "5.19.1",
+   "meaning": "A road with no through route."
+  },
+  {
+   "code": "5.22",
+   "meaning": "The name and start of a built-up area in which the requirements of the Rules for traffic in built-up areas apply.",
+   "note": "From this sign a limit of 60 km/h applies (50 km/h for buses and trucks), unless signs set otherwise ⟦4⟧. The end is sign 5.23."
+  },
+  {
+   "code": "5.23",
+   "meaning": "The place from which, on this road, the requirements of the Rules for built-up areas cease to apply."
+  },
+  {
+   "code": "5.24",
+   "meaning": "The name and start of a built-up area in which the traffic rules for built-up areas do not apply on this road.",
+   "note": "This is an information sign: the speed and other requirements remain the same as outside a built-up area. The end is sign 5.25."
+  },
+  {
+   "code": "5.38",
+   "meaning": "The start of an area where the traffic rules for a residential zone apply.",
+   "note": "Speed no more than 20 km/h ⟦5⟧; pedestrians may also walk on the carriageway and have priority ⟦6⟧; through traffic, learner driving and parking with the engine running are prohibited ⟦7⟧."
+  },
+  {
+   "code": "5.39",
+   "meaning": "The residential zone ends here.",
+   "note": "When leaving a residential zone, the driver gives way to other road users ⟦8⟧."
+  },
+  {
+   "code": "6.1",
+   "meaning": "Shows where a first aid station is.",
+   "note": "Service signs only inform about the location of facilities; they prohibit nothing."
+  },
+  {
+   "code": "6.3",
+   "meaning": "Shows where a filling station is.",
+   "note": "Variants: 6.3a - a liquefied gas filling station, 6.3b - a compressed natural gas one."
+  },
+  {
+   "code": "6.4",
+   "meaning": "Shows where a vehicle service point is."
+  },
+  {
+   "code": "7.1.1",
+   "meaning": "Shows the distance from the sign to the start of the hazardous section, the place where a restriction begins, or an object ahead.",
+   "note": "For example, under a warning sign it means: the hazard will begin 150 m ahead."
+  },
+  {
+   "code": "7.2.1",
+   "meaning": "Shows the length of the hazardous section marked by a warning sign, or the zone of application of prohibitory and information signs.",
+   "note": "For signs 3.16 and 3.26, the zone of application is reduced by precisely this plate."
+  },
+  {
+   "code": "7.13",
+   "meaning": "Shows the direction of the main road at an intersection (the bold line is the main road, the thin lines are minor roads).",
+   "note": "With sign 2.4 or 2.5 it obliges you to give way to traffic on the main road; drivers on the main road, if it turns, pass one another as on roads of equal status ⟦9⟧."
+  },
+  {
+   "code": "1.3.2",
+   "meaning": "Marks a level crossing without a barrier where there are two or more tracks.",
+   "note": "Placed immediately before a crossing without a barrier. At such a crossing you must make sure yourself that there is no train."
+  },
+  {
+   "code": "1.4.1",
+   "meaning": "An additional warning of the approach to a level crossing outside a built-up area: the fewer red stripes, the closer the crossing.",
+   "note": "Placed under the first sign 1.1 or 1.2 in the direction of travel. Signs 1.4.1-1.4.3 are placed to the right of the road, identical signs 1.4.4-1.4.6 to the left."
+  },
+  {
+   "code": "1.4.2",
+   "meaning": "An additional warning of the approach to a level crossing outside a built-up area: the fewer red stripes, the closer the crossing.",
+   "note": "Placed separately, midway between the first and second signs 1.1 or 1.2. Signs 1.4.1-1.4.3 are placed to the right of the road, identical signs 1.4.4-1.4.6 to the left."
+  },
+  {
+   "code": "1.4.3",
+   "meaning": "An additional warning of the approach to a level crossing outside a built-up area: the fewer red stripes, the closer the crossing.",
+   "note": "Placed under the second (repeated) sign 1.1 or 1.2. Signs 1.4.1-1.4.3 are placed to the right of the road, identical signs 1.4.4-1.4.6 to the left."
+  },
+  {
+   "code": "1.9",
+   "meaning": "Ahead is an opening bridge or a ferry crossing.",
+   "note": "Outside built-up areas the sign is repeated: the second sign is placed no closer than 50 m to the start of the hazardous section. Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.10",
+   "meaning": "Ahead is an exit onto a quayside or the bank of a body of water.",
+   "note": "Outside built-up areas the sign is repeated: the second sign is placed no closer than 50 m to the start of the hazardous section. Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.11.2",
+   "meaning": "A bend in the road with a small radius or a restricted view: turning to the left.",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.12.2",
+   "meaning": "A section of road with dangerous bends, the first bend being to the left.",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.16",
+   "meaning": "A section of road with an uneven surface: undulations, potholes, uneven joins with bridges.",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.17",
+   "meaning": "A section of road where gravel, crushed stone, etc. may be thrown up from under the wheels.",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.18.2",
+   "meaning": "Ahead the road narrows on the right-hand side.",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.18.3",
+   "meaning": "Ahead the road narrows on the left-hand side.",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.22",
+   "meaning": "Ahead is a crossing with a cycle track or a cycle crossing.",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  },
+  {
+   "code": "1.24",
+   "meaning": "Ahead is a section where cattle may appear on the road.",
+   "note": "Outside a built-up area it is placed 150-300 m before the hazardous section, in a built-up area 50-100 m before it; a different distance is shown by plate 7.1.1."
+  }
+ ]
+}

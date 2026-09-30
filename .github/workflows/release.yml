@@ -1,0 +1,42 @@
+name: Release
+# Выпуск релиза: git tag v2026.10.01 && git push origin v2026.10.01
+# Сборка подписывается ключом из секрета RELEASE_SIGNING_KEY (см. docs/DEPLOY.md). Файл joldas-release.signed прикрепляется к релизу GitHub,
+# а в админке сайта кнопка «Обновить с GitHub» скачивает его и устанавливает (сервер проверяет подпись).
+on:
+  push:
+    tags: ['v*']
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Ключ подписи на месте
+        env:
+          KEY: ${{ secrets.RELEASE_SIGNING_KEY }}
+        run: |
+          test -n "$KEY" || { echo "::error::Нет секрета RELEASE_SIGNING_KEY, инструкция в docs/DEPLOY.md"; exit 1; }
+      - name: Зависимости
+        run: |
+          npm ci --prefix server
+          pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Сборка и подпись релиза
+        env:
+          RELEASE_KEY_PEM: ${{ secrets.RELEASE_SIGNING_KEY }}
+        run: node tools/build_release.js release-out
+      - name: Публикация релиза
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" release-out/joldas-release.signed \
+            --title "$GITHUB_REF_NAME" \
+            --notes "Подписанный релиз сайта. Установка: админка, Настройки, Обновление сайта, кнопка «Обновить с GitHub»."

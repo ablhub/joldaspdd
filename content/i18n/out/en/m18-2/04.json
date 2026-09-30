@@ -1,0 +1,293 @@
+{
+ "questions": [
+  {
+   "id": "m18-n097",
+   "q": "In a built-up area, the name of a district is written on a white background on a direction sign. What does this mean?",
+   "options": [
+    "This district is in the same city",
+    "The route there is along a motorway",
+    "You can get there only in daytime",
+    "The road there is temporarily closed"
+   ],
+   "answer": 0,
+   "explain": "On signs in a built-up area, a white background means that the place is in the same built-up area. A green or blue background means that after leaving the city the route will be along a motorway or another road.",
+   "ref": "Annex 1, Chapter 5 (background colour of direction signs)"
+  },
+  {
+   "id": "m18-n098",
+   "q": "You have entered a village and passed this sign. May you sound the horn to warn a truck ahead that you are going to overtake?",
+   "options": [
+    "Yes, if the truck is driving slowly",
+    "No: you may not sound the horn like this in a built-up area",
+    "Yes: a warning about overtaking may be given anywhere",
+    "No: any overtaking is banned in a village"
+   ],
+   "answer": 1,
+   "explain": "Sign 5.22 means that the rules for built-up areas start to apply. The horn to warn of overtaking is allowed only outside built-up areas; here you may flash the headlights."
+  },
+  {
+   "id": "m18-n099",
+   "q": "You are driving a passenger car and have entered a village past this sign on a blue background. The road has no central reservation, and there are no other signs. What is the highest speed you may drive at?",
+   "options": [
+    "60 km/h",
+    "90 km/h",
+    "100 km/h",
+    "110 km/h"
+   ],
+   "answer": 2,
+   "explain": "Sign 5.24 marks a built-up area in which the requirements of the Rules for built-up areas do not apply on this road, including the 60 km/h limit. For a passenger car, the limit outside built-up areas on a road without a central reservation remains: 100 km/h."
+  },
+  {
+   "id": "m18-n100",
+   "q": "You have passed this sign. How can you tell whether you may use the middle lane?",
+   "options": [
+    "By the sign at the end of the section ahead",
+    "The middle lane is always only for oncoming traffic",
+    "By the direction of the vehicles in the adjacent lane",
+    "By the lane-control signal above that lane"
+   ],
+   "answer": 3,
+   "explain": "Sign 5.35 marks a section where the direction of traffic in one or more lanes may be reversed. Whether you may use such a lane is shown by the lane-control signals above it."
+  },
+  {
+   "id": "m18-n101",
+   "q": "This sign informs you about photo and video enforcement of violations. May a camera record a violation where there is no such sign?",
+   "options": [
+    "No: without a sign, enforcement is unlawful",
+    "Only if the sign is 150-300 m away",
+    "Only in built-up areas",
+    "Yes: placing this sign is not mandatory"
+   ],
+   "answer": 3,
+   "explain": "According to the text for sign 5.42 (as amended by Order No. 305, in force from 12.07.2026), violations are recorded by a stationary certified technical device, and placing the sign itself is not mandatory. So a camera may operate where there is no sign."
+  },
+  {
+   "id": "m18-n102",
+   "q": "You have passed sign 5.44 “Parking restriction zone” and then two intersections. Sign 5.45 has not appeared yet. May you park here?",
+   "options": [
+    "Yes: the zone ended at the first intersection",
+    "No: the ban lasts until the end-of-zone sign",
+    "Yes, if you park for less than 30 minutes",
+    "Only on the right side of the street"
+   ],
+   "answer": 1,
+   "explain": "Sign 5.44 marks the start of an area where parking is banned. Such a ban does not end at an intersection; it applies throughout the zone up to sign 5.45 “End of parking restriction zone”."
+  },
+  {
+   "id": "m18-n103",
+   "q": "Who is allowed to travel in a pedestrian zone, the start of which is marked by sign 5.48?",
+   "options": [
+    "Everyone, but no faster than 20 km/h",
+    "Pedestrians and taxis",
+    "Only pedestrians",
+    "Pedestrians and cyclists"
+   ],
+   "answer": 2,
+   "explain": "Sign 5.48 marks the place where an area begins in which only pedestrians are allowed. Do not confuse it with residential zone 5.38, where vehicles drive at no more than 20 km/h."
+  },
+  {
+   "id": "m18-n104",
+   "q": "At the entrance to a zone there is sign 5.50 with an environmental class restriction. The registration documents of your car do not state an environmental class. May you enter?",
+   "options": [
+    "Yes: if no class is stated, the ban does not apply to you",
+    "Yes, but only on weekends",
+    "Yes, if the car is less than five years old",
+    "No: entry is banned for such vehicles too"
+   ],
+   "answer": 3,
+   "explain": "Sign 5.50 bans motor vehicles whose environmental class is lower than the one shown on the sign, or is not stated in the registration documents."
+  },
+  {
+   "id": "m18-n105",
+   "q": "You have passed a sign with a plate, as in the diagram. At the edge of the carriageway before the crossing, a person is signalling with a white cane: they are about to cross. What should you do?",
+   "options": [
+    "Stop and let them cross",
+    "Drive on before they step onto the carriageway",
+    "Sound the horn so that they wait",
+    "Let them cross only if they are already on the “zebra”"
+   ],
+   "answer": 0,
+   "explain": "Plate 7.15 under sign 1.20 warns that the crossing is used by people who are completely blind. A driver must give way to a completely blind pedestrian who signals with a white cane in all cases, even away from a pedestrian crossing."
+  },
+  {
+   "id": "m18-n106",
+   "q": "You need a vehicle service station. How do you get there, judging by the sign with a plate?",
+   "options": [
+    "Drive straight on: the station is 200 m ahead by the road",
+    "Turn right: the station is 200 m off to the side",
+    "Turn left: the station is 200 m off to the side",
+    "Make a U-turn: the station is 200 m behind you"
+   ],
+   "answer": 1,
+   "explain": "Plate 7.1.3 shows the distance to an object that is to the side of the road, and the arrow shows which way to turn towards it. Here the service station is 200 m to the right."
+  },
+  {
+   "id": "m18-n107",
+   "q": "What does this sign require of the driver?",
+   "options": [
+    "Reduce speed to 40 km/h",
+    "Stop at the place to eat",
+    "Give way to vehicles leaving the parking area",
+    "Nothing: it only informs about a place to eat"
+   ],
+   "answer": 3,
+   "explain": "Service signs only inform you about the location of facilities: a place to eat, a filling station, vehicle service and others. By themselves they neither ban nor require anything."
+  },
+  {
+   "id": "m18-n108",
+   "q": "You are driving in the lane next to a lane for route vehicles and have passed this sign. May you now move into the right lane, if there are no other bans?",
+   "options": [
+    "No: the right lane is for buses up to the intersection",
+    "Only to turn right",
+    "Yes: the lane for route vehicles has ended here",
+    "No: only taxis and buses may use it"
+   ],
+   "answer": 2,
+   "explain": "Sign 5.9.1 marks the end of a lane for route vehicles. Before it, ordinary cars could not use that lane; beyond the sign it is an ordinary lane, and you may move into it."
+  },
+  {
+   "id": "m18-n109",
+   "q": "Sign 2.1 “Priority road” hangs above the carriageway. Where is plate 7.13 “Direction of the priority road” placed in this case?",
+   "options": [
+    "Under the sign, as usual",
+    "To the side of the sign",
+    "On a separate post beyond the intersection",
+    "Such a plate is not hung above the road"
+   ],
+   "answer": 1,
+   "explain": "Plates are placed directly under the sign. Exception: plates 7.2.2-7.2.4 and 7.13, for signs above the carriageway, shoulder or pavement, are placed to the side of the sign."
+  },
+  {
+   "id": "m18-n110",
+   "q": "This sign with a plate hangs above the right lane. Whom does the restriction concern?",
+   "options": [
+    "Everyone travelling in this direction",
+    "Only those travelling in this lane",
+    "Only trucks in the right lane",
+    "Only those turning right"
+   ],
+   "answer": 1,
+   "explain": "Plate 7.14 shows the traffic lane to which the sign or traffic light applies. The 40 km/h limit concerns only the right lane."
+  },
+  {
+   "id": "m18-n111",
+   "q": "Besides route vehicles, who may drive past this sign with a plate?",
+   "options": [
+    "A taxi taking a passenger to their home",
+    "Passenger cars of residents of this street",
+    "Cars with the “Person with a disability” sign",
+    "Trucks delivering goods to local shops"
+   ],
+   "answer": 2,
+   "explain": "Plate 7.18 means that the sign does not apply to motorised wheelchairs and cars with the “Person with a disability” identification sign. For all others, except route vehicles, entry is banned."
+  },
+  {
+   "id": "m18-n112",
+   "q": "Before an intersection there is a permanent sign 4.1.1 “Ahead only”, and next to it, on a portable stand, a temporary sign 4.1.2 “Turn right only” on a yellow background. Which way do you go?",
+   "options": [
+    "Only straight ahead: the permanent sign is more important",
+    "Straight ahead or right, as you choose",
+    "Only right: the temporary sign is obeyed",
+    "Stop and wait for instructions"
+   ],
+   "answer": 2,
+   "explain": "If the meanings of temporary signs on a portable stand and of fixed signs contradict each other, drivers follow the temporary ones. This is how a work site is usually bypassed."
+  },
+  {
+   "id": "m18-n113",
+   "q": "You are driving on a roundabout with this sign and have passed the exit you need. What should you do?",
+   "options": [
+    "Drive another lap and leave where you need to",
+    "Reverse to the missed exit",
+    "Make a U-turn and go back to the exit against the arrows",
+    "Stop and wait until the exit is free"
+   ],
+   "answer": 0,
+   "explain": "Sign 4.3 allows movement only in the direction of the arrows, and reversing at intersections is banned. So you reach a missed exit by going round the roundabout once more."
+  },
+  {
+   "id": "m18-n114",
+   "q": "A temporary sign on a yellow background allows only a right turn, and a traffic controller signals you to go straight ahead. What should you do?",
+   "options": [
+    "Turn right: the temporary sign is more important",
+    "Go straight ahead on the traffic controller’s signal",
+    "Stop and wait until the sign is removed",
+    "Choose either of the two directions"
+   ],
+   "answer": 1,
+   "explain": "The signals and instructions of a traffic controller must be obeyed even if they contradict traffic lights, road signs (including temporary ones) or road markings."
+  },
+  {
+   "id": "m18-n115",
+   "q": "You have a red light and a green left arrow in a filter arrow section. Before the intersection there is a sign, as in the diagram. Which path may you take?",
+   "options": [
+    "Path A only",
+    "Path B only",
+    "Both paths",
+    "Neither path"
+   ],
+   "answer": 0,
+   "explain": "A green left arrow normally allows a U-turn too, but only if it is not banned by a sign. Sign 3.19 bans U-turns, so you may only turn left (A), giving way to traffic from other directions."
+  },
+  {
+   "id": "m18-n116",
+   "q": "Under sign 5.15 “Parking place” there is plate 7.7. May you leave your car at this parking place with the engine running to keep the air conditioning on?",
+   "options": [
+    "Yes, if you stay in the car",
+    "Yes, if the engine is diesel",
+    "No: only with the engine switched off",
+    "Yes, if it is hotter than 30°C outside"
+   ],
+   "answer": 2,
+   "explain": "Plate 7.7 means that at a parking place marked by sign 5.15, parking is allowed only for vehicles with the engine not running."
+  },
+  {
+   "id": "m18-n117",
+   "q": "Under sign 5.15 there is plate 7.9 saying “2 h”. You left your car for 3 hours. Did you break the rules?",
+   "options": [
+    "No: the plate is only a recommendation",
+    "Yes: parking here is limited to 2 hours",
+    "No, if you pay for the extra hour",
+    "No: the limit applies only to trucks"
+   ],
+   "answer": 1,
+   "explain": "Plate 7.9 shows the maximum duration of parking at a place with sign 5.15. Here it is 2 hours, and you may not park for longer."
+  },
+  {
+   "id": "m18-n118",
+   "q": "Under sign 3.28 “No parking” there is plate 7.11 saying “7 t”. May you park here a van with a maximum authorised mass of 3.5 t?",
+   "options": [
+    "Yes: the ban is for vehicles over 7 t only",
+    "No: the sign bans parking for everyone",
+    "No: the plate makes the ban stricter for vans",
+    "Yes, but for no longer than 7 minutes"
+   ],
+   "answer": 0,
+   "explain": "Plate 7.11 means that the sign applies only to vehicles whose maximum authorised mass is greater than the one shown on the plate. A 3.5 t van is lighter than 7 t, so the parking ban does not apply to it."
+  },
+  {
+   "id": "m18-n119",
+   "q": "Under sign 3.28 “No parking” there is a plate “Except type of vehicle” showing a passenger car. Who is banned from parking?",
+   "options": [
+    "Only passenger cars",
+    "Everyone except passenger cars",
+    "Nobody: the plate cancels the sign",
+    "Everyone, including passenger cars"
+   ],
+   "answer": 1,
+   "explain": "Plates 7.4.9-7.4.14 show the type of vehicle to which the sign does not apply. Passenger cars may park here, and all others are banned."
+  },
+  {
+   "id": "m18-n120",
+   "q": "Under sign 5.15 “Parking place” there is plate 7.22 showing an electric car. May you park an ordinary petrol car here?",
+   "options": [
+    "Yes, if all places for electric cars are free",
+    "Yes, if you park for no longer than an hour",
+    "No: this place is for electric cars",
+    "Yes, but only at night"
+   ],
+   "answer": 2,
+   "explain": "Plate 7.22 limits the sign to electric cars and hybrid cars that are charged from an external source. So this parking place is intended only for them."
+  }
+ ]
+}

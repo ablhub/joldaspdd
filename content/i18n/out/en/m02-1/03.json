@@ -1,0 +1,254 @@
+{
+ "questions": [
+  {
+   "id": "m02-n007",
+   "q": "A police officer has stopped you and requires you to undergo an examination for intoxication. You are sure you are sober. What should you do?",
+   "options": [
+    "Refuse, since you are sure you are sober",
+    "Agree only if you have been in an accident",
+    "Undergo it only if there are witnesses nearby",
+    "Undergo the examination"
+   ],
+   "answer": 3,
+   "explain": "The driver of a motor vehicle must undergo an examination for intoxication when required by a police officer, even if the driver is sure they are sober."
+  },
+  {
+   "id": "m02-n008",
+   "q": "A police officer has stopped you and gone back to the patrol car to do the paperwork. May you drink a bottle of beer in the meantime, since you are not driving anywhere?",
+   "options": [
+    "Yes: the car is stationary and you are not driving it now",
+    "No",
+    "Yes, if a sober passenger will drive the car afterwards",
+    "Yes, if more than 15 minutes have passed since you were stopped"
+   ],
+   "answer": 1,
+   "explain": "After being stopped at the request of a police officer, a driver must not consume alcohol, narcotic or psychotropic substances until the examination for intoxication or until an authorised person decides to exempt the driver from it."
+  },
+  {
+   "id": "m02-n009",
+   "q": "When must a driver take a test of their knowledge of the Road Traffic Rules?",
+   "options": [
+    "In cases set by the Code of Administrative Offences",
+    "Every year, at the vehicle's technical inspection",
+    "Only each time the driving licence is replaced",
+    "Only after an accident in which people were injured"
+   ],
+   "answer": 0,
+   "explain": "A driver takes a test of their knowledge of the Rules in the cases established by the Code of Administrative Offences of the Republic of Kazakhstan."
+  },
+  {
+   "id": "m02-n010",
+   "q": "A police officer asks you to urgently take a person who needs medical assistance to hospital. The hospital is in the opposite direction to your route. What should you do?",
+   "options": [
+    "You may refuse, as you are going the other way",
+    "You must, but only if the hospital is on your way",
+    "You must provide your vehicle",
+    "It is enough to call a taxi at your own expense"
+   ],
+   "answer": 2,
+   "explain": "To take a person in urgent need of medical assistance to a medical facility, a driver provides the vehicle to medical workers, police officers and officers of the national security bodies, regardless of the driver's own direction of travel."
+  },
+  {
+   "id": "m02-n011",
+   "q": "For what purpose must a driver provide the vehicle to police officers?",
+   "options": [
+    "To go to lunch or on personal errands",
+    "To carry the officer's personal belongings",
+    "None: you need not lend a private car",
+    "To get to the scene of a natural disaster"
+   ],
+   "answer": 3,
+   "explain": "A driver provides the vehicle to police officers to transport vehicles damaged in accidents, to get to the scene of a natural disaster and in other cases provided for by law."
+  },
+  {
+   "id": "m02-n012",
+   "q": "Which vehicles are not covered by the requirement to provide a vehicle to officers and medical workers?",
+   "options": [
+    "Vehicles of missions with diplomatic immunity",
+    "Taxis and any other vehicles with passengers inside",
+    "Cars over 10 years old and motorcycles",
+    "Any private cars that are not used as taxis"
+   ],
+   "answer": 0,
+   "explain": "The requirement to provide a vehicle does not apply to vehicles of missions of foreign states and international organisations that have diplomatic immunity."
+  },
+  {
+   "id": "m02-n013",
+   "q": "An officer has used your car in a case provided for by the Rules. What must the officer do at your request?",
+   "options": [
+    "Nothing: services to the state are provided free",
+    "Give a certificate or make an entry in the waybill",
+    "Pay you in cash for the trip straight away",
+    "Leave their official ID with you as a deposit"
+   ],
+   "answer": 1,
+   "explain": "At the driver's request, whoever has used the vehicle gives a certificate or makes an entry in the waybill showing the duration of the trip, the distance travelled, their surname, position, official ID number and the name of their organisation."
+  },
+  {
+   "id": "m02-n014",
+   "q": "You have provided your car to officers of a state organisation in a case provided for by the Rules. Who reimburses your costs?",
+   "options": [
+    "Nobody: providing the car is your duty",
+    "Your insurance company, under your OGPO policy",
+    "The officers' organisation, if you request it",
+    "The casualty who was carried in your car"
+   ],
+   "answer": 2,
+   "explain": "The costs of providing the vehicle are reimbursed, at the owner's request, by the organisations whose officers used it."
+  },
+  {
+   "id": "m02-n015",
+   "q": "In what order does a driver act after an accident in which someone was injured?",
+   "options": [
+    "Call the police - move the car to the shoulder - help the casualties",
+    "Help the casualties - move the car away - put out the warning triangle",
+    "Call a tow truck - phone the insurance company - help the casualties",
+    "Hazard warning lights, triangle - first aid, ambulance - call the police"
+   ],
+   "answer": 3,
+   "explain": "First, the driver stops, does not move the vehicle, switches on the hazard warning lights and puts out a warning triangle. Then the driver helps the casualties and calls an ambulance, reports the accident to the police, writes down the details of eyewitnesses and waits for the police."
+  },
+  {
+   "id": "m02-n016",
+   "q": "You have had an accident in town, switched on the hazard warning lights and put out a warning triangle as shown in the diagram. Have you done the right thing?",
+   "options": [
+    "Yes, everything is correct",
+    "No, the triangle is too close",
+    "No, the triangle goes in front of the car, not behind",
+    "No, with the hazard warning lights on, no triangle is needed"
+   ],
+   "answer": 1,
+   "explain": "The triangle is only 10 m from the car. After an accident, it is placed on the side of greatest danger so as to warn other drivers in good time, but no closer than 15 m in a built-up area and 30 m outside one.",
+   "scene": {
+    "labels.0.text": "triangle"
+   }
+  },
+  {
+   "id": "m02-n017",
+   "q": "You have had an accident out of town, switched on the hazard warning lights and put out a warning triangle as shown in the diagram. Have you done the right thing?",
+   "options": [
+    "Yes, the distance is sufficient",
+    "No, out of town it must be at least 50 m away",
+    "No, the triangle goes right next to the car",
+    "No, a triangle is only put out at night"
+   ],
+   "answer": 0,
+   "explain": "The triangle is behind the car, on the side of approaching vehicles, 30 m away. Outside a built-up area, this is the minimum distance. If the view is poor, the triangle is placed further away so that drivers notice the danger in time.",
+   "scene": {
+    "labels.0.text": "triangle"
+   }
+  },
+  {
+   "id": "m02-n018",
+   "q": "After an accident with no casualties, your cars are in the right lane, and other vehicles are driving around them in the left lane without difficulty. You are waiting for the police. Do you need to clear the carriageway?",
+   "options": [
+    "Yes, move the cars to the roadside at once",
+    "Yes, if the wait lasts more than 5 minutes",
+    "No, other vehicles can get past",
+    "Yes, but photograph the damage first"
+   ],
+   "answer": 2,
+   "explain": "Other vehicles can get past here, so the cars are not moved until the police arrive. You need to clear the carriageway only if other vehicles cannot get through."
+  },
+  {
+   "id": "m02-n019",
+   "q": "After an accident, your car and the blue car are blocking both lanes of a narrow road, and other vehicles cannot get past. Nobody is injured. What should you do?",
+   "options": [
+    "Touch nothing until the police arrive, even if it causes a jam",
+    "Move the cars to the shoulder at once without recording anything",
+    "Record everything in front of witnesses and clear the road",
+    "Leave the scene so as not to cause a traffic jam"
+   ],
+   "answer": 2,
+   "explain": "Here other vehicles cannot get through, so the carriageway must be cleared. Before that, you record the position of the vehicles, the marks and the objects in the presence of witnesses, take measures to preserve them and arrange for traffic to drive around the scene."
+  },
+  {
+   "id": "m02-n020",
+   "q": "After an accident, pieces of broken headlights and part of a bumper are lying on the road. They do not prevent other vehicles from getting past. May you remove them before the police arrive?",
+   "options": [
+    "Yes, debris on the road is dangerous for others",
+    "Yes, if you photograph them first",
+    "Yes, if the other driver does not mind",
+    "No, they must not be moved"
+   ],
+   "answer": 3,
+   "explain": "A driver involved in an accident must not move objects related to it: their position matters for documenting the accident. Anything may be moved only if the carriageway has to be cleared, and only after recording everything in the presence of witnesses."
+  },
+  {
+   "id": "m02-n021",
+   "q": "You have reported the accident to the police. People who saw the collision are standing nearby. What else must you do?",
+   "options": [
+    "Write down the eyewitnesses' details and wait for the police",
+    "Nothing: the police will deal with everything",
+    "Ask the eyewitnesses to leave so that they are not in the way",
+    "Photograph the eyewitnesses and then leave on your business"
+   ],
+   "answer": 0,
+   "explain": "A driver involved in an accident reports it to the police, writes down the names and addresses of eyewitnesses and waits for the police, except in the cases provided for in para. 8 of the Rules.",
+   "scene": {
+    "labels.0.text": "eyewitnesses"
+   }
+  },
+  {
+   "id": "m02-n022",
+   "q": "After an accident, nobody is injured, and you and the other driver agree about what happened. Under para. 8 of the Rules, how can you document the accident without waiting for the police at the scene?",
+   "options": [
+    "Go your separate ways without any paperwork, as you both agree",
+    "Draw up a diagram, sign it and go to the police",
+    "Report the accident by phone and go home",
+    "Have everything documented by the nearest notary using a diagram"
+   ],
+   "answer": 1,
+   "explain": "Nobody is injured, and the drivers agree in their assessment of what happened. In that case they may draw up a diagram, sign it and go to the nearest police station to have the accident documented. If the conditions for simplified documentation are met, you can even do without the police."
+  },
+  {
+   "id": "m02-n023",
+   "q": "After an accident, nobody is injured, but you and the other driver disagree about who is at fault. What should you do?",
+   "options": [
+    "Draw up a diagram and go to the nearest police station",
+    "Document the accident the simplified way, via an app",
+    "Report to the police and wait at the scene",
+    "Go your separate ways and settle the dispute in court later"
+   ],
+   "answer": 2,
+   "explain": "A diagram followed by a trip to the police, and simplified documentation, are possible only if the drivers agree in their assessment of what happened. There is no agreement, so the general rule applies: report to the police, write down the eyewitnesses' details and wait for the police."
+  },
+  {
+   "id": "m02-n024",
+   "q": "What do the Rules call simplified documentation of a road traffic accident?",
+   "options": [
+    "Documenting it by phone with the police duty officer, with no visit to the scene",
+    "Documenting any accident in which nobody was injured",
+    "Documenting an accident at a notary's, without the insurer",
+    "Documenting it without the police, in cases set by the OGPO Law"
+   ],
+   "answer": 3,
+   "explain": "Simplified documentation of an accident means completing the accident documents without police officers. The Law on Compulsory Insurance of Civil Liability of Vehicle Owners determines when it is possible."
+  },
+  {
+   "id": "m02-n025",
+   "q": "Three cars have collided in a chain. Nobody is injured, all the drivers have OGPO (compulsory civil liability insurance) policies, and there is no dispute about who is at fault. Can the accident be documented the simplified way, without the police?",
+   "options": [
+    "Yes, all the conditions are met",
+    "No, there are more than two vehicles",
+    "Yes, if each driver's damage is small",
+    "No, this is only for accidents out of town"
+   ],
+   "answer": 1,
+   "explain": "Simplified documentation is possible only in the cases established by the OGPO Law, and one of the conditions is that only two vehicles are involved in the accident. With three cars, the usual rules apply: report to the police and wait for officers, or act under para. 8.",
+   "ref": "para. 2(68); para. 8; Law on Compulsory Insurance of Civil Liability of Vehicle Owners"
+  },
+  {
+   "id": "m02-n026",
+   "q": "Who on a motorcycle must wear a fastened motorcycle helmet?",
+   "options": [
+    "Only the driver",
+    "Only the passenger",
+    "Both driver and passenger",
+    "No one, if the trip is short"
+   ],
+   "answer": 2,
+   "explain": "When driving a motorcycle or moped, the driver must wear a fastened motorcycle helmet and must not carry passengers without a fastened motorcycle helmet."
+  }
+ ]
+}

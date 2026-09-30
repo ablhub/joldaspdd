@@ -1,0 +1,217 @@
+{
+ "meta": {
+  "title": "Safe driving",
+  "pdd": "Chapters 2, 7-11, 18, 19 and 26 of the Rules and the List of Defects",
+  "summary": "You will understand how speed, following distance and weather affect stopping distance, learn how to handle a skid, aquaplaning and black ice, and learn to spot danger early."
+ },
+ "lesson": [
+  {
+   "h": "Following distance - your reserve of time",
+   "p": [
+    "The Rules require you to keep a following distance from the vehicle ahead that will let you avoid a collision, and a lateral clearance that keeps your driving safe ⟦15⟧. The Rules do not specify exact metres or seconds: the following distance depends on your speed, the road and the weather.",
+    "It is easier to measure the following distance in time. Choose a landmark: a post, a sign, a shadow on the road. When the vehicle ahead passes it, start counting: “one thousand and one, one thousand and two”. If you reach the landmark before you finish counting, you are following too closely. The figures below are practical guidelines, not requirements of the Rules."
+   ],
+   "list": [
+    "Dry asphalt - at least 2 seconds.",
+    "Wet road - at least twice that: stopping distance doubles in the rain (Highway Code UK, para. 126, 227).",
+    "Black ice - many times more: on ice, stopping distance can be up to 10 times longer (Highway Code UK, para. 126).",
+    "Behind a truck or bus - more than usual: they block your view.",
+    "In a traffic jam, stop so that you can see the rear wheels of the vehicle ahead: this leaves room to drive around it."
+   ],
+   "tip": "If a vehicle “sticks” close behind you, increase your following distance ahead. Then you can brake smoothly, and it will not run into you."
+  },
+  {
+   "h": "Reaction time and stopping distance",
+   "p": [
+    "Stopping distance is the distance covered during the reaction time plus the braking distance. While the driver notices the danger and moves their foot to the brake, about 1 second passes. During all this time, the vehicle keeps moving at the same speed.",
+    "Braking distance grows in proportion to the square of the speed. At 2 times the speed, braking distance is roughly 4 times longer. So an extra 20 km/h in town adds metres to your stopping distance - metres you may not have to spare.",
+    "Speed is chosen with regard to the traffic flow, the condition of the vehicle and its load, the road, the weather and visibility. If a hazard appears, the driver reduces speed, up to a complete stop, or safely drives around the obstruction ⟦16⟧.",
+    "The figures below are approximate: reaction time about 1 second, deceleration on dry asphalt about 7 m/s². An impact at 60 km/h is, in terms of energy, similar to a fall from a height of about 14 m (4th-5th floor). And if a child runs out 28 m ahead, at 50 km/h the vehicle will manage to stop, while at 60 km/h it will hit the child at a speed of about 40 km/h."
+   ],
+   "list": [
+    "40 km/h: about 11 m during the reaction time and about 9 m braking, about 20 m in total.",
+    "60 km/h: about 17 m and about 20 m, about 37 m in total.",
+    "90 km/h: about 25 m and about 45 m, about 70 m in total.",
+    "These are guidelines for dry asphalt, a roadworthy vehicle and a reaction time of about 1 second. On a wet road the distance is longer, and on ice it is several times longer."
+   ],
+   "tip": "Questions of the type “by how many times will the braking distance increase” are solved like this: square the ratio of the speeds."
+  },
+  {
+   "h": "Emergency braking",
+   "p": [
+    "Sudden braking is prohibited unless it is needed to prevent a road traffic accident ⟦17⟧: sudden braking without cause often ends in being hit from behind. But when a crash is imminent, brake as hard as you can.",
+    "With ABS: press the brake pedal sharply, all the way down, and hold it. The pedal will vibrate and click; this is normal - that is how ABS works. The wheels do not lock, so the vehicle still responds to the steering wheel and you can drive around the obstruction.",
+    "Without ABS: locked wheels skid, and the vehicle stops steering. Brake intermittently: press until the wheels are about to lock, ease off a little, then press again."
+   ],
+   "list": [
+    "In a manual car, during an emergency stop also press the clutch.",
+    "Look where you want to go, not at the obstruction: your hands steer where your eyes look.",
+    "ABS keeps the vehicle steerable, but it does not cancel out physics: on ice the vehicle still takes several times longer to stop."
+   ]
+  },
+  {
+   "h": "Skid",
+   "p": [
+    "A skid is when the wheels lose grip and the vehicle slides in a direction other than where the wheels are pointed. The cause is almost always the driver's own actions: too high a speed in a bend, an abrupt turn of the wheel, harsh acceleration or braking on a slippery road.",
+    "The best protection against a skid is a speed chosen with a safety margin for the road conditions ⟦18⟧."
+   ],
+   "list": [
+    "The vehicle does not turn and keeps going straight (the front wheels have lost grip): smoothly release the accelerator and slightly reduce the steering angle so the wheels “grip” again.",
+    "The rear of the vehicle swings sideways (a rear-wheel skid): steer in the direction of the skid. If the rear swings right, steer right.",
+    "Do not brake sharply during a skid: this will only increase the slide.",
+    "As soon as the vehicle is going straight again, straighten the steering wheel at once, or it will be thrown into a skid the other way.",
+    "All steering movements should be quick but smooth, without jerks."
+   ]
+  },
+  {
+   "h": "Aquaplaning",
+   "p": [
+    "On a wet road, the tyre has to squeeze the water out from under it. At high speed the tread cannot keep up, a wedge of water builds up in front of the wheel, and the tyre “floats up” and loses contact with the asphalt. The risk is higher on worn tyres, in ruts and in puddles.",
+    "Signs: the steering wheel suddenly becomes light, the vehicle feels as if it is floating, and engine revs may jump up."
+   ],
+   "list": [
+    "Smoothly ease off the accelerator.",
+    "Keep the steering wheel straight, do not make any sharp movements.",
+    "Do not brake sharply: when the tyres touch the asphalt again, turned or locked wheels will throw the vehicle into a skid.",
+    "Prevention: reduce your speed in rain and keep an eye on your tread. For a passenger car, the residual tread depth must be at least 1.6 mm ⟦19⟧, but for rain it is better to have some depth to spare."
+   ]
+  },
+  {
+   "h": "Winter: black ice, snow, blizzard",
+   "p": [
+    "In many regions of Kazakhstan winter is long: severe frosts, blizzards and snowdrifts on the highways, and, at temperatures around zero, black ice. The most treacherous ice forms exactly around 0°C, when the asphalt just looks wet.",
+    "You must not fit tyres of different sizes and models, studded and non-studded, frost-resistant and non-frost-resistant tyres on the same axle ⟦20⟧. Winter tyres grip noticeably better in cold and snow."
+   ],
+   "list": [
+    "All actions should be smooth: accelerator, brake, steering.",
+    "Following distance - several times greater than in summer.",
+    "Black ice appears earliest on bridges and flyovers (they cool from both above and below), in shade, and near bodies of water.",
+    "On an empty stretch with no vehicles behind you, brake gently to feel how slippery it is.",
+    "In poor visibility, traffic may be organised into a convoy: the speed and following distance are set by the convoy leader or by the movement mode of the lead vehicle, and overtaking other vehicles in the convoy is not allowed ⟦21⟧.",
+    "Black ice gives itself away like this: the asphalt glistens as if wet, but no spray flies up from under the wheels of the vehicles ahead.",
+    "On ice, move off smoothly, at low revs; in a manual car you can pull away in second gear.",
+    "If a storm warning is issued, avoid travelling on the highway and follow announcements about road closures (recommendations of the Ministry of Emergency Situations of the Republic of Kazakhstan). If you get stuck in a blizzard, stay in the vehicle, call 112, and make sure snow does not block the exhaust pipe: otherwise carbon monoxide will get into the cabin."
+   ],
+   "tip": "Before you set off, clear all the windows, mirrors, headlights and the roof of snow: when you brake, snow from the roof slides down onto the windscreen."
+  },
+  {
+   "h": "Fatigue and distraction",
+   "p": [
+    "The Rules prohibit driving while ill or fatigued, under the influence of medication that impairs reaction and attention, or in a state of intoxication ⟦22⟧.",
+    "Fatigue is dangerous because the driver does not notice “switching off” for 2-3 seconds. At 90 km/h, in 3 seconds the vehicle covers about 75 metres blind."
+   ],
+   "list": [
+    "Signs: you are yawning, your eyelids feel heavy, you cannot remember the last few kilometres, the vehicle drifts towards the edge.",
+    "What to do: stop in a safe place and rest. A short nap of 15-20 minutes helps a lot.",
+    "Music, cold air and coffee help only for a short while.",
+    "On a long journey, take a break of at least 15 minutes about every 2 hours, and it is best to avoid long trips between midnight and 6 a.m. (Highway Code UK, para. 91).",
+    "You may use a phone while driving only through headphones or hands-free mode ⟦23⟧. Texting and video distract you the most."
+   ]
+  },
+  {
+   "h": "Blind spots",
+   "p": [
+    "A blind spot is an area to the side and behind that is not visible in any mirror. A whole car or motorcycle can easily “hide” in it.",
+    "Before a manoeuvre, signal ⟦24⟧ and remember: a signal does not give you priority ⟦25⟧. When changing lanes, you give way to those travelling in the same direction who are not changing lanes ⟦26⟧."
+   ],
+   "list": [
+    "Interior mirror: you can see the whole rear window. Door mirrors: the edge of your own bodywork takes up only a narrow strip.",
+    "Before changing lanes or turning, quickly look over your shoulder in the direction of the manoeuvre.",
+    "Do not linger in another vehicle's blind spot yourself: either pass it or drop back.",
+    "Trucks and buses have huge blind spots. If you cannot see the driver in their mirror, they cannot see you.",
+    "Pay special attention to motorcyclists, cyclists and e-scooter riders: they are small and fast."
+   ]
+  },
+  {
+   "h": "Night driving and dazzle",
+   "p": [
+    "At night you notice danger later, so choose your speed with regard to visibility ⟦27⟧."
+   ],
+   "list": [
+    "Switch from main-beam headlights to dipped headlights not less than 150 m before an oncoming vehicle ⟦28⟧.",
+    "If you are dazzled: switch on the hazard warning lights and stop without changing lanes ⟦29⟧.",
+    "Do not look directly at oncoming headlights; shift your gaze to the right-hand edge of the road.",
+    "If you are forced to stop where stopping is prohibited or where visibility of the road is less than 100 m, put out a warning triangle: not closer than 15 m from the vehicle in a built-up area and 30 m outside it ⟦30⟧.",
+    "Dipped headlights illuminate the road for about 50-60 m, while the stopping distance at 100 km/h is about 80 m. Choose your speed so that you can stop within the illuminated stretch ⟦31⟧.",
+    "A pedestrian in dark clothing is visible in dipped headlights only from about 25-30 m (approximately), while a retroreflective item makes a person noticeable from about 150 m ⟦32⟧.",
+    "At night and in the early morning, roughly between midnight and 6 a.m., the urge to sleep is strongest."
+   ]
+  },
+  {
+   "h": "Fog",
+   "p": [
+    "In fog, a driver sees little and late, and their own lights are also less visible to others. Speed is chosen so that you can stop within the distance you can see ⟦33⟧."
+   ],
+   "list": [
+    "When you enter fog, reduce your speed smoothly and check your mirrors: drivers behind you can see you poorly too.",
+    "In poor visibility, headlights must be switched on ⟦34⟧: in fog, use dipped headlights, and front fog lamps may also be used ⟦35⟧. Main-beam headlights reflect off the fog and dazzle you yourself.",
+    "The rear fog lamp is switched on only in poor visibility ⟦36⟧: in clear weather it dazzles those behind you.",
+    "Do not “stick” to the lights of the vehicle ahead: keep a greater following distance than usual.",
+    "It is better to put off overtaking in fog: it requires a clear oncoming lane over a sufficient distance ⟦37⟧, and you cannot see that far."
+   ]
+  },
+  {
+   "h": "Defensive driving",
+   "p": [
+    "Defensive driving is the habit of seeing danger in advance and always keeping a safety margin - in following distance, in speed and in space for a manoeuvre.",
+    "Your priority under the Rules does not protect you from someone else's mistake. If you can see danger, you need to reduce speed, not prove that you are right ⟦38⟧."
+   ],
+   "list": [
+    "Look far ahead, 10-15 seconds down the road, not only at the bumper in front of you.",
+    "Check your mirrors regularly so that you always know who is around you.",
+    "Have a “plan B”: somewhere to go if the vehicle ahead brakes sharply.",
+    "Expect mistakes from others: a vehicle may pull out from a minor road, a pedestrian may step out from behind a bus.",
+    "When approaching a hazardous spot, move your foot from the accelerator to the brake: this saves fractions of a second.",
+    "Do not compete with other drivers or try to “teach them a lesson”: let an aggressive driver go ahead.",
+    "When the light turns green, look both ways first: someone may not manage to stop on red.",
+    "Braking sharply to “teach another driver a lesson” is prohibited ⟦39⟧.",
+    "Near schools (the “Children” sign) and near a bus at a stop, expect a pedestrian to step out from behind an obstruction. In built-up areas, give way to a bus pulling away from a designated stop ⟦40⟧."
+   ]
+  },
+  {
+   "h": "Defects and tyres",
+   "p": [
+    "With some defects you must not drive at all: with a non-functioning service braking system or steering, during the hours of darkness on an unlit road without headlights or rear position lamps on, or in rain or snowfall with faulty windscreen wipers ⟦41⟧. For other defects in the List of Defects, the driver must fix them, and if unable to, must drive to a parking place or a repair location while taking precautions ⟦42⟧."
+   ],
+   "list": [
+    "Residual tread depth: passenger cars - at least 1.6 mm, trucks - 1 mm, buses - 2 mm, motorcycles and mopeds - 0.8 mm ⟦43⟧.",
+    "You must not drive with cuts, punctures or tears that expose the cord ⟦44⟧, or without a wheel-fixing bolt or nut ⟦45⟧.",
+    "Tyres of different sizes and models, studded and non-studded, must not be fitted on the same axle ⟦46⟧.",
+    "Dirty headlights and lamps are also a defect (List of Defects, para. 13): in slush, clean them regularly.",
+    "In frosty weather tyre pressure drops: when cooling from +20 to -20°C, by roughly 0.4 bar. Check it in cold weather."
+   ]
+  },
+  {
+   "h": "Sudden danger: tyre, brakes, mountains, steppe",
+   "list": [
+    "A tyre bursts: hold the steering wheel firmly, release the accelerator, reduce speed smoothly and stop at the edge of the road.",
+    "The brake pedal goes to the floor: pump it quickly several times, engage a lower gear, and smoothly apply the parking brake. Do not switch off the engine: you will lose the power assistance.",
+    "On a long descent, brake using engine braking in a lower gear and only apply the brake pedal lightly from time to time, or the brakes will overheat.",
+    "In a strong crosswind, hold the steering wheel with both hands and reduce speed, especially when passing an oncoming truck.",
+    "Livestock and wild animals near the road: reduce speed and be ready to stop. The horn is used only to warn of overtaking outside built-up areas or to prevent a road traffic accident ⟦47⟧."
+   ]
+  }
+ ],
+ "keyFacts": [
+  "Following distance must allow you to avoid a collision, and lateral clearance must ensure safety; the Rules do not specify metres or seconds ⟦1⟧",
+  "Speed is chosen with regard to the traffic flow, the condition of the vehicle, the road, the weather and visibility; in the event of danger it is reduced, up to a complete stop ⟦2⟧",
+  "Sudden braking is prohibited unless it is needed to prevent a road traffic accident ⟦3⟧",
+  "You must not drive while ill or fatigued, or under the influence of medication that impairs reaction and attention ⟦4⟧",
+  "A phone while driving - only through headphones or hands-free mode ⟦5⟧",
+  "The driver must wear a seat belt and must not carry passengers who are not wearing seat belts ⟦6⟧",
+  "The residual tread depth of a passenger car - at least 1.6 mm ⟦7⟧",
+  "You must not fit studded and non-studded, frost-resistant and non-frost-resistant tyres, or tyres of different sizes and models, on the same axle ⟦8⟧",
+  "Main-beam headlights are switched to dipped not less than 150 m before an oncoming vehicle ⟦9⟧",
+  "If dazzled, switch on the hazard warning lights and stop without changing lanes ⟦10⟧",
+  "A warning triangle is placed not closer than 15 m from the vehicle in a built-up area and 30 m outside it ⟦11⟧",
+  "The turn signal is given before starting a manoeuvre, but it does not give you priority ⟦12⟧"
+ ],
+ "mistakes": [
+  "“I have ABS, so I can drive closer.” ABS keeps the vehicle steerable, but it does not shorten the braking distance: on snow and ice it is still several times longer. Following distance is chosen according to conditions ⟦13⟧.",
+  "Pumping the brake pedal in a car with ABS. With ABS, during emergency braking the pedal is pressed all the way down and held.",
+  "Turning the steering wheel away from the skid. In a rear-wheel skid, the steering wheel is turned in the direction of the skid and straightened immediately once the vehicle is going straight.",
+  "Fighting sleepiness with music and coffee. This helps only for a short while; at the signs of fatigue you need to stop and rest ⟦14⟧.",
+  "Changing lanes while looking only in the mirrors. A whole vehicle can be in a blind spot, so look over your shoulder before a manoeuvre.",
+  "Thinking that black ice only occurs in severe frost. The most dangerous ice forms around 0°C, especially on bridges and in shade."
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "keyFacts": [
+  "You may cross railway tracks only at a level crossing, giving way to a train ⟦1⟧",
+  "You must not enter a level crossing when the barrier is closed or beginning to close, regardless of the traffic light, or when the traffic light shows a prohibiting signal, regardless of the barrier ⟦2⟧",
+  "You must not enter a level crossing if there is a traffic jam beyond it that would force you to stop on the tracks ⟦3⟧",
+  "Slow-moving vehicles travelling at less than 8 km/h may cross a level crossing only with permission from the head of the track section ⟦4⟧",
+  "If you must not go on, stop at the stop line, sign 2.5 or the traffic light, or, if none of these are present, at the boundary of the crossing ⟦5⟧",
+  "If you get stuck on a level crossing: get everyone out of the car, clear the crossing, and if possible send two people along the tracks in both directions for 1000 m ⟦6⟧",
+  "The general alarm signal is one long and three short sound signals; the stop signal to a train is a circular movement of the arm ⟦7⟧",
+  "On a motorway, U-turns, entering service gaps in the central reservation, reversing and learner driving are prohibited ⟦8⟧",
+  "Pedestrians, bicycles, mopeds, tractors and vehicles whose speed, by specification or condition, is below 40 km/h are not allowed on a motorway ⟦9⟧",
+  "You may stop on a motorway only at areas marked with sign 5.15 or 6.11 ⟦10⟧",
+  "In a residential zone, the pedestrian has priority, and the speed is limited to 20 km/h ⟦11⟧",
+  "When leaving a residential zone, the driver gives way to everyone; the rules for a residential zone also apply in yards ⟦12⟧"
+ ],
+ "mistakes": [
+  "Trying to dash through while the barrier is still coming down. Entry is already prohibited once the barrier starts to close.",
+  "Entering a level crossing behind a queue of traffic. If there is a jam beyond the crossing, wait before it, or you risk being stranded on the tracks.",
+  "Driving around a queue before a level crossing using the oncoming lane. This is separately prohibited.",
+  "Reversing back to a missed exit on a motorway. Reversing and making a U-turn are prohibited there.",
+  "Sounding the horn at a pedestrian in a residential zone to make them move out of the way. There, the pedestrian has priority, and using the horn is prohibited.",
+  "Relying on the “priority to the right” rule when leaving a yard. When leaving a residential zone or a yard, you give way to everyone."
+ ]
+}

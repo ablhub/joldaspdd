@@ -1,0 +1,797 @@
+[
+ {
+  "id": "t1",
+  "q": "Кому уступит дорогу водитель красного автомобиля?",
+  "options": [
+   "Только грузовому",
+   "Никому",
+   "Обоим",
+   "Только зеленому"
+  ],
+  "answer": 2,
+  "scene": {
+   "type": "cross",
+   "area": "rural",
+   "main": [
+    "N",
+    "E"
+   ],
+   "signs": {
+    "S": [
+     "2.4",
+     "7.13"
+    ],
+    "W": [
+     "2.4",
+     "7.13"
+    ],
+    "N": [
+     "2.1",
+     "7.13"
+    ],
+    "E": [
+     "2.1",
+     "7.13"
+    ]
+   },
+   "cars": [
+    {
+     "id": "me",
+     "me": true,
+     "arm": "S",
+     "turn": "straight"
+    },
+    {
+     "id": "truck",
+     "kind": "truck",
+     "color": "white",
+     "arm": "N",
+     "turn": "left"
+    },
+    {
+     "id": "green",
+     "color": "green",
+     "arm": "E",
+     "turn": "straight"
+    }
+   ],
+   "anim": [
+    [
+     "truck",
+     "green"
+    ],
+    [
+     "me"
+    ]
+   ]
+  },
+  "note": "Пример движка, не вопрос для сайта"
+ },
+ {
+  "id": "t2",
+  "q": "Очередность проезда",
+  "options": [
+   "Мотоцикл, легковой, грузовой",
+   "Легковой, мотоцикл, грузовой"
+  ],
+  "answer": 0,
+  "scene": {
+   "type": "cross",
+   "arms": [
+    "N",
+    "E",
+    "S"
+   ],
+   "area": "rural",
+   "surface": {
+    "E": "dirt"
+   },
+   "signs": {
+    "S": [
+     "5.7.1"
+    ]
+   },
+   "cars": [
+    {
+     "id": "moto",
+     "kind": "moto",
+     "color": "black",
+     "arm": "S",
+     "turn": "straight"
+    },
+    {
+     "id": "car",
+     "color": "white",
+     "arm": "N",
+     "turn": "left"
+    },
+    {
+     "id": "truck",
+     "kind": "truck",
+     "color": "gray",
+     "arm": "E",
+     "turn": "left"
+    }
+   ],
+   "anim": [
+    [
+     "moto"
+    ],
+    [
+     "car"
+    ],
+    [
+     "truck"
+    ]
+   ]
+  },
+  "note": "Пример движка, не вопрос для сайта"
+ },
+ {
+  "id": "t3",
+  "q": "По какой траектории можно?",
+  "options": [
+   "А",
+   "Б",
+   "Обе"
+  ],
+  "answer": 1,
+  "scene": {
+   "type": "cross",
+   "arms": [
+    "N",
+    "E",
+    "S",
+    "W"
+   ],
+   "lanesEW": 2,
+   "area": "town",
+   "center": "double",
+   "centerByArm": {
+    "S": "dashed",
+    "N": "dashed"
+   },
+   "cars": [
+    {
+     "id": "me",
+     "me": true,
+     "color": "blue",
+     "arm": "S",
+     "paths": [
+      {
+       "label": "А",
+       "turn": "left",
+       "toLane": 1
+      },
+      {
+       "label": "Б",
+       "turn": "left",
+       "toLane": 2
+      }
+     ]
+    }
+   ]
+  },
+  "note": "Пример движка, не вопрос для сайта"
+ },
+ {
+  "id": "t4",
+  "q": "Кому разрешена стоянка?",
+  "options": [
+   "Синему",
+   "Красному",
+   "Обоим",
+   "Никому"
+  ],
+  "answer": 3,
+  "scene": {
+   "type": "road",
+   "area": "rural",
+   "rail": {
+    "y": 0.82,
+    "barrier": "up",
+    "lights": "off"
+   },
+   "parked": [
+    {
+     "id": "b",
+     "color": "blue",
+     "side": "right",
+     "y": 0.55
+    },
+    {
+     "id": "r",
+     "color": "red",
+     "side": "left",
+     "y": 0.25
+    }
+   ],
+   "dims": [
+    {
+     "side": "right",
+     "from": 0.55,
+     "to": 0.74,
+     "label": "40 м"
+    }
+   ],
+   "signs": [
+    {
+     "side": "right",
+     "y": 0.3,
+     "codes": [
+      "1.1"
+     ]
+    }
+   ]
+  },
+  "note": "Пример движка, не вопрос для сайта"
+ },
+ {
+  "id": "t5",
+  "q": "Регулировщик",
+  "options": [
+   "a",
+   "b"
+  ],
+  "answer": 0,
+  "scene": {
+   "type": "cross",
+   "area": "town",
+   "crosswalks": [
+    "S",
+    "N",
+    "E",
+    "W"
+   ],
+   "cop": {
+    "face": "E",
+    "pose": "side"
+   },
+   "cars": [
+    {
+     "id": "me",
+     "me": true,
+     "arm": "S",
+     "turn": "right"
+    },
+    {
+     "id": "a",
+     "color": "yellow",
+     "kind": "taxi",
+     "arm": "N",
+     "turn": "left"
+    },
+    {
+     "id": "bus",
+     "kind": "bus",
+     "arm": "W",
+     "turn": "straight"
+    }
+   ],
+   "peds": [
+    {
+     "arm": "E",
+     "pos": 0.3,
+     "dir": "l2r"
+    }
+   ]
+  },
+  "note": "Пример движка, не вопрос для сайта"
+ },
+ {
+  "id": "t6",
+  "q": "Светофор и доп. секция",
+  "options": [
+   "a",
+   "b"
+  ],
+  "answer": 0,
+  "scene": {
+   "type": "cross",
+   "lanes": 2,
+   "lights": {
+    "S": {
+     "on": [
+      "red"
+     ],
+     "arrows": {
+      "right": "green"
+     }
+    },
+    "N": "red",
+    "E": "green",
+    "W": "green"
+   },
+   "laneArrows": {
+    "S": [
+     [
+      "right"
+     ],
+     [
+      "straight"
+     ]
+    ]
+   },
+   "cars": [
+    {
+     "id": "me",
+     "me": true,
+     "arm": "S",
+     "lane": 1,
+     "turn": "right"
+    },
+    {
+     "id": "g",
+     "color": "green",
+     "arm": "W",
+     "lane": 1,
+     "turn": "straight",
+     "at": "near"
+    },
+    {
+     "id": "w",
+     "color": "white",
+     "arm": "E",
+     "lane": 2,
+     "turn": "left"
+    }
+   ],
+   "anim": [
+    [
+     "g",
+     "w"
+    ],
+    [
+     "me"
+    ]
+   ]
+  },
+  "note": "Пример движка, не вопрос для сайта"
+ },
+ {
+  "id": "t7",
+  "q": "Круговое движение",
+  "options": [
+   "a",
+   "b"
+  ],
+  "answer": 0,
+  "scene": {
+   "type": "round",
+   "area": "town",
+   "signs": {
+    "S": [
+     "4.3",
+     "2.4"
+    ],
+    "E": [
+     "4.3",
+     "2.4"
+    ],
+    "N": [
+     "4.3",
+     "2.4"
+    ],
+    "W": [
+     "4.3",
+     "2.4"
+    ]
+   },
+   "cars": [
+    {
+     "id": "me",
+     "me": true,
+     "arm": "S",
+     "turn": "left"
+    },
+    {
+     "id": "r1",
+     "color": "white",
+     "ring": 80,
+     "exit": "N"
+    },
+    {
+     "id": "e",
+     "color": "green",
+     "arm": "E",
+     "turn": "straight",
+     "at": "near"
+    }
+   ],
+   "anim": [
+    [
+     "r1"
+    ],
+    [
+     "me"
+    ]
+   ]
+  },
+  "note": "Пример движка, не вопрос для сайта"
+ },
+ {
+  "id": "t8",
+  "q": "Обгон",
+  "options": [
+   "a",
+   "b"
+  ],
+  "answer": 0,
+  "scene": {
+   "type": "road",
+   "area": "rural",
+   "divider": [
+    {
+     "from": 0,
+     "to": 0.45,
+     "type": "dashed"
+    },
+    {
+     "from": 0.45,
+     "to": 1,
+     "type": "solid"
+    }
+   ],
+   "signs": [
+    {
+     "side": "right",
+     "y": 0.35,
+     "codes": [
+      "3.20"
+     ]
+    }
+   ],
+   "cars": [
+    {
+     "id": "me",
+     "me": true,
+     "lane": "u1",
+     "y": 0.12,
+     "arrow": "overtake"
+    },
+    {
+     "id": "t",
+     "kind": "truck",
+     "color": "white",
+     "lane": "u1",
+     "y": 0.42
+    },
+    {
+     "id": "o",
+     "color": "green",
+     "lane": "d1",
+     "y": 0.9
+    }
+   ]
+  },
+  "note": "Пример движка, не вопрос для сайта"
+ },
+ {
+  "id": "t9",
+  "q": "Полоса для маршрутных",
+  "options": [
+   "a",
+   "b"
+  ],
+  "answer": 0,
+  "scene": {
+   "type": "road",
+   "up": 3,
+   "down": 0,
+   "busLane": "u1",
+   "busLine": "dashed",
+   "area": "town",
+   "side": [
+    {
+     "side": "right",
+     "y": 0.62
+    }
+   ],
+   "cars": [
+    {
+     "id": "me",
+     "me": true,
+     "lane": "u2",
+     "y": 0.18,
+     "arrow": "right",
+     "signal": "right"
+    },
+    {
+     "id": "bus",
+     "kind": "bus",
+     "lane": "u1",
+     "y": 0.3
+    }
+   ],
+   "signs": [
+    {
+     "side": "right",
+     "y": 0.1,
+     "codes": [
+      "p:полоса А"
+     ]
+    }
+   ]
+  },
+  "note": "Пример движка, не вопрос для сайта"
+ },
+ {
+  "id": "t10",
+  "q": "Сигналы",
+  "options": [
+   "a",
+   "b"
+  ],
+  "answer": 0,
+  "scene": {
+   "type": "signal",
+   "items": [
+    {
+     "kind": "car",
+     "on": [
+      "green"
+     ],
+     "flash": [
+      "green"
+     ],
+     "label": "мигает"
+    },
+    {
+     "kind": "car",
+     "on": [
+      "red",
+      "yellow"
+     ]
+    },
+    {
+     "kind": "ped",
+     "on": [
+      "green"
+     ],
+     "flash": [
+      "green"
+     ]
+    }
+   ]
+  },
+  "note": "Пример движка, не вопрос для сайта"
+ },
+ {
+  "id": "t11",
+  "q": "Реверсивный и переезд",
+  "options": [
+   "a",
+   "b"
+  ],
+  "answer": 0,
+  "scene": {
+   "type": "signal",
+   "items": [
+    {
+     "kind": "rev",
+     "symbol": "x"
+    },
+    {
+     "kind": "rev",
+     "symbol": "diag-left"
+    },
+    {
+     "kind": "rail",
+     "on": [
+      "red"
+     ],
+     "flash": [
+      "red"
+     ],
+     "white": false
+    },
+    {
+     "kind": "tram",
+     "on": [
+      "up",
+      "base"
+     ]
+    }
+   ]
+  },
+  "note": "Пример движка, не вопрос для сайта"
+ },
+ {
+  "id": "t12",
+  "q": "Знаки",
+  "options": [
+   "a",
+   "b"
+  ],
+  "answer": 0,
+  "scene": {
+   "type": "signs",
+   "items": [
+    [
+     "3.27",
+     "p:8.00-17.00"
+    ],
+    [
+     "3.24:60"
+    ],
+    [
+     "5.22:АЛМАТЫ"
+    ]
+   ]
+  },
+  "note": "Пример движка, не вопрос для сайта"
+ },
+ {
+  "id": "t13",
+  "q": "Автопоезд, троллейбус, выезд со двора",
+  "options": [
+   "a",
+   "b"
+  ],
+  "answer": 0,
+  "scene": {
+   "type": "road",
+   "up": 1,
+   "down": 1,
+   "area": "town",
+   "side": [
+    {
+     "side": "right",
+     "y": 0.5,
+     "kind": "yard",
+     "text": "двор"
+    }
+   ],
+   "cars": [
+    {
+     "id": "me",
+     "me": true,
+     "side": 0,
+     "arrow": "right"
+    },
+    {
+     "id": "trol",
+     "kind": "trolleybus",
+     "lane": "u1",
+     "y": 0.18
+    },
+    {
+     "id": "semi",
+     "kind": "truck-trailer",
+     "lane": "d1",
+     "y": 0.8
+    }
+   ]
+  },
+  "note": "Пример движка, не вопрос для сайта"
+ },
+ {
+  "id": "t14",
+  "q": "Переезд с поездом",
+  "options": [
+   "a",
+   "b"
+  ],
+  "answer": 0,
+  "scene": {
+   "type": "road",
+   "area": "rural",
+   "rail": {
+    "y": 0.62,
+    "tracks": 2,
+    "barrier": "down",
+    "lights": "flash",
+    "train": {
+     "from": "left",
+     "dist": "near",
+     "track": 1
+    }
+   },
+   "cars": [
+    {
+     "id": "me",
+     "me": true,
+     "lane": "u1",
+     "y": 0.3,
+     "brake": true
+    }
+   ],
+   "signs": [
+    {
+     "side": "right",
+     "y": 0.2,
+     "codes": [
+      "1.3.1"
+     ]
+    }
+   ]
+  },
+  "note": "Пример движка, не вопрос для сайта"
+ },
+ {
+  "id": "t15",
+  "q": "Трамвай",
+  "options": [
+   "a",
+   "b"
+  ],
+  "answer": 0,
+  "scene": {
+   "type": "cross",
+   "tram": "NS",
+   "lanesNS": 1,
+   "cars": [
+    {
+     "id": "me",
+     "me": true,
+     "arm": "S",
+     "turn": "left"
+    },
+    {
+     "id": "tram",
+     "kind": "tram",
+     "arm": "N",
+     "turn": "straight"
+    },
+    {
+     "id": "amb",
+     "kind": "ambulance",
+     "flash": true,
+     "arm": "W",
+     "turn": "straight",
+     "at": "near"
+    }
+   ],
+   "anim": [
+    [
+     "amb"
+    ],
+    [
+     "tram"
+    ],
+    [
+     "me"
+    ]
+   ]
+  },
+  "note": "Пример движка, не вопрос для сайта"
+ },
+ {
+  "id": "t16",
+  "q": "Ночь, туман",
+  "options": [
+   "a",
+   "b"
+  ],
+  "answer": 0,
+  "scene": {
+   "type": "road",
+   "area": "rural",
+   "night": true,
+   "cars": [
+    {
+     "id": "me",
+     "me": true,
+     "lane": "u1",
+     "y": 0.2
+    },
+    {
+     "id": "o",
+     "color": "white",
+     "lane": "d1",
+     "y": 0.75
+    }
+   ],
+   "signs": [
+    {
+     "side": "right",
+     "y": 0.5,
+     "codes": [
+      "1.11.1"
+     ]
+    }
+   ]
+  },
+  "note": "Пример движка, не вопрос для сайта"
+ }
+]

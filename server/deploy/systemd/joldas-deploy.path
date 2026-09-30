@@ -1,0 +1,9 @@
+[Unit]
+Description=Watch for Joldas releases uploaded via admin
+
+[Path]
+PathExistsGlob=/var/lib/joldas/incoming/*.signed
+Unit=joldas-deploy.service
+
+[Install]
+WantedBy=multi-user.target

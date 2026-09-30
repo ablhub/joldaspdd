@@ -1,0 +1,8 @@
+[Unit]
+Description=Joldas nightly database backup
+
+[Service]
+Type=oneshot
+User=postgres
+Group=postgres
+ExecStart=/bin/bash /opt/joldas/current/deploy/backup.sh

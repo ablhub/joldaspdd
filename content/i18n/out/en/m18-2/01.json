@@ -1,0 +1,300 @@
+{
+ "questions": [
+  {
+   "id": "m18-n025",
+   "q": "You have a green light, but there is a sign 2.4 before the intersection. On your right, a green car is waiting at a red light. What should you do?",
+   "options": [
+    "Give way to the green car: it is on the main road",
+    "Proceed: here the traffic lights decide the order",
+    "Stop at the sign, then proceed",
+    "Proceed only if the green car flashes its headlights"
+   ],
+   "answer": 1,
+   "explain": "An intersection where the traffic lights decide the order is treated as controlled. Priority signs there apply only when the lights are off or flashing amber. You have a green light now, so proceed."
+  },
+  {
+   "id": "m18-n026",
+   "q": "Which of these drivers is allowed to drive past this sign?",
+   "options": [
+    "A taxi driver with the taximeter switched on",
+    "A resident of a house on this street",
+    "The driver of a truck delivering goods to a shop on this street",
+    "The driver of a route bus"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.1 bans entry by all vehicles in that direction, except for route vehicles. The exception for residents and service vehicles applies to signs 3.2-3.8, and a taxi is not a route vehicle.",
+   "ref": "Annex 1, sign 3.1 (exceptions in Chapter 3); para. 2(47)"
+  },
+  {
+   "id": "m18-n027",
+   "q": "This sign applies on a stretch of road. Does the ban also apply to vehicles entering the stretch from the opposite end?",
+   "options": [
+    "No, only to those who have passed this sign",
+    "No, if they keep to their own lane while driving towards you",
+    "Only during hours of darkness",
+    "Yes: the sign bans travel in both directions"
+   ],
+   "answer": 3,
+   "explain": "Signs 3.2-3.9, 3.32 and 3.33 ban travel by the relevant types of vehicle in both directions. Unlike sign 3.1, the ban does not depend on which end you entered from.",
+   "ref": "Annex 1, sign 3.2 and the general provisions of Chapter 3"
+  },
+  {
+   "id": "m18-n028",
+   "q": "You are a driver with a group III disability affecting the musculoskeletal system. Are you allowed to drive past this sign?",
+   "options": [
+    "Yes: this sign does not apply to such vehicles",
+    "No: the exception applies only to groups I and II",
+    "No: the exception applies only to route vehicles",
+    "Yes, but only if you live in this zone"
+   ],
+   "answer": 0,
+   "explain": "Signs 3.2, 3.3 and 3.28-3.30 do not apply to vehicles driven by a person with a group I or group II disability, or a group III disability affecting the musculoskeletal system, nor to vehicles carrying such a person.",
+   "ref": "Annex 1, Chapter 3 (exceptions for signs 3.2, 3.3, 3.28-3.30)"
+  },
+  {
+   "id": "m18-n029",
+   "q": "Which of them may drive on the road beyond this sign?",
+   "options": [
+    "The rider of a moped",
+    "The driver of an electric car",
+    "A cyclist",
+    "The rider of a motorcycle"
+   ],
+   "answer": 2,
+   "explain": "Sign 3.3 bans travel by motor vehicles, that is self-propelled vehicles with an engine. A moped, a motorcycle and an electric car are motor vehicles, while an ordinary bicycle is powered by muscular effort."
+  },
+  {
+   "id": "m18-n030",
+   "q": "This sign has no plate and no figures under it. Who is it banning from driving past?",
+   "options": [
+    "A bus",
+    "A truck with a maximum authorised mass of 3 t",
+    "A truck designed to carry passengers",
+    "A tractor"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.4 without figures bans travel by trucks and vehicle combinations with a maximum authorised mass of more than 3.5 t, and by tractors and self-propelled machines. It does not apply to buses, light trucks or trucks designed to carry passengers."
+  },
+  {
+   "id": "m18-n031",
+   "q": "You are driving an empty truck: its maximum authorised mass is 12 t, and its actual mass right now is 6 t. Can you drive past this sign with no figures on it?",
+   "options": [
+    "Yes: right now the truck weighs only 6 t",
+    "No: the sign bans all trucks",
+    "Yes, if the truck is passing through without stopping",
+    "No: what matters is the maximum authorised mass"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.4 looks at the maximum authorised mass, that is the mass set by the manufacturer, not at how loaded the vehicle is. Yours is 12 t, more than 3.5 t, so driving past is banned even when empty."
+  },
+  {
+   "id": "m18-n032",
+   "q": "You are driving an empty truck: maximum authorised mass 12 t, actual mass right now 6 t. Can you drive past this sign?",
+   "options": [
+    "No: the authorised mass is more than 10 t",
+    "No: the sign bans trucks heavier than 3.5 t",
+    "Yes: the sign limits the actual mass",
+    "Yes, if your speed is no more than 30 km/h"
+   ],
+   "answer": 2,
+   "explain": "Sign 3.11 limits the total actual mass of the vehicle (together with a trailer, if any). Your empty truck weighs 6 t right now, less than 10 t, so driving past is allowed. Sign 3.4, by contrast, looks at the maximum authorised mass."
+  },
+  {
+   "id": "m18-n033",
+   "q": "You are riding a moped just passing through: you do not live or work in this area. Can you drive past this sign?",
+   "options": [
+    "Yes: the sign applies only to motorcycles",
+    "Yes, if you ride no faster than 20 km/h",
+    "No: the sign bans both motorcycles and mopeds",
+    "Yes, if you ride in daylight with dipped headlights on"
+   ],
+   "answer": 2,
+   "explain": "Sign 3.5 bans travel by motorcycles and mopeds. The exception applies only to those who live or work in the zone, or who service it: they enter at the intersection nearest to their destination.",
+   "ref": "Annex 1, sign 3.5 (exceptions for signs 3.2-3.8)"
+  },
+  {
+   "id": "m18-n034",
+   "q": "Can you drive past this sign on a self-propelled machine, for example a backhoe loader, if you are just passing through?",
+   "options": [
+    "Yes: the sign applies only to wheeled tractors",
+    "No: both tractors and self-propelled machines are banned",
+    "Yes, if you keep to no more than 20 km/h on the shoulder"
+   ],
+   "answer": 1,
+   "explain": "Sign 3.6 bans travel by tractors and self-propelled machines. The exception applies to vehicles that service businesses or residents of the zone, or that belong to its residents and workers; passing through does not fall under it."
+  },
+  {
+   "id": "m18-n035",
+   "q": "Which of these drivers does this sign stop from continuing?",
+   "options": [
+    "The driver of a car towing a light caravan",
+    "The driver of an articulated bus",
+    "The driver of a car towing another car",
+    "The driver of a truck with no trailer"
+   ],
+   "answer": 2,
+   "explain": "Sign 3.7 bans travel by trucks and tractors with a trailer of any type, and towing of motor vehicles. It does not apply to a car with a trailer, but towing a car here is not allowed."
+  },
+  {
+   "id": "m18-n036",
+   "q": "Can you ride a bicycle past this sign?",
+   "options": [
+    "Yes: only e-scooters are banned",
+    "No: the sign bans bicycles and scooters",
+    "No: the sign bans all small vehicles",
+    "Only children under 14"
+   ],
+   "answer": 0,
+   "explain": "Sign 3.9.1 bans travel only by e-scooters; it does not apply to bicycles. Bicycles, e-scooters and small electric vehicles are all banned together by a different sign, 3.9."
+  },
+  {
+   "id": "m18-n037",
+   "q": "Which of these is this sign not banning?",
+   "options": [
+    "A cyclist",
+    "The rider of an e-scooter",
+    "The rider of a self-balancing unicycle",
+    "The rider of a moped"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.9 bans travel by bicycles, e-scooters and small electric vehicles, for example self-balancing unicycles and hoverboards. A moped is a motor vehicle, so this sign does not apply to it."
+  },
+  {
+   "id": "m18-n038",
+   "q": "The sign stands on the left side of the street, as in the diagram. Which pedestrian is breaking its requirement?",
+   "options": [
+    "Only the pedestrian on the right",
+    "Only the pedestrian on the left",
+    "Both",
+    "Neither"
+   ],
+   "answer": 1,
+   "explain": "Sign 3.10 bans pedestrians only on the side of the road where it is placed. The pedestrian on the right is walking on the other side of the street, so the ban does not apply to them.",
+   "ref": "Annex 1, sign 3.10 and the general provisions of Chapter 3"
+  },
+  {
+   "id": "m18-n039",
+   "q": "Your truck's total mass is 11 t, split evenly as 5.5 t on each of its two axles. Can you drive past this sign?",
+   "options": [
+    "No: the total mass is more than 6 t",
+    "Yes, if you keep to no more than 20 km/h",
+    "No: the sign bans trucks heavier than 6 t",
+    "Yes: the load on each axle is less than 6 t"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.12 limits not the total mass but the actual load on any axle. Yours is 5.5 t per axle, less than 6 t, so you may drive past."
+  },
+  {
+   "id": "m18-n040",
+   "q": "Your car is 4.6 m long, and together with a caravan trailer it is 11 m long. Can you drive past this sign?",
+   "options": [
+    "Yes: the car itself is less than 10 m long",
+    "Yes, if the trailer is currently empty",
+    "No: the sign bans any trailer",
+    "No: the length of the whole combination counts"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.15 bans travel by vehicles and vehicle combinations whose overall length, laden or unladen, is more than the figure shown. Your combination is 11 m long, so driving past is banned."
+  },
+  {
+   "id": "m18-n041",
+   "q": "You are driving behind a truck within the zone of this sign. How must you drive?",
+   "options": [
+    "No faster than 30 km/h",
+    "Keep at least 30 m from the vehicle ahead",
+    "Keep 30 m only from trucks; less is fine behind cars"
+   ],
+   "answer": 1,
+   "explain": "Sign 3.16 bans travel with a following distance shorter than the figure shown on the sign. Keep at least 30 m from any vehicle ahead. The zone of application runs to the nearest intersection, unless plate 7.2.1 shortens it.",
+   "ref": "Annex 1, sign 3.16 and the general provisions of Chapter 3"
+  },
+  {
+   "id": "m18-n042",
+   "q": "What must a driver do at this sign?",
+   "options": [
+    "Reduce speed to 20 km/h and proceed",
+    "Proceed without stopping if no one is there",
+    "Turn on the hazard warning lights and proceed",
+    "Stop at the checkpoint"
+   ],
+   "answer": 3,
+   "explain": "Sign 3.17.3 “Checkpoint” bans passing through checkpoints, for example police or transport-inspection posts, without stopping."
+  },
+  {
+   "id": "m18-n043",
+   "q": "There has been a crash ahead, and the road service has put up this sign. What does it require?",
+   "options": [
+    "Stop: you must not go any further",
+    "Slow down and carefully drive around the danger",
+    "Proceed if the danger is not in your lane",
+    "Only trucks must stop"
+   ],
+   "answer": 0,
+   "explain": "Sign 3.17.2 “Danger” bans any further travel because of a crash or other danger. You must not drive around the danger: wait until the sign is removed, or turn around where this is allowed."
+  },
+  {
+   "id": "m18-n044",
+   "q": "This sign stands before an intersection. Right after the intersection, on the right, there is an entrance to a yard. Can you turn in there as shown?",
+   "options": [
+    "No: the sign bans any right turn",
+    "Yes: the sign applies only at this intersection",
+    "No: the ban lasts until the next intersection",
+    "No: only residents may enter the yard"
+   ],
+   "answer": 1,
+   "explain": "Sign 3.18.1 applies to the crossing of carriageways before which it is placed. Once you have driven straight across the intersection, you may turn right into the yard: an exit onto an adjacent area is not an intersection.",
+   "ref": "Annex 1, Chapter 3 (application of signs 3.18.1, 3.18.2); para. 2(33)"
+  },
+  {
+   "id": "m18-n045",
+   "q": "You have passed this sign. Ahead, a tractor is travelling at about 35 km/h, and the oncoming lane is clear. Can you overtake it?",
+   "options": [
+    "Yes: a tractor is a slow-moving vehicle",
+    "Yes, if the road markings are a broken line",
+    "No: it is travelling at not less than 30 km/h",
+    "Yes, if you sound the horn"
+   ],
+   "answer": 2,
+   "explain": "Sign 3.20 bans overtaking of all vehicles except single ones travelling at under 30 km/h. The tractor is doing about 35 km/h, so you may not overtake it before the end of the sign's zone."
+  },
+  {
+   "id": "m18-n046",
+   "q": "Driving a car, you have passed the sign, then a field track joining the road, as in the diagram. There is no central reservation. What is the highest speed you may drive?",
+   "options": [
+    "70 km/h",
+    "90 km/h",
+    "100 km/h",
+    "110 km/h"
+   ],
+   "answer": 0,
+   "explain": "A place where a field or forest track joins the road does not count as an intersection, so the zone of sign 3.24 continues to the nearest real intersection. The 70 km/h limit still applies.",
+   "scene": {
+    "labels.0.text": "field track"
+   }
+  },
+  {
+   "id": "m18-n047",
+   "q": "Driving a car, you have passed the sign, then an intersection, as in the diagram. There is no central reservation, and there were no other signs. What is the highest speed you may drive?",
+   "options": [
+    "70 km/h",
+    "90 km/h",
+    "100 km/h",
+    "110 km/h"
+   ],
+   "answer": 2,
+   "explain": "The zone of application of sign 3.24 ends at the nearest intersection beyond it. Beyond that, the general limit applies for cars outside built-up areas on a road with no central reservation: 100 km/h."
+  },
+  {
+   "id": "m18-n048",
+   "q": "You passed these signs 600 m back, and there have been no intersections since. Can you overtake now, if there are no other bans?",
+   "options": [
+    "No: the ban lasts until the nearest intersection",
+    "No: the ban lasts until sign 3.21",
+    "Yes: the plate limited the zone to 500 metres",
+    "Yes, but only slow-moving vehicles"
+   ],
+   "answer": 2,
+   "explain": "Plate 7.2.1 shortens the zone of application of sign 3.20: the overtaking ban applies only for 500 m from the sign. You have already gone 600 m, so overtaking is allowed again if there are no other bans."
+  }
+ ]
+}
